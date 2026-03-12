@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dictionary | The Marxist Tradition</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <nav class="nav-bar">
+    <a href="index.html" class="nav-brand">The Marxist Tradition</a>
+    <ul class="nav-links">
+      <li><a href="tour.html">Tour</a></li>
+      <li><a href="dictionary.html" class="active">Dictionary</a></li>
+      <li><a href="whos-who.html">Who's Who</a></li>
+      <li><a href="analyses.html">21st Century</a></li>
+    </ul>
+  </nav>
+
+  <div class="container">
+    <h1 class="section-title">Dictionary</h1>
+    <p class="section-subtitle">Thinkers, texts, and terms of art across the Marxist tradition</p>
+
+    <div class="controls">
+      <input type="text" class="search-box" id="search" placeholder="Search thinkers, texts, terms...">
+      <div class="filter-chips" id="tradition-filters"></div>
+    </div>
+
+    <div class="tabs" id="tabs">
+      <div class="tab active" data-tab="thinkers">Thinkers</div>
+      <div class="tab" data-tab="texts">Texts</div>
+      <div class="tab" data-tab="terms">Terms</div>
+    </div>
+
+    <div id="results" class="card-grid"></div>
+  </div>
+
+  <footer class="footer">
+    A companion to <a href="https://github.com/EricRuud/capital_interpreter" style="color: var(--color-accent);">Capital RAG</a>
+  </footer>
+
+  <script src="js/dictionary.js"></script>
+</body>
+</html>

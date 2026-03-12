@@ -1,0 +1,265 @@
+[
+  {
+    "slug": "abstract-labor",
+    "term": "Abstract Labor",
+    "german": "Abstrakte Arbeit",
+    "source": "Capital Vol. 1, Ch. 1",
+    "related": [
+      "value-form",
+      "commodity",
+      "concrete-labor"
+    ],
+    "traditions": {
+      "value-form": "Abstraction is real and constituted through the exchange process itself; labor becomes abstract only insofar as it is socially validated as value-producing through commodity exchange.",
+      "harvey": "Abstract labor is the generalized expenditure of human labor-power, a physiological commonality that underlies all concrete forms of labor and serves as the substance of value."
+    },
+    "tags": [
+      "value theory",
+      "labor"
+    ],
+    "body": "<p>Abstract labor is labor considered apart from its specific useful character, reduced to the common quality of being an expenditure of human labor-power in general. It is the substance of value and the basis on which qualitatively different commodities become quantitatively commensurable. Marx identifies abstract labor as one of his key critical discoveries, distinguishing it from the concrete, useful labor that produces use-values.</p>\n"
+  },
+  {
+    "slug": "alienation",
+    "term": "Alienation",
+    "german": "Entfremdung",
+    "source": "Economic and Philosophic Manuscripts of 1844",
+    "related": [
+      "commodity-fetishism",
+      "labor-power"
+    ],
+    "tags": [
+      "labor",
+      "philosophy",
+      "humanism"
+    ],
+    "body": "<p>Alienation describes the estrangement of workers from the products of their labor, from the labor process itself, from their species-being, and from other human beings. Under capitalism, the worker&#39;s activity becomes an external, coerced force that belongs to another rather than an expression of free creative capacity. Marx developed this concept most fully in his early writings, though its concerns persist in the mature critique of political economy in transformed form through categories such as commodity fetishism and the real subsumption of labor under capital.</p>\n"
+  },
+  {
+    "slug": "base-superstructure",
+    "term": "Base and Superstructure",
+    "german": "Basis und Uberbau",
+    "source": "Preface to A Contribution to the Critique of Political Economy",
+    "related": [
+      "mode-of-production",
+      "historical-materialism",
+      "ideology"
+    ],
+    "traditions": {
+      "value-form": "Althusserians reject the simple base-determines-superstructure model in favor of overdetermination and relative autonomy, arguing that ideological and political instances have their own effectivity and cannot be reduced to economic determination in the last instance without significant qualification.",
+      "harvey": "Harvey uses the base-superstructure distinction as an analytical framework while acknowledging significant feedback loops, treating the relationship as dialectical rather than mechanically deterministic."
+    },
+    "tags": [
+      "method",
+      "social theory"
+    ],
+    "body": "<p>The base-superstructure model describes the relationship between the economic foundation of society (the base, comprising forces and relations of production) and the legal, political, and ideological forms that arise upon it (the superstructure). Marx argues that changes in the economic base tend to transform the superstructure, though the precise nature of this determination has been one of the most debated questions in Marxist theory. The model is best understood not as a rigid architectural metaphor but as an analytical framework for identifying the material conditions that shape and constrain social, political, and cultural life.</p>\n"
+  },
+  {
+    "slug": "commodity",
+    "term": "Commodity",
+    "german": "Ware",
+    "source": "Capital Vol. 1, Ch. 1",
+    "related": [
+      "use-value",
+      "exchange-value",
+      "value-form"
+    ],
+    "traditions": {
+      "value-form": "The commodity is the elementary form of capitalist wealth whose dual character (use-value and value) structures the entire analysis of capital.",
+      "harvey": "The commodity is the empirical starting point of Marx's analysis, an object whose contradictions unfold historically."
+    },
+    "tags": [
+      "value theory",
+      "political economy"
+    ],
+    "body": "<p>A commodity is an external object that satisfies human wants and is produced for exchange rather than direct use. It possesses a twofold character: use-value, which addresses a particular need, and value, which expresses the abstract social labor objectified within it. Marx begins <em>Capital</em> with the commodity because it is the most elementary form of wealth in capitalist societies, and its analysis reveals the fundamental contradictions of the capitalist mode of production.</p>\n"
+  },
+  {
+    "slug": "commodity-fetishism",
+    "term": "Commodity Fetishism",
+    "german": "Warenfetischismus",
+    "source": "Capital Vol. 1, Ch. 1 Sec. 4",
+    "related": [
+      "value-form",
+      "commodity",
+      "ideology"
+    ],
+    "traditions": {
+      "value-form": "Fetishism is an objective inversion inherent in commodity production itself; social relations between producers necessarily assume the form of relations between things, and this is not mere illusion but the real mode of appearance of capitalist social relations.",
+      "harvey": "Fetishism is a mystification of underlying class relations; it obscures the exploitation and social labor that lie behind the apparent self-movement of commodities and their prices."
+    },
+    "tags": [
+      "value theory",
+      "ideology",
+      "reification"
+    ],
+    "body": "<p>Commodity fetishism describes the process by which the social relations between producers appear as objective properties of the commodities they produce, or as natural relations between things. It is not a subjective error or false consciousness but an objective feature of a society in which private labor is socially validated only through market exchange. Marx draws an analogy with religion, in which the products of the human mind appear as independent beings endowed with autonomous power.</p>\n"
+  },
+  {
+    "slug": "dialectics",
+    "term": "Dialectics",
+    "german": "Dialektik",
+    "source": "Capital Vol. 1, Postface to 2nd Edition",
+    "related": [
+      "historical-materialism",
+      "contradiction"
+    ],
+    "traditions": {
+      "value-form": "Althusserians and structuralist readers reject Hegelian dialectics as idealist and teleological, favoring structural causality and the concept of overdetermination over dialectical sublation.",
+      "harvey": "Harvey preserves the dialectical method as central to Marx's critique, treating contradiction, negation, and mediation as indispensable tools for grasping the movement of capital as a totality."
+    },
+    "tags": [
+      "method",
+      "philosophy"
+    ],
+    "body": "<p>Dialectics is the method of grasping reality as a process of development driven by internal contradictions rather than as a static collection of fixed things. Marx describes his dialectical method as the direct opposite of Hegel&#39;s: whereas Hegel treats the real world as the external manifestation of the Idea, Marx insists that the ideal is nothing other than the material world reflected and translated in the human mind. The dialectical method in <em>Capital</em> traces how categories such as commodity, money, and capital develop out of one another through the resolution and reproduction of contradictions.</p>\n"
+  },
+  {
+    "slug": "exchange-value",
+    "term": "Exchange-Value",
+    "german": "Tauschwert",
+    "source": "Capital Vol. 1, Ch. 1",
+    "related": [
+      "commodity",
+      "use-value",
+      "value-form"
+    ],
+    "tags": [
+      "value theory"
+    ],
+    "body": "<p>Exchange-value is the quantitative proportion in which use-values of one kind are exchanged for use-values of another kind. It appears initially as a relation between commodities, but Marx argues it is the necessary form of appearance of value, the socially necessary abstract labor objectified in the commodity. Exchange-value is thus not an intrinsic property of any single object but a social relation that expresses itself through the act of exchange.</p>\n"
+  },
+  {
+    "slug": "forces-of-production",
+    "term": "Forces of Production",
+    "german": "Produktivkräfte",
+    "source": "The German Ideology",
+    "related": [
+      "relations-of-production",
+      "mode-of-production"
+    ],
+    "tags": [
+      "political economy",
+      "technology"
+    ],
+    "body": "<p>The forces of production comprise the means of production (tools, machinery, raw materials, land) together with the labor-power and technical knowledge employed in the production process. Their development is a central dynamic in Marx&#39;s theory of history, as advances in productive capacity generate contradictions with existing social relations. The concept underscores that production is never a purely technical affair but always shaped by and in tension with the social form in which it is organized.</p>\n"
+  },
+  {
+    "slug": "historical-materialism",
+    "term": "Historical Materialism",
+    "german": "Historischer Materialismus",
+    "source": "The German Ideology; Preface to A Contribution to the Critique of Political Economy",
+    "related": [
+      "mode-of-production",
+      "base-superstructure",
+      "dialectics"
+    ],
+    "tags": [
+      "method",
+      "history",
+      "philosophy"
+    ],
+    "body": "<p>Historical materialism is the theoretical framework holding that the material conditions of a society&#39;s mode of production fundamentally determine its social, political, and intellectual life. It posits that historical change is driven by the development of productive forces and the class struggles arising from contradictions between those forces and the existing relations of production. Rather than treating ideas or consciousness as the motor of history, historical materialism grounds historical explanation in the real processes of social reproduction.</p>\n"
+  },
+  {
+    "slug": "mode-of-production",
+    "term": "Mode of Production",
+    "german": "Produktionsweise",
+    "source": "Capital Vol. 1; The German Ideology",
+    "related": [
+      "relations-of-production",
+      "forces-of-production",
+      "base-superstructure"
+    ],
+    "tags": [
+      "political economy",
+      "history"
+    ],
+    "body": "<p>A mode of production is the historically specific unity of productive forces and relations of production that characterizes a given form of society. It encompasses not only the technical means by which goods are produced but also the social relations under which production takes place, including property relations and the division of labor. Marx identifies several successive modes of production -- including ancient, feudal, and capitalist -- each defined by a distinct form of surplus extraction and class antagonism.</p>\n"
+  },
+  {
+    "slug": "primitive-accumulation",
+    "term": "Primitive Accumulation",
+    "german": "Ursprüngliche Akkumulation",
+    "source": "Capital Vol. 1, Part 8",
+    "related": [
+      "accumulation",
+      "enclosure",
+      "dispossession"
+    ],
+    "tags": [
+      "accumulation",
+      "history",
+      "colonialism"
+    ],
+    "body": "<p>Primitive accumulation designates the historical process by which producers were separated from the means of production, creating the preconditions for capitalist relations. It encompasses the enclosure of common lands, colonial plunder, the slave trade, and the use of state violence to create a class of propertyless workers compelled to sell their labor-power. Marx&#39;s account demonstrates that the origin of capital is not peaceful saving or industry but force and dispossession.</p>\n"
+  },
+  {
+    "slug": "relations-of-production",
+    "term": "Relations of Production",
+    "german": "Produktionsverhältnisse",
+    "source": "Preface to A Contribution to the Critique of Political Economy",
+    "related": [
+      "forces-of-production",
+      "mode-of-production",
+      "base-superstructure"
+    ],
+    "tags": [
+      "political economy",
+      "social relations"
+    ],
+    "body": "<p>Relations of production are the social relations people enter into in the process of producing their material life, encompassing property relations, the division of labor, and the distribution of the social product. Under capitalism, the fundamental relation of production is between those who own the means of production and those who must sell their labor-power. Marx argues that at a certain stage of development, the existing relations of production become fetters upon the productive forces, opening an epoch of social revolution.</p>\n"
+  },
+  {
+    "slug": "surplus-value",
+    "term": "Surplus-Value",
+    "german": "Mehrwert",
+    "source": "Capital Vol. 1, Ch. 7",
+    "related": [
+      "exploitation",
+      "labor-power",
+      "variable-capital"
+    ],
+    "tags": [
+      "value theory",
+      "exploitation",
+      "political economy"
+    ],
+    "body": "<p>Surplus-value is the value produced by the worker in excess of the value of their labor-power, appropriated without equivalent by the capitalist. It arises because the use-value of labor-power -- its capacity to create value -- exceeds its own exchange-value as determined by the cost of the worker&#39;s reproduction. Surplus-value is the specific form that exploitation takes under capitalism and constitutes the basis of profit, interest, and rent.</p>\n"
+  },
+  {
+    "slug": "use-value",
+    "term": "Use-Value",
+    "german": "Gebrauchswert",
+    "source": "Capital Vol. 1, Ch. 1",
+    "related": [
+      "commodity",
+      "exchange-value"
+    ],
+    "tags": [
+      "value theory"
+    ],
+    "body": "<p>Use-value refers to the qualitative utility of a commodity, its capacity to satisfy a particular human want or need. It is conditioned by the physical properties of the object and is realized only in consumption. While use-value is a necessary presupposition of exchange-value, it does not by itself determine a commodity&#39;s value in the Marxian sense; it is the material bearer of exchange-value.</p>\n"
+  },
+  {
+    "slug": "value-form",
+    "term": "Value-Form",
+    "german": "Wertform",
+    "source": "Capital Vol. 1, Ch. 1 Sec. 3",
+    "related": [
+      "commodity",
+      "exchange-value",
+      "abstract-labor"
+    ],
+    "traditions": {
+      "value-form": "The value-form is constitutive of value itself; value does not exist prior to or independently of the forms in which it is expressed. The form of value is not a mere container but the mode of existence of abstract social labor.",
+      "harvey": "The value-form is the necessary expression of pre-existing labor content; it is the phenomenal form through which the substance of value (abstract labor) manifests in exchange."
+    },
+    "tags": [
+      "value theory",
+      "money"
+    ],
+    "body": "<p>The value-form is the mode in which the value of a commodity is expressed through its relation to another commodity. Marx traces the development of the value-form from the simple or accidental form, through the expanded and general forms, to the money-form. This analysis demonstrates that money is not an arbitrary convention but the necessary result of the contradictions inherent in the commodity-form itself.</p>\n"
+  }
+]

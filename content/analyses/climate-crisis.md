@@ -1,0 +1,19 @@
+---
+title: "The Climate Crisis"
+date: 2024
+region: "Global"
+tags: [fossil capital, ecological contradiction, green capitalism, just transition]
+traditions:
+  classical: The climate crisis reveals a fundamental contradiction between the forces of production, which depend on fossil energy, and the natural conditions necessary for continued human existence. Capitals drive to extract maximum surplus-value in the shortest time systematically externalizes ecological costs, treating nature as a free gift rather than a condition of production.
+  value-form: Carbon markets attempt to resolve ecological crisis by extending the value-form to nature itself, pricing atmospheric capacity as a tradeable commodity. This represents commodity fetishism applied to the biosphere, concealing the material reality of ecological destruction behind the abstract equivalence of carbon credits.
+  harvey: The geography of climate change is profoundly uneven, as the centers of capital accumulation that produce the majority of emissions are insulated from the worst consequences, which fall on peripheral regions and the global poor. Climate migration and resource conflict represent new forms of accumulation by dispossession driven by ecological collapse.
+  structuralist: The climate crisis is overdetermined by the articulation of economic, political, and ideological instances, where fossil capital exercises structural power over state policy while the ideology of green capitalism forecloses systemic alternatives. Environmental discourse that remains within the framework of market solutions reproduces rather than challenges the dominant mode of production.
+related_terms: [mode-of-production, commodity, forces-of-production]
+related_thinkers: [marx, harvey]
+---
+
+The climate crisis is not an external shock to the capitalist system but a product of its internal logic. The valorization process, the endless cycle of converting money into commodities into more money, requires the continuous expansion of material throughput. Fossil fuels are not incidentally but structurally embedded in this process, providing the cheap concentrated energy that has underwritten capitalist accumulation since the Industrial Revolution. The result is that meaningful decarbonization is incompatible with the maintenance of existing rates of profit, creating a structural antagonism between capital accumulation and ecological survival.
+
+The market-based solutions proposed under the banner of green capitalism, from carbon trading to emissions offsets, represent the extension of commodity fetishism to the atmosphere itself. By pricing carbon, these mechanisms treat ecological destruction as a problem of incorrect pricing rather than a systemic consequence of production for profit. In practice, carbon markets have failed to reduce emissions while creating new opportunities for financial speculation. The ideology of green growth promises that technological innovation can decouple economic expansion from ecological impact, but the evidence consistently demonstrates that absolute decoupling at the scale required is not achievable within capitalist growth imperatives.
+
+The class dimensions of climate change are severe and global in scope. The populations most vulnerable to rising seas, drought, and extreme weather are overwhelmingly poor and located in the global South, bearing the consequences of emissions produced primarily by capital in the global North. Within wealthy nations, working-class and racialized communities face disproportionate exposure to pollution, environmental degradation, and climate-related disasters. Any just transition must therefore confront not only the technical question of energy systems but the political question of who bears the costs and who controls the process of transformation.

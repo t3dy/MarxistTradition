@@ -1,0 +1,19 @@
+---
+title: "The Rise of Far-Right Populism"
+date: 2024
+region: "Global"
+tags: [fascism, false consciousness, class misdirection, ideology]
+traditions:
+  classical: Far-right populism channels the material grievances of the working class away from their structural causes in capitalist exploitation and toward racial, national, and cultural scapegoats. This ideological displacement serves the interests of capital by dividing the working class and preventing the formation of unified class consciousness.
+  value-form: The appeal of far-right populism reflects the real mystifications produced by the value-form, in which the abstract domination of capital appears not as a social relation but as the malicious agency of foreign competitors, immigrants, or cultural elites. Commodity fetishism generates the personalized conspiratorial thinking on which fascist ideology feeds.
+  harvey: The geographical unevenness of capitalist development produces regions of deindustrialization and abandonment that become fertile ground for far-right mobilization. The spatial fix that relocated production to lower-cost regions created the material basis for reactionary nationalism in the communities left behind.
+  structuralist: Far-right populism operates through the interpellation of subjects into nationalist and racialized identities that cut across class lines, functioning as an ideological state apparatus in crisis conditions. The failure of liberal and social-democratic hegemony opens a space for authoritarian articulations that rearrange the ideological elements of the conjuncture around a new populist bloc.
+related_terms: [base-superstructure, commodity-fetishism, historical-materialism]
+related_thinkers: [gramsci, althusser]
+---
+
+The global rise of far-right populism is inseparable from the economic dislocations produced by four decades of neoliberal capitalism. Deindustrialization, wage stagnation, the erosion of public services, and the destruction of working-class communities have generated widespread material grievances that find no adequate expression within the existing political framework. In the absence of a strong left alternative capable of articulating these grievances in class terms, far-right movements have stepped into the vacuum, offering explanations rooted in racial, national, and cultural antagonisms rather than in the structural dynamics of capital accumulation.
+
+The role of media and communications technology in producing ideological consent for far-right politics cannot be overstated. As Gramsci understood, hegemony is maintained not primarily through coercion but through the production of common sense, the taken-for-granted assumptions that frame political possibility. The far right has proven exceptionally adept at using digital platforms to construct alternative narratives that redirect class anger toward immigrants, minorities, and liberal elites, while leaving the structural power of capital untouched. This represents a form of class misdirection in which the real antagonism between capital and labor is displaced onto cultural conflicts that serve to divide the working class.
+
+The historical parallels to interwar fascism are instructive, though not exact. In both periods, a systemic crisis of capitalism produced mass unemployment and social dislocation that liberal democratic institutions proved incapable of addressing. The failure of social-democratic parties to offer a genuine alternative to austerity and market discipline created the political space for authoritarian movements that promised national renewal through exclusion and hierarchy. The lesson of this history is that fascism is not an aberration but a recurrent possibility within capitalist crisis, and that its defeat requires not merely moral opposition but the construction of a political movement capable of addressing the material conditions from which it arises.

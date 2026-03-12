@@ -1,0 +1,168 @@
+[
+  {
+    "slug": "companion-to-capital",
+    "title": "A Companion to Marx's Capital",
+    "author": "David Harvey",
+    "year": 2010,
+    "tradition": "Contemporary",
+    "tags": [
+      "political economy",
+      "value theory",
+      "close reading",
+      "pedagogy"
+    ],
+    "body": "<p>A Companion to Marx&#39;s Capital provides a chapter-by-chapter guide to Volume 1, drawing on Harvey&#39;s decades of teaching Capital in university seminars and public lectures. Harvey emphasizes the internal logic of Marx&#39;s argument while connecting it to contemporary patterns of urbanization, financialization, and crisis. The book has become one of the most widely used introductory guides to Marx&#39;s critique of political economy.</p>\n"
+  },
+  {
+    "slug": "introduction-three-volumes",
+    "title": "An Introduction to the Three Volumes of Karl Marx's Capital",
+    "author": "Michael Heinrich",
+    "year": 2004,
+    "tradition": "Value-form Theory",
+    "translations": [
+      "Locascio (Monthly Review 2012)"
+    ],
+    "tags": [
+      "value-form",
+      "monetary theory",
+      "critique of political economy",
+      "new Marx reading"
+    ],
+    "body": "<p>Heinrich&#39;s introduction presents Capital from the perspective of the neue Marx-Lekture (new Marx reading), emphasizing the monetary dimension of value theory and rejecting substantialist interpretations of abstract labor. The book covers all three volumes of Capital in a compact format, distinguishing Marx&#39;s critique of political economy from both classical and worldview Marxism. It has become a key reference point for value-form theoretical approaches to Marx across the Anglophone world.</p>\n"
+  },
+  {
+    "slug": "capital-vol1",
+    "title": "Capital, Volume 1",
+    "author": "Karl Marx",
+    "year": 1867,
+    "tradition": "Classical Marxism",
+    "translations": [
+      "Fowkes (Penguin 1976)",
+      "Reitter (Princeton 2025)"
+    ],
+    "tags": [
+      "political economy",
+      "value theory",
+      "commodity",
+      "surplus-value",
+      "accumulation"
+    ],
+    "body": "<p>Capital, Volume 1 presents Marx&#39;s systematic critique of political economy, beginning with the analysis of the commodity form and developing through the theories of value, money, surplus-value, and the general law of capitalist accumulation. The work demonstrates how capital as a social relation reproduces itself through the exploitation of labor-power, tracing the historical process of primitive accumulation that separated producers from the means of production. It remains the foundational text for all subsequent Marxist economic analysis and critique.</p>\n"
+  },
+  {
+    "slug": "essays-value",
+    "title": "Essays on Marx's Theory of Value",
+    "author": "Isaak Rubin",
+    "year": 1928,
+    "tradition": "Value-form Theory",
+    "translations": [
+      "Samardzija and Perlman (1972)"
+    ],
+    "tags": [
+      "abstract labor",
+      "value-form",
+      "commodity fetishism",
+      "social relations"
+    ],
+    "body": "<p>Rubin&#39;s Essays interprets Marx&#39;s value theory as fundamentally a theory of social relations between people mediated by things, foregrounding the qualitative analysis of the value-form over quantitative determination. Written in the Soviet Union during the 1920s, the work challenged productivist readings of Marx by insisting that abstract labor is a historically specific social category, not a physiological substance. Rubin&#39;s approach was suppressed under Stalinism but became a major influence on the value-form tradition after its rediscovery in the 1970s.</p>\n"
+  },
+  {
+    "slug": "grundrisse",
+    "title": "Grundrisse",
+    "author": "Karl Marx",
+    "year": 1858,
+    "tradition": "Classical Marxism",
+    "translations": [
+      "Nicolaus (Penguin 1973)"
+    ],
+    "tags": [
+      "political economy",
+      "method",
+      "money",
+      "capital",
+      "labor"
+    ],
+    "body": "<p>The Grundrisse consists of Marx&#39;s preparatory notebooks for Capital, first published in 1939, containing his most extensive reflections on dialectical method and the architecture of his critique of political economy. The manuscripts range across the theory of money, the general concept of capital, and speculative passages on automation and post-capitalist society that have no parallel in the published volumes. Its rediscovery reshaped debates about Marx&#39;s intellectual development and the relationship between Hegelian categories and economic analysis.</p>\n"
+  },
+  {
+    "slug": "mute-compulsion",
+    "title": "Mute Compulsion",
+    "author": "Soren Mau",
+    "year": 2023,
+    "tradition": "Value-form Theory",
+    "tags": [
+      "economic power",
+      "domination",
+      "capital as social relation",
+      "structural coercion"
+    ],
+    "body": "<p>Mute Compulsion develops a theory of the specifically economic power of capital, arguing that capitalism subordinates human life not primarily through ideology or direct violence but through impersonal structural mechanisms rooted in market dependence. Mau draws on Marx&#39;s mature critique of political economy to show how capital reshapes the conditions of social reproduction, producing a form of domination that operates silently through the compulsion of economic relations. The book has been widely discussed as a significant contribution to contemporary Marxist theory.</p>\n"
+  },
+  {
+    "slug": "prison-notebooks",
+    "title": "Prison Notebooks",
+    "author": "Antonio Gramsci",
+    "year": "1929-1935",
+    "tradition": "Western Marxism",
+    "translations": [
+      "Hoare and Nowell Smith (1971)"
+    ],
+    "tags": [
+      "hegemony",
+      "civil society",
+      "organic intellectuals",
+      "philosophy of praxis",
+      "common sense"
+    ],
+    "body": "<p>The Prison Notebooks comprise Gramsci&#39;s fragmentary reflections on politics, culture, and philosophy, written during his imprisonment under Italian fascism and published posthumously between 1948 and 1951. Gramsci&#39;s central contribution is the concept of hegemony, which analyzes how ruling classes maintain power not only through coercion but through the organization of consent in civil society, education, and common sense. The Notebooks have exerted enormous influence across political theory, cultural studies, and postcolonial thought.</p>\n"
+  },
+  {
+    "slug": "reading-capital",
+    "title": "Reading Capital (Complete Edition)",
+    "author": "Louis Althusser, Etienne Balibar, Jacques Ranciere, Pierre Macherey, Roger Establet",
+    "year": 1965,
+    "tradition": "Structuralist Marxism",
+    "translations": [
+      "Brewster and Hoare (Verso 2015)"
+    ],
+    "tags": [
+      "structural causality",
+      "epistemological break",
+      "symptomatic reading",
+      "mode of production"
+    ],
+    "body": "<p>Reading Capital introduced the method of symptomatic reading to Marxist theory, arguing that Marx&#39;s mature work operates with a concept of structural causality irreducible to Hegelian expressivism or empiricist models of knowledge. Althusser and his collaborators contend that Capital enacts an epistemological break from ideology to science, producing new concepts of the mode of production, overdetermination, and the social whole as a structure in dominance. The complete edition restores the contributions of Ranciere, Macherey, and Establet that were omitted from earlier translations.</p>\n"
+  },
+  {
+    "slug": "accumulation-of-capital",
+    "title": "The Accumulation of Capital",
+    "author": "Rosa Luxemburg",
+    "year": 1913,
+    "tradition": "Classical Marxism",
+    "translations": [
+      "Schwarzschild (1951)"
+    ],
+    "tags": [
+      "imperialism",
+      "expanded reproduction",
+      "non-capitalist markets",
+      "accumulation"
+    ],
+    "body": "<p>The Accumulation of Capital argues that capitalist expanded reproduction is impossible within a closed system and that capital necessarily requires non-capitalist social formations as markets for surplus production, driving the process of imperialism. Luxemburg&#39;s critique of Marx&#39;s reproduction schemas in Volume 2 of Capital generated lasting debate about the dynamics of accumulation and crisis theory. The work remains a foundational text in Marxist theories of imperialism and global capitalism.</p>\n"
+  },
+  {
+    "slug": "communist-manifesto",
+    "title": "The Communist Manifesto",
+    "author": "Karl Marx and Friedrich Engels",
+    "year": 1848,
+    "tradition": "Classical Marxism",
+    "tags": [
+      "class struggle",
+      "bourgeoisie",
+      "proletariat",
+      "revolution",
+      "historical materialism"
+    ],
+    "body": "<p>The Communist Manifesto outlines the materialist conception of history as a succession of class struggles and analyzes the revolutionary role of the bourgeoisie in dissolving feudal social relations while producing its own gravedigger in the proletariat. Written as a programmatic document for the Communist League, it combines historical analysis with a call for the abolition of private property and the self-emancipation of the working class. It is the most widely read and translated text in the Marxist tradition.</p>\n"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "slug": "gramsci",
+    "name": "Antonio Gramsci",
+    "born": 1891,
+    "died": 1937,
+    "nationality": "Italian",
+    "tradition": "Western Marxism",
+    "key_works": [
+      "Prison Notebooks",
+      "Selections from Political Writings"
+    ],
+    "tags": [
+      "hegemony",
+      "civil society",
+      "organic intellectuals",
+      "philosophy of praxis"
+    ],
+    "body": "<p>Antonio Gramsci developed the concept of hegemony to explain how ruling classes maintain power not only through coercion but through the production of consent within civil society, including education, media, and cultural institutions. Writing from a fascist prison between 1929 and 1935, his <em>Prison Notebooks</em> rethought the relationship between structure and superstructure, the role of intellectuals in class formation, and the strategic distinction between wars of position and wars of maneuver. His work became a central reference for Western Marxism, cultural studies, and post-colonial theory from the 1960s onward.</p>\n"
+  },
+  {
+    "slug": "harvey",
+    "name": "David Harvey",
+    "born": 1935,
+    "died": null,
+    "nationality": "British",
+    "tradition": "Contemporary",
+    "key_works": [
+      "A Companion to Marx's Capital",
+      "The Limits to Capital",
+      "The New Imperialism"
+    ],
+    "tags": [
+      "spatial fix",
+      "accumulation by dispossession",
+      "uneven geographical development",
+      "political economy"
+    ],
+    "body": "<p>David Harvey integrated Marxist political economy with geography, arguing that capitalism resolves its internal crises of overaccumulation through spatial reorganization, a process he termed the &quot;spatial fix.&quot; His concept of accumulation by dispossession extended Marx&#39;s analysis of primitive accumulation to describe ongoing processes of enclosure, privatization, and dispossession under neoliberalism. His lecture series and companion volumes to <em>Capital</em> have introduced Marx&#39;s critique of political economy to a broad contemporary audience.</p>\n"
+  },
+  {
+    "slug": "engels",
+    "name": "Friedrich Engels",
+    "born": 1820,
+    "died": 1895,
+    "nationality": "German",
+    "tradition": "Classical Marxism",
+    "key_works": [
+      "Anti-Duhring",
+      "The Condition of the Working Class in England",
+      "Dialectics of Nature",
+      "The Origin of the Family"
+    ],
+    "tags": [
+      "dialectics",
+      "historical materialism",
+      "political economy"
+    ],
+    "body": "<p>Friedrich Engels was Marx&#39;s closest intellectual collaborator and co-author of the <em>Communist Manifesto</em>, and he played a decisive role in editing and publishing the second and third volumes of <em>Capital</em> after Marx&#39;s death. His independent works extended historical materialism into the domains of natural science, the history of the family, and systematic philosophical exposition. <em>Anti-Duhring</em> became the most widely read summary of Marxist theory in the Second International period.</p>\n"
+  },
+  {
+    "slug": "rubin",
+    "name": "Isaak Rubin",
+    "born": 1886,
+    "died": 1937,
+    "nationality": "Russian",
+    "tradition": "Value-form Theory",
+    "key_works": [
+      "Essays on Marx's Theory of Value",
+      "A History of Economic Thought"
+    ],
+    "tags": [
+      "abstract labor",
+      "value-form",
+      "commodity fetishism",
+      "social relations of production"
+    ],
+    "body": "<p>Isaak Rubin produced what is widely regarded as the most rigorous analysis of Marx&#39;s theory of value prior to the neue Marx-Lekture, emphasizing that value categories are expressions of historically specific social relations of production rather than transhistorical economic quantities. His <em>Essays on Marx&#39;s Theory of Value</em> foregrounded the value-form and commodity fetishism as central to Marx&#39;s critique, rather than treating them as peripheral to a labor-embodied theory of price. Rubin was executed during the Stalinist purges in 1937, and his work was largely suppressed until its rediscovery in the 1970s.</p>\n"
+  },
+  {
+    "slug": "roemer",
+    "name": "John Roemer",
+    "born": 1945,
+    "died": null,
+    "nationality": "American",
+    "tradition": "Analytical Marxism",
+    "key_works": [
+      "A General Theory of Exploitation and Class",
+      "Analytical Foundations of Marxian Economic Theory",
+      "Free to Lose"
+    ],
+    "tags": [
+      "exploitation theory",
+      "rational choice",
+      "game theory",
+      "distributive justice"
+    ],
+    "body": "<p>John Roemer reformulated Marxian exploitation theory using the tools of neoclassical economics, game theory, and general equilibrium analysis, arguing that exploitation can be rigorously defined in terms of unequal distribution of productive assets rather than the labor theory of value. As a founding figure of Analytical Marxism, he sought to reconstruct core Marxist claims using methodological individualism and formal modeling. His work shifted debate on exploitation toward questions of distributive justice and property relations, influencing both Marxist economic theory and liberal political philosophy.</p>\n"
+  },
+  {
+    "slug": "marx",
+    "name": "Karl Marx",
+    "born": 1818,
+    "died": 1883,
+    "nationality": "German",
+    "tradition": "Classical Marxism",
+    "key_works": [
+      "Capital",
+      "Grundrisse",
+      "Communist Manifesto",
+      "The Eighteenth Brumaire"
+    ],
+    "tags": [
+      "political economy",
+      "dialectics",
+      "historical materialism",
+      "value theory"
+    ],
+    "body": "<p>Karl Marx developed a systematic critique of capitalist political economy centered on the labor theory of value, the analysis of surplus value extraction, and the commodity form. His method of historical materialism provided a framework for understanding social formations as structured by their mode of production and the class relations arising from it. His later work, particularly the three volumes of <em>Capital</em> and the preparatory <em>Grundrisse</em>, remains the foundational reference point for all subsequent Marxist theory.</p>\n"
+  },
+  {
+    "slug": "althusser",
+    "name": "Louis Althusser",
+    "born": 1918,
+    "died": 1990,
+    "nationality": "French-Algerian",
+    "tradition": "Structuralist Marxism",
+    "key_works": [
+      "Reading Capital",
+      "For Marx",
+      "On the Reproduction of Capitalism"
+    ],
+    "tags": [
+      "structural causality",
+      "ideology",
+      "epistemological break",
+      "overdetermination"
+    ],
+    "body": "<p>Louis Althusser proposed a rigorous rereading of Marx that distinguished between an early humanist period and a mature scientific one, arguing for an &quot;epistemological break&quot; in Marx&#39;s thought around 1845. His concept of overdetermination rejected simple base-superstructure causality in favor of a model in which multiple contradictions within a social formation interact and condense. His theory of ideology as constituting subjects through interpellation, developed in his essay on ideological state apparatuses, became one of the most widely debated frameworks in twentieth-century social theory.</p>\n"
+  },
+  {
+    "slug": "heinrich",
+    "name": "Michael Heinrich",
+    "born": 1957,
+    "died": null,
+    "nationality": "German",
+    "tradition": "Value-form Theory",
+    "key_works": [
+      "An Introduction to the Three Volumes of Karl Marx's Capital",
+      "Science of Value",
+      "Die Wissenschaft vom Wert"
+    ],
+    "tags": [
+      "value-form theory",
+      "monetary theory of value",
+      "MEGA",
+      "new Marx reading"
+    ],
+    "body": "<p>Michael Heinrich is a leading figure in the German &quot;neue Marx-Lekture&quot; (new Marx reading), which reinterprets Marx&#39;s value theory as fundamentally a monetary theory in which value has no pre-monetary existence independent of the exchange process. Drawing extensively on the Marx-Engels-Gesamtausgabe (MEGA) critical edition, he has challenged traditional Marxist readings on the tendency of the rate of profit to fall, the role of abstract labor, and the status of Marx&#39;s unfinished manuscripts. His introductory text on the three volumes of <em>Capital</em> has become a standard reference in value-form theoretical approaches.</p>\n"
+  },
+  {
+    "slug": "luxemburg",
+    "name": "Rosa Luxemburg",
+    "born": 1871,
+    "died": 1919,
+    "nationality": "Polish-German",
+    "tradition": "Classical Marxism",
+    "key_works": [
+      "The Accumulation of Capital",
+      "Reform or Revolution",
+      "The Mass Strike"
+    ],
+    "tags": [
+      "imperialism",
+      "accumulation",
+      "revolutionary strategy"
+    ],
+    "body": "<p>Rosa Luxemburg advanced an influential theory of capitalist accumulation that argued capitalism structurally depends on the incorporation of non-capitalist markets and territories for the realization of surplus value. Her political writings mounted a sustained critique of reformism within the social-democratic movement and theorized the mass strike as a form of revolutionary working-class self-activity. She was murdered by Freikorps paramilitaries in Berlin in January 1919.</p>\n"
+  },
+  {
+    "slug": "lenin",
+    "name": "Vladimir Lenin",
+    "born": 1870,
+    "died": 1924,
+    "nationality": "Russian",
+    "tradition": "Classical Marxism",
+    "key_works": [
+      "Imperialism the Highest Stage of Capitalism",
+      "The State and Revolution",
+      "What Is to Be Done"
+    ],
+    "tags": [
+      "imperialism",
+      "state theory",
+      "revolutionary strategy",
+      "party organization"
+    ],
+    "body": "<p>Vladimir Lenin theorized imperialism as a structural stage of capitalist development characterized by the dominance of finance capital, monopoly, and the territorial division of the world among great powers. His <em>The State and Revolution</em> reinterpreted Marx and Engels on the class character of the state and the necessity of its destruction in the revolutionary process. As the principal leader of the October Revolution of 1917, his political and theoretical legacy shaped the trajectory of twentieth-century Marxism worldwide.</p>\n"
+  }
+]

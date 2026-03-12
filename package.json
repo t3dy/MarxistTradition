@@ -1,0 +1,25 @@
+{
+  "name": "marxistportal",
+  "version": "1.0.0",
+  "description": "A companion website for the Marxist tradition: dictionary, who's who, and guided tour",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t3dy/MarxistPortal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/t3dy/MarxistPortal/issues"
+  },
+  "homepage": "https://github.com/t3dy/MarxistPortal#readme",
+  "devDependencies": {
+    "gray-matter": "^4.0.3",
+    "marked": "^17.0.4"
+  }
+}
