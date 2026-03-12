@@ -2,7 +2,7 @@
 
 A companion website to [Capital RAG](https://github.com/EricRuud/capital_interpreter) providing a curated tour of the Marxist intellectual tradition.
 
-**Live site: [https://t3dy.github.io/MarxistPortal/](https://t3dy.github.io/MarxistPortal/)**
+**Live site: [https://t3dy.github.io/MarxistTradition/](https://t3dy.github.io/MarxistTradition/)**
 
 ## Pages
 
