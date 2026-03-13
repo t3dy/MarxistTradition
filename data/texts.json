@@ -18,6 +18,46 @@
     "body": "<p><em>A Companion to Marx&#39;s Capital</em> provides a chapter-by-chapter guide to Volume I, drawing on Harvey&#39;s decades of teaching <em>Capital</em> in university seminars and free public lectures — a course he began at Johns Hopkins in the 1970s and later made available online, where it has been viewed by millions. Harvey reads Marx closely while drawing persistent connections to contemporary phenomena: urbanization, financialization, environmental degradation, and the lived experience of work under neoliberalism.</p>\n<p>Harvey&#39;s reading emphasizes the internal logic and sequential architecture of Marx&#39;s argument, showing how the analysis moves from the abstract categories of commodity and value through money, surplus value, and the working day to the concrete dynamics of accumulation and crisis. He is particularly attentive to Marx&#39;s use of metaphor, irony, and literary allusion, making the case that <em>Capital</em> is not merely a work of economic theory but a deeply humanistic critique of a social system that reduces human life to an appendage of the valorization process.</p>\n<p>The <em>Companion</em> has become one of the most widely used introductory guides to Marx&#39;s critique of political economy, valued for its accessibility without sacrificing theoretical seriousness. Harvey followed it with a companion to Volume II in 2013, extending his pedagogical project across Marx&#39;s analysis of circulation and reproduction. Together they represent the most sustained effort to make Marx&#39;s economic writings available to a broad public in the twenty-first century.</p>\n"
   },
   {
+    "slug": "aesthetic-theory",
+    "title": "Aesthetic Theory",
+    "author": "Theodor Adorno",
+    "year": 1970,
+    "tradition": "Frankfurt School",
+    "tags": [
+      "aesthetics",
+      "art",
+      "autonomy",
+      "commodity"
+    ],
+    "traditions": {
+      "classical": "Classical Marxism recognizes the critique of art's commodification but challenges the premise that autonomous art, rather than revolutionary praxis, constitutes the primary site of resistance to capitalism.",
+      "value-form": "Value-form theory finds in Adorno's aesthetics a rigorous account of how the artwork's formal autonomy negates the logic of exchange, preserving non-identity against commodification.",
+      "harvey": "Harvey's approach connects art's truth content to the material conditions of its production, asking how spatial and economic transformations shape the possibilities for aesthetic autonomy.",
+      "structuralist": "Structuralist Marxism values the insistence on art's social mediation but questions whether aesthetic autonomy can be theorized without a more rigorous account of ideological state apparatuses."
+    },
+    "body": "<p><em>Aesthetic Theory</em>, published posthumously and left unfinished, represents Adorno&#39;s comprehensive attempt to theorize art&#39;s relationship to society and truth. The central argument holds that authentic artworks embody a truth content that resists the commodity form and instrumental reason. Art achieves this not through explicit political messages but through its formal structure, which negates the false reconciliations offered by the culture industry and administered society.</p>\n<p>Adorno develops a dialectical conception of aesthetic autonomy: art must be autonomous from society to criticize it, yet this very autonomy is socially produced and historically conditioned. The artwork&#39;s enigmatic character -- its refusal to be immediately consumed or understood -- preserves a space for non-instrumental experience in a world dominated by exchange value. Beauty becomes inseparable from the dissonance and suffering that marks modern experience.</p>\n<p>The text&#39;s key contributions include the theory of art&#39;s double character as both autonomous and socially determined, the concept of truth content as distinct from ideological content, and the analysis of how modernist form registers historical antagonisms. It remains the most rigorous attempt to develop a materialist aesthetics that neither reduces art to ideology nor grants it false transcendence.</p>\n"
+  },
+  {
+    "slug": "an-essay-on-liberation",
+    "title": "An Essay on Liberation",
+    "author": "Herbert Marcuse",
+    "year": 1969,
+    "tradition": "Frankfurt School",
+    "tags": [
+      "liberation",
+      "new left",
+      "revolution",
+      "aesthetics"
+    ],
+    "traditions": {
+      "classical": "Marcuse's essay captures the revolutionary spirit of 1968 but substitutes aesthetic sensibility for class organisation, underestimating the working class's revolutionary potential while overestimating the transformative power of cultural rebellion.",
+      "value-form": "The essay's call for a 'new sensibility' implicitly recognises that the value-form colonises subjectivity itself, but its appeal to biological and aesthetic liberation lacks a systematic account of how abstract domination could actually be overcome.",
+      "harvey": "Marcuse identifies how advanced capitalism produces new needs that serve accumulation, but his focus on consciousness neglects the spatial and material dimensions of how capital reproduces itself through urbanisation and everyday life.",
+      "structuralist": "The essay's voluntarism — its faith in subjective transformation as the motor of revolution — lacks the structural analysis necessary to understand the objective conditions and contradictions that constrain and enable political action."
+    },
+    "body": "<p><em>An Essay on Liberation</em> (1969) was written in the wake of the May 1968 uprisings and represents Marcuse&#39;s most optimistic statement about revolutionary possibility in advanced industrial society. The essay argues that the technical achievements of capitalism have created the material preconditions for a qualitatively different civilisation based on a &#39;new sensibility&#39; — an aesthetic and erotic relationship to nature and other human beings.</p>\n<p>Marcuse contended that liberation requires not only the transformation of economic structures but a revolution in human needs and instincts themselves, proposing a &#39;biological foundation for socialism.&#39; He identified the student movement, Third World liberation struggles, and the counterculture as bearers of this new sensibility. The text remains influential in debates about the politics of desire, the role of aesthetics in revolutionary transformation, and whether capitalism can be challenged through the creation of alternative forms of life.</p>\n"
+  },
+  {
     "slug": "introduction-three-volumes",
     "title": "An Introduction to the Three Volumes of Karl Marx's Capital",
     "author": "Michael Heinrich",
@@ -33,6 +73,22 @@
       "new Marx reading"
     ],
     "body": "<p>Heinrich&#39;s <em>Introduction</em> presents <em>Capital</em> from the perspective of the <em>neue Marx-Lekture</em> (new reading of Marx), a German-language tradition of Marx scholarship that emphasizes the monetary dimension of value theory and rejects substantialist interpretations of abstract labor as a physiological or energetic magnitude. Heinrich distinguishes Marx&#39;s critique of political economy from both classical political economy and what he calls &quot;worldview Marxism&quot; — the codified doctrine of orthodox Marxist parties — arguing that Marx&#39;s project was not to construct an alternative economics but to demonstrate the historically specific and socially constituted character of economic categories under capitalism.</p>\n<p>The book covers all three volumes of <em>Capital</em> in a compact format, making it one of the few introductory texts to treat the work as a unified theoretical project rather than isolating Volume I. Heinrich is particularly incisive on the monetary theory of value, arguing that value can only exist in and through money as its necessary form of appearance, and on the distinction between Marx&#39;s critique and Ricardo&#39;s labor theory of value. He also offers a careful reconstruction of the tendency of the rate of profit to fall, arguing that Marx&#39;s own formulation contains logical difficulties that have not been adequately resolved.</p>\n<p>Since its translation into English in 2012, the <em>Introduction</em> has become a key reference point for value-form theoretical approaches to Marx across the Anglophone world, particularly among scholars seeking alternatives to both traditional Marxist economics and post-Marxist cultural theory.</p>\n"
+  },
+  {
+    "slug": "anti-dhring",
+    "title": "Anti-Dühring",
+    "author": "Friedrich Engels",
+    "year": 1878,
+    "tradition": "Classical Marxism",
+    "translations": [
+      "Burns (International Publishers 1939)"
+    ],
+    "tags": [
+      "dialectics",
+      "political economy",
+      "scientific socialism"
+    ],
+    "body": "<p><em>Anti-Dühring</em> (1878) is Engels&#39;s comprehensive polemic against Eugen Dühring, a Berlin professor whose eclectic system of philosophy, political economy, and socialism threatened to win adherents within German Social Democracy. The work became the most widely read systematic exposition of Marxist theory, covering philosophy (dialectical materialism), political economy (the labour theory of value and exploitation), and scientific socialism.</p>\n<p>Engels defended dialectics against Dühring&#39;s metaphysical method, argued for the materialist conception of history, and outlined the Marxist theory of the state and its eventual withering away. Three chapters were published separately as <em>Socialism: Utopian and Scientific</em>, which became Marxism&#39;s most popular pamphlet. The text established many formulations that became canonical in the Marxist tradition, though critics — from Lukács to value-form theorists — have questioned whether Engels&#39;s systematisation of Marx&#39;s thought introduced positivist and determinist elements foreign to Marx&#39;s own critical method.</p>\n"
   },
   {
     "slug": "black-skin-white-masks",
@@ -127,6 +183,39 @@
     "body": "<p><em>Capital, Volume III</em>, assembled by Engels from Marx&#39;s draft manuscripts and published nine years after his death, examines the capitalist process of production as a whole — that is, the unity of production and circulation. The volume&#39;s central problem is the transformation of surplus value into its concrete forms: industrial profit, commercial profit, interest, and ground rent. Marx shows how competition among capitals produces a general rate of profit through the equalization of profit rates, a process that systematically obscures the origin of profit in the exploitation of labor.</p>\n<p>The most debated section develops the law of the tendential fall in the rate of profit, which argues that rising organic composition of capital — the increasing ratio of constant to variable capital driven by technological competition — creates a structural downward pressure on profitability. Marx identifies counteracting tendencies including the cheapening of constant capital, increasing exploitation, foreign trade, and the expansion of joint-stock companies, generating a dialectic of crisis and restructuring that has defined capitalist development.</p>\n<p>The volume&#39;s later parts contain analyses of commercial and money-dealing capital, the credit system, and fictitious capital that have become central to contemporary Marxist political economy, particularly in discussions of financialization. Marx&#39;s theory of ground rent, distinguishing differential and absolute rent, provides tools for understanding real estate speculation and resource extraction. The transformation problem raised by Volume III — the relationship between values and prices of production — remains one of the most technically contested questions in Marxist economics.</p>\n"
   },
   {
+    "slug": "critique-of-the-gotha-programme",
+    "title": "Critique of the Gotha Programme",
+    "author": "Karl Marx",
+    "year": 1875,
+    "tradition": "Classical Marxism",
+    "translations": [
+      "Various editions"
+    ],
+    "tags": [
+      "transition",
+      "state",
+      "distribution",
+      "labor"
+    ],
+    "body": "<p>The <em>Critique of the Gotha Programme</em> (1875) is Marx&#39;s critical commentary on the draft programme for the unification of German Social Democracy, written as marginal notes circulated among party leaders but not published until 1891. It contains Marx&#39;s most explicit statements on the nature of communist society and the transition from capitalism.</p>\n<p>Marx distinguished between a lower phase of communism, in which distribution is governed by the principle &#39;to each according to their contribution,&#39; and a higher phase based on &#39;from each according to their ability, to each according to their needs.&#39; He criticised the programme&#39;s Lassallean formulations on the &#39;iron law of wages,&#39; the &#39;undiminished proceeds of labour,&#39; and the &#39;free state,&#39; insisting that the state in the transition period must be the revolutionary dictatorship of the proletariat. The text remains foundational for debates about socialist distribution, the role of the state, and the distinction between socialism and communism.</p>\n"
+  },
+  {
+    "slug": "critique-of-the-hegelian-philosophy-of-right",
+    "title": "Critique of the Hegelian Philosophy of Right",
+    "author": "Karl Marx",
+    "year": 1843,
+    "tradition": "Classical Marxism",
+    "translations": [
+      "O'Malley (Cambridge 1970)"
+    ],
+    "tags": [
+      "state theory",
+      "civil society",
+      "Hegel critique"
+    ],
+    "body": "<p>The <em>Critique of Hegel&#39;s Philosophy of Right</em> (1843) is Marx&#39;s first systematic engagement with Hegel&#39;s political philosophy, written during his transition from radical liberalism to communism. The manuscript critiques Hegel&#39;s theory of the state as the rational reconciliation of civil society&#39;s contradictions, arguing instead that the state is an expression of those contradictions.</p>\n<p>Marx&#39;s famous Introduction (published 1844) contains the declaration that religion is the &#39;opium of the people&#39; and identifies the proletariat as the universal class whose emancipation requires the abolition of all classes. The critique establishes key themes of Marx&#39;s mature work: the inversion of Hegel&#39;s idealism (the state does not determine civil society but civil society determines the state), the critique of bureaucracy, and the identification of philosophy&#39;s realisation with proletarian revolution. The text marks the decisive turn from philosophical criticism to the critique of political economy that would culminate in <em>Capital</em>.</p>\n"
+  },
+  {
     "slug": "dialectic-of-enlightenment",
     "title": "Dialectic of Enlightenment",
     "author": "Max Horkheimer and Theodor Adorno",
@@ -146,6 +235,59 @@
     "body": "<p><em>Dialectic of Enlightenment</em>, written in exile in Los Angeles during World War II, argues that the Enlightenment project of liberating humanity through reason has dialectically reversed into new forms of domination. Horkheimer and Adorno contend that instrumental rationality — the drive to master nature through classificatory thought and technical control — contains within itself the seeds of barbarism, as the same logic that disenchants nature ultimately reduces human beings to objects of administration and manipulation. The book opens with a philosophical excursus on Homer&#39;s Odyssey, reading Odysseus&#39;s cunning self-preservation as the prototype of bourgeois subjectivity formed through the repression of inner nature.</p>\n<p>The famous chapter on the culture industry analyzes how mass-produced entertainment under monopoly capitalism enforces conformity and forecloses critical thought under the guise of consumer choice and individual freedom. Horkheimer and Adorno argue that cultural production has been industrialized in a way that preempts genuine aesthetic experience, substituting standardized pleasures that reconcile audiences to the existing order. This analysis profoundly influenced subsequent media theory, from Guy Debord&#39;s concept of the spectacle to contemporary critiques of algorithmic content delivery.</p>\n<p>The book&#39;s uncompromising pessimism about the prospects for emancipation within existing social arrangements reshaped critical theory and remains a provocation: if reason itself is complicit in domination, what resources remain for critique? This question continues to animate debates in philosophy, social theory, and cultural criticism.</p>\n"
   },
   {
+    "slug": "dialectics-of-nature",
+    "title": "Dialectics of Nature",
+    "author": "Friedrich Engels",
+    "year": 1883,
+    "tradition": "Classical Marxism",
+    "translations": [
+      "Dutt (International Publishers 1940)"
+    ],
+    "tags": [
+      "dialectics",
+      "natural science",
+      "materialism"
+    ],
+    "body": "<p><em>Dialectics of Nature</em> is an unfinished collection of notes and fragments by Engels, written between 1873 and 1886 and first published in the Soviet Union in 1925. The work attempts to demonstrate that dialectical laws operate in nature as well as in human history, applying dialectical categories to developments in physics, chemistry, and biology.</p>\n<p>Engels formulated three &#39;laws of dialectics&#39; — the transformation of quantity into quality, the interpenetration of opposites, and the negation of the negation — arguing that these operate as objective laws of nature independent of human consciousness. The work has been controversial: supporters see it as extending materialism into natural science, while critics from Lukács onward have argued that Engels&#39;s dialectics of nature represents a positivist distortion of Marx&#39;s critical method, which applied dialectics to historically specific social forms rather than to nature itself. The debate over Engels&#39;s philosophical legacy continues to divide the Marxist tradition.</p>\n"
+  },
+  {
+    "slug": "eclipse-of-reason",
+    "title": "Eclipse of Reason",
+    "author": "Max Horkheimer",
+    "year": 1947,
+    "tradition": "Frankfurt School",
+    "tags": [
+      "instrumental reason",
+      "critical theory",
+      "enlightenment"
+    ],
+    "traditions": {
+      "classical": "Classical Marxism shares the critique of bourgeois rationality but insists that the crisis of reason must be resolved through revolutionary practice, not philosophical diagnosis alone.",
+      "value-form": "Value-form theory reads the eclipse of objective reason as reflecting the real dominance of abstract labor and exchange value, where instrumental calculation becomes the only socially valid form of rationality.",
+      "harvey": "Harvey's approach connects the dominance of instrumental reason to capital's imperative for calculability and spatial rationalization, linking Horkheimer's philosophical critique to concrete processes of accumulation.",
+      "structuralist": "Structuralist Marxism appreciates the critique of positivism but would reframe the argument in terms of how ideological apparatuses reproduce instrumental rationality as the dominant form of social thought."
+    },
+    "body": "<p><em>Eclipse of Reason</em> traces the historical process by which reason has been reduced from a substantive faculty capable of determining ends and values to a merely instrumental capacity for calculating efficient means. Horkheimer distinguishes between objective reason, which once aspired to comprehend the rational structure of reality and guide human action toward the good, and subjective reason, which concerns itself solely with the adequacy of means to pre-given ends without questioning those ends themselves.</p>\n<p>The work argues that this reduction is not accidental but structurally linked to the development of capitalism, which requires a form of rationality oriented exclusively toward domination of nature and efficient production. As reason loses its capacity to critically evaluate social arrangements, it becomes complicit with the very irrationality it was meant to overcome. The triumph of instrumental reason produces a world that is technically proficient yet ethically blind.</p>\n<p>Horkheimer&#39;s central contributions include the typology of subjective and objective reason, the analysis of how pragmatism and positivism philosophically ratify this reduction, and the argument that the revolt against reason in fascism and irrationalism is itself a product of reason&#39;s self-liquidation. The text remains a foundational critique of technocratic modernity.</p>\n"
+  },
+  {
+    "slug": "economic-and-philosophic-manuscripts",
+    "title": "Economic and Philosophic Manuscripts",
+    "author": "Karl Marx",
+    "year": 1844,
+    "tradition": "Classical Marxism",
+    "translations": [
+      "Milligan (1959)",
+      "Livingstone and Benton (Penguin 1975)"
+    ],
+    "tags": [
+      "alienation",
+      "labor",
+      "humanism",
+      "early Marx"
+    ],
+    "body": "<p>The <em>Economic and Philosophic Manuscripts of 1844</em> (also known as the Paris Manuscripts) are Marx&#39;s early notebooks, unpublished in his lifetime and first appearing in 1932. They contain Marx&#39;s first sustained engagement with political economy and his most extensive treatment of alienation, analysing four dimensions: alienation from the product of labour, from the labour process, from species-being, and from other human beings.</p>\n<p>The manuscripts develop a philosophical anthropology grounding communism in the full development of human capacities and the overcoming of alienated labour. Their publication transformed Marx scholarship, inspiring humanist interpretations (Fromm, Mészáros) that emphasised continuity between the young and mature Marx. Althusser contested this reading, positing an &#39;epistemological break&#39; separating the humanist early writings from the scientific critique of political economy in <em>Capital</em>. The manuscripts remain central to debates about Marx&#39;s philosophical foundations, the concept of alienation, and whether Marxism is fundamentally a humanism or a science of social forms.</p>\n"
+  },
+  {
     "slug": "empire",
     "title": "Empire",
     "author": "Michael Hardt and Antonio Negri",
@@ -162,6 +304,46 @@
       "globalization"
     ],
     "body": "<p><em>Empire</em> argues that the age of imperialism organized around competing nation-states has given way to a new, decentered and deterritorialized form of global sovereignty that Hardt and Negri call Empire. Drawing on Deleuze and Guattari&#39;s theory of smooth and striated space, Foucault&#39;s concept of biopolitics, and the Italian autonomist tradition&#39;s analysis of the social factory, the authors contend that power now operates through flexible networks — supranational institutions, NGOs, transnational corporations, and media systems — rather than through the territorial logic of classical imperialism. Empire has no outside; it is a total environment of control that encompasses all social life.</p>\n<p>Against this new form of sovereignty, Hardt and Negri identify the multitude — a heterogeneous, networked subject of labor whose cooperative productive capacities in the era of immaterial and affective work exceed and potentially undermine imperial command. They argue that the shift from industrial to cognitive and communicative labor creates forms of social cooperation that are increasingly autonomous from capital&#39;s direct supervision, generating possibilities for self-organization and democratic constitution-making from below.</p>\n<p>The book provoked enormous debate upon its publication, with critics on the left arguing that it underestimated the persistence of nation-state imperialism, military power, and the structural divisions within the global working class. Nonetheless, <em>Empire</em> remains a touchstone for discussions of globalization, post-Fordist capitalism, and the political composition of contemporary resistance movements.</p>\n"
+  },
+  {
+    "slug": "eros-and-civilization",
+    "title": "Eros and Civilization",
+    "author": "Herbert Marcuse",
+    "year": 1955,
+    "tradition": "Frankfurt School",
+    "tags": [
+      "psychoanalysis",
+      "liberation",
+      "Freud",
+      "surplus repression"
+    ],
+    "traditions": {
+      "classical": "Marcuse's synthesis of Marx and Freud enriches the critique of capitalism by revealing how exploitation operates at the level of instinct and desire, but risks psychologising class struggle and substituting libidinal politics for organised working-class action.",
+      "value-form": "The concept of surplus repression parallels the value-form's extraction of surplus labour: just as capital demands labour beyond what is necessary, civilisation imposes repression beyond what social organisation requires, revealing the libidinal economy of abstract domination.",
+      "harvey": "Marcuse's analysis of how capitalism structures desire and need illuminates the production of consumer subjectivity essential to capital's realisation problem, but neglects how spatial organisation and the built environment also shape human experience.",
+      "structuralist": "Eros and Civilization reveals how the performance principle overdetermines subjectivity through multiple institutional apparatuses — family, education, work — producing subjects whose desires are pre-adapted to the reproduction of capitalist social relations."
+    },
+    "body": "<p><em>Eros and Civilization</em> (1955) synthesises Marx and Freud to argue that advanced industrial civilisation has created the material conditions to overcome what Marcuse terms &#39;surplus repression&#39; — repression imposed not by the necessities of civilisation as such but by the specific requirements of class domination under the &#39;performance principle&#39; (the reality principle in its capitalist form).</p>\n<p>Drawing on Freud&#39;s late metapsychology, Marcuse argues that the liberation of Eros from surplus repression would transform work into play and abolish the antagonism between pleasure and reality. He develops the figures of Orpheus and Narcissus as images of a non-repressive civilisation. The work profoundly influenced the New Left and the 1960s counterculture, providing theoretical grounding for the idea that sexual and personal liberation were inseparable from political revolution. Critics have questioned whether Marcuse&#39;s optimism about instinctual liberation underestimates the depth of capitalism&#39;s colonisation of desire.</p>\n"
+  },
+  {
+    "slug": "escape-from-freedom",
+    "title": "Escape from Freedom",
+    "author": "Erich Fromm",
+    "year": 1941,
+    "tradition": "Frankfurt School",
+    "tags": [
+      "freedom",
+      "authoritarianism",
+      "psychology",
+      "fascism"
+    ],
+    "traditions": {
+      "classical": "Fromm's analysis of authoritarianism illuminates the psychological mechanisms through which fascism mobilises the petty bourgeoisie, but its focus on social psychology underestimates the role of material class interests and organised political forces.",
+      "value-form": "The 'escape from freedom' describes how the abstract individualism produced by commodity society — where formal freedom coexists with real powerlessness — generates the psychological conditions for authoritarian submission as a response to market-mediated isolation.",
+      "harvey": "Fromm reveals how the destruction of pre-capitalist communal bonds through market expansion creates atomised individuals susceptible to authoritarian appeals, connecting the spatial-economic disruptions of capitalist development to psychological crisis.",
+      "structuralist": "The concept of social character functions as an implicit theory of interpellation: capitalist social relations produce characteristic personality structures that predispose individuals to accept domination as natural and inevitable."
+    },
+    "body": "<p><em>Escape from Freedom</em> (1941, published in the UK as <em>The Fear of Freedom</em>) analyses why modern individuals, having achieved unprecedented political and economic freedom, frequently seek refuge in authoritarian movements and ideologies. Fromm argues that the dissolution of medieval bonds of community and security through capitalism created a &#39;freedom from&#39; that was not accompanied by a positive &#39;freedom to&#39; — the capacity for creative self-realisation.</p>\n<p>Fromm identifies three mechanisms of escape: authoritarianism (submission to or domination of others), destructiveness, and automaton conformity. His analysis of the German lower middle class&#39;s attraction to Nazism examines how economic insecurity, social isolation, and resentment produced a character structure susceptible to fascist appeals. The concept of &#39;social character&#39; — the personality structure shared by members of a social group as a result of common life experiences — bridges Marxist class analysis and Freudian psychology. The work remains relevant to contemporary analyses of right-wing populism and authoritarian movements.</p>\n"
   },
   {
     "slug": "essays-value",
@@ -275,6 +457,42 @@
     "body": "<p><em>Imperialism, the Highest Stage of Capitalism</em>, written in Zurich during the spring of 1916 and published the following year, argues that imperialism is not a policy choice of particular governments but a necessary stage of capitalist development. Lenin identifies five defining features of this stage: the concentration of production into monopolies, the merger of bank and industrial capital into finance capital, the export of capital as distinct from the export of commodities, the formation of international monopolist combines that divide the world among themselves, and the territorial partition of the globe among the great powers.</p>\n<p>Drawing extensively on Hobson&#39;s study of imperialism and Hilferding&#39;s analysis of finance capital, Lenin contends that the monopoly stage transforms free competition into its opposite while simultaneously intensifying inter-imperialist rivalry. He argues that the superprofits extracted from colonial exploitation enable the metropolitan bourgeoisie to bribe a thin layer of the working class — the labor aristocracy — thereby splitting the proletariat and undermining revolutionary consciousness in the advanced countries.</p>\n<p>Written as a popular pamphlet under wartime censorship, the work&#39;s theoretical framework became foundational for twentieth-century anti-colonial movements, from the Communist International&#39;s thesis on the national and colonial questions to dependency theory and world-systems analysis. Its analysis of the relationship between monopoly, finance, and geopolitical conflict remains a reference point for contemporary debates about neocolonialism, unequal exchange, and the structural dynamics of the capitalist world system.</p>\n"
   },
   {
+    "slug": "knowledge-and-human-interests",
+    "title": "Knowledge and Human Interests",
+    "author": "Jurgen Habermas",
+    "year": 1968,
+    "tradition": "Frankfurt School",
+    "tags": [
+      "epistemology",
+      "critique",
+      "positivism",
+      "interests"
+    ],
+    "traditions": {
+      "classical": "Habermas's identification of an emancipatory knowledge-interest grounds critical theory in the universal human interest in liberation, but his turn toward communicative rationality ultimately abandons Marx's critique of political economy for a neo-Kantian framework.",
+      "value-form": "The theory of knowledge-constitutive interests fails to grasp how the value-form itself constitutes the categories of knowledge: the technical interest in prediction and control is not merely one cognitive orientation among three but is structurally embedded in the real abstractions of commodity society.",
+      "harvey": "Habermas's framework illuminates how different forms of knowledge serve different social interests, but his neglect of spatial and material practices means he cannot account for how knowledge production is shaped by the concrete geography of capitalist accumulation.",
+      "structuralist": "The tripartite schema of knowledge-interests provides a useful typology for analysing how different sciences serve different social functions, but the appeal to quasi-transcendental interests lacks the structural specificity of a materialist analysis of knowledge production."
+    },
+    "body": "<p><em>Knowledge and Human Interests</em> (1968) is Habermas&#39;s ambitious reconstruction of the relationship between epistemology and social theory. He argues that all knowledge is guided by underlying &#39;knowledge-constitutive interests&#39;: the technical interest in prediction and control (natural sciences), the practical interest in mutual understanding (hermeneutic sciences), and the emancipatory interest in liberation from domination (critical social science).</p>\n<p>Habermas traces how positivism severed the connection between knowledge and human interests, reducing all knowledge to the technical model and thereby eliminating the possibility of a genuinely critical science. He reconstructs the emancipatory tradition through Kant, Fichte, Hegel, Marx, Freud, and Peirce. The work marked a turning point in critical theory, moving away from the first-generation Frankfurt School&#39;s critique of instrumental reason toward a communicative theory of rationality that would culminate in <em>The Theory of Communicative Action</em>.</p>\n"
+  },
+  {
+    "slug": "labor-and-monopoly-capital",
+    "title": "Labor and Monopoly Capital",
+    "author": "Harry Braverman",
+    "year": 1974,
+    "tradition": "Monthly Review School",
+    "translations": [
+      "Monthly Review Press (1974, 1998 25th anniversary)"
+    ],
+    "tags": [
+      "labor process",
+      "deskilling",
+      "monopoly capitalism"
+    ],
+    "body": "<p><em>Labor and Monopoly Capital: The Degradation of Work in the Twentieth Century</em> (1974) revived Marxist analysis of the labour process, a field largely neglected since Marx&#39;s own treatment in <em>Capital</em>. Braverman argued that the capitalist drive to control the labour process leads systematically to the deskilling of workers through Taylorist scientific management, which separates conception from execution and transfers knowledge from workers to management.</p>\n<p>Braverman traced deskilling across manufacturing, clerical work, and the service sector, demonstrating that monopoly capitalism&#39;s rationalisation of production progressively degrades the content of work. The book launched the &#39;labour process debate&#39; of the 1970s-80s, with critics (Burawoy, Edwards, Friedman) arguing that Braverman neglected worker resistance, the role of consent in production, and alternative management strategies beyond direct control. Despite these criticisms, the work remains foundational for understanding how capital transforms work, and its analysis anticipates contemporary concerns about algorithmic management, surveillance, and automation.</p>\n"
+  },
+  {
     "slug": "late-capitalism",
     "title": "Late Capitalism",
     "author": "Ernest Mandel",
@@ -292,6 +510,62 @@
     "body": "<p><em>Late Capitalism</em>, Mandel&#39;s major theoretical work, analyzes the post-1945 capitalist boom and its emerging contradictions through the lens of long waves of capitalist development — a framework drawn from Kondratiev but given a distinctively Marxist theoretical grounding. Mandel argues that the postwar expansion represented a third major phase of capitalist development, following competitive capitalism and classical imperialism, characterized by the dominance of multinational corporations, accelerating technological innovation, the growing economic role of the state, and the increasing commodification of all spheres of social life.</p>\n<p>Mandel contends that this &quot;late capitalist&quot; phase does not overcome the fundamental contradictions of the system but displaces and intensifies them, setting the stage for renewed crisis. He rejects both the social-democratic thesis of managed capitalism that has transcended cyclical crisis and the orthodox Marxist expectation of imminent collapse, instead theorizing a contradictory dynamic in which each expansionary wave creates the conditions for the next downturn through the overaccumulation of capital and the tendential decline in profitability.</p>\n<p>The book gave wide currency to the term &quot;late capitalism,&quot; which Fredric Jameson later adopted to describe the cultural logic of postmodernity. Mandel&#39;s analysis of the arms economy, the internationalization of capital, and the relationship between technological revolution and profit rate recovery remains an important reference point for periodizing capitalist development. Written with a combination of theoretical ambition and empirical detail rare in Marxist economics, <em>Late Capitalism</em> stands as one of the most comprehensive attempts to update Marx&#39;s categories for the analysis of postwar capitalism.</p>\n"
   },
   {
+    "slug": "legitimation-crisis",
+    "title": "Legitimation Crisis",
+    "author": "Jurgen Habermas",
+    "year": 1973,
+    "tradition": "Frankfurt School",
+    "tags": [
+      "crisis",
+      "legitimation",
+      "late capitalism",
+      "state"
+    ],
+    "traditions": {
+      "classical": "Habermas correctly identifies how the interventionist state generates new crisis tendencies, but his systems-theoretic framework abandons the labour theory of value and replaces class struggle with abstract steering problems.",
+      "value-form": "The concept of legitimation crisis reveals how the state's management of the value-form's contradictions generates secondary crises in the political and cultural spheres, as the rationalisation of social life undermines the traditional norms that secured consent.",
+      "harvey": "Habermas's crisis typology illuminates how state intervention in accumulation displaces economic contradictions into political and ideological domains, but neglects the spatial dimensions of how these crises are managed through geographical restructuring.",
+      "structuralist": "Legitimation crisis theory provides a structural analysis of how late capitalist formations generate contradictions across multiple institutional levels — economic, administrative, legitimation, and motivation — that overdetermine the possibilities for systemic breakdown."
+    },
+    "body": "<p><em>Legitimation Crisis</em> (1973) analyses how late capitalist societies, in which the state actively intervenes in the economy, generate new forms of crisis beyond traditional economic crises. Habermas identifies four crisis tendencies: economic crisis (market failures), rationality crisis (the state&#39;s inability to manage the economy effectively), legitimation crisis (the erosion of mass loyalty to the system), and motivation crisis (the decline of cultural traditions that sustain work discipline and civic participation).</p>\n<p>Habermas argues that as the state assumes responsibility for economic management, economic crises are transformed into political crises of legitimation. The rationality of administrative planning cannot replace the market&#39;s coordination function, while the expansion of state intervention erodes the privatism and traditionalism that previously secured consent. The work bridges Marxist crisis theory and Weber&#39;s rationalisation thesis, anticipating later analyses of neoliberalism as a response to the legitimation problems of welfare-state capitalism.</p>\n"
+  },
+  {
+    "slug": "minima-moralia",
+    "title": "Minima Moralia",
+    "author": "Theodor Adorno",
+    "year": 1951,
+    "tradition": "Frankfurt School",
+    "tags": [
+      "critical theory",
+      "damaged life",
+      "aphorism",
+      "alienation"
+    ],
+    "traditions": {
+      "classical": "Classical Marxism values the work's critique of bourgeois ideology but finds its fragmentary form and retreat from class analysis symptomatic of intellectual defeatism in the face of fascism.",
+      "value-form": "Value-form theory reads the aphorisms as registering how the commodity form penetrates subjective experience, making even intimate life a reflex of exchange abstraction.",
+      "harvey": "Harvey's geographical materialism connects Adorno's exile perspective to the spatial dislocations of capital, where displacement reveals the totalizing reach of capitalist social relations.",
+      "structuralist": "Structuralist Marxism sees the work as illustrating ideology's saturation of everyday life but criticizes its reliance on individual subjectivity rather than structural determination."
+    },
+    "body": "<p><em>Minima Moralia</em> is a collection of aphoristic reflections written during Adorno&#39;s wartime exile in the United States, offering a sustained critique of life under late capitalism. Subtitled &quot;Reflections from Damaged Life,&quot; the work argues that the forces of commodification, instrumental reason, and administered society have penetrated even the most private dimensions of human existence. The individual subject, far from being a site of freedom, is shown to be thoroughly shaped by the totality of capitalist social relations.</p>\n<p>The text occupies a unique position within critical theory, combining philosophical rigor with literary experimentation. Each aphorism functions as a miniature dialectical analysis, moving between the particular and the universal to reveal how domination operates through culture, morality, and interpersonal relationships. Adorno&#39;s method refuses systematic exposition, arguing that the fragment is the only honest form of thought in a damaged world.</p>\n<p>Key contributions include the analysis of the culture industry&#39;s colonization of leisure, the critique of authenticity as ideology, and the demonstration that even resistance is shaped by what it opposes. The work remains essential for understanding how critical theory approaches the subjective dimensions of capitalist domination and the possibilities for thinking beyond the given.</p>\n"
+  },
+  {
+    "slug": "monopoly-capital",
+    "title": "Monopoly Capital",
+    "author": "Paul Baran and Paul Sweezy",
+    "year": 1966,
+    "tradition": "Monthly Review School",
+    "translations": [
+      "Monthly Review Press (1966)"
+    ],
+    "tags": [
+      "monopoly capitalism",
+      "surplus",
+      "stagnation"
+    ],
+    "body": "<p><em>Monopoly Capital: An Essay on the American Economic and Social Order</em> (1966) by Paul Baran and Paul Sweezy argues that monopoly capitalism has fundamentally altered the laws of motion Marx identified for competitive capitalism. Under monopoly conditions, the central tendency is not the falling rate of profit but the rising surplus — monopoly firms generate more surplus than can be profitably reinvested.</p>\n<p>The authors analyse how this surplus is absorbed through civilian and military government spending, the sales effort (advertising and marketing), and imperial expansion. Without these absorption mechanisms, monopoly capitalism tends toward stagnation rather than crisis. The work was enormously influential, shaping the Monthly Review school&#39;s analysis of US capitalism and Third World underdevelopment. Critics have challenged the abandonment of the labour theory of value, the concept of surplus as a replacement for surplus value, and the stagnation thesis itself, which seemed contradicted by the post-war boom&#39;s continuation until the 1970s.</p>\n"
+  },
+  {
     "slug": "mute-compulsion",
     "title": "Mute Compulsion",
     "author": "Soren Mau",
@@ -305,6 +579,26 @@
       "social reproduction"
     ],
     "body": "<p><em>Mute Compulsion</em> develops a systematic theory of the specifically economic power of capital — the impersonal, structural form of domination that operates not through direct violence or ideological persuasion but through the silent compulsion of market dependence. Mau argues that most critical theory has focused on either the ideological or repressive dimensions of capitalist power while neglecting the distinctively economic mechanisms through which capital subordinates human life: the separation of producers from the means of production, the commodification of labor-power, and the disciplinary force of competition.</p>\n<p>Drawing on Marx&#39;s mature critique of political economy, particularly the analysis of real subsumption and the concept of capital as an automatic subject, Mau traces how capital reshapes the material conditions of social reproduction — transforming bodies, desires, temporalities, and the relationship between humans and nature — in ways that produce compliance without requiring either consent or coercion in the traditional sense. The book distinguishes this economic power from sovereignty, disciplinary power, and biopower, arguing that it constitutes a form of domination specific to capitalism and irreducible to other modalities.</p>\n<p>Published to wide acclaim and rapidly translated into multiple languages, <em>Mute Compulsion</em> has been recognized as one of the most significant contributions to Marxist social theory in recent years. Its integration of value-form analysis, social reproduction theory, and the critique of political economy provides a framework for understanding why capitalist domination persists even in the absence of overt repression or effective ideology.</p>\n"
+  },
+  {
+    "slug": "negative-dialectics",
+    "title": "Negative Dialectics",
+    "author": "Theodor Adorno",
+    "year": 1966,
+    "tradition": "Frankfurt School",
+    "tags": [
+      "dialectics",
+      "identity thinking",
+      "non-identity",
+      "philosophy"
+    ],
+    "traditions": {
+      "classical": "Classical Marxism appreciates the critique of idealism but finds Adorno's rejection of dialectical synthesis incompatible with the revolutionary optimism of historical materialism.",
+      "value-form": "Value-form theory sees non-identity thinking as parallel to the critique of real abstraction, where the concept's violence against the particular mirrors exchange value's reduction of concrete labor.",
+      "harvey": "Harvey engages with Adorno's insistence on the primacy of the object as resonant with materialism's demand to ground theory in concrete spatial and historical processes.",
+      "structuralist": "Structuralist Marxism regards the work as philosophically significant but overly subjectivist, lacking the structural analysis of social formations that would ground its critique of identity thinking."
+    },
+    "body": "<p><em>Negative Dialectics</em> is Adorno&#39;s most ambitious philosophical work, mounting a sustained critique of identity thinking -- the philosophical tendency to subsume particular objects under universal concepts. Against the Hegelian tradition that resolves contradictions in higher syntheses, Adorno argues that dialectics must remain negative, attending to what escapes conceptual identification. The primacy of the object means that thought must acknowledge what is non-identical, what resists being captured by the concept.</p>\n<p>The work represents a fundamental rethinking of the relationship between philosophy and materialism. Adorno develops the idea that conceptual thought necessarily does violence to its objects by making them equivalent and exchangeable, a process he links to the commodity form&#39;s real abstraction. Philosophy after Auschwitz must confront its own complicity with domination, recognizing that the drive toward systematic totality mirrors the administered world it claims to critique.</p>\n<p>Central contributions include the metacritique of epistemology, the model analyses of freedom, history, and metaphysics, and the argument that philosophy can only remain true to its object by pursuing contradiction rather than resolution. The text remains foundational for any critical theory that seeks to resist the totalizing impulse of instrumental reason.</p>\n"
   },
   {
     "slug": "on-contradiction",
@@ -396,6 +690,46 @@
     "body": "<p>The <em>Philosophical Notebooks</em> comprise Lenin&#39;s reading notes on Hegel&#39;s <em>Science of Logic</em>, <em>Lectures on the History of Philosophy</em>, and other philosophical works, written primarily during 1914-15 while Lenin was in exile in Bern. Never intended for publication and first printed in 1929-30, the notebooks reveal a Lenin grappling seriously with Hegelian dialectics at a level of sophistication absent from his earlier philosophical writing, <em>Materialism and Empirio-Criticism</em> (1908).</p>\n<p>The notebooks contain Lenin&#39;s celebrated aphorism that it is impossible to fully understand Marx&#39;s <em>Capital</em> without having studied the whole of Hegel&#39;s <em>Logic</em>, and his recognition that the intelligent idealism of Hegel is closer to intelligent materialism than the crude, mechanical materialism that had dominated Second International Marxism. Lenin&#39;s marginal comments on the categories of the <em>Logic</em> — being, essence, concept, contradiction, the unity of opposites — show him rethinking the philosophical foundations of dialectical materialism in response to the catastrophic failure of European social democracy to resist World War I.</p>\n<p>The significance of the <em>Notebooks</em> for Marxist philosophy has been debated along predictable lines: some readers see them as evidence of Lenin&#39;s return to Hegel and a rupture with the crude reflection theory of <em>Materialism and Empirio-Criticism</em>; others argue for continuity in Lenin&#39;s philosophical development. The notebooks have been particularly influential in the Italian Marxist tradition and among those who, following Lukacs, insist on the centrality of dialectical method to revolutionary theory.</p>\n"
   },
   {
+    "slug": "philosophy-of-new-music",
+    "title": "Philosophy of New Music",
+    "author": "Theodor Adorno",
+    "year": 1949,
+    "tradition": "Frankfurt School",
+    "tags": [
+      "music",
+      "Schoenberg",
+      "Stravinsky",
+      "modernism"
+    ],
+    "traditions": {
+      "classical": "Adorno's aesthetic theory, while brilliant in its analysis of how art reflects social contradictions, is confined to the sphere of high culture and offers no path from aesthetic critique to political transformation through class struggle.",
+      "value-form": "The work demonstrates how the value-form's rationalisation of social life penetrates musical material itself: the twelve-tone technique's systematic organisation of all pitches mirrors the totalising logic of exchange abstraction.",
+      "harvey": "Adorno's analysis of how musical material bears the imprint of social relations illuminates the cultural dimension of capitalist modernity, though his exclusive focus on Western art music neglects the spatial and geographic diversity of aesthetic production.",
+      "structuralist": "The text exemplifies how structural analysis of cultural forms reveals their determination by the social totality: musical techniques are not autonomous inventions but are shaped by the contradictions of the historical conjuncture."
+    },
+    "body": "<p><em>Philosophy of New Music</em> (1949) presents Adorno&#39;s dialectical analysis of modern music through two contrasting studies: Schoenberg and Stravinsky. Schoenberg&#39;s atonal and twelve-tone music represents for Adorno the authentic artistic response to modernity — its dissonance and formal radicalism express the truth of a damaged social totality by refusing the false harmony of tonal convention.</p>\n<p>Stravinsky&#39;s neoclassicism, by contrast, represents regression: his rhythmic primitivism and ironic use of past styles amount to a pseudo-archaic restoration that accommodates the listener to the administered world rather than challenging it. Adorno argues that musical material has its own historical logic — composers do not freely choose their techniques but must respond to the objective state of the material as shaped by the social totality. The work exemplifies Adorno&#39;s broader aesthetic theory: that authentic art preserves the possibility of a different world precisely by refusing to represent it positively.</p>\n"
+  },
+  {
+    "slug": "prisms",
+    "title": "Prisms",
+    "author": "Theodor Adorno",
+    "year": 1955,
+    "tradition": "Frankfurt School",
+    "tags": [
+      "cultural criticism",
+      "essays",
+      "Kafka",
+      "sociology"
+    ],
+    "traditions": {
+      "classical": "Adorno's cultural criticism reveals how bourgeois culture serves ideological functions, but his pessimism about mass culture and his retreat into aesthetic autonomy represent a capitulation before the task of revolutionary transformation.",
+      "value-form": "The essays demonstrate how cultural forms are internally shaped by the commodity form: the 'truth content' of artworks emerges from their engagement with the real abstractions of exchange society, not from their explicit political content.",
+      "harvey": "Adorno's analysis of how cultural production is shaped by the totality of social relations provides tools for understanding the commodification of culture, though his elitism prevents engagement with popular and spatially diverse cultural forms.",
+      "structuralist": "Prisms exemplifies the method of reading cultural phenomena as symptomatic expressions of structural contradictions, where individual works refract the social totality through their formal organisation rather than their explicit content."
+    },
+    "body": "<p><em>Prisms</em> (1955) is a collection of Adorno&#39;s cultural criticism essays, including the influential &#39;Cultural Criticism and Society,&#39; which contains his famous and frequently misunderstood dictum about the barbarism of writing poetry after Auschwitz. The essays exemplify Adorno&#39;s method of immanent critique — reading cultural objects not from an external standpoint but by tracing the contradictions within their own logic.</p>\n<p>The collection includes studies of Spengler, Huxley, Kafka, Veblen, and the sociology of knowledge, demonstrating Adorno&#39;s range across literature, philosophy, and social science. Each essay analyses how cultural phenomena simultaneously reveal and conceal the social contradictions from which they emerge. Adorno&#39;s method treats cultural criticism itself as entangled in the culture it criticises — the critic cannot claim a position outside the totality. This reflexive approach to ideology critique has influenced subsequent cultural theory, from Jameson&#39;s analysis of postmodernism to contemporary debates about the politics of aesthetics.</p>\n"
+  },
+  {
     "slug": "prison-notebooks",
     "title": "Prison Notebooks",
     "author": "Antonio Gramsci",
@@ -435,6 +769,26 @@
     "body": "<p><em>Reading Capital</em> originated in a seminar at the Ecole Normale Superieure in Paris during the 1964-65 academic year and introduced the method of symptomatic reading to Marxist theory. Althusser argues that Marx&#39;s mature work operates with a concept of structural causality irreducible to either Hegelian expressivism — in which every part of the social whole expresses a single essence — or empiricist models of knowledge that treat theory as a passive reflection of given facts. Instead, Marx&#39;s <em>Capital</em> produces its object theoretically, constructing the concept of the mode of production as a complex, structured whole in which causality operates through the articulation of relatively autonomous instances (economic, political, ideological) rather than through simple determination.</p>\n<p>Althusser and his collaborators contend that <em>Capital</em> enacts an epistemological break from the ideological problematic of the early Marx to the scientific problematic of the mature critique of political economy. This thesis generated intense debate about continuity and discontinuity in Marx&#39;s thought, the status of humanism and historicism in Marxist theory, and the relationship between science and ideology.</p>\n<p>The complete Verso edition of 2015 restores the contributions of Ranciere, Macherey, and Establet that were omitted from earlier English translations, revealing the collective and internally contested character of the project. Ranciere&#39;s contribution, which he later disavowed, offers a critique of the concept of critique itself, while Macherey&#39;s analysis of Marx&#39;s relationship to Hegel remains underappreciated. <em>Reading Capital</em> is essential for understanding structuralist Marxism, the Althusserian legacy, and the philosophical stakes of reading Marx&#39;s economic writings.</p>\n"
   },
   {
+    "slug": "reason-and-revolution",
+    "title": "Reason and Revolution",
+    "author": "Herbert Marcuse",
+    "year": 1941,
+    "tradition": "Frankfurt School",
+    "tags": [
+      "Hegel",
+      "Marx",
+      "social theory",
+      "dialectics"
+    ],
+    "traditions": {
+      "classical": "Marcuse correctly recovers the revolutionary content of Hegel's dialectic against positivist appropriations, demonstrating that dialectical reason is inherently critical and negative — a weapon against the given social order.",
+      "value-form": "The work illuminates how Hegel's logic of negativity and contradiction provides the philosophical foundation for Marx's critique of the value-form, where the commodity's contradictions drive the dialectical development of capital's categories.",
+      "harvey": "Marcuse's recovery of Hegel's critical social theory provides philosophical resources for understanding how dialectical contradiction operates in the material world of capitalist spatial production and urban transformation.",
+      "structuralist": "While the emphasis on Hegel's dialectic as inherently revolutionary is valuable, Marcuse's humanist reading underestimates the structural determinations that constrain the possibilities for dialectical negation within a given social formation."
+    },
+    "body": "<p><em>Reason and Revolution: Hegel and the Rise of Social Theory</em> (1941) is Marcuse&#39;s interpretation of Hegel as a fundamentally critical social theorist whose philosophy contains the intellectual foundations for Marxism. Written partly to counter the appropriation of Hegel by fascist and authoritarian thinkers, Marcuse argued that Hegel&#39;s dialectic is inherently revolutionary: its central principle of negativity — that every existing state of affairs contains the seeds of its own transcendence — makes it incompatible with any philosophy that accepts the given as final.</p>\n<p>Marcuse traces the development from Hegel&#39;s philosophy through Marx&#39;s critique of political economy, showing how Marx realised Hegel&#39;s dialectic in material social analysis. The second part examines the rise of positivist sociology (Comte, Weber) as the abandonment of dialectical reason in favour of a &#39;positive&#39; social science that accepts existing reality as its framework. The work established the Hegelian-Marxist tradition for an English-speaking audience and remains a foundational text of Western Marxism.</p>\n"
+  },
+  {
     "slug": "reform-or-revolution",
     "title": "Reform or Revolution",
     "author": "Rosa Luxemburg",
@@ -472,6 +826,42 @@
     "body": "<p><em>Seven Interpretive Essays on Peruvian Reality</em> is Mariategui&#39;s masterwork, applying historical materialism to the analysis of Peruvian economy, politics, education, religion, literature, and the agrarian question with an originality that has made it the founding text of Latin American Marxism. The essays argue that the fundamental problem of Peru is the land question and the exploitation of the indigenous majority, rooted in a semi-feudal system of latifundia that survived independence from Spain and was reinforced rather than dissolved by the country&#39;s dependent integration into the world market.</p>\n<p>Mariategui rejects the orthodox Marxist assumption that Peru must pass through a stage of bourgeois-democratic development before socialist revolution becomes possible, arguing that the Peruvian bourgeoisie is too dependent on imperialism and too intertwined with the landed oligarchy to carry through its own historical program. Instead, he proposes a creative synthesis of Marxism and indigenism, arguing that the communal traditions of the Andean <em>ayllu</em> — the indigenous system of collective land tenure and reciprocal labor — represent a living foundation for socialist construction that need not recapitulate the trajectory of European capitalist development.</p>\n<p>The essays on education and literature demonstrate Mariategui&#39;s commitment to cultural analysis as an integral dimension of social transformation, anticipating Gramsci&#39;s analysis of hegemony and the role of intellectuals. Written in a lucid, combative prose that combines theoretical rigor with journalistic accessibility, the <em>Seven Essays</em> remain essential for understanding the relationship between Marxism, indigenous movements, and anti-imperialism in Latin America.</p>\n"
   },
   {
+    "slug": "socialism-utopian-and-scientific",
+    "title": "Socialism: Utopian and Scientific",
+    "author": "Friedrich Engels",
+    "year": 1880,
+    "tradition": "Classical Marxism",
+    "translations": [
+      "Aveling (1892)"
+    ],
+    "tags": [
+      "utopian socialism",
+      "scientific socialism",
+      "historical materialism"
+    ],
+    "body": "<p><em>Socialism: Utopian and Scientific</em> (1880) is a pamphlet extracted from three chapters of Engels&#39;s <em>Anti-Dühring</em>, published separately at Marx&#39;s suggestion as an accessible introduction to scientific socialism. It became the most widely read work of Marxist theory in the nineteenth century, translated into dozens of languages and distributed in millions of copies.</p>\n<p>The pamphlet distinguishes utopian socialism — represented by Saint-Simon, Fourier, and Owen, who designed ideal societies without understanding the material conditions for their realisation — from scientific socialism, which grounds the socialist project in the analysis of capitalism&#39;s actual contradictions. Engels traces the development of materialism and dialectics, outlines the materialist conception of history, and argues that capitalism&#39;s socialisation of production creates the objective conditions for socialist transformation. Critics have noted that Engels&#39;s positivist framing of Marxism as a &#39;science&#39; analogous to natural science differs from Marx&#39;s more nuanced understanding of critique, but the pamphlet remains historically significant as the gateway text through which millions encountered Marxist ideas.</p>\n"
+  },
+  {
+    "slug": "studies-on-authority-and-the-family",
+    "title": "Studies on Authority and the Family",
+    "author": "Max Horkheimer (ed.)",
+    "year": 1936,
+    "tradition": "Frankfurt School",
+    "tags": [
+      "authority",
+      "family",
+      "psychoanalysis",
+      "ideology"
+    ],
+    "traditions": {
+      "classical": "The study reveals how the bourgeois family functions as a mechanism of ideological reproduction, instilling obedience and submission that prepares individuals for authoritarian politics — knowledge essential for understanding fascism's social base.",
+      "value-form": "The research demonstrates how the value-form's abstract domination is mediated through the family: the father's authority within the household mirrors and reproduces the impersonal authority of the market, socialising children into acceptance of hierarchical social relations.",
+      "harvey": "The analysis of how family structures reproduce authoritarian dispositions illuminates the micro-geographies of social reproduction, connecting the intimate space of the household to the broader spatial organisation of capitalist society.",
+      "structuralist": "The study exemplifies how ideological reproduction operates through the family as an apparatus that produces subjects predisposed to accept authority, demonstrating the overdetermination of political consciousness by multiple institutional structures."
+    },
+    "body": "<p><em>Studies on Authority and the Family</em> (Studien über Autorität und Familie, 1936) was the first major collaborative research publication of the Frankfurt School&#39;s Institute for Social Research. Edited by Horkheimer, with contributions from Fromm, Marcuse, and others, it investigated how the patriarchal family produces character structures predisposed to authoritarian submission.</p>\n<p>The study combined theoretical essays with empirical surveys of working-class and middle-class families in several European countries. Fromm&#39;s contribution analysed how the decline of the father&#39;s economic authority under monopoly capitalism paradoxically intensified authoritarian tendencies, as insecure family structures produced individuals seeking compensatory domination. The research provided the foundation for the later <em>Authoritarian Personality</em> studies and established the Frankfurt School&#39;s distinctive method of integrating Marxist social theory, Freudian psychoanalysis, and empirical social research.</p>\n"
+  },
+  {
     "slug": "accumulation-of-capital",
     "title": "The Accumulation of Capital",
     "author": "Rosa Luxemburg",
@@ -488,6 +878,46 @@
       "crisis theory"
     ],
     "body": "<p><em>The Accumulation of Capital</em> is Luxemburg&#39;s major theoretical intervention into Marxist political economy, written during her years teaching at the SPD party school in Berlin. The work argues that capitalist expanded reproduction is logically impossible within a closed system of purely capitalist social relations, because the surplus value produced cannot be fully realized without access to non-capitalist markets. Capital therefore necessarily drives outward, absorbing pre-capitalist economies through colonialism, militarism, and the forcible commodification of subsistence production. This process, Luxemburg contends, is not an aberration but the essential mechanism of capitalist accumulation on a world scale.</p>\n<p>The book&#39;s central polemic targets Marx&#39;s reproduction schemas in Volume II of <em>Capital</em>, which Luxemburg regarded as incomplete and internally contradictory. Her critique generated one of the most sustained debates in Marxist economics, drawing responses from Bukharin, Henryk Grossman, and Paul Sweezy, among others. Critics argued she confused the conditions of realization with those of production, while sympathetic readers saw her as anticipating dependency theory and world-systems analysis.</p>\n<p>Luxemburg&#39;s insistence that capitalism contains an inherent geographical and social limit to accumulation has gained renewed attention in an era of global ecological crisis and the ongoing enclosure of commons across the Global South. The work remains foundational for Marxist theories of imperialism, uneven development, and the relationship between capitalist and non-capitalist modes of production.</p>\n"
+  },
+  {
+    "slug": "the-arcades-project",
+    "title": "The Arcades Project",
+    "author": "Walter Benjamin",
+    "year": 1940,
+    "tradition": "Frankfurt School",
+    "tags": [
+      "modernity",
+      "commodity",
+      "phantasmagoria",
+      "Paris"
+    ],
+    "traditions": {
+      "classical": "Benjamin's montage of commodity culture reveals capitalism's phantasmagoric character, but his messianic and aesthetic approach to revolution lacks the organisational and strategic dimensions necessary for the actual overthrow of class society.",
+      "value-form": "The Arcades Project demonstrates how the commodity form generates a dreamworld of phantasmagoria — the arcades, world exhibitions, and fashion present the commodity's fetish character as the sensuous texture of modern experience.",
+      "harvey": "Benjamin's analysis of Paris as the capital of the nineteenth century is foundational for understanding how urbanisation materialises the contradictions of capital, how the built environment serves both accumulation and the production of bourgeois ideology.",
+      "structuralist": "The dialectical image — in which past and present constellation into a flash of recognition — provides a theory of how historical structures persist as unconscious determinants of present experience, readable only at moments of crisis."
+    },
+    "body": "<p><em>The Arcades Project</em> (Das Passagen-Werk) is Walter Benjamin&#39;s massive, unfinished work on nineteenth-century Paris as the capital of modernity, compiled between 1927 and his death in 1940. Organised as a montage of quotations and commentary across dozens of thematic &#39;convolutes,&#39; it examines the Paris arcades, panoramas, world exhibitions, fashion, prostitution, Haussmannisation, and the figure of the flâneur as expressions of commodity capitalism&#39;s dreamworld.</p>\n<p>Benjamin developed the concept of the &#39;dialectical image&#39; — a constellation in which past and present are brought into critical contact, enabling the flash of revolutionary recognition. The commodity&#39;s phantasmagoric character creates collective dream-images that must be awakened from rather than interpreted. Harvey&#39;s <em>Paris, Capital of Modernity</em> engages extensively with Benjamin&#39;s project. The work&#39;s fragmentary, non-linear form has been read as both its limitation and its methodological innovation, embodying a critical practice adequate to capitalism&#39;s own contradictory totality.</p>\n"
+  },
+  {
+    "slug": "the-authoritarian-personality",
+    "title": "The Authoritarian Personality",
+    "author": "Theodor Adorno et al.",
+    "year": 1950,
+    "tradition": "Frankfurt School",
+    "tags": [
+      "fascism",
+      "psychology",
+      "authoritarianism",
+      "ideology"
+    ],
+    "traditions": {
+      "classical": "Classical Marxism values the study's attention to fascism but insists that authoritarianism must be explained through class struggle and material conditions, not primarily through individual psychology.",
+      "value-form": "Value-form theory finds limited direct engagement, though the study's account of rigid categorization and stereotypy can be read as psychological correlates of the abstracting logic of commodity exchange.",
+      "harvey": "Harvey's materialism would situate authoritarian personality formation within specific geographical and economic crises, emphasizing how spatial inequalities produce the resentments the F-scale measures.",
+      "structuralist": "Structuralist Marxism appreciates the attempt at empirical social science but insists that authoritarian ideology is reproduced through institutional structures rather than individual psychic dispositions."
+    },
+    "body": "<p><em>The Authoritarian Personality</em> is a landmark interdisciplinary study combining psychoanalytic theory with empirical social research to investigate the psychological foundations of fascist susceptibility. Adorno and his collaborators developed the F-scale (fascism scale) to measure authoritarian tendencies, identifying a character structure marked by rigid conventionalism, authoritarian submission and aggression, anti-intraception, superstition, preoccupation with power, destructiveness, projectivity, and exaggerated concern with sexuality.</p>\n<p>The study&#39;s theoretical significance lies in its synthesis of Marxian social analysis with Freudian psychology. Rather than treating fascism as mere political ideology, it demonstrates how capitalist social relations produce specific psychic formations that predispose individuals toward authoritarian movements. The authoritarian character emerges from the patriarchal family&#39;s internalization of social domination, creating subjects who displace economic anxieties onto racialized and marginalized others.</p>\n<p>Key contributions include the empirical methodology for studying ideology&#39;s psychological dimensions, the concept of the authoritarian character type, and the demonstration that prejudice functions as a coherent syndrome rather than a collection of isolated attitudes. The work pioneered the empirical study of ideology and remains influential in political psychology.</p>\n"
   },
   {
     "slug": "black-jacobins",
@@ -507,6 +937,22 @@
       "race and class"
     ],
     "body": "<p><em>The Black Jacobins</em> is C.L.R. James&#39;s history of the Haitian Revolution of 1791-1804, the only successful slave revolution in modern history. Written in London and Paris during the 1930s as anti-colonial movements gathered force across Africa and the Caribbean, the book places the uprising led by Toussaint L&#39;Ouverture at the center of the Age of Revolution, arguing that the enslaved population of Saint-Domingue was not a passive mass but a conscious revolutionary class that drew on and radicalized the universalist ideals of the French Revolution.</p>\n<p>James employs a Marxist framework while insisting on the autonomous agency of Black revolutionary subjects, demonstrating how the plantation system created the conditions for its own overthrow by concentrating a disciplined, exploited labor force with nothing to lose. His narrative traces the interplay between events in the Caribbean and metropolitan politics in Paris, showing how colonial revolution and European revolution were dialectically intertwined. The book also provides a devastating portrait of how revolutionary leaders can be consumed by the very structures they seek to transform, as Toussaint&#39;s diplomatic maneuvering increasingly estranged him from the masses whose struggle he led.</p>\n<p>Revised in 1963 with a new appendix reflecting on African independence movements, <em>The Black Jacobins</em> remains essential reading for understanding the entanglement of race, class, and colonialism in the making of the modern world, and for any serious consideration of revolutionary self-emancipation.</p>\n"
+  },
+  {
+    "slug": "the-civil-war-in-france",
+    "title": "The Civil War in France",
+    "author": "Karl Marx",
+    "year": 1871,
+    "tradition": "Classical Marxism",
+    "translations": [
+      "Various editions"
+    ],
+    "tags": [
+      "Paris Commune",
+      "state",
+      "workers power"
+    ],
+    "body": "<p><em>The Civil War in France</em> (1871) is Marx&#39;s address to the General Council of the International Working Men&#39;s Association, written during and immediately after the Paris Commune. It constitutes Marx&#39;s most detailed analysis of revolutionary politics in practice and his most important theoretical contribution to the Marxist theory of the state.</p>\n<p>Marx analysed the Commune as the political form finally discovered under which the economic emancipation of labour could be accomplished. He identified its key features: the replacement of the standing army by the armed people, elected and recallable officials paid workers&#39; wages, the fusion of executive and legislative functions, and the destruction of the centralised bureaucratic state machinery. The text established the principle — later developed by Lenin in <em>The State and Revolution</em> — that the working class cannot simply take over the existing state but must smash it and replace it with new organs of proletarian power. Marx&#39;s account of the Commune&#39;s suppression during the Semaine Sanglante remains one of the most powerful denunciations of bourgeois class violence in the Marxist canon.</p>\n"
   },
   {
     "slug": "communist-manifesto",
@@ -584,6 +1030,42 @@
     "body": "<p><em>The German Ideology</em>, written in 1845-46 but unpublished in Marx and Engels&#39;s lifetimes, represents their first systematic elaboration of the materialist conception of history. Composed as an extended polemic against the Young Hegelians — Feuerbach, Bruno Bauer, and Max Stirner — the manuscript argues that consciousness is determined by material life rather than the reverse, and that the ruling ideas of any epoch are the ideas of the ruling class, expressing in idealized form the material relations of domination. Marx and Engels famously abandoned the manuscript to the gnawing criticism of the mice, and it was not published in full until 1932.</p>\n<p>The text traces the development of the division of labor and forms of property — tribal, ancient, feudal, and bourgeois — as the material basis for understanding historical change, class formation, and the production of ideology. Marx and Engels argue that the state arises from the contradiction between particular and general interests within civil society, and that genuine human emancipation requires not merely a change in consciousness but the revolutionary transformation of material conditions. The section on Feuerbach contains their most concentrated statement of historical materialism as a method.</p>\n<p>Though unfinished and repetitive in places, <em>The German Ideology</em> remains indispensable for understanding the intellectual break through which Marx moved from philosophical critique to the materialist analysis of social formations, laying the groundwork for the critique of political economy that would occupy the rest of his life.</p>\n"
   },
   {
+    "slug": "the-holy-family",
+    "title": "The Holy Family",
+    "author": "Karl Marx and Friedrich Engels",
+    "year": 1845,
+    "tradition": "Classical Marxism",
+    "translations": [
+      "Dixon (1956)"
+    ],
+    "tags": [
+      "critique",
+      "Young Hegelians",
+      "materialism"
+    ],
+    "body": "<p><em>The Holy Family, or Critique of Critical Criticism</em> (1845) is the first jointly authored work by Marx and Engels, a polemical attack on Bruno Bauer and the Young Hegelians of the <em>Allgemeine Literatur-Zeitung</em>. The title satirises Bauer and his brothers as a &#39;holy family&#39; of speculative philosophy that substitutes abstract criticism for practical engagement with social reality.</p>\n<p>Marx and Engels argue that the Young Hegelians&#39; &#39;critical criticism&#39; remains imprisoned within Hegelian idealism, opposing &#39;Spirit&#39; to the &#39;Mass&#39; and treating real social movements with philosophical contempt. Against this, Marx develops a materialist position grounding critique in the actual conditions of the proletariat and the real movement of civil society. The text contains early formulations of historical materialism, including the argument that the proletariat is compelled by its material conditions to abolish private property. While often dismissed as an ephemeral polemic, the work marks a crucial stage in Marx and Engels&#39;s break with German philosophical idealism and their turn toward materialist social analysis.</p>\n"
+  },
+  {
+    "slug": "the-jargon-of-authenticity",
+    "title": "The Jargon of Authenticity",
+    "author": "Theodor Adorno",
+    "year": 1964,
+    "tradition": "Frankfurt School",
+    "tags": [
+      "existentialism",
+      "Heidegger",
+      "ideology",
+      "language"
+    ],
+    "traditions": {
+      "classical": "Adorno's critique of existentialism exposes how the language of authenticity mystifies real social conditions, substituting philosophical profundity for the material analysis of alienation under capitalism.",
+      "value-form": "The jargon of authenticity reveals how the value-form's destruction of genuine particularity generates compensatory ideologies of false concreteness: existentialism fetishises immediate experience precisely because abstract social relations have emptied it of content.",
+      "harvey": "The critique demonstrates how philosophical ideologies compensate for the alienation produced by capitalist modernity's abstraction of social life, though Adorno does not analyse the spatial and material dimensions of this alienation.",
+      "structuralist": "Adorno shows how existentialism functions ideologically by translating structural social contradictions into individual existential dramas, thereby naturalising conditions that require political rather than philosophical resolution."
+    },
+    "body": "<p><em>The Jargon of Authenticity</em> (Jargon der Eigentlichkeit, 1964) is Adorno&#39;s sustained critique of German existentialism, particularly Heidegger&#39;s philosophy and its broader cultural influence. Adorno argues that existentialism&#39;s vocabulary of authenticity, Being, encounter, and decision functions as an ideology that lends spurious depth and weight to everyday bourgeois consciousness.</p>\n<p>The &#39;jargon&#39; operates by treating historically specific social relations as ontological structures, transforming alienation from a critique of capitalist society into an inescapable feature of human existence. Adorno contends that Heidegger&#39;s philosophy of authenticity is itself inauthentic: by abstracting from the social conditions that produce alienation, it offers false consolation and mystifies domination. The work extends the critique of Heidegger that Adorno had pursued since the 1930s and complements his broader argument in <em>Negative Dialectics</em> against identity thinking and premature philosophical reconciliation.</p>\n"
+  },
+  {
     "slug": "limits-to-capital",
     "title": "The Limits to Capital",
     "author": "David Harvey",
@@ -622,6 +1104,26 @@
     "body": "<p><em>The Making of the English Working Class</em> is Thompson&#39;s monumental history of the formation of working-class consciousness and organization in England between the 1790s and the 1830s, from the impact of the French Revolution through the Luddite risings, the radical reform movement, and the emergence of Chartism. The book&#39;s central argument is that the working class was not simply produced as an automatic effect of industrialization but actively made itself through the process of political struggle, cultural creation, and the shared experience of exploitation.</p>\n<p>Thompson insists that class is a historical relationship, not a structural category: it happens when people, as a result of common experiences inherited and shared, articulate the identity of their interests as between themselves and against other groups whose interests are different from and usually opposed to theirs. This formulation places human agency, cultural tradition, and lived experience at the center of class analysis, challenging both the economic determinism of orthodox Marxism and the static, ahistorical treatment of class in conventional sociology.</p>\n<p>The book recovers the histories of artisans, handloom weavers, radical Dissenters, Jacobin societies, and early trade unionists — people whom, in Thompson&#39;s famous phrase, had been &quot;condescended to by posterity.&quot; His method of social history from below, combining economic analysis with the study of popular culture, religious dissent, political rhetoric, and everyday life, transformed the discipline of social history worldwide. The <em>Making</em> remains one of the most widely read and cited works of Marxist historiography, and its insistence on the irreducibility of class experience to economic structure continues to provoke debate.</p>\n"
   },
   {
+    "slug": "the-origin-of-german-tragic-drama",
+    "title": "The Origin of German Tragic Drama",
+    "author": "Walter Benjamin",
+    "year": 1928,
+    "tradition": "Frankfurt School",
+    "tags": [
+      "allegory",
+      "baroque",
+      "melancholy",
+      "criticism"
+    ],
+    "traditions": {
+      "classical": "Benjamin's analysis of the Baroque mourning play reveals how cultural forms express historical crises of sovereign power, though its esoteric theoretical framework resists integration with the practical tasks of revolutionary politics.",
+      "value-form": "The theory of allegory anticipates the critique of commodity fetishism: where the symbol presents meaning as organic and immediate, allegory exposes meaning as conventional and fragmented — paralleling the value-form's reduction of concrete particularity to abstract equivalence.",
+      "harvey": "Benjamin's reading of the Baroque as an epoch of ruination and fragmentation prefigures his later analysis of modernity's destructive relationship to its own material environment, connecting cultural production to the spatial dynamics of historical transformation.",
+      "structuralist": "The methodological prologue's theory of ideas and constellations provides an alternative to both empiricist and idealist approaches to cultural analysis, reading historical forms as configurations that reveal structural truths invisible to conventional historiography."
+    },
+    "body": "<p><em>The Origin of German Tragic Drama</em> (Ursprung des deutschen Trauerspiels, 1928) was Benjamin&#39;s Habilitation thesis, rejected by the University of Frankfurt and subsequently published as a book. The work analyses the German Baroque mourning play (Trauerspiel) — a minor literary genre — to develop a revolutionary theory of allegory, history, and criticism.</p>\n<p>Benjamin distinguishes allegory from the Romantic concept of the symbol: while the symbol claims immediate unity of meaning and appearance, allegory presents meaning as ruined, fragmentary, and historically contingent. The Baroque allegorist confronts a world drained of transcendent meaning, where history appears as natural catastrophe and sovereign power reveals its arbitrary, violent foundations. The methodological prologue, the &#39;Epistemo-Critical Prologue,&#39; outlines Benjamin&#39;s theory of philosophical presentation through &#39;constellations&#39; and &#39;ideas&#39; — a method that would later inform his analysis of modernity in <em>The Arcades Project</em>. The work&#39;s difficulty contributed to its academic rejection but established concepts central to Benjamin&#39;s later thought.</p>\n"
+  },
+  {
     "slug": "revolution-betrayed",
     "title": "The Revolution Betrayed",
     "author": "Leon Trotsky",
@@ -639,6 +1141,26 @@
       "transition"
     ],
     "body": "<p><em>The Revolution Betrayed</em> is Trotsky&#39;s most systematic analysis of the Soviet Union under Stalin, written in Norwegian exile and published in 1936 on the eve of the Great Purges. Trotsky argues that the Soviet Union represents neither socialism nor a restored capitalism but a contradictory transitional formation — a degenerated workers&#39; state — in which the social foundations of the October Revolution (nationalized property, planned economy, monopoly of foreign trade) persist under the political domination of a parasitic bureaucratic caste that has usurped power from the working class.</p>\n<p>Trotsky traces the material roots of bureaucratic degeneration to the isolation of the revolution in a backward country, the destruction of the most politically conscious workers in the civil war, and the exhaustion and demoralization of the Soviet proletariat. The bureaucracy, he argues, arose not from some inherent flaw in Bolshevism but from the objective conditions of scarcity, which required a social layer to police the distribution of limited resources. However, this caste has no independent historical mission and must ultimately either be overthrown by a political revolution that restores workers&#39; democracy while preserving nationalized property, or preside over capitalist restoration.</p>\n<p>The book&#39;s analysis of Soviet economic planning, its comparison of Soviet and capitalist growth rates, and its examination of the bureaucracy&#39;s privileges, cultural conservatism, and foreign policy remain essential for understanding the trajectory of twentieth-century socialism. Trotsky&#39;s prediction that the bureaucracy would eventually move toward capitalist restoration has been widely cited since the collapse of the Soviet Union in 1991.</p>\n"
+  },
+  {
+    "slug": "the-sane-society",
+    "title": "The Sane Society",
+    "author": "Erich Fromm",
+    "year": 1955,
+    "tradition": "Frankfurt School",
+    "tags": [
+      "alienation",
+      "mental health",
+      "capitalism",
+      "humanism"
+    ],
+    "traditions": {
+      "classical": "Fromm's diagnosis of capitalist society as insane draws attention to the human costs of exploitation, but his humanistic socialism substitutes psychological health for class struggle and reformist cooperativism for revolutionary transformation.",
+      "value-form": "The concept of a pathological society grasps how the value-form's abstract domination deforms human capacities, but Fromm's appeal to universal human needs fails to recognise that subjectivity itself is historically constituted by commodity relations.",
+      "harvey": "Fromm's analysis of how capitalist society produces alienation and conformity illuminates the subjective dimension of how people experience the material conditions of accumulation, though his prescriptions lack a theory of spatial and structural transformation.",
+      "structuralist": "The appeal to transhistorical human needs as a criterion for social criticism lacks structural specificity: the concept of a 'sane society' presupposes a normative anthropology that is itself historically conditioned rather than universally given."
+    },
+    "body": "<p><em>The Sane Society</em> (1955) extends Fromm&#39;s earlier analysis in <em>Escape from Freedom</em> to argue that modern capitalist society is itself pathological — not merely that individuals within it become mentally ill, but that the social system as a whole is structured in ways that prevent the realisation of fundamental human needs for relatedness, creativity, rootedness, identity, and a frame of orientation.</p>\n<p>Fromm analyses alienation in contemporary capitalism through the concept of the &#39;marketing orientation&#39; — a character type that treats the self as a commodity to be packaged and sold. He proposes &#39;humanistic communitarian socialism&#39; as the alternative: decentralised, participatory, and oriented toward human development rather than profit. The work drew on Marx&#39;s early writings on alienation, particularly the 1844 Manuscripts, and contributed to the humanist Marxist revival of the 1950s-60s. Critics from both orthodox and structuralist Marxist positions have challenged Fromm&#39;s normative humanism and his reformist political conclusions.</p>\n"
   },
   {
     "slug": "society-of-spectacle",
@@ -679,6 +1201,26 @@
     "body": "<p><em>The State and Revolution</em>, written in hiding in Finland during the summer of 1917 between the February and October revolutions, recovers Marx and Engels&#39;s theory of the state as an instrument of class domination, systematically polemicizing against the social-democratic orthodoxy that sought to use the existing state apparatus for socialist purposes. Lenin argues that the bourgeois state — its army, police, bureaucracy, and judiciary — cannot simply be taken over by the working class but must be smashed and replaced by a new form of political power: the dictatorship of the proletariat, modeled on the Paris Commune of 1871.</p>\n<p>Drawing extensively on Marx&#39;s <em>The Civil War in France</em> and Engels&#39;s <em>Anti-Duhring</em> and <em>The Origin of the Family</em>, Lenin develops a vision of the workers&#39; state as a transitional political form characterized by the direct armed power of the organized working class, the election and recall of all officials, and the gradual elimination of the standing army and professional bureaucracy. This state, unlike all previous states, would begin to wither away as class distinctions dissolve and the administration of things replaces the government of persons.</p>\n<p>The text was left unfinished — Lenin was interrupted by the October Revolution itself — and its relationship to the actual practice of Bolshevik state-building has been debated ever since. Critics from both the left and the right have argued that the vanguard party form Lenin advocated elsewhere contradicts the radically democratic vision outlined in this text. Nevertheless, <em>The State and Revolution</em> remains a central reference point for debates over revolutionary strategy, state power, workers&#39; democracy, and the transition to communism.</p>\n"
   },
   {
+    "slug": "the-structural-transformation-of-the-public-sphere",
+    "title": "The Structural Transformation of the Public Sphere",
+    "author": "Jurgen Habermas",
+    "year": 1962,
+    "tradition": "Frankfurt School",
+    "tags": [
+      "public sphere",
+      "democracy",
+      "bourgeois society",
+      "media"
+    ],
+    "traditions": {
+      "classical": "Habermas's account of the public sphere usefully reveals the class character of bourgeois democracy, but his idealisation of rational-critical debate obscures how the public sphere always excluded the working class and served bourgeois class interests.",
+      "value-form": "The bourgeois public sphere is a form of appearance of the value-form's separation of the political from the economic: rational-critical debate among property owners presupposes and conceals the commodity relations that structure civil society.",
+      "harvey": "The analysis of how the public sphere emerged from specific spatial practices — coffeehouses, salons, print culture — and declined through the commercialisation of media illuminates the material geography of democratic participation.",
+      "structuralist": "The concept of the public sphere provides a structural account of how democratic legitimation functions within bourgeois society, revealing the institutional conditions under which rational discourse becomes possible and the forces that undermine it."
+    },
+    "body": "<p><em>The Structural Transformation of the Public Sphere</em> (Strukturwandel der Öffentlichkeit, 1962) is Habermas&#39;s Habilitation thesis and one of the most influential works of twentieth-century social theory. It traces the historical emergence of the bourgeois public sphere in eighteenth-century Europe — a realm of private citizens assembling to engage in rational-critical debate on matters of public concern, mediated through coffeehouses, salons, and the periodical press.</p>\n<p>Habermas analyses the subsequent &#39;refeudalization&#39; of the public sphere under late capitalism, as mass media, public relations, and consumer culture transform citizens from critical participants into passive consumers of managed opinions. The work&#39;s normative core — the idea that democracy requires institutional spaces for undistorted communication — grounds Habermas&#39;s later communicative theory. Critics have challenged the idealisation of the bourgeois public sphere, noting its systematic exclusion of women, workers, and colonised peoples, while acknowledging the concept&#39;s continuing value for analysing democratic participation and media politics.</p>\n"
+  },
+  {
     "slug": "sublime-object-ideology",
     "title": "The Sublime Object of Ideology",
     "author": "Slavoj Zizek",
@@ -698,6 +1240,46 @@
     "body": "<p><em>The Sublime Object of Ideology</em> is Zizek&#39;s first major work in English and the text that established his distinctive theoretical project: the synthesis of Lacanian psychoanalysis, Hegelian dialectics, and Marxist ideology critique. Published in the year of the Berlin Wall&#39;s fall, the book provides a theory of ideology suited to an era in which cynical distance — the sense that nobody really believes in the official values of the system — has become the dominant mode of ideological subjectivity.</p>\n<p>Zizek&#39;s central argument is that ideology does not function primarily through false consciousness — the classical Marxist model in which people are deceived about the true nature of social relations — but through a structure of fetishistic disavowal. Drawing on Lacan&#39;s concept of <em>jouissance</em> (enjoyment) and Marx&#39;s analysis of commodity fetishism, Zizek argues that the formula of ideology is not &quot;they do not know what they are doing&quot; but rather &quot;they know very well what they are doing, but they are doing it anyway.&quot; Ideology is located not in what people believe but in what they do: in the objective practices, rituals, and institutional structures that reproduce social relations regardless of the subjective beliefs of the individuals who participate in them.</p>\n<p>The book also develops Zizek&#39;s theory of the &quot;sublime object&quot; — the impossible, traumatic kernel around which ideological fantasies are organized — and his reading of Hegel&#39;s dialectic as a process driven by the inherent incompleteness of every symbolic order. <em>The Sublime Object</em> has been widely influential in political theory, cultural studies, and film criticism, and remains the most accessible entry point into Zizek&#39;s expansive philosophical system.</p>\n"
   },
   {
+    "slug": "the-theory-of-communicative-action",
+    "title": "The Theory of Communicative Action",
+    "author": "Jurgen Habermas",
+    "year": 1981,
+    "tradition": "Frankfurt School",
+    "tags": [
+      "communicative rationality",
+      "lifeworld",
+      "system",
+      "modernity"
+    ],
+    "traditions": {
+      "classical": "Habermas's communicative turn abandons the critique of political economy and class struggle in favour of a neo-Kantian ethics of discourse that cannot account for the material power relations that systematically distort communication.",
+      "value-form": "The system/lifeworld distinction fails to grasp how the value-form constitutes both domains: communicative rationality is not external to capital but is itself shaped by the real abstractions of commodity society that Habermas treats as merely systemic.",
+      "harvey": "The theory of communicative action neglects how communication is materially embedded in spatial practices and infrastructures of production, reducing the critique of capitalism to a problem of steering media colonising the lifeworld.",
+      "structuralist": "The framework usefully distinguishes system integration from social integration, but its normative privileging of communicative rationality lacks the structural analysis necessary to explain why systemic colonisation occurs and how it might be reversed."
+    },
+    "body": "<p><em>The Theory of Communicative Action</em> (Theorie des kommunikativen Handelns, 1981) is Habermas&#39;s two-volume magnum opus, developing an alternative foundation for critical theory based on communicative rationality rather than the philosophy of consciousness or the critique of political economy. Habermas distinguishes communicative action — oriented toward mutual understanding — from strategic action — oriented toward success — and argues that modernity&#39;s pathologies stem from the colonisation of the communicative lifeworld by the systemic imperatives of money and administrative power.</p>\n<p>Volume 1 reconstructs the concept of rationality through Weber, Lukács, Adorno, and Parsons. Volume 2 develops a two-level social theory distinguishing system (economy and state) from lifeworld (culture, social integration, socialisation). The work represents Habermas&#39;s decisive break with first-generation critical theory: where Adorno saw no escape from instrumental reason, Habermas locates emancipatory potential in the structures of everyday communication. The framework has been enormously influential but widely criticised by Marxists for abandoning the critique of capitalism in favour of procedural democratic theory.</p>\n"
+  },
+  {
+    "slug": "the-work-of-art-in-the-age-of-mechanical-reproduction",
+    "title": "The Work of Art in the Age of Mechanical Reproduction",
+    "author": "Walter Benjamin",
+    "year": 1935,
+    "tradition": "Frankfurt School",
+    "tags": [
+      "art",
+      "aura",
+      "reproduction",
+      "fascism"
+    ],
+    "traditions": {
+      "classical": "Benjamin correctly identifies the revolutionary potential of mass-reproduced art to politicise aesthetics against fascism's aestheticisation of politics, though his optimism about film underestimates the culture industry's capacity to neutralise this potential.",
+      "value-form": "The destruction of aura through mechanical reproduction parallels the commodity form's dissolution of qualitative particularity into quantitative equivalence: reproducibility is the cultural analogue of the value-form's reduction of concrete to abstract labour.",
+      "harvey": "The essay illuminates how changes in the technology of cultural production transform the social relations of art consumption, connecting the material infrastructure of reproduction to the spatial and temporal experience of modernity.",
+      "structuralist": "Benjamin's analysis of how the technical conditions of production determine the social function of art provides a materialist framework for understanding cultural forms as structurally conditioned by the forces and relations of production."
+    },
+    "body": "<p>&#39;The Work of Art in the Age of Mechanical Reproduction&#39; (Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit, 1935) is Benjamin&#39;s most widely read essay and one of the foundational texts of media theory. Benjamin argues that mechanical reproduction — photography and film — destroys the &#39;aura&#39; of the artwork: its unique existence in a particular time and place, its authority and authenticity rooted in ritual and tradition.</p>\n<p>The loss of aura fundamentally transforms art&#39;s social function: freed from its ritual basis, art can serve political rather than cultic purposes. Benjamin identifies the revolutionary potential of film — its capacity to train collective perception and politicise aesthetics — against fascism&#39;s aestheticisation of politics. Adorno criticised the essay for underestimating the culture industry&#39;s capacity to neutralise this revolutionary potential. The essay&#39;s concepts of aura, mechanical reproduction, and the politicisation of aesthetics have become indispensable for analysing digital culture, social media, and the politics of visual representation.</p>\n"
+  },
+  {
     "slug": "wretched-of-earth",
     "title": "The Wretched of the Earth",
     "author": "Frantz Fanon",
@@ -715,6 +1297,61 @@
       "colonial psychology"
     ],
     "body": "<p><em>The Wretched of the Earth</em>, written in the final year of Fanon&#39;s life as he was dying of leukemia and dictated in part from his hospital bed, is one of the most influential theoretical works of the twentieth century. Published in 1961 with a preface by Jean-Paul Sartre, the book provides a systematic analysis of colonialism and decolonization that combines Marxist political economy, existential phenomenology, and clinical psychiatry.</p>\n<p>Fanon argues that colonial rule is sustained by comprehensive violence — economic, political, psychological, and spatial — and that it can only be overthrown through the organized counter-violence of the colonized, a process that is simultaneously political liberation and psychological regeneration. The book challenges orthodox Marxist categories by centering the peasantry and lumpenproletariat rather than the industrial working class as the revolutionary agents in the colonial context, arguing that the colonized proletariat and national bourgeoisie are both compromised by their structural positions within the colonial economy.</p>\n<p>The chapters on national consciousness and the pitfalls of the national bourgeoisie provide a prescient analysis of how independence movements can be captured by a parasitic comprador class that reproduces colonial economic relations under a new flag. The final section, drawing on Fanon&#39;s psychiatric practice in Algeria during the war of independence, documents the psychopathology of colonial domination — the mental disorders produced in both colonizer and colonized by the systematic dehumanization of colonial society. <em>The Wretched of the Earth</em> remains essential reading for anti-colonial thought, revolutionary theory, and the analysis of racial capitalism.</p>\n"
+  },
+  {
+    "slug": "theories-of-surplus-value",
+    "title": "Theories of Surplus Value",
+    "author": "Karl Marx",
+    "year": 1863,
+    "tradition": "Classical Marxism",
+    "translations": [
+      "Bonner and Burns (Lawrence & Wishart, 3 vols)"
+    ],
+    "tags": [
+      "surplus value",
+      "political economy",
+      "history of economic thought"
+    ],
+    "body": "<p><em>Theories of Surplus Value</em> (Theorien über den Mehrwert, written 1862-63, published posthumously 1905-10) is Marx&#39;s critical history of political economy, examining the development of the concept of surplus value from the Physiocrats through Adam Smith, Ricardo, and their successors. Often referred to as the &#39;fourth volume&#39; of <em>Capital</em>, the manuscript was part of Marx&#39;s plan for a comprehensive critique of political economy.</p>\n<p>Marx traces how classical economists approached the problem of surplus without fully comprehending it: the Physiocrats located surplus in agriculture; Smith oscillated between labour-embodied and labour-commanded theories of value; Ricardo clarified the relationship between wages and profits but could not explain the origin of surplus value. Marx also critiques vulgar economists (Say, Bastiat, Senior) who abandoned scientific analysis for apologetics. The work is essential for understanding Marx&#39;s method of immanent critique — he develops his own categories through critical engagement with his predecessors, demonstrating how their insights and errors alike were conditioned by the class standpoint of the bourgeoisie.</p>\n"
+  },
+  {
+    "slug": "theses-on-the-philosophy-of-history",
+    "title": "Theses on the Philosophy of History",
+    "author": "Walter Benjamin",
+    "year": 1940,
+    "tradition": "Frankfurt School",
+    "tags": [
+      "history",
+      "messianism",
+      "progress",
+      "revolution"
+    ],
+    "traditions": {
+      "classical": "Benjamin's messianic conception of revolution as a rupture with the continuum of history challenges the determinism of orthodox Marxism, but its theological dimension risks substituting mystical hope for the concrete organisation of class struggle.",
+      "value-form": "The critique of homogeneous empty time parallels the value-form's constitution of abstract time: the Jetztzeit (now-time) that blasts open the continuum represents a break with the temporal logic of valorisation and its reduction of history to progress.",
+      "harvey": "Benjamin's rejection of historical progress and his concept of the dialectical image — where past and present flash into constellation — provides tools for understanding how the spatial ruins of capitalism bear revolutionary potential.",
+      "structuralist": "The theses challenge structuralist accounts of historical determination by insisting on the contingency and openness of revolutionary moments, where the overdetermination of the conjuncture cannot be reduced to structural necessity."
+    },
+    "body": "<p>The &#39;Theses on the Philosophy of History&#39; (Über den Begriff der Geschichte, 1940) is Benjamin&#39;s final work, written shortly before his death while fleeing the Nazis. In eighteen brief theses, Benjamin develops a revolutionary conception of history against both historicism (which empathises with the victors) and the social-democratic faith in automatic progress.</p>\n<p>The famous image of the angel of history, blown backward into the future by the storm of progress while catastrophe piles wreckage at his feet, crystallises Benjamin&#39;s critique of progressive historiography. Against &#39;homogeneous, empty time,&#39; Benjamin proposes Jetztzeit — the &#39;now-time&#39; of revolutionary action that blasts open the continuum of history. The theses combine historical materialism with Jewish messianism in ways that have generated intense interpretive debate. They remain among the most influential and contested texts in critical theory, challenging teleological conceptions of history and insisting that revolutionary redemption requires remembering the defeated and oppressed of the past.</p>\n"
+  },
+  {
+    "slug": "traditional-and-critical-theory",
+    "title": "Traditional and Critical Theory",
+    "author": "Max Horkheimer",
+    "year": 1937,
+    "tradition": "Frankfurt School",
+    "tags": [
+      "methodology",
+      "critical theory",
+      "positivism"
+    ],
+    "traditions": {
+      "classical": "Classical Marxism endorses the call for theory oriented toward emancipation but insists that critical theory must be grounded in the working class as its revolutionary subject, not merely in intellectual critique.",
+      "value-form": "Value-form theory reads Horkheimer's critique of traditional theory's separation from its social conditions as anticipating the argument that bourgeois economic categories naturalize historically specific forms of abstraction.",
+      "harvey": "Harvey would affirm the rejection of contemplative theory while insisting that critical theory must engage concretely with capital's geographical dynamics rather than remaining at the level of epistemological reflection.",
+      "structuralist": "Structuralist Marxism shares the critique of positivist social science but replaces Horkheimer's emphasis on the knowing subject with the analysis of objective structures that determine social reproduction."
+    },
+    "body": "<p><em>Traditional and Critical Theory</em> is the programmatic essay that defined the Frankfurt School&#39;s intellectual project. Horkheimer draws a fundamental distinction between traditional theory, which models itself on natural science and treats social facts as given objects of contemplation, and critical theory, which understands itself as part of the social processes it analyzes and orients itself toward human emancipation. Traditional theory&#39;s claim to value-neutrality conceals its complicity with existing power relations.</p>\n<p>Critical theory, by contrast, recognizes that the separation of fact and value, theory and practice, subject and object are themselves products of a specific social order. The critical theorist is not a detached observer but a participant in the struggle for a rational society. Horkheimer argues that theory must grasp the social totality and identify the possibilities for transformation immanent within existing conditions, refusing both positivist resignation and utopian abstraction.</p>\n<p>The essay&#39;s key contributions include the systematic critique of positivism in social science, the articulation of theory&#39;s emancipatory vocation, and the insistence that knowledge is always shaped by social interests. It established the methodological foundations for the entire tradition of Frankfurt School critical theory.</p>\n"
   },
   {
     "slug": "what-is-to-be-done",
