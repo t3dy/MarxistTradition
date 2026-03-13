@@ -3,7 +3,7 @@ name: "Alex Williams"
 born: 1985
 died: null
 nationality: "British"
-tradition: "Post-capitalism"
+tradition: "Post-Capitalism"
 key_works: ["Inventing the Future", "#Accelerate: Manifesto for an Accelerationist Politics"]
 tags: [accelerationism, post-work, technology, left strategy]
 ---

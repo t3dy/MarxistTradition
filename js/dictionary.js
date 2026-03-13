@@ -38,6 +38,29 @@
     }
   }
 
+  const TRADITION_LABELS = {
+    classical: 'Classical Marxism',
+    'value-form': 'Value-Form Theory',
+    harvey: 'Harvey / Geographical Materialism',
+    structuralist: 'Structuralist Marxism',
+  };
+
+  function renderTraditionPanels(traditions) {
+    if (!traditions) return '';
+    let html = '<div class="tradition-panels">';
+    for (const [key, text] of Object.entries(traditions)) {
+      const cssClass = key === 'value-form' ? 'value-form' : key;
+      const label = TRADITION_LABELS[key] || key;
+      html += `
+        <div class="tradition-panel ${cssClass}">
+          <div class="tradition-label">${label}</div>
+          <div>${text}</div>
+        </div>`;
+    }
+    html += '</div>';
+    return html;
+  }
+
   function getDisplayName(item) {
     return item.name || item.title || item.term || item.slug;
   }
@@ -113,7 +136,10 @@
         ${tradBadge}
         <div class="body-preview">${plainText}</div>
         <div class="tags">${tagsHtml}</div>
-        <div class="body-full">${item.body || ''}</div>
+        <div class="body-full">
+          ${item.body || ''}
+          ${renderTraditionPanels(item.traditions)}
+        </div>
       `;
 
       card.addEventListener('click', (e) => {

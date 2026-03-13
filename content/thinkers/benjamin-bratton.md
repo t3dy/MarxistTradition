@@ -3,7 +3,7 @@ name: "Benjamin Bratton"
 born: 1968
 died: null
 nationality: "American"
-tradition: "Design theory"
+tradition: "Design Theory"
 key_works: ["The Stack", "The Revenge of the Real"]
 tags: [planetary computation, infrastructure, sovereignty, technology]
 ---

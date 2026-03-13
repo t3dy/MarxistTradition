@@ -3,7 +3,7 @@ name: "Mark Fisher"
 born: 1968
 died: 2017
 nationality: "British"
-tradition: "Cultural criticism"
+tradition: "Cultural Criticism"
 key_works: ["Capitalist Realism", "Ghosts of My Life", "The Weird and the Eerie"]
 tags: [capitalist realism, hauntology, cultural criticism, mental health]
 ---

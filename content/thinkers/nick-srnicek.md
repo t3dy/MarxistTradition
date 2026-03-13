@@ -3,7 +3,7 @@ name: "Nick Srnicek"
 born: 1982
 died: null
 nationality: "Canadian"
-tradition: "Post-capitalism"
+tradition: "Post-Capitalism"
 key_works: ["Platform Capitalism", "Inventing the Future"]
 tags: [platform capitalism, post-work, accelerationism, digital economy]
 ---

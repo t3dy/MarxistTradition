@@ -3,7 +3,7 @@ name: "Ruha Benjamin"
 born: 1978
 died: null
 nationality: "American"
-tradition: "Critical race studies"
+tradition: "Critical Race Studies"
 key_works: ["Race After Technology", "Viral Justice"]
 tags: [race, technology, algorithmic bias, structural racism]
 ---

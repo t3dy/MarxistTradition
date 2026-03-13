@@ -3,7 +3,7 @@ name: "Yanis Varoufakis"
 born: 1961
 died: null
 nationality: "Greek"
-tradition: "Left economics"
+tradition: "Left Economics"
 key_works: ["The Global Minotaur", "Adults in the Room", "Technofeudalism"]
 tags: [eurozone crisis, techno-feudalism, political economy, digital capitalism]
 ---

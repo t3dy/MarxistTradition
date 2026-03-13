@@ -3,7 +3,7 @@ name: "Kate Crawford"
 born: 1976
 died: null
 nationality: "Australian"
-tradition: "Technology criticism"
+tradition: "Technology Criticism"
 key_works: ["Atlas of AI"]
 tags: [AI, political economy, extraction, infrastructure]
 ---

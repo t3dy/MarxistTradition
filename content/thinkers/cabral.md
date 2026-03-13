@@ -3,7 +3,7 @@ name: Amilcar Cabral
 born: 1924
 died: 1973
 nationality: Guinea-Bissauan
-tradition: Anticolonial Marxism
+tradition: Anti-Colonial Marxism
 key_works:
   - Return to the Source
   - Unity and Struggle

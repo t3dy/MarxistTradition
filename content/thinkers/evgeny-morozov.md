@@ -3,7 +3,7 @@ name: "Evgeny Morozov"
 born: 1984
 died: null
 nationality: "Belarusian"
-tradition: "Technology criticism"
+tradition: "Technology Criticism"
 key_works: ["The Net Delusion", "To Save Everything Click Here"]
 tags: [solutionism, technology criticism, digital capitalism, internet politics]
 ---
