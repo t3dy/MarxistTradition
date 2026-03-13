@@ -1,5 +1,29 @@
 [
   {
+    "slug": "absolute-surplus-value",
+    "term": "Absolute Surplus-Value",
+    "german": "Absoluter Mehrwert",
+    "source": "Capital Vol. 1, Ch. 10",
+    "related": [
+      "surplus-value",
+      "relative-surplus-value",
+      "labor-power"
+    ],
+    "traditions": {
+      "classical": "Absolute surplus-value extraction through lengthening the working day is the historically primary and most transparent form of exploitation, limited only by the physical endurance of the worker and the organized resistance of the working class.",
+      "value-form": "The production of absolute surplus-value presupposes the formal subsumption of labor under capital, where the labor process is subordinated to valorization without yet being technically transformed.",
+      "harvey": "Struggles over the working day are simultaneously struggles over the temporal and spatial organization of everyday life, connecting the factory to the reproduction of the household and the city.",
+      "structuralist": "Absolute surplus-value represents a conjuncture in which the dominant extraction mechanism operates through the extension of labor time rather than the restructuring of the labor process itself."
+    },
+    "tags": [
+      "exploitation",
+      "working day",
+      "labor",
+      "value theory"
+    ],
+    "body": "<p>Absolute surplus-value is the form of surplus-value produced by extending the length of the working day beyond the time necessary for the worker to reproduce the value of their labor-power. If the necessary labor time is six hours, the capitalist increases surplus-value by compelling the worker to labor for ten, twelve, or more hours, with the additional hours constituting unpaid surplus labor. Marx identifies this as the historically primary method of exploitation, characteristic of early capitalism and the period of manufacture, and traces the political struggles over the legal limitation of the working day as a central arena of class conflict. The production of absolute surplus-value corresponds to the formal subsumption of labor under capital, where the capitalist commands the labor process without yet revolutionizing its technical basis.</p>\n"
+  },
+  {
     "slug": "abstract-labor",
     "term": "Abstract Labor",
     "german": "Abstrakte Arbeit",
@@ -26,14 +50,22 @@
     "source": "Economic and Philosophic Manuscripts of 1844",
     "related": [
       "commodity-fetishism",
-      "labor-power"
+      "labor-power",
+      "reification"
     ],
+    "traditions": {
+      "classical": "Alienation is the estrangement of the worker from the product, the process, their species-being, and other human beings — a condition rooted in the capitalist labor process that can only be abolished through the revolutionary transformation of the mode of production.",
+      "value-form": "The concept of alienation belongs to Marx's early, Feuerbachian problematic and is superseded in the mature critique by the analysis of the value-form and commodity fetishism as objective social forms rather than subjective experiences of estrangement.",
+      "harvey": "Alienation extends beyond the workplace to encompass the production of urban space, the commodification of everyday life, and the estrangement of human beings from the environments they collectively produce.",
+      "structuralist": "Alienation is an ideological concept rooted in humanist essentialism; the mature Marx replaces it with the scientific analysis of exploitation, structural causality, and the reproduction of capitalist social relations."
+    },
     "tags": [
       "labor",
       "philosophy",
-      "humanism"
+      "humanism",
+      "subjectivity"
     ],
-    "body": "<p>Alienation describes the estrangement of workers from the products of their labor, from the labor process itself, from their species-being, and from other human beings. Under capitalism, the worker&#39;s activity becomes an external, coerced force that belongs to another rather than an expression of free creative capacity. Marx developed this concept most fully in his early writings, though its concerns persist in the mature critique of political economy in transformed form through categories such as commodity fetishism and the real subsumption of labor under capital.</p>\n"
+    "body": "<p>Alienation describes the estrangement of workers from the products of their labor, from the labor process itself, from their species-being (<em>Gattungswesen</em>), and from other human beings. Under capitalism, the worker&#39;s activity becomes an external, coerced force that belongs to another rather than an expression of free creative capacity. Marx developed this concept most fully in the <em>Economic and Philosophic Manuscripts of 1844</em>, identifying four dimensions of alienation that together constitute the lived experience of exploitation. The concept&#39;s status within the Marxist tradition is contested: humanist Marxists regard it as the ethical core of Marx&#39;s entire project, while Althusserians argue that the mature Marx abandoned the anthropological framework of alienation in favor of the scientific analysis of exploitation and structural determination. The concept persists in transformed form in <em>Capital</em> through categories such as commodity fetishism and the real subsumption of labor under capital, suggesting a continuity between the early and late Marx that many commentators have sought to trace.</p>\n"
   },
   {
     "slug": "base-superstructure",
@@ -54,6 +86,76 @@
       "social theory"
     ],
     "body": "<p>The base-superstructure model describes the relationship between the economic foundation of society (the base, comprising forces and relations of production) and the legal, political, and ideological forms that arise upon it (the superstructure). Marx argues that changes in the economic base tend to transform the superstructure, though the precise nature of this determination has been one of the most debated questions in Marxist theory. The model is best understood not as a rigid architectural metaphor but as an analytical framework for identifying the material conditions that shape and constrain social, political, and cultural life.</p>\n"
+  },
+  {
+    "slug": "bonapartism",
+    "term": "Bonapartism",
+    "source": "The Eighteenth Brumaire of Louis Bonaparte (1852)",
+    "related": [
+      "class-struggle",
+      "dictatorship-of-proletariat",
+      "hegemony"
+    ],
+    "traditions": {
+      "classical": "Bonapartism arises when the bourgeoisie can no longer rule directly and the proletariat is not yet strong enough to seize power, allowing the state executive to achieve apparent autonomy while preserving bourgeois property relations.",
+      "value-form": "Bonapartism reveals the non-identity between the political form of the state and the economic content of class rule, demonstrating that the capitalist state need not be directly managed by the bourgeoisie to function in its interest.",
+      "harvey": "Bonapartist regimes manage the spatial contradictions of accumulation by centralizing state power to impose the infrastructure, territorial organization, and class compromises that capital requires.",
+      "structuralist": "Bonapartism exemplifies the relative autonomy of the political instance, where the state apparatus operates according to its own logic while remaining determined in the last instance by the reproduction of capitalist relations."
+    },
+    "tags": [
+      "state theory",
+      "political analysis",
+      "class struggle",
+      "revolution"
+    ],
+    "body": "<p>Bonapartism designates a political form in which the executive power of the state appears to rise above contending classes and achieve independence from civil society, while in practice securing the conditions for continued capitalist accumulation. Marx developed the concept in <em>The Eighteenth Brumaire</em> to analyze Louis-Napoleon Bonaparte&#39;s 1851 coup, showing how a situation of class equilibrium — in which no class possesses the strength to impose its direct political rule — creates space for a strongman figure to seize state power with the support of declassed and politically disorganized elements. Trotsky later extended the concept to analyze fascism and military dictatorships in the twentieth century, distinguishing between Bonapartism of decay and Bonapartism in periods of capitalist ascent. The concept remains essential for analyzing authoritarian regimes that claim to stand above class conflict while enforcing the interests of capital.</p>\n"
+  },
+  {
+    "slug": "class-struggle",
+    "term": "Class Struggle",
+    "german": "Klassenkampf",
+    "source": "Communist Manifesto (1848)",
+    "related": [
+      "surplus-value",
+      "relations-of-production",
+      "hegemony"
+    ],
+    "traditions": {
+      "classical": "Class struggle is the motor of history, the antagonistic conflict between exploiting and exploited classes that drives the development of social formations and ultimately produces the revolutionary transformation of the mode of production.",
+      "value-form": "Class struggle is a consequence of the value-form's constitution of social relations as antagonistic, but it cannot be understood independently of the impersonal, structural domination exercised by capital as an automatic subject.",
+      "harvey": "Class struggle unfolds not only at the point of production but across the entire landscape of social reproduction — in struggles over housing, transportation, public space, and the right to the city.",
+      "structuralist": "Class struggle is the effect of the contradictory articulation of the economic, political, and ideological instances within a social formation, not a simple expression of economic interest."
+    },
+    "tags": [
+      "politics",
+      "history",
+      "revolution",
+      "exploitation"
+    ],
+    "body": "<p>Class struggle is the antagonistic conflict between social classes arising from their opposed positions within the relations of production. Marx and Engels famously declared that the history of all hitherto existing society is the history of class struggles, positioning it as the primary motor of historical change and the mechanism through which one mode of production gives way to another. In capitalist society, the fundamental class struggle takes place between the bourgeoisie, who own the means of production, and the proletariat, who must sell their labor-power to survive. This struggle manifests in direct economic conflict over wages, working conditions, and the length of the working day, but also in political struggles over state power and in ideological struggles over the legitimacy of existing social arrangements. Marx argued that the intensification of class contradictions under capitalism would ultimately produce the conditions for proletarian revolution, though the forms, timing, and outcomes of class struggle are shaped by historically specific conjunctures that no general theory can predict in advance.</p>\n"
+  },
+  {
+    "slug": "combined-uneven-development",
+    "term": "Combined and Uneven Development",
+    "source": "Trotsky, History of the Russian Revolution (1930)",
+    "related": [
+      "imperialism",
+      "permanent-revolution",
+      "uneven-development"
+    ],
+    "traditions": {
+      "classical": "Uneven development is a general law of capitalism producing differential rates of accumulation across nations and sectors, while combination describes how backward societies assimilate advanced techniques alongside archaic social forms.",
+      "value-form": "The unevenness of capitalist development reflects the non-simultaneous imposition of the value-form across different social formations, producing hybrid articulations of capitalist and pre-capitalist modes of social mediation.",
+      "harvey": "Uneven geographical development is intrinsic to capitalism's spatial logic, as capital flows toward areas of higher profitability, producing landscapes of combined development where ultra-modern infrastructure coexists with dispossession.",
+      "structuralist": "Combined and uneven development describes the articulation of different modes of production within a single social formation, where capitalist and pre-capitalist structures coexist in relations of dominance and subordination."
+    },
+    "tags": [
+      "imperialism",
+      "development",
+      "revolution",
+      "world system"
+    ],
+    "body": "<p>Combined and uneven development, formulated by Trotsky to explain the peculiarities of Russian historical development, describes the process by which societies that enter the capitalist world system belatedly do not simply repeat the stages traversed by the advanced countries but instead assimilate the most modern techniques, institutions, and ideas alongside — and in combination with — archaic social forms that persist from earlier modes of production. The result is a contradictory amalgam in which the latest technologies of industrial production coexist with semi-feudal agrarian relations, producing explosive social tensions that the gradualist schemas of classical social democracy cannot accommodate. Trotsky argued that this combination, far from representing backwardness, creates revolutionary possibilities absent in the advanced countries, because the condensation of historical contradictions intensifies class conflict and compresses the timeline of political development. The concept has been widely adopted in world-systems analysis, postcolonial theory, and Marxist geography as a framework for understanding global inequality and the differentiated trajectories of capitalist development.</p>\n"
   },
   {
     "slug": "commodity",
@@ -97,6 +199,77 @@
     "body": "<p>Commodity fetishism describes the process by which the social relations between producers appear as objective properties of the commodities they produce, or as natural relations between things. It is not a subjective error or false consciousness but an objective feature of a society in which private labor is socially validated only through market exchange. Marx draws an analogy with religion, in which the products of the human mind appear as independent beings endowed with autonomous power.</p>\n"
   },
   {
+    "slug": "constant-variable-capital",
+    "term": "Constant and Variable Capital",
+    "german": "Konstantes und variables Kapital",
+    "source": "Capital Vol. 1, Ch. 8",
+    "related": [
+      "surplus-value",
+      "organic-composition-capital",
+      "labor-power"
+    ],
+    "traditions": {
+      "classical": "The distinction between constant and variable capital reveals that profit originates solely from the exploitation of living labor, demolishing the bourgeois fiction that capital itself is productive.",
+      "value-form": "Constant and variable capital are value-categories that express how different elements of the production process function within the valorization process — only living labor as the substance of value can produce new value.",
+      "harvey": "The ratio of constant to variable capital has spatial and temporal dimensions, as fixed capital embedded in the built environment creates geographical commitments and devaluation risks distinct from circulating capital.",
+      "structuralist": "The distinction between constant and variable capital designates a structural relation within the capitalist mode of production, determining the rate of exploitation and the organic composition independently of any individual capitalist's intentions."
+    },
+    "tags": [
+      "exploitation",
+      "accumulation",
+      "value theory",
+      "political economy"
+    ],
+    "body": "<p>Constant capital is the portion of capital invested in means of production — machinery, raw materials, buildings, and auxiliary materials — whose value is transferred to the product without increase during the production process. These elements of production are consumed and their value reappears in the commodity, but they add no new value beyond what they already possessed. Variable capital is the portion invested in labor-power, which not only reproduces its own value (the wage) but generates additional surplus-value through the expenditure of living labor beyond the necessary labor time. This distinction is fundamental to Marx&#39;s theory of exploitation, as it demonstrates that profit originates solely from the variable component of capital — from the difference between the value labor-power creates and the value labor-power costs. Classical political economy obscured this by treating all capital as equally productive, collapsing the qualitative difference between dead and living labor and mystifying the origin of profit.</p>\n"
+  },
+  {
+    "slug": "crisis-theory",
+    "term": "Crisis Theory",
+    "german": "Krisentheorie",
+    "source": "Capital Vols. 1-3; Theories of Surplus Value",
+    "related": [
+      "tendency-rate-profit-fall",
+      "fictitious-capital",
+      "overproduction"
+    ],
+    "traditions": {
+      "classical": "Capitalist crises are rooted in the tendency of the rate of profit to fall as rising organic composition of capital reduces the share of surplus-value-producing living labor, periodically destroying capital values and restoring conditions for renewed accumulation.",
+      "value-form": "Crisis reveals the contradictions inherent in the value-form itself — the possibility of rupture between purchase and sale, production and realization — as the monetary mediation of social labor periodically breaks down.",
+      "harvey": "Crises of overaccumulation are displaced temporally through the credit system and spatially through geographical expansion, but these fixes ultimately reproduce and amplify the contradictions at greater scales.",
+      "structuralist": "Crisis is the condensation of contradictions across multiple instances of the social formation — economic, political, ideological — whose specific articulation determines the form, timing, and resolution of each conjuncture."
+    },
+    "tags": [
+      "political economy",
+      "accumulation",
+      "contradiction",
+      "profit"
+    ],
+    "body": "<p>Crisis theory encompasses the various Marxist explanations for capitalism&#39;s inherent tendency toward periodic breakdowns — recessions, depressions, financial panics, and systemic dislocations that punctuate the process of accumulation. Marx did not leave a unified theory of crisis, and subsequent Marxists have developed competing accounts emphasizing different causal mechanisms: the tendency of the rate of profit to fall due to rising organic composition of capital; the disproportionality between departments of production; the underconsumption of the working class whose wages are held below the value of output; and the overproduction of commodities that cannot be profitably sold. These accounts are not necessarily mutually exclusive, and many Marxist economists treat them as complementary dimensions of a single contradictory dynamic. What unites all Marxist crisis theories is the insistence that crises are not external shocks or policy failures but expressions of capitalism&#39;s internal contradictions — the systematic tendency to produce more than can be absorbed under existing relations of production, necessitating the periodic destruction of capital values as the precondition for renewed accumulation.</p>\n"
+  },
+  {
+    "slug": "democratic-centralism",
+    "term": "Democratic Centralism",
+    "source": "Lenin, What Is To Be Done? (1902); RSDLP Statutes",
+    "related": [
+      "dictatorship-of-proletariat",
+      "class-struggle",
+      "hegemony"
+    ],
+    "traditions": {
+      "classical": "Democratic centralism combines free internal debate with disciplined unity in action, ensuring that the revolutionary party can act decisively while remaining accountable to its membership through democratic procedures.",
+      "value-form": "The organizational form of the party is not derivable from value-form analysis proper, but the question of political mediation between fragmented individual experiences and collective class action parallels the problem of how private labors become social.",
+      "harvey": "Democratic centralism as an organizational principle must be understood in relation to the spatial coordination problems of revolutionary movements operating across uneven geographical terrains.",
+      "structuralist": "Democratic centralism is an organizational technology that attempts to resolve the contradiction between the spontaneous consciousness of the masses and the theoretical knowledge required for revolutionary practice."
+    },
+    "tags": [
+      "party organization",
+      "revolution",
+      "Leninism",
+      "strategy"
+    ],
+    "body": "<p>Democratic centralism is the organizational principle, most fully elaborated by Lenin and adopted by the Bolshevik party, that combines freedom of discussion with unity of action. In theory, all members participate in debating policy and strategy, decisions are reached through majority vote, and once a decision is taken, all members are bound to carry it out regardless of their individual positions. The principle was formulated in opposition to both the loose, federalist structures of social-democratic parties, which Lenin regarded as incapable of disciplined revolutionary action, and the authoritarian centralism of conspiratorial sects that excluded rank-and-file participation. In practice, the balance between democracy and centralism has been contested throughout the history of the communist movement. Critics from the left, including Luxemburg, the council communists, and various libertarian socialist currents, argued that centralism inevitably predominated over democracy, producing bureaucratic party apparatuses that substituted themselves for the working class. The concept remains a point of sharp debate in revolutionary politics.</p>\n"
+  },
+  {
     "slug": "dialectics",
     "term": "Dialectics",
     "german": "Dialektik",
@@ -116,6 +289,30 @@
     "body": "<p>Dialectics is the method of grasping reality as a process of development driven by internal contradictions rather than as a static collection of fixed things. Marx describes his dialectical method as the direct opposite of Hegel&#39;s: whereas Hegel treats the real world as the external manifestation of the Idea, Marx insists that the ideal is nothing other than the material world reflected and translated in the human mind. The dialectical method in <em>Capital</em> traces how categories such as commodity, money, and capital develop out of one another through the resolution and reproduction of contradictions.</p>\n"
   },
   {
+    "slug": "dictatorship-of-proletariat",
+    "term": "Dictatorship of the Proletariat",
+    "german": "Diktatur des Proletariats",
+    "source": "Marx, Critique of the Gotha Programme (1875); Lenin, The State and Revolution (1917)",
+    "related": [
+      "class-struggle",
+      "democratic-centralism",
+      "bonapartism"
+    ],
+    "traditions": {
+      "classical": "The dictatorship of the proletariat is the transitional state form in which the working class exercises political power to suppress bourgeois resistance, socialize the means of production, and create the conditions for the eventual withering away of the state.",
+      "value-form": "The concept raises the question of whether political domination alone can abolish the value-form, or whether the impersonal domination of capital requires the transformation of the social forms of labor itself.",
+      "harvey": "The dictatorship of the proletariat must confront the spatial organization of capitalist power — the built environment, territorial states, and geopolitical systems — that cannot be overcome by seizing a single national government.",
+      "structuralist": "The dictatorship of the proletariat designates not a form of government but a type of state, defined by the class character of its power regardless of its institutional configuration."
+    },
+    "tags": [
+      "state theory",
+      "revolution",
+      "transition",
+      "communism"
+    ],
+    "body": "<p>The dictatorship of the proletariat designates the transitional political form between capitalist and communist society, in which the working class holds state power and uses it to suppress the resistance of the dispossessed bourgeoisie, reorganize production on a socialist basis, and begin the dissolution of class distinctions. Marx drew the concept from the experience of the Paris Commune of 1871, which he interpreted as a working model of proletarian political power characterized by the election and recall of all officials, the abolition of the standing army in favor of the armed people, and the fusion of legislative and executive functions. Lenin developed the concept extensively in <em>The State and Revolution</em>, arguing that the bourgeois state must be smashed rather than reformed and replaced by a commune-type state that would progressively wither away as class antagonisms dissolved. The term has been the subject of intense debate, with critics arguing that &quot;dictatorship&quot; inevitably produces authoritarian rule, while defenders maintain that Marx used the term in its Roman sense to denote emergency class rule, not personal tyranny.</p>\n"
+  },
+  {
     "slug": "exchange-value",
     "term": "Exchange-Value",
     "german": "Tauschwert",
@@ -125,91 +322,587 @@
       "use-value",
       "value-form"
     ],
+    "traditions": {
+      "classical": "Exchange-value is the quantitative expression of the labor embodied in commodities, determined by socially necessary labor time and realized through the act of exchange on the market.",
+      "value-form": "Exchange-value is the necessary form of appearance of value, not its substance — the crucial analytical question is why the products of labor take the form of exchangeable values at all, not merely how much value they contain.",
+      "harvey": "Exchange-value abstracts from the concrete, sensuous qualities of use-values, producing a quantitative logic that subordinates qualitative human needs and ecological limits to the imperatives of market equivalence.",
+      "structuralist": "Exchange-value is the phenomenal form of an underlying structural relation — the social division of labor organized through commodity exchange — whose determination is irreducible to the intentions of individual producers."
+    },
     "tags": [
-      "value theory"
+      "value theory",
+      "commodity",
+      "political economy"
     ],
-    "body": "<p>Exchange-value is the quantitative proportion in which use-values of one kind are exchanged for use-values of another kind. It appears initially as a relation between commodities, but Marx argues it is the necessary form of appearance of value, the socially necessary abstract labor objectified in the commodity. Exchange-value is thus not an intrinsic property of any single object but a social relation that expresses itself through the act of exchange.</p>\n"
+    "body": "<p>Exchange-value is the quantitative proportion in which use-values of one kind are exchanged for use-values of another kind, appearing initially as a contingent, fluctuating relation between commodities. Marx argues that the regularity of exchange ratios presupposes a common substance — abstract human labor — that makes qualitatively different products commensurable. Exchange-value is thus the necessary form of appearance of value: the socially necessary abstract labor objectified in the commodity cannot manifest itself directly but must express itself through the relation of one commodity to another, ultimately through the money-form. Exchange-value is not an intrinsic natural property of any object but a social relation that expresses itself through the act of exchange, belonging to commodities only insofar as they are products of labor destined for exchange in a society based on the social division of labor. The distinction between exchange-value and value is crucial for the value-form tradition, which emphasizes that exchange-value is a form-determination — an answer to the question of <em>how</em> value appears — rather than a simple quantitative measure.</p>\n"
+  },
+  {
+    "slug": "fictitious-capital",
+    "term": "Fictitious Capital",
+    "german": "Fiktives Kapital",
+    "source": "Capital Vol. 3, Part 5",
+    "related": [
+      "crisis-theory",
+      "surplus-value",
+      "tendency-rate-profit-fall"
+    ],
+    "traditions": {
+      "classical": "Fictitious capital consists of financial claims — stocks, bonds, derivatives — whose value derives from expected future surplus-value rather than current production, amplifying speculation and crisis.",
+      "value-form": "Fictitious capital reveals the autonomization of the money-form from its ground in commodity production, as financial claims circulate and accumulate according to a logic that diverges from the valorization of productive capital.",
+      "harvey": "Fictitious capital is the primary mechanism of temporal displacement in crisis, as credit creation allows accumulation to continue beyond the limits set by current surplus-value production — until the gap between claims and production erupts in financial crisis.",
+      "structuralist": "Fictitious capital occupies a structural position within the credit system that allows the capitalist mode of production to transcend its own barriers temporarily while intensifying the contradictions that produce systemic crisis."
+    },
+    "tags": [
+      "finance",
+      "speculation",
+      "credit",
+      "crisis",
+      "political economy"
+    ],
+    "body": "<p>Fictitious capital refers to financial assets such as stocks, bonds, government debt, and derivatives whose value derives from claims on future surplus-value rather than from any direct involvement in the production process. Marx distinguished fictitious capital from the real capital invested in means of production and labor-power, showing that financial claims can circulate, appreciate, and accumulate independently of the actual valorization of productive capital. The price of fictitious capital is determined by capitalizing expected future income streams at the prevailing rate of interest, creating paper values that bear no necessary relationship to the underlying productive assets. The expansion of fictitious capital intensifies the speculative and crisis-prone character of capitalism, as the growing gap between paper claims and actual value production periodically erupts in financial collapses — moments when the fictitious values are violently brought back into conformity with the real capacity of capital to extract surplus-value from living labor. The concept has gained enormous relevance in the era of financialization, as the volume of financial claims on future value has expanded far beyond any historical precedent.</p>\n"
   },
   {
     "slug": "forces-of-production",
     "term": "Forces of Production",
-    "german": "Produktivkräfte",
-    "source": "The German Ideology",
+    "german": "Produktivkrafte",
+    "source": "The German Ideology; Preface to A Contribution to the Critique of Political Economy",
     "related": [
       "relations-of-production",
-      "mode-of-production"
+      "mode-of-production",
+      "historical-materialism"
     ],
+    "traditions": {
+      "classical": "The forces of production — means of production plus labor-power and technical knowledge — develop within and ultimately outgrow existing relations of production, generating the material conditions and class contradictions that drive historical transformation.",
+      "value-form": "The concept of productive forces must be historicized — under capitalism, the development of productivity is not a neutral technical process but is determined by the value-form's imperative to reduce socially necessary labor time.",
+      "harvey": "The forces of production include the production of space itself — infrastructure, urbanization, and communication networks are productive forces that shape and are shaped by capitalist social relations.",
+      "structuralist": "The forces of production are one element of the mode of production whose development is not autonomous but is always already articulated with and conditioned by the existing relations of production and the dominant structure of the social formation."
+    },
     "tags": [
       "political economy",
-      "technology"
+      "technology",
+      "history",
+      "materialism"
     ],
-    "body": "<p>The forces of production comprise the means of production (tools, machinery, raw materials, land) together with the labor-power and technical knowledge employed in the production process. Their development is a central dynamic in Marx&#39;s theory of history, as advances in productive capacity generate contradictions with existing social relations. The concept underscores that production is never a purely technical affair but always shaped by and in tension with the social form in which it is organized.</p>\n"
+    "body": "<p>The forces of production comprise the means of production — tools, machinery, raw materials, land, and infrastructure — together with the labor-power, skills, and technical knowledge employed in the production process. Their development is a central dynamic in Marx&#39;s theory of history: as productive forces advance, they generate contradictions with the existing social relations of production, which increasingly become fetters on further development. This contradiction between forces and relations of production constitutes, in Marx&#39;s account, the material foundation of social revolution. The concept underscores that production is never a purely technical affair but always organized within and shaped by specific social forms. The question of whether the productive forces develop autonomously according to an inherent technological logic, or are themselves shaped by the social relations within which they operate, has been a persistent debate in Marxist theory, with important implications for understanding the relationship between technology, class struggle, and historical change.</p>\n"
+  },
+  {
+    "slug": "hegemony",
+    "term": "Hegemony",
+    "source": "Gramsci, Prison Notebooks (1929-35)",
+    "related": [
+      "ideology",
+      "base-superstructure",
+      "class-struggle"
+    ],
+    "traditions": {
+      "classical": "Hegemony is the political and ideological leadership exercised by a class over its allies and subordinate groups, secured through both coercion and consent, and central to revolutionary strategy as the working class must construct its own hegemonic project.",
+      "value-form": "Hegemony addresses the political and cultural dimensions of capitalist reproduction that value-form analysis tends to bracket — the question of how the impersonal domination of the value-form is sustained by specific constellations of consent and coercion.",
+      "harvey": "Hegemony is constructed and contested across spatial scales — in neighborhoods, cities, nations, and international institutions — and involves the production of common sense about how space should be organized and by whom.",
+      "structuralist": "Hegemony designates the dominance of one instance within the social formation — the way in which political or ideological practice can become the dominant structure in a given conjuncture while remaining determined in the last instance by the economic."
+    },
+    "tags": [
+      "Gramsci",
+      "consent",
+      "civil society",
+      "strategy",
+      "culture"
+    ],
+    "body": "<p>Hegemony describes the process by which a ruling class secures and maintains its dominance not only through coercion and state power but through the active consent of subordinate groups, achieved via intellectual, moral, and cultural leadership within civil society. Gramsci developed the concept in the <em>Prison Notebooks</em> to explain how bourgeois rule is sustained through institutions such as schools, churches, media, trade unions, and cultural organizations that naturalize the existing order, making it appear not as the imposition of one class&#39;s interests but as the expression of universal values. Hegemony is never total or permanent but must be continually constructed, defended, and renewed against challenges from below. Counter-hegemony — the construction of an alternative worldview, set of values, and system of alliances by subaltern classes — is therefore central to any revolutionary strategy in societies with developed civil societies, where a frontal assault on state power (war of maneuver) is insufficient without first winning intellectual and moral leadership (war of position). The concept has been enormously influential beyond Marxism, shaping debates in cultural studies, postcolonial theory, and political science.</p>\n"
   },
   {
     "slug": "historical-materialism",
     "term": "Historical Materialism",
     "german": "Historischer Materialismus",
-    "source": "The German Ideology; Preface to A Contribution to the Critique of Political Economy",
+    "source": "The German Ideology; Preface to A Contribution to the Critique of Political Economy (1859)",
     "related": [
       "mode-of-production",
       "base-superstructure",
       "dialectics"
     ],
+    "traditions": {
+      "classical": "Historical materialism holds that the mode of production determines the general character of social, political, and intellectual life, and that the development of productive forces in contradiction with existing relations of production drives historical change through class struggle.",
+      "value-form": "Historical materialism must avoid transhistorical application of categories specific to capitalism — the mature Marx's critique of political economy is not a general theory of history but an analysis of historically specific social forms.",
+      "harvey": "Historical materialism must incorporate the production of space and nature as constitutive dimensions of social development, not merely as passive contexts for class struggle and economic production.",
+      "structuralist": "Historical materialism is the science of social formations, analyzing the articulation of economic, political, and ideological instances within a structured whole determined in the last instance by the economic."
+    },
     "tags": [
       "method",
       "history",
-      "philosophy"
+      "philosophy",
+      "materialism"
     ],
-    "body": "<p>Historical materialism is the theoretical framework holding that the material conditions of a society&#39;s mode of production fundamentally determine its social, political, and intellectual life. It posits that historical change is driven by the development of productive forces and the class struggles arising from contradictions between those forces and the existing relations of production. Rather than treating ideas or consciousness as the motor of history, historical materialism grounds historical explanation in the real processes of social reproduction.</p>\n"
+    "body": "<p>Historical materialism is the theoretical framework holding that the material conditions of a society&#39;s mode of production fundamentally shape its social, political, and intellectual life. Formulated by Marx and Engels in <em>The German Ideology</em> (1846) and summarized in the famous 1859 Preface, it posits that historical change is driven by the development of productive forces and the class struggles arising from contradictions between those forces and the existing relations of production. When the relations of production become fetters on the further development of productive forces, an era of social revolution begins in which the legal, political, and ideological superstructure is transformed in correspondence with the revolutionized economic foundation. Rather than treating ideas, great individuals, or consciousness as the motor of history, historical materialism grounds historical explanation in the real processes of social production and reproduction. The framework has been the subject of extensive debate: critics charge it with economic determinism and teleological thinking, while defenders argue that Marx&#39;s formulations are far more nuanced than the base-determines-superstructure caricature suggests, and that the concept of &quot;determination in the last instance&quot; allows for the relative autonomy of political and ideological practices.</p>\n"
+  },
+  {
+    "slug": "ideology",
+    "term": "Ideology",
+    "german": "Ideologie",
+    "source": "The German Ideology",
+    "related": [
+      "base-superstructure",
+      "commodity-fetishism"
+    ],
+    "tags": [
+      "consciousness",
+      "superstructure"
+    ],
+    "traditions": {
+      "classical": "Ideology as false consciousness, the camera obscura that inverts reality so that the ideas of the ruling class appear as universal truths.",
+      "structuralist": "Ideology as material practices embedded in institutions (Ideological State Apparatuses per Althusser), constituting subjects rather than merely deceiving them."
+    },
+    "body": "<p>Ideology refers to the systems of ideas, beliefs, and representations through which human beings understand and relate to their social conditions of existence. In Marx&#39;s early formulation, ideology functions like a camera obscura, producing an inverted image of real social relations and masking the material interests that underpin dominant ideas. The concept has been significantly reworked across the Marxist tradition, from Gramsci&#39;s connection to hegemony to Althusser&#39;s theory of ideology as a material practice with no outside.</p>\n"
+  },
+  {
+    "slug": "immiseration",
+    "term": "Immiseration",
+    "german": "Verelendung",
+    "source": "Capital Vol. 1, Ch. 25",
+    "related": [
+      "surplus-value",
+      "reserve-army-labor",
+      "accumulation"
+    ],
+    "traditions": {
+      "classical": "Capitalist accumulation necessarily produces immiseration at the pole of the working class — either absolute impoverishment or relative decline in labor's share of total wealth — as a structural consequence of the general law of accumulation.",
+      "value-form": "Immiseration must be understood in terms of the value-form: as productivity rises, the value of labor-power falls, meaning workers can consume more use-values while representing a declining share of total value produced.",
+      "harvey": "Immiseration is spatially differentiated — accumulation by dispossession produces absolute immiseration in peripheral zones while relative immiseration in the core is masked by consumer credit and the cheapening of imported commodities.",
+      "structuralist": "Immiseration is a tendential law operating within the structure of the capitalist mode of production, subject to counteracting tendencies whose relative weight is determined by the specific conjuncture of class struggle."
+    },
+    "tags": [
+      "wages",
+      "poverty",
+      "accumulation",
+      "class"
+    ],
+    "body": "<p>Immiseration (<em>Verelendung</em>) is the thesis that capitalist accumulation tends to worsen the conditions of the working class relative to the wealth it produces. Marx&#39;s general law of capitalist accumulation in Chapter 25 of <em>Capital, Volume I</em> holds that the growth of capital produces a corresponding growth in the industrial reserve army of labor and the pauperized layers of the population, concentrating wealth at one pole and misery at the other. The concept has been the subject of intense debate: some interpreters defend an absolute immiseration thesis in which real living standards decline, while others argue that Marx&#39;s position is better understood as relative immiseration — the growing disparity between the working class&#39;s share of social wealth and that of capital, compatible with rising real wages. Historical experience has complicated both positions, as periods of rising working-class living standards in the advanced capitalist countries have coexisted with deepening poverty in the Global South and periodic crises that destroy working-class gains. The concept remains relevant to contemporary debates about wage stagnation, wealth inequality, and the precariatization of labor.</p>\n"
+  },
+  {
+    "slug": "imperialism",
+    "term": "Imperialism",
+    "german": "Imperialismus",
+    "source": "Lenin, Imperialism, the Highest Stage of Capitalism (1917)",
+    "related": [
+      "primitive-accumulation",
+      "uneven-development",
+      "labor-aristocracy"
+    ],
+    "traditions": {
+      "classical": "Imperialism is the monopoly stage of capitalism characterized by the dominance of finance capital, the export of capital, the territorial division of the world among great powers, and the super-exploitation of colonial and semi-colonial peoples.",
+      "value-form": "Imperialism must be analyzed through the global imposition and differentiated operation of the value-form, as the world market establishes abstract labor as a universal social mediation while producing systematic inequalities in its realization.",
+      "harvey": "Imperialism operates through a dialectic of territorial and capitalist logics of power, as states pursue geopolitical interests that both facilitate and are shaped by the spatial dynamics of capital accumulation.",
+      "structuralist": "Imperialism is a structure of articulation between dominant and dependent social formations, reproducing the conditions of peripheral exploitation through the mechanisms of unequal exchange and the international division of labor."
+    },
+    "tags": [
+      "colonialism",
+      "monopoly",
+      "finance capital",
+      "world system"
+    ],
+    "body": "<p>Imperialism, in Marxist theory, designates not merely the policy of territorial conquest but a structural stage of capitalist development in which the concentration of production into monopolies, the fusion of banking and industrial capital into finance capital, and the compulsion to export surplus capital drive the great powers toward the colonial partition of the world and inter-imperialist rivalry. Lenin&#39;s 1917 pamphlet, drawing on Hobson and Hilferding, provided the canonical formulation, arguing that imperialism is the highest and final stage of capitalism, characterized by parasitism, decay, and the intensification of contradictions that make socialist revolution both possible and necessary. Subsequent Marxist theories — dependency theory, world-systems analysis, theories of unequal exchange, and Harvey&#39;s concept of the new imperialism — have extended and revised Lenin&#39;s framework to account for decolonization, neocolonial economic domination, and the changing forms of imperial power in the late twentieth and twenty-first centuries. The concept remains central to Marxist analyses of global inequality, military intervention, and the structural relationship between the Global North and South.</p>\n"
+  },
+  {
+    "slug": "labor-aristocracy",
+    "term": "Labor Aristocracy",
+    "german": "Arbeiteraristokratie",
+    "source": "Engels, Preface to The Condition of the Working Class (1892); Lenin, Imperialism (1917)",
+    "related": [
+      "imperialism",
+      "class-struggle",
+      "surplus-value"
+    ],
+    "traditions": {
+      "classical": "The labor aristocracy is a privileged stratum of the working class in the imperialist countries, bought off by a share of the superprofits extracted from colonial exploitation, which provides the social basis for opportunism and reformism in the labor movement.",
+      "value-form": "The concept of labor aristocracy conflates the distribution of revenue with the determination of value, and the privileges of metropolitan workers are better understood through the differential operation of the value-form across the world market.",
+      "harvey": "The labor aristocracy is produced by the uneven geographical development of capitalism, as workers in core regions benefit from spatial monopolies, infrastructure advantages, and the externalization of costs to peripheral zones.",
+      "structuralist": "The labor aristocracy occupies a contradictory class location, objectively proletarian in relation to capital but ideologically and politically aligned with the bourgeoisie through the mechanisms of imperialist redistribution."
+    },
+    "tags": [
+      "imperialism",
+      "class",
+      "reformism",
+      "trade unions"
+    ],
+    "body": "<p>The labor aristocracy refers to a privileged upper stratum of the working class in the advanced capitalist countries whose relatively higher wages, better working conditions, and social security are, in the classical formulation, financed by the superprofits that imperialist capital extracts from the exploitation of colonial and semi-colonial labor. Engels first identified the phenomenon in the mid-nineteenth century British working class, and Lenin developed it into a theory of reformism, arguing that the material basis of opportunism in the labor movement — the tendency of trade union leaders and social-democratic politicians to seek accommodation with capital rather than its overthrow — lies in the imperialist bribery of this privileged layer. The concept has been contested within Marxism: critics argue that it exaggerates the share of colonial superprofits flowing to metropolitan workers and risks dividing the international working class by implying that workers in the Global North are complicit beneficiaries of imperialism rather than exploited subjects of capital. The debate remains politically charged in discussions of labor internationalism, trade union strategy, and the structural divisions within the global working class.</p>\n"
+  },
+  {
+    "slug": "labor-power",
+    "term": "Labor-Power",
+    "german": "Arbeitskraft",
+    "source": "Capital Vol. 1, Ch. 6",
+    "related": [
+      "surplus-value",
+      "use-value",
+      "exchange-value",
+      "social-reproduction"
+    ],
+    "traditions": {
+      "classical": "Labor-power is the commodity whose use-value — the capacity to create value — exceeds its own exchange-value, making it the sole source of surplus-value and the key to understanding capitalist exploitation.",
+      "value-form": "Labor-power is a peculiar commodity whose value is determined like any other by socially necessary labor time, but whose use-value consists precisely in the production of value — a circularity that reveals the self-referential logic of the value-form.",
+      "harvey": "The reproduction of labor-power extends beyond the factory wage to encompass the entire geography of social reproduction — housing, education, healthcare, transportation — making urbanization integral to the production of a compliant workforce.",
+      "structuralist": "Labor-power occupies a structurally determined place within the capitalist mode of production as the element that, when combined with means of production under relations of exploitation, generates the surplus that reproduces the system."
+    },
+    "tags": [
+      "exploitation",
+      "reproduction",
+      "value theory",
+      "commodity"
+    ],
+    "body": "<p>Labor-power (<em>Arbeitskraft</em>) is the capacity or potential to labor that the worker sells to the capitalist as a commodity on the market. It is distinct from labor itself, which is the actual exercise of that capacity in the production process — a distinction Marx regarded as his most important scientific contribution and the key to solving the riddle of surplus-value. The value of labor-power is determined, like that of any other commodity, by the socially necessary labor time required to produce the means of subsistence needed to reproduce the worker and their family — including food, housing, clothing, education, and the raising of the next generation of workers. The crucial asymmetry is that the use-value of labor-power to the capitalist — its capacity to produce value through living labor — exceeds its exchange-value as determined by reproduction costs. This difference between the value labor-power creates when consumed in production and the value of labor-power itself is the source of surplus-value, making the distinction between labor and labor-power the analytical foundation of Marx&#39;s theory of exploitation.</p>\n"
+  },
+  {
+    "slug": "lumpenproletariat",
+    "term": "Lumpenproletariat",
+    "german": "Lumpenproletariat",
+    "source": "Marx, The Eighteenth Brumaire (1852); Communist Manifesto (1848)",
+    "related": [
+      "class-struggle",
+      "bonapartism",
+      "reserve-army-labor"
+    ],
+    "traditions": {
+      "classical": "The lumpenproletariat is the dangerous class of declassed, demoralized social elements — vagabonds, criminals, the chronically unemployed — structurally incapable of developing proletarian class consciousness and historically susceptible to reactionary mobilization.",
+      "value-form": "The lumpenproletariat marks the limit of the wage-form's capacity to integrate all dispossessed persons into the circuit of capital, producing a surplus population excluded from both productive labor and the social recognition it mediates.",
+      "harvey": "The lumpenproletariat is concentrated in specific urban spaces — slums, informal settlements, zones of abandonment — where the spatial dynamics of accumulation by dispossession produce populations surplus to capital's requirements.",
+      "structuralist": "The lumpenproletariat occupies a structural position outside the relations of production proper, making its political behavior conjuncturally determined rather than derivable from a stable class interest."
+    },
+    "tags": [
+      "class",
+      "revolution",
+      "social structure",
+      "surplus population"
+    ],
+    "body": "<p>The lumpenproletariat designates the stratum of declassed, marginal social elements — beggars, vagabonds, petty criminals, discharged soldiers, and the chronically unemployed — whom Marx described as incapable of developing independent class consciousness and therefore available for hire as the shock troops of reaction. In <em>The Eighteenth Brumaire</em>, Marx shows how Bonaparte recruited his political base from this social residuum, the Society of the Tenth of December, composed of men with no stable relationship to the means of production or the wage form. Marx&#39;s dismissal of the lumpenproletariat has been challenged by later theorists, particularly Fanon, who argued in <em>The Wretched of the Earth</em> that in the colonial context, the lumpenproletariat — the urban dispossessed excluded from the formal colonial economy — constitutes the most revolutionary class, precisely because it has no stake in the existing order. The Black Panther Party similarly revalued the lumpenproletariat as a potentially revolutionary force in conditions of racialized exclusion from formal employment.</p>\n"
+  },
+  {
+    "slug": "metabolic-rift",
+    "term": "Metabolic Rift",
+    "source": "Marx, Capital Vol. 3, Ch. 47; John Bellamy Foster, Marx's Ecology (2000)",
+    "related": [
+      "primitive-accumulation",
+      "crisis-theory",
+      "mode-of-production"
+    ],
+    "traditions": {
+      "classical": "The metabolic rift describes capitalism's disruption of the material interchange between human society and nature, particularly the rupture in soil nutrient cycles caused by the separation of town and country under industrial agriculture.",
+      "value-form": "The metabolic rift reveals how the value-form's abstraction from use-value systematically disregards the material conditions of ecological reproduction, subordinating natural processes to the temporal logic of valorization.",
+      "harvey": "Capital's production of space — urbanization, industrialized agriculture, resource extraction — generates metabolic rifts at multiple scales, from local soil depletion to planetary climate disruption.",
+      "structuralist": "The metabolic rift is an effect of the articulation between the economic instance and its natural conditions of existence, where the autonomy of the economic systematically undermines its own material presuppositions."
+    },
+    "tags": [
+      "ecology",
+      "nature",
+      "agriculture",
+      "crisis"
+    ],
+    "body": "<p>The metabolic rift describes capitalism&#39;s systematic disruption of the metabolic interaction between human societies and the natural world. Marx used the concept of metabolism (<em>Stoffwechsel</em>) to characterize the labor process as the mediating activity through which humans regulate their material interchange with nature. In <em>Capital, Volume III</em>, he argued that capitalist agriculture — by concentrating populations in cities while extracting nutrients from the soil to feed them — creates an irreparable rift in this metabolism, depleting the earth&#39;s fertility and rendering sustainable reproduction impossible under existing relations of production. John Bellamy Foster revived and systematized this concept in <em>Marx&#39;s Ecology</em> (2000), arguing that Marx&#39;s analysis of the soil nutrient crisis anticipated contemporary ecological thought and provides the basis for a materialist ecology. The concept has since been extended beyond agriculture to encompass capitalism&#39;s disruption of planetary ecological systems — climate, biodiversity, ocean chemistry, nitrogen and phosphorus cycles — providing a framework for understanding the ecological crisis as an inherent consequence of the capitalist mode of production rather than an accidental externality.</p>\n"
   },
   {
     "slug": "mode-of-production",
     "term": "Mode of Production",
     "german": "Produktionsweise",
-    "source": "Capital Vol. 1; The German Ideology",
+    "source": "Capital Vol. 1; The German Ideology; Preface to A Contribution to the Critique of Political Economy",
     "related": [
       "relations-of-production",
       "forces-of-production",
-      "base-superstructure"
+      "base-superstructure",
+      "historical-materialism"
     ],
+    "traditions": {
+      "classical": "A mode of production is a historically specific combination of productive forces and relations of production that defines the character of a social formation, with successive modes — ancient, feudal, capitalist — each driven forward by the contradiction between forces and relations.",
+      "value-form": "The capitalist mode of production is distinguished by the historically unique dominance of the value-form as the social mediation of labor, not merely by a particular form of surplus extraction or level of technological development.",
+      "harvey": "The capitalist mode of production must be understood as producing not only commodities but space — the built environment, territorial organization, and spatial divisions of labor are constitutive elements, not mere containers.",
+      "structuralist": "The mode of production is a complex, structured whole combining economic, political, and ideological instances in a specific articulation, with the economic determining which instance is dominant in the last instance."
+    },
     "tags": [
       "political economy",
-      "history"
+      "history",
+      "social formation",
+      "materialism"
     ],
-    "body": "<p>A mode of production is the historically specific unity of productive forces and relations of production that characterizes a given form of society. It encompasses not only the technical means by which goods are produced but also the social relations under which production takes place, including property relations and the division of labor. Marx identifies several successive modes of production -- including ancient, feudal, and capitalist -- each defined by a distinct form of surplus extraction and class antagonism.</p>\n"
+    "body": "<p>A mode of production (<em>Produktionsweise</em>) is the historically specific unity of productive forces and relations of production that characterizes a given form of society. It encompasses not only the technical means by which goods are produced but the social relations under which production takes place — property relations, the division of labor, and the specific form through which surplus labor is extracted from the direct producers. Marx identifies several successive modes of production — ancient, feudal, Asiatic, and capitalist — each defined by a distinct form of surplus extraction and class antagonism. The concept is not merely economic but designates a total social form that shapes political institutions, legal systems, ideological frameworks, and cultural production. The transition from one mode of production to another is driven, in Marx&#39;s account, by the development of productive forces into contradiction with existing relations of production — a process that unfolds through class struggle and social revolution. The concept remains contested: Althusserians emphasize the mode of production as a theoretical object defined by its internal structure, while historicist Marxists treat it as a descriptive category for empirically observable social formations.</p>\n"
+  },
+  {
+    "slug": "organic-composition-capital",
+    "term": "Organic Composition of Capital",
+    "german": "Organische Zusammensetzung des Kapitals",
+    "source": "Capital Vol. 1, Ch. 25; Capital Vol. 3, Ch. 8",
+    "related": [
+      "constant-variable-capital",
+      "tendency-rate-profit-fall",
+      "surplus-value"
+    ],
+    "traditions": {
+      "classical": "The rising organic composition of capital — more machinery relative to living labor — is the material basis of the tendency of the rate of profit to fall, as the source of surplus-value (variable capital) declines relative to total capital advanced.",
+      "value-form": "The organic composition must be analyzed in value terms, not physical terms — technological change can simultaneously raise the technical composition while cheapening constant capital, producing indeterminate effects on the organic composition.",
+      "harvey": "The organic composition varies across space and sectors, creating geographical patterns of profitability that drive capital mobility, uneven development, and the periodic restructuring of the spatial division of labor.",
+      "structuralist": "The organic composition is a structural parameter of the capitalist mode of production whose tendential movement is determined by the articulation of competitive dynamics, technical change, and class struggle over the rate of exploitation."
+    },
+    "tags": [
+      "accumulation",
+      "technology",
+      "profit",
+      "political economy"
+    ],
+    "body": "<p>The organic composition of capital is the ratio of constant capital (means of production) to variable capital (labor-power), reflecting the technical conditions of production as expressed in value terms. Marx distinguishes the technical composition (the physical ratio of machinery and materials to workers), the value composition (the ratio expressed in value), and the organic composition, which captures the value composition insofar as it is determined by and reflects changes in the technical composition. As capitalist accumulation proceeds, competition drives individual capitalists to adopt labor-saving technologies, raising the organic composition across the economy — a greater share of total capital is invested in means of production relative to wages. This tendential rise in the organic composition is central to Marx&#39;s law of the tendency of the rate of profit to fall: since surplus-value is produced only by living labor (variable capital), a rising proportion of constant capital in the total means that surplus-value falls relative to total capital advanced, depressing the rate of profit even as the mass of profit may continue to grow.</p>\n"
+  },
+  {
+    "slug": "overdetermination",
+    "term": "Overdetermination",
+    "german": "Uberdetermination",
+    "source": "Althusser, For Marx (1965); Reading Capital (1965)",
+    "related": [
+      "dialectics",
+      "base-superstructure",
+      "mode-of-production"
+    ],
+    "traditions": {
+      "classical": "Classical Marxism does not use the concept of overdetermination, instead emphasizing the determination of the superstructure by the economic base and the role of class struggle as the motor of historical change.",
+      "value-form": "Overdetermination is compatible with value-form analysis insofar as it recognizes that economic categories do not operate in isolation but are mediated by political, legal, and ideological forms that shape their concrete realization.",
+      "harvey": "Overdetermination must incorporate spatial determination — political, economic, and ideological contradictions are not only temporally layered but geographically differentiated, condensing differently across territorial scales.",
+      "structuralist": "Overdetermination is the key concept for understanding the social whole as a structure in dominance, where every contradiction is always-already specified by the other contradictions in which it exists, making simple, expressive causality impossible."
+    },
+    "tags": [
+      "Althusser",
+      "structural causality",
+      "dialectics",
+      "theory"
+    ],
+    "body": "<p>Overdetermination is a concept borrowed by Althusser from Freudian psychoanalysis and adapted to Marxist theory to describe the way in which every social contradiction is constituted by the multiplicity of contradictions in which it exists. Against the Hegelian model of a simple, expressive totality in which every element of the social whole is the expression of a single inner essence (such as the economy), Althusser argues that the Marxist social whole is a complex, structured totality in which each instance — economic, political, ideological — possesses relative autonomy and specific effectivity. No contradiction is ever simple or pure but is always specified by the other levels and contradictions that coexist with it, making the concrete historical situation irreducible to any single determining cause. The concept allows Althusser to maintain the Marxist thesis of determination in the last instance by the economic while rejecting economistic reductionism: the economic is determinant, but it is never the sole determinant, and it operates precisely by assigning dominance to one or another instance in a given conjuncture. The concept has been influential in political theory, cultural studies, and post-Marxist discourse analysis.</p>\n"
+  },
+  {
+    "slug": "permanent-revolution",
+    "term": "Permanent Revolution",
+    "german": "Permanente Revolution",
+    "source": "Trotsky, Results and Prospects (1906); The Permanent Revolution (1929)",
+    "related": [
+      "combined-uneven-development",
+      "dictatorship-of-proletariat",
+      "class-struggle"
+    ],
+    "traditions": {
+      "classical": "Permanent revolution holds that in countries of belated capitalist development, the democratic tasks historically associated with the bourgeois revolution can only be completed by the proletariat in power, which must then proceed uninterruptedly to socialist measures.",
+      "value-form": "The theory of permanent revolution implicitly recognizes that the value-form cannot be established partially — once capitalist social relations are set in motion, they generate contradictions that no intermediate class compromise can stabilize.",
+      "harvey": "Permanent revolution can be understood spatially as the impossibility of building socialism in one country when the world market imposes the competitive discipline of value production across all territories.",
+      "structuralist": "Permanent revolution describes a conjuncture in which the condensation of contradictions from multiple modes of production within a single social formation makes stagist revolutionary strategy impossible."
+    },
+    "tags": [
+      "revolution",
+      "strategy",
+      "Trotskyism",
+      "development"
+    ],
+    "body": "<p>Permanent revolution is the theory, developed by Trotsky from Marx&#39;s 1850 &quot;Address to the Communist League&quot; and elaborated in <em>Results and Prospects</em> (1906) and <em>The Permanent Revolution</em> (1929), that in countries of belated capitalist development the tasks of the bourgeois-democratic revolution — land reform, national independence, democratic rights — cannot be accomplished by the national bourgeoisie, which is too weak, dependent on imperialism, and fearful of the working class to carry through its own historical program. These tasks therefore fall to the proletariat, which, having seized power at the head of the peasant masses, cannot stop at democratic reforms but must proceed to socialist measures, expropriating capital and establishing a workers&#39; state. The revolution, moreover, cannot be completed within national boundaries but must extend internationally or face isolation and degeneration. Trotsky counterposed this perspective to the Stalinist theory of revolution in stages and socialism in one country, arguing that the Russian Revolution confirmed the permanent revolution thesis while its bureaucratic degeneration confirmed the impossibility of national socialism.</p>\n"
+  },
+  {
+    "slug": "praxis",
+    "term": "Praxis",
+    "german": "Praxis",
+    "source": "Marx, Theses on Feuerbach (1845)",
+    "related": [
+      "dialectics",
+      "alienation",
+      "historical-materialism"
+    ],
+    "traditions": {
+      "classical": "Praxis is revolutionary, sensuous human activity that transforms both the objective world and the subjective consciousness of the agent — the unity of theory and practice that distinguishes Marxism from contemplative philosophy.",
+      "value-form": "Praxis as a category belongs to the early, humanist Marx; in the mature critique, the question shifts from how subjects transform their world to how objective social forms (value, money, capital) constitute and constrain human activity.",
+      "harvey": "Praxis includes the production and transformation of space — revolutionary practice must engage with the material built environment, not only with social relations abstractly conceived.",
+      "structuralist": "Althusser distinguishes theoretical practice, political practice, and ideological practice as distinct forms of production, rejecting the humanist concept of praxis as an undifferentiated unity of theory and action."
+    },
+    "tags": [
+      "theory and practice",
+      "philosophy",
+      "revolution",
+      "activity"
+    ],
+    "body": "<p>Praxis designates the unity of theory and practice, of thinking and acting, that Marx counterposed to the merely contemplative materialism of Feuerbach and the merely speculative idealism of Hegel. In the <em>Theses on Feuerbach</em> (1845), Marx argues that the question of whether human thinking can attain objective truth is not a question of theory but a practical question: the truth of thought must be demonstrated in practice, and the philosophers have only interpreted the world when the point is to change it. Praxis is not blind activity but critically reflective, transformative action — revolutionary practice (<em>revolutionare Praxis</em>) — that simultaneously changes objective conditions and the consciousness of the agents who carry it out. The concept became central to Western Marxism, particularly in Lukacs&#39;s <em>History and Class Consciousness</em>, Gramsci&#39;s &quot;philosophy of praxis,&quot; and the Yugoslav Praxis group, all of whom emphasized the creative, self-determining dimension of human activity against mechanical, deterministic interpretations of historical materialism. Whether the mature Marx retained this emphasis on praxis or replaced it with a structural analysis of impersonal social forms remains a fundamental question dividing humanist and anti-humanist readings of his work.</p>\n"
   },
   {
     "slug": "primitive-accumulation",
     "term": "Primitive Accumulation",
-    "german": "Ursprüngliche Akkumulation",
+    "german": "Ursprungliche Akkumulation",
     "source": "Capital Vol. 1, Part 8",
     "related": [
       "accumulation",
-      "enclosure",
-      "dispossession"
+      "class-struggle",
+      "imperialism"
     ],
+    "traditions": {
+      "classical": "Primitive accumulation is the historical process of separating producers from the means of production through violence, enclosure, and colonial plunder — the precondition for capitalist relations that reveals capital's origin in force rather than peaceful industry.",
+      "value-form": "Primitive accumulation establishes the social conditions under which the value-form can become the dominant mode of social mediation, creating the formal separation between labor and the means of production that makes wage labor and commodity exchange necessary.",
+      "harvey": "Accumulation by dispossession is an ongoing process, not a one-time historical event — capitalism continually requires new rounds of primitive accumulation through privatization, financialization, and the enclosure of commons at expanding geographical scales.",
+      "structuralist": "Primitive accumulation designates the transition between modes of production, the conjuncture in which the elements of the capitalist mode are assembled through extra-economic violence before the economic mechanisms of reproduction can operate autonomously."
+    },
     "tags": [
       "accumulation",
       "history",
-      "colonialism"
+      "colonialism",
+      "enclosure",
+      "dispossession"
     ],
-    "body": "<p>Primitive accumulation designates the historical process by which producers were separated from the means of production, creating the preconditions for capitalist relations. It encompasses the enclosure of common lands, colonial plunder, the slave trade, and the use of state violence to create a class of propertyless workers compelled to sell their labor-power. Marx&#39;s account demonstrates that the origin of capital is not peaceful saving or industry but force and dispossession.</p>\n"
+    "body": "<p>Primitive accumulation (<em>ursprungliche Akkumulation</em>) designates the historical process by which producers were separated from the means of production, creating the two fundamental preconditions for capitalist relations: a class of propertyless workers compelled to sell their labor-power, and a class of capitalists who have concentrated sufficient wealth to purchase that labor-power and set it to work. Marx devoted Part VIII of <em>Capital, Volume I</em> to demolishing the bourgeois fable of &quot;previous accumulation&quot; — the myth that capitalists acquired their wealth through thrift and industry while the poor squandered theirs through profligacy. In its place, he narrates the actual history of enclosure of common lands in England, colonial plunder, the slave trade, public debt, the expropriation of church and monastic property, and the use of state violence to create a disciplined labor force. David Harvey&#39;s concept of &quot;accumulation by dispossession&quot; extends Marx&#39;s analysis to contemporary processes of privatization, financialization, and the ongoing enclosure of commons across the Global South, arguing that primitive accumulation is not merely a historical precondition but a permanent feature of capitalist development.</p>\n"
+  },
+  {
+    "slug": "reification",
+    "term": "Reification",
+    "german": "Verdinglichung",
+    "source": "History and Class Consciousness",
+    "related": [
+      "commodity-fetishism",
+      "alienation"
+    ],
+    "tags": [
+      "Lukacs",
+      "consciousness"
+    ],
+    "traditions": {
+      "classical": "Reification as the objectification of social relations, where human activity and its products confront people as alien, thing-like forces beyond their control.",
+      "value-form": "Reification as specific to the capitalist value form, in which the abstract domination of value constitutes social life through the commodity's real abstraction."
+    },
+    "body": "<p>Reification describes the process by which social relations between people take on the appearance of relations between things, extending Marx&#39;s analysis of commodity fetishism into a comprehensive critique of bourgeois consciousness. Lukacs developed the concept to show how the commodity form penetrates all aspects of life under capitalism, producing a fragmented, contemplative stance toward a reality that appears as a collection of fixed, natural objects. The concept bridges the critique of political economy and the theory of consciousness, linking the structural logic of capital to the lived experience of its subjects.</p>\n"
   },
   {
     "slug": "relations-of-production",
     "term": "Relations of Production",
-    "german": "Produktionsverhältnisse",
-    "source": "Preface to A Contribution to the Critique of Political Economy",
+    "german": "Produktionsverhaltnisse",
+    "source": "Preface to A Contribution to the Critique of Political Economy (1859)",
     "related": [
       "forces-of-production",
       "mode-of-production",
       "base-superstructure"
     ],
+    "traditions": {
+      "classical": "Relations of production are the social relations — primarily property relations — within which production takes place, determining who controls the means of production, how surplus labor is extracted, and the class structure of society.",
+      "value-form": "Under capitalism, the relations of production take the specific form of value-relations — commodity exchange, wage labor, and capital — which constitute a mode of social mediation historically unique to capitalist society.",
+      "harvey": "Relations of production are spatially constituted — property relations, labor markets, and class structures are organized at specific geographical scales and produce distinct territorial configurations of power.",
+      "structuralist": "Relations of production define the structural places within the mode of production — capitalist and worker, landlord and tenant — independently of the individuals who occupy them, constituting an objective structure of class positions."
+    },
     "tags": [
       "political economy",
-      "social relations"
+      "social relations",
+      "class",
+      "property"
     ],
-    "body": "<p>Relations of production are the social relations people enter into in the process of producing their material life, encompassing property relations, the division of labor, and the distribution of the social product. Under capitalism, the fundamental relation of production is between those who own the means of production and those who must sell their labor-power. Marx argues that at a certain stage of development, the existing relations of production become fetters upon the productive forces, opening an epoch of social revolution.</p>\n"
+    "body": "<p>Relations of production (<em>Produktionsverhaltnisse</em>) designate the social relations into which human beings enter in the process of producing their material life — principally the relations of ownership and control over the means of production, the form of appropriation of surplus labor, and the division of labor within and between enterprises. Under capitalism, the fundamental relation of production is the wage-labor/capital relation: the class of propertyless workers sells labor-power to the class that monopolizes the means of production, and surplus-value is extracted through the difference between the value labor-power creates and its cost of reproduction. Relations of production are distinguished from forces of production (the technical means of production), and the contradiction between the two — as developing productive forces strain against existing social relations — constitutes the material foundation of social revolution in Marx&#39;s theory of history. The concept is broader than mere property law, encompassing the real social relationships through which production is organized, surplus is distributed, and classes are constituted.</p>\n"
+  },
+  {
+    "slug": "relative-surplus-value",
+    "term": "Relative Surplus-Value",
+    "german": "Relativer Mehrwert",
+    "source": "Capital Vol. 1, Ch. 12",
+    "related": [
+      "surplus-value",
+      "absolute-surplus-value",
+      "subsumption"
+    ],
+    "traditions": {
+      "classical": "Relative surplus-value is extracted by reducing necessary labor time through increases in labor productivity, making the worker cheaper to reproduce while the working day remains constant.",
+      "value-form": "The production of relative surplus-value corresponds to the real subsumption of labor, where capital transforms the technical basis of production itself and subordinates the labor process to the logic of valorization.",
+      "harvey": "The drive toward relative surplus-value production reshapes the built environment, transportation networks, and communication systems as capital revolutionizes the material conditions of production and circulation.",
+      "structuralist": "Relative surplus-value production marks the transition from formal to real subsumption, restructuring the entire ensemble of social relations around the requirements of expanded reproduction."
+    },
+    "tags": [
+      "exploitation",
+      "productivity",
+      "technology",
+      "value theory"
+    ],
+    "body": "<p>Relative surplus-value is the form of surplus-value produced by reducing the necessary labor time — the portion of the working day during which the worker reproduces the value of their own labor-power — through increases in the productivity of labor. Unlike absolute surplus-value, which extends the working day, relative surplus-value leaves its total length unchanged but alters the ratio between necessary and surplus labor time. When technological innovation cheapens the commodities that enter into the worker&#39;s consumption, the value of labor-power falls, and a greater portion of the working day is available for surplus labor. Marx argues that the systematic production of relative surplus-value is the specifically capitalist mode of exploitation, driven by competition among capitals to reduce costs through mechanization, the detailed division of labor, and the application of science to production. This dynamic produces the tendency toward constant technological revolution that distinguishes capitalism from all previous modes of production.</p>\n"
+  },
+  {
+    "slug": "reproduction-schemas",
+    "term": "Reproduction Schemas",
+    "german": "Reproduktionsschemata",
+    "source": "Capital Vol. 2, Part 3",
+    "related": [
+      "crisis-theory",
+      "surplus-value",
+      "constant-variable-capital"
+    ],
+    "traditions": {
+      "classical": "The reproduction schemas model the conditions under which the total social capital reproduces itself, demonstrating that proportional exchange between departments is necessary for expanded accumulation and that disproportionality is a source of crisis.",
+      "value-form": "The schemas abstract from the monetary mediation of exchange to model reproduction in value terms, raising the question of whether money's role as autonomous form of value introduces crisis possibilities absent from the schemas themselves.",
+      "harvey": "The reproduction schemas must be spatialized — the two departments are not abstract categories but correspond to real geographical distributions of production that create logistical requirements and vulnerabilities.",
+      "structuralist": "The schemas formalize the structural conditions of reproduction of the capitalist mode of production as a whole, showing how the articulation of departments constitutes a system with its own laws of motion."
+    },
+    "tags": [
+      "political economy",
+      "accumulation",
+      "circulation",
+      "crisis"
+    ],
+    "body": "<p>The reproduction schemas, developed by Marx in Part III of <em>Capital, Volume II</em>, are formal models of the conditions under which the total social capital can reproduce itself on a simple or expanded scale. Marx divides social production into two great departments: Department I, producing means of production, and Department II, producing means of consumption. The schemas demonstrate that for reproduction to proceed without disruption, the output of each department must exchange with the other in definite proportions — Department I must produce enough means of production to replace those consumed by both departments, while Department II must produce enough consumption goods to sustain the workers and capitalists of both. Any systematic disproportionality between the departments creates the conditions for crisis. Luxemburg famously challenged the schemas by arguing that expanded reproduction requires non-capitalist markets to absorb the surplus product, while later Marxists have debated whether the schemas adequately account for money, credit, and the temporal dynamics of accumulation.</p>\n"
+  },
+  {
+    "slug": "reserve-army-labor",
+    "term": "Reserve Army of Labor",
+    "german": "Industrielle Reservearmee",
+    "source": "Capital Vol. 1, Ch. 25",
+    "related": [
+      "surplus-value",
+      "primitive-accumulation",
+      "immiseration"
+    ],
+    "traditions": {
+      "classical": "The reserve army of labor — the mass of unemployed and underemployed workers produced by capitalist accumulation — functions to discipline the employed workforce, depress wages, and provide a flexible pool of labor for capital's expansion.",
+      "value-form": "The reserve army reveals how the value-form produces a surplus population structurally excluded from waged employment, whose existence is necessary for the reproduction of the capital-labor relation but whose needs are subordinated to the imperatives of valorization.",
+      "harvey": "The reserve army is spatially differentiated — it concentrates in specific urban zones, peripheral regions, and informal economies, and its geographical distribution shapes patterns of migration, urbanization, and uneven development.",
+      "structuralist": "The reserve army is a structural effect of the capitalist mode of production — it is produced by the very process of accumulation through the substitution of living labor by machinery, not by demographic factors external to the system."
+    },
+    "tags": [
+      "unemployment",
+      "labor market",
+      "accumulation",
+      "wages"
+    ],
+    "body": "<p>The reserve army of labor (<em>industrielle Reservearmee</em>) designates the mass of unemployed and semi-employed workers that capitalist accumulation necessarily produces and maintains as a condition of its own reproduction. Marx argues in Chapter 25 of <em>Capital, Volume I</em> that as accumulation proceeds and the organic composition of capital rises, fewer workers are required relative to the total capital employed, creating a relative surplus population that exists in three forms: the floating reserve (workers periodically expelled from and reabsorbed into employment), the latent reserve (agricultural and other workers available for absorption into industrial production), and the stagnant reserve (workers trapped in irregular, precarious, and poorly paid employment). The existence of this reserve army performs a crucial disciplinary function: the threat of unemployment compels employed workers to accept longer hours, lower wages, and worse conditions, while the availability of surplus labor ensures that capital can rapidly expand production when profitable opportunities arise. The concept anticipates contemporary analyses of precarious labor, the gig economy, and structural unemployment.</p>\n"
+  },
+  {
+    "slug": "social-reproduction",
+    "term": "Social Reproduction",
+    "german": "Gesellschaftliche Reproduktion",
+    "source": "Capital Vol. 2; Feminist Marxist debates 1970s-present",
+    "related": [
+      "labor-power",
+      "surplus-value",
+      "primitive-accumulation"
+    ],
+    "traditions": {
+      "classical": "Social reproduction encompasses the processes by which the total conditions of capitalist production are renewed — the reproduction of labor-power, means of production, and class relations — analyzed primarily through the reproduction schemas of Capital Vol. 2.",
+      "value-form": "Social reproduction theory reveals that the value-form depends on activities — domestic labor, care work, emotional sustenance — that are systematically excluded from the circuit of value while remaining necessary for its continued operation.",
+      "harvey": "Social reproduction is organized spatially through the household, the neighborhood, the city, and national welfare systems, and struggles over social reproduction are simultaneously struggles over the production of space.",
+      "structuralist": "Social reproduction designates the mechanisms through which the capitalist mode of production reproduces the conditions of its own existence — not only economically but politically and ideologically, through the state, education, and the family."
+    },
+    "tags": [
+      "feminist Marxism",
+      "care work",
+      "reproduction",
+      "labor-power"
+    ],
+    "body": "<p>Social reproduction refers to the ensemble of activities and relationships through which the conditions of capitalist production are renewed on a daily and generational basis — the bearing and raising of children, the physical and emotional maintenance of workers, the transmission of skills and social norms, and the reproduction of class relations. Feminist Marxists have argued that classical Marxist theory systematically neglected these activities, which are disproportionately performed by women, unpaid, and rendered invisible by an analytical framework focused exclusively on commodity production and waged labor. Social reproduction theory, developed from the domestic labor debates of the 1970s through contemporary theorists such as Lise Vogel, Tithi Bhattacharya, and Cinzia Arruzza, argues that capitalism depends on but does not pay for the reproductive labor that produces and maintains the commodity labor-power. This structural dependence on unwaged reproductive work, combined with capital&#39;s tendency to cut costs by offloading reproduction onto households and communities, produces a permanent crisis of social reproduction — an intensifying contradiction between capital&#39;s need for cheap, compliant workers and its systematic undermining of the conditions required to produce and sustain them.</p>\n"
+  },
+  {
+    "slug": "subsumption",
+    "term": "Subsumption",
+    "german": "Subsumtion",
+    "source": "Capital Vol. 1, Ch. 14 (Resultate); Economic Manuscripts 1861-63",
+    "related": [
+      "absolute-surplus-value",
+      "relative-surplus-value",
+      "mode-of-production"
+    ],
+    "traditions": {
+      "classical": "Formal subsumption describes capital's command over labor processes inherited from pre-capitalist production, while real subsumption marks capital's transformation of the technical basis of production itself to serve valorization.",
+      "value-form": "The distinction between formal and real subsumption tracks the deepening of the value-form's determination of social life, from the external imposition of the wage relation to the internal reorganization of all productive activity according to the logic of abstract labor.",
+      "harvey": "Real subsumption extends beyond the factory to encompass the production of space, the built environment, and the totality of social reproduction, as capital reshapes the material conditions of everyday life.",
+      "structuralist": "Formal and real subsumption designate two modes of articulation between the labor process and the valorization process, corresponding to distinct structures of the capitalist mode of production."
+    },
+    "tags": [
+      "labor process",
+      "value theory",
+      "capitalism",
+      "production"
+    ],
+    "body": "<p>Subsumption (<em>Subsumtion</em>) describes the process by which capital subordinates the labor process to the imperatives of valorization. Marx distinguishes two forms. Under formal subsumption, capital takes command of labor processes that preexist it — artisanal, domestic, or peasant production — imposing the wage relation and extracting surplus-value without fundamentally altering the technical character of the work. The laborer now works for the capitalist rather than independently, but the methods of production remain essentially unchanged. Under real subsumption, capital transforms the labor process itself, revolutionizing technology, imposing the detailed division of labor, introducing machinery, and applying science to production in ways that make the worker an appendage of a process designed entirely according to the logic of capital&#39;s self-expansion. Real subsumption corresponds to the specifically capitalist mode of production and the production of relative surplus-value. The concept has been extended by autonomist Marxists and others to describe the &quot;real subsumption of society,&quot; in which capital&#39;s logic penetrates not only factory production but all domains of social life — education, healthcare, culture, and subjectivity itself.</p>\n"
   },
   {
     "slug": "surplus-value",
@@ -219,14 +912,94 @@
     "related": [
       "exploitation",
       "labor-power",
-      "variable-capital"
+      "constant-variable-capital",
+      "absolute-surplus-value",
+      "relative-surplus-value"
     ],
+    "traditions": {
+      "classical": "Surplus-value is the unpaid labor of the working class, appropriated by the capitalist, and constitutes the material basis of profit, interest, and rent — the definitive proof that capitalism is a system of exploitation.",
+      "value-form": "Surplus-value is not a pre-given substance extracted from labor but a social form that can only exist through the monetary realization of commodities on the market, making exploitation inseparable from the value-form's logic of abstract equivalence.",
+      "harvey": "Surplus-value must be understood in its spatial and temporal dimensions — its production, realization, and distribution are organized across geographical scales and mediated by the credit system's capacity to bridge temporal gaps.",
+      "structuralist": "Surplus-value is a structural effect of the articulation of the labor process and the valorization process, produced by the specific combination of the elements of the capitalist mode of production."
+    },
     "tags": [
       "value theory",
       "exploitation",
       "political economy"
     ],
-    "body": "<p>Surplus-value is the value produced by the worker in excess of the value of their labor-power, appropriated without equivalent by the capitalist. It arises because the use-value of labor-power -- its capacity to create value -- exceeds its own exchange-value as determined by the cost of the worker&#39;s reproduction. Surplus-value is the specific form that exploitation takes under capitalism and constitutes the basis of profit, interest, and rent.</p>\n"
+    "body": "<p>Surplus-value is the value produced by the worker in excess of the value of their labor-power, appropriated without equivalent by the capitalist. It arises because the use-value of labor-power — its capacity to create value through living labor — exceeds its own exchange-value as determined by the socially necessary labor time required for the worker&#39;s reproduction. If the worker reproduces the value of their wages in six hours but labors for ten, the additional four hours constitute surplus labor, whose product — surplus-value — is the source of the capitalist&#39;s profit. Surplus-value is the specific form that exploitation takes under capitalism, distinguishing it from the forms of surplus extraction characteristic of slave and feudal societies. Marx identifies two methods of increasing surplus-value: absolute surplus-value, produced by extending the working day, and relative surplus-value, produced by reducing necessary labor time through increases in productivity. The theory of surplus-value is the cornerstone of Marx&#39;s critique of political economy, demonstrating that profit does not arise from exchange, entrepreneurial ingenuity, or the productivity of capital, but from the systematic appropriation of unpaid labor.</p>\n"
+  },
+  {
+    "slug": "tendency-rate-profit-fall",
+    "term": "Tendency of the Rate of Profit to Fall",
+    "german": "Gesetz des tendenziellen Falls der Profitrate",
+    "source": "Capital Vol. 3, Part 3",
+    "related": [
+      "organic-composition-capital",
+      "surplus-value",
+      "crisis-theory"
+    ],
+    "traditions": {
+      "classical": "The tendency of the rate of profit to fall, driven by rising organic composition of capital, is the most fundamental law of capitalist political economy, explaining capitalism's inherent tendency toward crisis and its historical transience.",
+      "value-form": "The law as formulated by Marx contains logical difficulties — rising organic composition need not produce a falling rate of profit if counteracting tendencies (especially rising exploitation) are taken into account, making the law's status indeterminate.",
+      "harvey": "The falling rate of profit drives capital's spatial expansion and restructuring — the search for higher returns produces geographical shifts in investment, deindustrialization of old centers, and the opening of new frontiers of accumulation.",
+      "structuralist": "The law describes a tendential structural dynamic of the capitalist mode of production, not an empirical prediction, whose concrete effects depend on the specific articulation of counteracting tendencies within a given conjuncture."
+    },
+    "tags": [
+      "crisis theory",
+      "organic composition",
+      "profit",
+      "political economy"
+    ],
+    "body": "<p>The tendency of the rate of profit to fall is Marx&#39;s thesis, developed in Part III of <em>Capital, Volume III</em>, that the competitive drive to raise labor productivity through technological innovation systematically undermines the conditions of profitability. As individual capitalists adopt labor-saving machinery to gain a competitive edge, the organic composition of capital — the ratio of constant to variable capital — rises across the economy. Since surplus-value is produced only by living labor (variable capital), a rising proportion of constant capital in the total means that the rate of surplus-value to total capital advanced declines, even as the mass of profit may continue to grow. Marx identifies several counteracting tendencies — the cheapening of elements of constant capital, rising intensity of exploitation, depression of wages below value, foreign trade, and the expansion of joint-stock companies — that offset but do not permanently reverse the tendency. The law has generated more debate than any other proposition in Marxist economics, with critics questioning its logical coherence, its empirical testability, and its relationship to other theories of crisis. Defenders argue that it captures the fundamental contradiction of capitalist accumulation: the same process that drives technological progress simultaneously undermines the social basis of profitability.</p>\n"
+  },
+  {
+    "slug": "transitional-program",
+    "term": "Transitional Program",
+    "source": "Trotsky, The Death Agony of Capitalism and the Tasks of the Fourth International (1938)",
+    "related": [
+      "permanent-revolution",
+      "class-struggle",
+      "democratic-centralism"
+    ],
+    "traditions": {
+      "classical": "The transitional program bridges the gap between the immediate economic demands of the working class and the ultimate goal of socialist revolution by formulating demands that are reasonable within the framework of workers' needs but unrealizable within the framework of capitalism.",
+      "value-form": "Transitional demands expose the contradiction between the use-value requirements of social reproduction and the value-form's subordination of all production to the imperatives of profitability and accumulation.",
+      "harvey": "Transitional demands can address the spatial contradictions of capitalism — the right to the city, control over the built environment, resistance to dispossession — connecting immediate struggles to systemic transformation.",
+      "structuralist": "The transitional program represents a strategic intervention into the conjuncture that aims to shift the balance of class forces by politicizing economic contradictions and revealing the structural limits of reformist solutions."
+    },
+    "tags": [
+      "strategy",
+      "revolution",
+      "Trotskyism",
+      "demands"
+    ],
+    "body": "<p>The transitional program is a method of revolutionary political strategy developed by Trotsky in 1938 as the founding document of the Fourth International. It proposes a system of demands that originate in the immediate conditions and consciousness of the working class but lead logically toward the question of state power and the expropriation of capital. Unlike the classical social-democratic division between a &quot;minimum program&quot; of reforms achievable under capitalism and a &quot;maximum program&quot; of socialist revolution deferred to an indefinite future, transitional demands — the sliding scale of wages, workers&#39; control of production, the opening of the books, the expropriation of key industries, the workers&#39; militia — are formulated to be objectively necessary for workers&#39; survival but structurally incompatible with the continued functioning of the capitalist system. Their purpose is pedagogical and organizational: through the struggle for transitional demands, workers confront the limits of capitalism and the necessity of revolutionary transformation. The method has been debated extensively within the Trotskyist tradition and beyond, with critics arguing that it risks either opportunist adaptation to reformism or sectarian detachment from actual working-class struggles.</p>\n"
+  },
+  {
+    "slug": "uneven-development",
+    "term": "Uneven and Combined Development",
+    "german": "Ungleiche Entwicklung",
+    "source": "Trotsky, History of the Russian Revolution (1930)",
+    "related": [
+      "combined-uneven-development",
+      "imperialism",
+      "primitive-accumulation"
+    ],
+    "traditions": {
+      "classical": "Uneven development is a general law of capitalism and history — different nations, regions, and sectors develop at different rates, producing disparities that are intensified rather than equalized by the expansion of the world market.",
+      "value-form": "Uneven development reflects the non-simultaneous universalization of the value-form, as different social formations are integrated into the world market at different moments and under different conditions, producing heterogeneous articulations of capitalist and pre-capitalist social forms.",
+      "harvey": "Uneven geographical development is intrinsic to capitalism's spatial logic — capital flows toward areas of higher profitability, producing systematic inequalities between regions, cities, and territories that are continually restructured by accumulation dynamics.",
+      "structuralist": "Uneven development describes the differential articulation of modes of production within and between social formations, producing a world system characterized by structural asymmetry between dominant and dependent economies."
+    },
+    "tags": [
+      "Trotsky",
+      "imperialism",
+      "geography",
+      "world system",
+      "development"
+    ],
+    "body": "<p>Uneven and combined development describes the fundamental asymmetry of capitalist development across nations, regions, and sectors, and the characteristic amalgamation of advanced and archaic social forms that results from the integration of underdeveloped societies into the capitalist world market. Trotsky formulated the concept to explain how Russia, a predominantly agrarian country with autocratic political institutions, could develop a concentrated, modern industrial proletariat capable of leading a socialist revolution — a combination of the most advanced and the most backward features of social development within a single national formation. The unevenness of development is not an accidental or temporary condition but a structural feature of capitalism&#39;s expansion: the world market does not equalize conditions across nations but produces and reproduces systematic disparities, as the development of some regions depends on and intensifies the underdevelopment of others. The concept has been adopted far beyond Trotskyism, influencing dependency theory, world-systems analysis, and Marxist geography, and providing a framework for understanding global inequality, differential patterns of industrialization, and the political volatility of societies undergoing rapid but contradictory transformation.</p>\n"
   },
   {
     "slug": "use-value",
@@ -235,12 +1008,22 @@
     "source": "Capital Vol. 1, Ch. 1",
     "related": [
       "commodity",
-      "exchange-value"
+      "exchange-value",
+      "value-form"
     ],
+    "traditions": {
+      "classical": "Use-value is the qualitative, material dimension of the commodity — its capacity to satisfy human needs — which serves as the material bearer of exchange-value but is itself determined by the physical properties of the thing.",
+      "value-form": "Use-value is the necessary material substratum of the value-form but is not itself a value-category — the crucial analytical point is that under capitalism, use-values are produced only as vehicles for the realization of exchange-value, subordinating human needs to the logic of valorization.",
+      "harvey": "Use-values have spatial and temporal dimensions — their production, distribution, and consumption are organized across geographical scales, and the contradiction between use-value and exchange-value manifests in struggles over housing, urban space, and environmental quality.",
+      "structuralist": "Use-value is the material support of the commodity-form, bearing the value-relation without being reducible to it — the articulation of use-value and value within the commodity constitutes the elementary contradiction of the capitalist mode of production."
+    },
     "tags": [
-      "value theory"
+      "value theory",
+      "commodity",
+      "needs",
+      "political economy"
     ],
-    "body": "<p>Use-value refers to the qualitative utility of a commodity, its capacity to satisfy a particular human want or need. It is conditioned by the physical properties of the object and is realized only in consumption. While use-value is a necessary presupposition of exchange-value, it does not by itself determine a commodity&#39;s value in the Marxian sense; it is the material bearer of exchange-value.</p>\n"
+    "body": "<p>Use-value (<em>Gebrauchswert</em>) designates the qualitative, material utility of a thing — its capacity to satisfy some human want or need, whether physical, cultural, or imaginative. A commodity&#39;s use-value is determined by its physical, chemical, or functional properties: a coat is useful for warmth, wheat for nourishment, a book for reading. Use-value is the material content of wealth regardless of its social form, and a necessary condition for any object to function as a commodity — an object without use-value for anyone cannot be sold. However, Marx insists that use-value as such is not the subject matter of political economy, which concerns itself with social form rather than material content. The critical tension arises from the subordination of use-value to exchange-value under capitalism: commodities are produced not primarily to satisfy human needs but to be sold for profit, meaning use-value serves as the mere bearer or material vehicle of exchange-value. This contradiction between the material content and social form of the commodity — between the concrete, qualitative world of human needs and the abstract, quantitative logic of value — is, for Marx, the elementary contradiction from which all further contradictions of the capitalist mode of production develop.</p>\n"
   },
   {
     "slug": "value-form",

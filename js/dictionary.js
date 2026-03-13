@@ -104,10 +104,14 @@
         ? `<span class="tradition-badge">${item.tradition}</span>`
         : '';
 
+      // Strip HTML tags for preview text
+      const plainText = (item.body || '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+
       card.innerHTML = `
         <h3>${getDisplayName(item)}</h3>
         <div class="meta">${getMeta(item)}</div>
         ${tradBadge}
+        <div class="body-preview">${plainText}</div>
         <div class="tags">${tagsHtml}</div>
         <div class="body-full">${item.body || ''}</div>
       `;

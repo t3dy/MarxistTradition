@@ -1,5 +1,106 @@
 [
   {
+    "slug": "badiou",
+    "name": "Alain Badiou",
+    "born": 1937,
+    "died": null,
+    "nationality": "French",
+    "tradition": "Post-Maoism",
+    "key_works": [
+      "Being and Event",
+      "Logics of Worlds",
+      "The Communist Hypothesis",
+      "Theory of the Subject"
+    ],
+    "tags": [
+      "event",
+      "truth",
+      "communism",
+      "ontology",
+      "set theory"
+    ],
+    "body": "<p>Alain Badiou is a French philosopher whose work represents one of the most ambitious attempts to reconstruct the philosophical foundations of communist politics after the collapse of the Marxist-Leninist party-state model. His philosophical system, developed across <em>Being and Event</em> (1988) and <em>Logics of Worlds</em> (2006), grounds ontology in mathematical set theory and argues that genuine change — what Badiou calls an &quot;event&quot; — is a rupture in the established order of being that cannot be predicted, deduced, or explained by the situation in which it occurs. Truth is the process of remaining faithful to such an event, working out its consequences against the resistance of the existing order.</p>\n<p>Badiou identifies four domains of truth — science, art, love, and politics — and insists that emancipatory politics operates through a logic irreducible to the other three. His political thought, shaped by French Maoism and the experience of May 1968, rejects the parliamentary road, the party-state model, and the identification of politics with the management of existing social arrangements. <em>The Communist Hypothesis</em> (2009) argues that communism should be understood not as a historical program tied to a specific organizational form but as an eternal idea — the hypothesis that collective egalitarian organization is possible — whose historical forms (the revolutionary movement, the party, the state) are experiments to be evaluated and renewed rather than abandoned.</p>\n<p>Badiou&#39;s work has been influential in continental philosophy and political theory, though critics argue that his mathematical ontology is disconnected from the material analysis of capitalism and class struggle that defines the Marxist tradition.</p>\n"
+  },
+  {
+    "slug": "bordiga",
+    "name": "Amadeo Bordiga",
+    "born": 1889,
+    "died": 1970,
+    "nationality": "Italian",
+    "tradition": "Left Communism",
+    "key_works": [
+      "The Science and Passion of Communism",
+      "The Democratic Principle",
+      "Dialogue with Stalin"
+    ],
+    "tags": [
+      "left communism",
+      "anti-parliamentarism",
+      "organic centralism",
+      "invariance"
+    ],
+    "body": "<p>Amadeo Bordiga was the founder and first general secretary of the Communist Party of Italy (PCd&#39;I) in 1921, and the most uncompromising representative of the left communist current within the international communist movement. Bordiga rejected parliamentary participation, anti-fascist united fronts, and national liberation movements as concessions to bourgeois politics, insisting on the programmatic invariance of communist principles against all tactical accommodations to existing conditions. His concept of &quot;organic centralism&quot; opposed both the democratic centralism of the Bolsheviks and the loose federalism of social democracy, envisioning the party as a historically determined organ of the class whose program is scientifically derived from the objective movement of capital rather than democratically decided by its members.</p>\n<p>Expelled from the PCI leadership by the Comintern in favor of Gramsci&#39;s more flexible line, Bordiga spent the fascist period in internal exile and political silence. He returned to activity after 1945, producing a remarkable body of theoretical work on the capitalist nature of the Soviet Union, the agrarian question, urban planning, and the ecological contradictions of capitalism — themes that anticipated concerns of later Marxist thought. His reading of Marx emphasizes the critique of political economy as an impersonal science of capitalist development, rejecting humanist, voluntarist, and democratic interpretations. Bordiga&#39;s influence persists in the Italian communist left, the International Communist Party, and among theorists drawn to his rigorous anti-humanism and his insistence that communism is not a political program but the real movement of history.</p>\n"
+  },
+  {
+    "slug": "cabral",
+    "name": "Amilcar Cabral",
+    "born": 1924,
+    "died": 1973,
+    "nationality": "Guinea-Bissauan",
+    "tradition": "Anticolonial Marxism",
+    "key_works": [
+      "Return to the Source",
+      "Unity and Struggle",
+      "Revolution in Guinea"
+    ],
+    "tags": [
+      "national liberation",
+      "anti-colonialism",
+      "culture",
+      "Africa"
+    ],
+    "body": "<p>Amilcar Cabral was the revolutionary leader of the independence movement in Guinea-Bissau and Cape Verde and one of the most original Marxist theorists produced by the African liberation struggles. As secretary-general of the PAIGC (African Party for the Independence of Guinea and Cape Verde), he led a successful guerrilla war against Portuguese colonialism while simultaneously developing a body of theoretical work that creatively adapted Marxist analysis to African conditions without mechanical application of European categories.</p>\n<p>Cabral&#39;s most distinctive theoretical contribution was his analysis of culture as a site of resistance and his concept of &quot;return to the source&quot; — the argument that colonized peoples must reconnect with their own cultural traditions, not as nostalgic retreat but as a basis for revolutionary consciousness and national reconstruction. He argued that the driving force of history is the mode of production rather than class struggle as such, a formulation that allowed him to analyze societies without fully developed class structures in Marxist terms. His analysis of the role of the petty bourgeoisie in national liberation movements was remarkably honest: he argued that this class, which necessarily leads the anti-colonial struggle because of its education and organizational capacity, must commit &quot;class suicide&quot; — subordinating its own interests to those of the peasant and working masses — or risk reproducing colonial domination under a new flag.</p>\n<p>Cabral was assassinated in January 1973, months before Guinea-Bissau declared independence. His theoretical legacy has influenced revolutionary movements across Africa, Latin America, and the Black radical tradition.</p>\n"
+  },
+  {
+    "slug": "davis",
+    "name": "Angela Davis",
+    "born": 1944,
+    "died": null,
+    "nationality": "American",
+    "tradition": "Black Marxism",
+    "key_works": [
+      "Women, Race & Class",
+      "Are Prisons Obsolete?",
+      "Freedom Is a Constant Struggle"
+    ],
+    "tags": [
+      "prison abolition",
+      "intersectionality",
+      "Black feminism"
+    ],
+    "body": "<p>Angela Davis is an American political activist, scholar, and philosopher whose work has been central to connecting Marxist analysis with struggles against racial and gender oppression. Her Women, Race &amp; Class provided a groundbreaking historical account of the interrelation of these three axes of domination in American society, while Are Prisons Obsolete? became a foundational text in the prison abolition movement. Throughout her career, she has insisted that meaningful freedom requires the simultaneous dismantling of capitalist exploitation, white supremacy, and patriarchy.</p>\n"
+  },
+  {
+    "slug": "pannekoek",
+    "name": "Anton Pannekoek",
+    "born": 1873,
+    "died": 1960,
+    "nationality": "Dutch",
+    "tradition": "Council Communism",
+    "key_works": [
+      "Workers' Councils",
+      "Lenin as Philosopher",
+      "The Theory of the Collapse of Capitalism"
+    ],
+    "tags": [
+      "council communism",
+      "workers councils",
+      "anti-Leninism",
+      "self-emancipation"
+    ],
+    "body": "<p>Anton Pannekoek was a Dutch astronomer, Marxist theoretician, and leading figure of the council communist movement, which rejected both social-democratic parliamentarism and Leninist vanguardism in favor of workers&#39; councils as the organizational form of proletarian revolution. Pannekoek&#39;s early career in the pre-war SPD left wing placed him alongside Luxemburg and Gorter in opposing revisionism and advocating mass action. After the Russian Revolution, he became one of the most articulate critics of Bolshevism from the left, arguing that the substitution of party for class — the vanguard&#39;s seizure of state power on behalf of the workers rather than the workers&#39; own self-organization — inevitably produced bureaucratic dictatorship rather than socialist emancipation.</p>\n<p>His major work, <em>Workers&#39; Councils</em> (1946), argues that the emancipation of the working class can only be achieved through the direct, democratic self-organization of workers at the point of production, without the mediation of political parties, trade union bureaucracies, or the state. <em>Lenin as Philosopher</em> (1938) critiques the epistemological foundations of dialectical materialism as codified by Lenin and the Soviet philosophical establishment, arguing that Lenin&#39;s materialism remained trapped within a pre-Marxist, bourgeois-scientific framework. Pannekoek&#39;s insistence on the autonomous self-activity of the working class and his critique of all forms of substitutionism — party, state, or union acting in place of the class itself — have influenced autonomist Marxism, operaismo, and contemporary anti-authoritarian socialist currents.</p>\n"
+  },
+  {
     "slug": "gramsci",
     "name": "Antonio Gramsci",
     "born": 1891,
@@ -17,6 +118,45 @@
       "philosophy of praxis"
     ],
     "body": "<p>Antonio Gramsci developed the concept of hegemony to explain how ruling classes maintain power not only through coercion but through the production of consent within civil society, including education, media, and cultural institutions. Writing from a fascist prison between 1929 and 1935, his <em>Prison Notebooks</em> rethought the relationship between structure and superstructure, the role of intellectuals in class formation, and the strategic distinction between wars of position and wars of maneuver. His work became a central reference for Western Marxism, cultural studies, and post-colonial theory from the 1960s onward.</p>\n"
+  },
+  {
+    "slug": "negri",
+    "name": "Antonio Negri",
+    "born": 1933,
+    "died": 2023,
+    "nationality": "Italian",
+    "tradition": "Autonomism",
+    "key_works": [
+      "Empire",
+      "Multitude",
+      "Marx Beyond Marx"
+    ],
+    "tags": [
+      "autonomism",
+      "immaterial labor",
+      "multitude",
+      "biopolitics"
+    ],
+    "body": "<p>Antonio Negri was an Italian political philosopher and a leading theorist of the autonomist Marxist movement. His collaborative work with Michael Hardt, particularly Empire, argued that a new form of decentralized global sovereignty had superseded classical imperialism, and that the revolutionary subject was no longer the industrial proletariat but the multitude of diverse productive subjects. His earlier Marx Beyond Marx offered an influential reading of the Grundrisse that emphasized living labor&#39;s creative autonomy as the driving force of capitalist development and its potential overcoming.</p>\n"
+  },
+  {
+    "slug": "clr-james",
+    "name": "C.L.R. James",
+    "born": 1901,
+    "died": 1989,
+    "nationality": "Trinidadian-British",
+    "tradition": "Black Marxism",
+    "key_works": [
+      "The Black Jacobins",
+      "Notes on Dialectics",
+      "Beyond a Boundary"
+    ],
+    "tags": [
+      "anti-colonialism",
+      "Black radicalism",
+      "Haitian Revolution"
+    ],
+    "body": "<p>C.L.R. James was a Trinidadian-born historian, journalist, and revolutionary theorist whose work bridged Caribbean anti-colonialism, Pan-Africanism, and heterodox Marxism. The Black Jacobins, his masterwork, recovered the Haitian Revolution as a world-historical event driven by the self-emancipation of enslaved people, challenging Eurocentric narratives of revolutionary agency. His wide-ranging intellectual life encompassed Hegelian dialectics, cricket as cultural expression, and an unwavering commitment to the creative capacity of ordinary people to make their own history.</p>\n"
   },
   {
     "slug": "harvey",
@@ -39,6 +179,122 @@
     "body": "<p>David Harvey integrated Marxist political economy with geography, arguing that capitalism resolves its internal crises of overaccumulation through spatial reorganization, a process he termed the &quot;spatial fix.&quot; His concept of accumulation by dispossession extended Marx&#39;s analysis of primitive accumulation to describe ongoing processes of enclosure, privatization, and dispossession under neoliberalism. His lecture series and companion volumes to <em>Capital</em> have introduced Marx&#39;s critique of political economy to a broad contemporary audience.</p>\n"
   },
   {
+    "slug": "ricardo",
+    "name": "David Ricardo",
+    "born": 1772,
+    "died": 1823,
+    "nationality": "British",
+    "tradition": "Classical Political Economy",
+    "key_works": [
+      "On the Principles of Political Economy and Taxation",
+      "Essay on the Influence of a Low Price of Corn on the Profits of Stock"
+    ],
+    "tags": [
+      "labor theory of value",
+      "political economy",
+      "rent",
+      "free trade"
+    ],
+    "body": "<p>David Ricardo was the most rigorous of the classical political economists and the thinker whose labor theory of value Marx both built upon and subjected to fundamental critique. Ricardo&#39;s <em>Principles of Political Economy and Taxation</em> (1817) systematized Adam Smith&#39;s insights into a coherent theoretical framework, arguing that the relative value of commodities is determined by the quantity of labor necessary for their production and developing the theory of differential rent and the theory of comparative advantage in international trade.</p>\n<p>Marx regarded Ricardo as the summit of classical political economy — the thinker who pushed the labor theory of value to its logical conclusions with the greatest scientific honesty, even when those conclusions pointed toward class antagonism between wages and profits. Ricardo demonstrated that wages and profits stand in an inverse relationship: what the worker gains, the capitalist loses, and vice versa. Yet Marx argued that Ricardo&#39;s framework remained trapped within the horizons of bourgeois thought, naturalizing capitalist categories as eternal laws rather than recognizing them as historically specific social forms. Ricardo treated value as a quantitative magnitude determined by labor time without asking why labor takes the form of value, why the products of labor take the form of commodities, and why the labor process is organized under the command of capital. This distinction between Ricardo&#39;s labor theory of value and Marx&#39;s critique of political economy — between asking how much value and asking why value at all — remains fundamental to understanding Marx&#39;s theoretical achievement.</p>\n"
+  },
+  {
+    "slug": "thompson",
+    "name": "E.P. Thompson",
+    "born": 1924,
+    "died": 1993,
+    "nationality": "British",
+    "tradition": "British Marxism",
+    "key_works": [
+      "The Making of the English Working Class",
+      "Whigs and Hunters",
+      "The Poverty of Theory"
+    ],
+    "tags": [
+      "social history",
+      "class formation",
+      "agency",
+      "culturalism"
+    ],
+    "body": "<p>Edward Palmer Thompson was a British historian and political activist whose <em>The Making of the English Working Class</em> (1963) transformed the practice of social history and remains one of the most widely read works in the Marxist historiographical tradition. Thompson insisted that the working class was not a static sociological category or a structural position but a historical relationship — something that happened in the process of class formation, as working people made sense of their shared experiences of exploitation through inherited traditions, institutions, and cultural forms. His famous formulation that the working class was &quot;present at its own making&quot; placed human agency and lived experience at the center of historical materialism.</p>\n<p>Thompson&#39;s approach developed in explicit opposition to both the base-superstructure determinism of orthodox Marxism and the structuralist anti-humanism of Althusser, whom he subjected to a devastating polemic in <em>The Poverty of Theory</em> (1978). He argued that Althusser&#39;s theoretical practice eliminated history, agency, and moral experience from Marxism, producing a scholastic system incapable of engaging with the actual struggles of working people. Thompson&#39;s insistence on the irreducibility of human experience and moral judgment to structural determination has been criticized as culturalist empiricism by his opponents, but his historiographical legacy — the recovery of the history of those whom he described as having been &quot;condescended to by posterity&quot; — reshaped social history worldwide.</p>\n<p>Thompson was also a prominent figure in the Campaign for Nuclear Disarmament and the European peace movement of the 1980s.</p>\n"
+  },
+  {
+    "slug": "mandel",
+    "name": "Ernest Mandel",
+    "born": 1923,
+    "died": 1995,
+    "nationality": "Belgian",
+    "tradition": "Trotskyism",
+    "key_works": [
+      "Late Capitalism",
+      "Marxist Economic Theory",
+      "Long Waves of Capitalist Development"
+    ],
+    "tags": [
+      "late capitalism",
+      "long waves",
+      "Trotskyism"
+    ],
+    "body": "<p>Ernest Mandel was a Belgian economist and political activist who became the most prominent Marxist economic theorist within the Trotskyist movement. His Late Capitalism offered a comprehensive analysis of postwar capitalist development, periodizing it as a third stage of capitalism characterized by the generalization of mechanization to all sectors of the economy. His work on long waves of capitalist development sought to integrate technological innovation and class struggle into an explanation of the recurring cycles of expansion and crisis that define capitalist history.</p>\n"
+  },
+  {
+    "slug": "balibar",
+    "name": "Étienne Balibar",
+    "born": 1942,
+    "died": null,
+    "nationality": "French",
+    "tradition": "Post-Althusserian",
+    "key_works": [
+      "Reading Capital",
+      "The Philosophy of Marx",
+      "Race Nation Class"
+    ],
+    "tags": [
+      "citizenship",
+      "race",
+      "universalism"
+    ],
+    "body": "<p>Étienne Balibar is a French philosopher who began as a student and collaborator of Louis Althusser, contributing to the landmark collective work Reading Capital. His subsequent work has ranged widely across political philosophy, addressing the intertwined structures of racism, nationalism, and class through a sustained engagement with the ambiguities of modern citizenship and universalism. He has developed a distinctive approach to what he calls equaliberty, arguing that the democratic principles of equality and freedom are inseparable and must be continually reinvented against new forms of exclusion.</p>\n"
+  },
+  {
+    "slug": "fanon",
+    "name": "Frantz Fanon",
+    "born": 1925,
+    "died": 1961,
+    "nationality": "Martinican-Algerian",
+    "tradition": "Anti-Colonial Marxism",
+    "key_works": [
+      "The Wretched of the Earth",
+      "Black Skin, White Masks",
+      "A Dying Colonialism"
+    ],
+    "tags": [
+      "anti-colonialism",
+      "decolonization",
+      "violence",
+      "alienation"
+    ],
+    "body": "<p>Frantz Fanon was a Martinican-born psychiatrist, philosopher, and revolutionary who became one of the most influential theorists of anti-colonial struggle in the twentieth century. In Black Skin, White Masks, he analyzed the psychic damage inflicted by colonialism and racism, drawing on phenomenology and psychoanalysis to describe the alienation of colonized subjects. The Wretched of the Earth, written during the Algerian war of independence, offered a searing account of colonial violence and argued that decolonization necessarily involves a fundamental restructuring of the social order from the ground up.</p>\n"
+  },
+  {
+    "slug": "jameson",
+    "name": "Fredric Jameson",
+    "born": 1934,
+    "died": 2024,
+    "nationality": "American",
+    "tradition": "Western Marxism",
+    "key_works": [
+      "Postmodernism, or, The Cultural Logic of Late Capitalism",
+      "The Political Unconscious",
+      "Marxism and Form"
+    ],
+    "tags": [
+      "postmodernism",
+      "cultural criticism",
+      "literary theory"
+    ],
+    "body": "<p>Fredric Jameson was an American literary critic and political theorist who became the foremost Marxist cultural critic in the Anglophone world. His landmark analysis of postmodernism interpreted it not as a mere aesthetic style but as the cultural logic corresponding to a new stage of multinational capitalism characterized by the commodification of all spheres of life. In The Political Unconscious, he advanced the maxim that all cultural texts must ultimately be read as symbolic resolutions of real political and social contradictions.</p>\n"
+  },
+  {
     "slug": "engels",
     "name": "Friedrich Engels",
     "born": 1820,
@@ -57,6 +313,85 @@
       "political economy"
     ],
     "body": "<p>Friedrich Engels was Marx&#39;s closest intellectual collaborator and co-author of the <em>Communist Manifesto</em>, and he played a decisive role in editing and publishing the second and third volumes of <em>Capital</em> after Marx&#39;s death. His independent works extended historical materialism into the domains of natural science, the history of the family, and systematic philosophical exposition. <em>Anti-Duhring</em> became the most widely read summary of Marxist theory in the Second International period.</p>\n"
+  },
+  {
+    "slug": "hegel",
+    "name": "G.W.F. Hegel",
+    "born": 1770,
+    "died": 1831,
+    "nationality": "German",
+    "tradition": "German Idealism",
+    "key_works": [
+      "Phenomenology of Spirit",
+      "Science of Logic",
+      "Philosophy of Right",
+      "Encyclopedia of the Philosophical Sciences"
+    ],
+    "tags": [
+      "dialectics",
+      "idealism",
+      "philosophy of history",
+      "logic"
+    ],
+    "body": "<p>Georg Wilhelm Friedrich Hegel developed the most comprehensive system of dialectical philosophy in the Western tradition, and his thought constitutes the indispensable intellectual background to Marx&#39;s own method. Hegel&#39;s dialectic — the movement of thought through contradiction, negation, and sublation (<em>Aufhebung</em>) — provided Marx with the conceptual framework he would later claim to have &quot;inverted,&quot; placing the dialectic on a materialist rather than idealist foundation. The <em>Phenomenology of Spirit</em> (1807) traces the development of consciousness from immediate sense-certainty through self-consciousness, reason, and spirit to absolute knowledge, a journey that Marx reinterpreted as the historical process of human self-production through labor.</p>\n<p>Hegel&#39;s <em>Science of Logic</em> profoundly influenced the structure of <em>Capital</em>, particularly the movement from abstract to concrete and the analysis of how categories generate their opposites through internal contradiction. His <em>Philosophy of Right</em> provided the theory of civil society and the state that Marx subjected to critique in his earliest political writings. The Young Hegelians — Feuerbach, Bauer, Stirner — developed Hegel&#39;s philosophy in materialist and critical directions that Marx both absorbed and transcended. Lenin&#39;s reading of the <em>Science of Logic</em> during World War I, recorded in the <em>Philosophical Notebooks</em>, renewed interest in the Hegel-Marx relationship and remains a touchstone for debates about dialectical materialism. Whether Marx&#39;s relationship to Hegel represents continuity or rupture remains one of the most contested questions in Marxist philosophy.</p>\n"
+  },
+  {
+    "slug": "lukacs",
+    "name": "Georg Lukács",
+    "born": 1885,
+    "died": 1971,
+    "nationality": "Hungarian",
+    "tradition": "Western Marxism",
+    "key_works": [
+      "History and Class Consciousness",
+      "The Theory of the Novel"
+    ],
+    "tags": [
+      "reification",
+      "class consciousness",
+      "totality"
+    ],
+    "body": "<p>Georg Lukács was a Hungarian philosopher and literary critic whose work helped inaugurate the tradition of Western Marxism. His concept of reification, developed in History and Class Consciousness, described how capitalist social relations come to appear as relations between things, obscuring the human labor underlying commodity exchange. He insisted that Marxism&#39;s distinguishing feature was not any particular thesis but its commitment to the category of totality as the foundation of revolutionary knowledge.</p>\n"
+  },
+  {
+    "slug": "debord",
+    "name": "Guy Debord",
+    "born": 1931,
+    "died": 1994,
+    "nationality": "French",
+    "tradition": "Situationism",
+    "key_works": [
+      "The Society of the Spectacle",
+      "Comments on the Society of the Spectacle",
+      "Panegyric"
+    ],
+    "tags": [
+      "spectacle",
+      "consumer capitalism",
+      "alienation",
+      "avant-garde",
+      "detournement"
+    ],
+    "body": "<p>Guy Debord was a French theorist, filmmaker, and founding member of the Situationist International (1957-1972), whose concept of the spectacle provided one of the most penetrating critiques of consumer capitalism and media culture in the twentieth century. <em>The Society of the Spectacle</em> (1967), written in 221 aphoristic theses, argues that in advanced capitalism, all of social life has been colonized by the image — that lived experience has been replaced by its representation, and that the spectacle is not merely a collection of images but a social relation between people mediated by images. The spectacle is the commodity form at the stage of its complete domination of social life, where everything that was directly lived has been displaced into representation.</p>\n<p>Debord drew on Marx&#39;s theory of commodity fetishism, Lukacs&#39;s concept of reification, and the avant-garde artistic tradition of Dada and Surrealism to develop a practice of cultural subversion — <em>detournement</em> (the hijacking and repurposing of cultural material) and the <em>derive</em> (the unplanned drifting through urban environments) — aimed at disrupting the spectacular organization of everyday life. The Situationist International&#39;s influence on the May 1968 uprising in France, and the subsequent recuperation of its imagery and slogans by advertising and consumer culture, demonstrated both the power and the vulnerability of cultural critique.</p>\n<p>Debord&#39;s analysis of how capitalism transforms rebellion into spectacle, dissent into content, and critique into brand identity has become more rather than less relevant in an era of social media, influencer culture, and algorithmic attention economies.</p>\n"
+  },
+  {
+    "slug": "marcuse",
+    "name": "Herbert Marcuse",
+    "born": 1898,
+    "died": 1979,
+    "nationality": "German-American",
+    "tradition": "Frankfurt School",
+    "key_works": [
+      "One-Dimensional Man",
+      "Eros and Civilization",
+      "Reason and Revolution"
+    ],
+    "tags": [
+      "critical theory",
+      "new left",
+      "repressive desublimation"
+    ],
+    "body": "<p>Herbert Marcuse was a German-American philosopher and critical theorist who became one of the most influential intellectual figures of the 1960s New Left. In One-Dimensional Man, he argued that advanced industrial society had developed sophisticated mechanisms of social control that absorbed opposition and flattened critical thought into conformity. His work combined Freudian psychoanalysis with Marxist social theory, proposing that genuine liberation required not only economic transformation but also the emancipation of instinctual life from repressive civilization.</p>\n"
   },
   {
     "slug": "rubin",
@@ -98,6 +433,82 @@
     "body": "<p>John Roemer reformulated Marxian exploitation theory using the tools of neoclassical economics, game theory, and general equilibrium analysis, arguing that exploitation can be rigorously defined in terms of unequal distribution of productive assets rather than the labor theory of value. As a founding figure of Analytical Marxism, he sought to reconstruct core Marxist claims using methodological individualism and formal modeling. His work shifted debate on exploitation toward questions of distributive justice and property relations, influencing both Marxist economic theory and liberal political philosophy.</p>\n"
   },
   {
+    "slug": "mariategui",
+    "name": "Jose Carlos Mariategui",
+    "born": 1894,
+    "died": 1930,
+    "nationality": "Peruvian",
+    "tradition": "Latin American Marxism",
+    "key_works": [
+      "Seven Interpretive Essays on Peruvian Reality",
+      "The Heroic and Creative Stage of Socialism",
+      "Defense of Marxism"
+    ],
+    "tags": [
+      "indigenism",
+      "Latin America",
+      "agrarian question",
+      "revolution"
+    ],
+    "body": "<p>Jose Carlos Mariategui was the founder of the Peruvian Communist Party and the most original Marxist thinker produced by Latin America. Self-educated and largely self-taught in Marxist theory during a formative sojourn in Europe from 1919 to 1923, Mariategui returned to Peru determined to develop a Marxism that could address the specific realities of Latin American societies — above all, the centrality of the indigenous question and the persistence of semi-feudal agrarian relations alongside imperialist penetration.</p>\n<p>His masterwork, <em>Seven Interpretive Essays on Peruvian Reality</em> (1928), applies historical materialism to the analysis of Peruvian economy, land tenure, education, religion, and literature, arguing that the fundamental problem of Peru is the agrarian question and the exploitation of the indigenous majority. Mariategui rejected the orthodox Marxist assumption that Latin American countries must pass through a stage of bourgeois-democratic revolution before socialism becomes possible, arguing instead that indigenous communal traditions — the <em>ayllu</em> — could serve as a basis for socialist construction, bridging pre-capitalist and post-capitalist social forms without recapitulating the trajectory of European development.</p>\n<p>This creative synthesis of Marxism, indigenism, and anti-imperialism anticipated later debates about combined and uneven development, peasant revolution, and the relationship between indigenous movements and socialist politics. Mariategui died of tuberculosis at thirty-five, but his insistence that Marxism must be a &quot;heroic creation&quot; adapted to specific national realities rather than a catechism mechanically imported from Europe has made him a foundational reference for the Latin American left.</p>\n"
+  },
+  {
+    "slug": "habermas",
+    "name": "Jürgen Habermas",
+    "born": 1929,
+    "died": null,
+    "nationality": "German",
+    "tradition": "Frankfurt School",
+    "key_works": [
+      "The Structural Transformation of the Public Sphere",
+      "Theory of Communicative Action",
+      "The Philosophical Discourse of Modernity"
+    ],
+    "tags": [
+      "communicative action",
+      "public sphere",
+      "deliberative democracy"
+    ],
+    "body": "<p>Jürgen Habermas is a German philosopher and sociologist who represents the second generation of the Frankfurt School. His theory of communicative action shifted critical theory away from the pessimism of Adorno and Horkheimer by grounding rationality in the structures of everyday linguistic interaction oriented toward mutual understanding. His work on the public sphere and deliberative democracy has been enormously influential across political philosophy, sociology, and legal theory, arguing that legitimate political norms must emerge from inclusive, reason-based public discourse.</p>\n"
+  },
+  {
+    "slug": "kautsky",
+    "name": "Karl Kautsky",
+    "born": 1854,
+    "died": 1938,
+    "nationality": "Austrian",
+    "tradition": "Second International",
+    "key_works": [
+      "The Class Struggle (Erfurt Program)",
+      "The Agrarian Question",
+      "The Dictatorship of the Proletariat"
+    ],
+    "tags": [
+      "orthodox Marxism",
+      "social democracy",
+      "agrarian question",
+      "revisionism debate"
+    ],
+    "body": "<p>Karl Kautsky was the leading theoretician of the German Social Democratic Party (SPD) and the Second International, widely regarded during his lifetime as the foremost interpreter of Marx and Engels&#39;s legacy. His commentary on the Erfurt Program (1892) provided the canonical popularization of Marxist theory for a generation of socialists, and <em>The Agrarian Question</em> (1899) offered the most systematic Marxist analysis of capitalist agriculture and the peasant question. As editor of <em>Die Neue Zeit</em>, the SPD&#39;s theoretical journal, Kautsky shaped the intellectual formation of the international socialist movement for three decades.</p>\n<p>Kautsky&#39;s central role in Marxist history is inseparable from the great debates that split the movement. He led the theoretical offensive against Eduard Bernstein&#39;s revisionism in the 1890s, defending the necessity of revolutionary transformation against Bernstein&#39;s argument that capitalism could be gradually reformed into socialism. Yet when war and revolution put these questions to a practical test, Kautsky adopted positions that Lenin, Luxemburg, and Trotsky denounced as a capitulation to reformism. His opposition to the October Revolution and his pamphlet <em>The Dictatorship of the Proletariat</em> (1918), which defended parliamentary democracy against the Bolshevik model, provoked Lenin&#39;s savage polemic <em>The Proletarian Revolution and the Renegade Kautsky</em>. Kautsky&#39;s trajectory from orthodox revolutionary to democratic socialist exemplifies the political crisis of the Second International and remains central to debates about reform, revolution, and the relationship between socialism and democracy.</p>\n"
+  },
+  {
+    "slug": "korsch",
+    "name": "Karl Korsch",
+    "born": 1886,
+    "died": 1961,
+    "nationality": "German",
+    "tradition": "Western Marxism",
+    "key_works": [
+      "Marxism and Philosophy",
+      "Karl Marx"
+    ],
+    "tags": [
+      "council communism",
+      "anti-orthodoxy"
+    ],
+    "body": "<p>Karl Korsch was a German Marxist theorist and politician who argued that Marxism must be understood as a living philosophy rather than a fixed doctrine. His 1923 work Marxism and Philosophy insisted that the relationship between theory and practice was itself a dialectical problem, challenging both Social Democratic revisionism and the mechanical materialism of orthodox party Marxism. Expelled from the Communist Party for his heterodox views, he became an important precursor to council communism and left-communist currents.</p>\n"
+  },
+  {
     "slug": "marx",
     "name": "Karl Marx",
     "born": 1818,
@@ -117,6 +528,24 @@
       "value theory"
     ],
     "body": "<p>Karl Marx developed a systematic critique of capitalist political economy centered on the labor theory of value, the analysis of surplus value extraction, and the commodity form. His method of historical materialism provided a framework for understanding social formations as structured by their mode of production and the class relations arising from it. His later work, particularly the three volumes of <em>Capital</em> and the preparatory <em>Grundrisse</em>, remains the foundational reference point for all subsequent Marxist theory.</p>\n"
+  },
+  {
+    "slug": "trotsky",
+    "name": "Leon Trotsky",
+    "born": 1879,
+    "died": 1940,
+    "nationality": "Russian",
+    "tradition": "Classical Marxism",
+    "key_works": [
+      "The Revolution Betrayed",
+      "History of the Russian Revolution"
+    ],
+    "tags": [
+      "permanent revolution",
+      "anti-Stalinism",
+      "internationalism"
+    ],
+    "body": "<p>Leon Trotsky was a leading figure in the Russian Revolution of 1917 and the principal organizer of the Red Army during the Russian Civil War. He developed the theory of permanent revolution, arguing that socialist transformation in underdeveloped countries could not halt at the bourgeois-democratic stage but must proceed uninterruptedly toward socialism. After losing the power struggle with Stalin, he was exiled and later assassinated in Mexico, but his writings on bureaucratic degeneration and internationalism remained influential across the global left.</p>\n"
   },
   {
     "slug": "althusser",
@@ -139,6 +568,63 @@
     "body": "<p>Louis Althusser proposed a rigorous rereading of Marx that distinguished between an early humanist period and a mature scientific one, arguing for an &quot;epistemological break&quot; in Marx&#39;s thought around 1845. His concept of overdetermination rejected simple base-superstructure causality in favor of a model in which multiple contradictions within a social formation interact and condense. His theory of ideology as constituting subjects through interpellation, developed in his essay on ideological state apparatuses, became one of the most widely debated frameworks in twentieth-century social theory.</p>\n"
   },
   {
+    "slug": "feuerbach",
+    "name": "Ludwig Feuerbach",
+    "born": 1804,
+    "died": 1872,
+    "nationality": "German",
+    "tradition": "Left Hegelianism",
+    "key_works": [
+      "The Essence of Christianity",
+      "Principles of the Philosophy of the Future",
+      "Lectures on the Essence of Religion"
+    ],
+    "tags": [
+      "materialism",
+      "religion",
+      "alienation",
+      "anthropology"
+    ],
+    "body": "<p>Ludwig Feuerbach was the pivotal figure in the transition from Hegelian idealism to the materialism that Marx and Engels would develop into historical materialism. His <em>Essence of Christianity</em> (1841) argued that theology is anthropology in disguise: the attributes human beings project onto God — omniscience, omnipotence, infinite love — are in fact the species-powers of humanity itself, alienated into a transcendent being and worshipped as an external authority. This transformative critique of religion electrified the Young Hegelian movement and provided Marx with the template for his own theory of alienation, extended from religion to politics and political economy.</p>\n<p>Feuerbach&#39;s materialist inversion of Hegel — his insistence that thought arises from sensuous, embodied existence rather than the reverse — was the decisive philosophical event of Marx&#39;s early intellectual formation. However, Marx&#39;s <em>Theses on Feuerbach</em> (1845) subjected Feuerbach to a critique that would define the boundary between contemplative materialism and the new revolutionary philosophy. Marx argued that Feuerbach&#39;s materialism remained abstract and ahistorical, treating human nature as a fixed essence rather than as a product of social relations and practical activity. Where Feuerbach saw alienation as a philosophical error to be corrected by enlightenment, Marx insisted it was rooted in material conditions that could only be transformed through revolutionary praxis. Feuerbach thus occupies an essential but transitional position in the genealogy of Marxist thought — the thinker who made materialism possible but could not make it historical.</p>\n"
+  },
+  {
+    "slug": "mao",
+    "name": "Mao Zedong",
+    "born": 1893,
+    "died": 1976,
+    "nationality": "Chinese",
+    "tradition": "Maoism",
+    "key_works": [
+      "On Contradiction",
+      "On Practice",
+      "On Guerrilla Warfare"
+    ],
+    "tags": [
+      "peasant revolution",
+      "people's war",
+      "contradictions"
+    ],
+    "body": "<p>Mao Zedong was the principal leader of the Chinese Communist Revolution and the founding chairman of the People&#39;s Republic of China. His theoretical contributions adapted Marxism-Leninism to the conditions of a predominantly agrarian society, placing the peasantry rather than the urban proletariat at the center of revolutionary strategy. His philosophical essays On Contradiction and On Practice developed a distinctive approach to materialist dialectics that emphasized the specificity of contradictions in any given situation and the primacy of practice as the criterion of truth.</p>\n"
+  },
+  {
+    "slug": "horkheimer",
+    "name": "Max Horkheimer",
+    "born": 1895,
+    "died": 1973,
+    "nationality": "German",
+    "tradition": "Frankfurt School",
+    "key_works": [
+      "Dialectic of Enlightenment",
+      "Eclipse of Reason",
+      "Traditional and Critical Theory"
+    ],
+    "tags": [
+      "critical theory",
+      "instrumental reason"
+    ],
+    "body": "<p>Max Horkheimer was the director of the Frankfurt Institute for Social Research and a founding figure of critical theory. His programmatic essay &quot;Traditional and Critical Theory&quot; distinguished between positivist science, which accepts the given social order, and critical theory, which aims at human emancipation by revealing the historical conditions of knowledge. Together with Adorno, he analyzed how instrumental reason had become the dominant mode of thought in modern capitalist societies, subordinating all values to calculability and efficiency.</p>\n"
+  },
+  {
     "slug": "heinrich",
     "name": "Michael Heinrich",
     "born": 1957,
@@ -157,6 +643,64 @@
       "new Marx reading"
     ],
     "body": "<p>Michael Heinrich is a leading figure in the German &quot;neue Marx-Lekture&quot; (new Marx reading), which reinterprets Marx&#39;s value theory as fundamentally a monetary theory in which value has no pre-monetary existence independent of the exchange process. Drawing extensively on the Marx-Engels-Gesamtausgabe (MEGA) critical edition, he has challenged traditional Marxist readings on the tendency of the rate of profit to fall, the role of abstract labor, and the status of Marx&#39;s unfinished manuscripts. His introductory text on the three volumes of <em>Capital</em> has become a standard reference in value-form theoretical approaches.</p>\n"
+  },
+  {
+    "slug": "poulantzas",
+    "name": "Nicos Poulantzas",
+    "born": 1936,
+    "died": 1979,
+    "nationality": "Greek-French",
+    "tradition": "Structuralist Marxism",
+    "key_works": [
+      "Political Power and Social Classes",
+      "State Power Socialism",
+      "Classes in Contemporary Capitalism"
+    ],
+    "tags": [
+      "state theory",
+      "class fractions",
+      "relative autonomy"
+    ],
+    "body": "<p>Nicos Poulantzas was a Greek-French political sociologist who developed one of the most influential Marxist theories of the capitalist state. Drawing on Althusser&#39;s structuralism, he argued that the state possesses relative autonomy from the dominant class, functioning to organize the long-term interests of the power bloc while disorganizing the working class. His later work moved toward a relational theory of the state as a condensation of class forces, influencing subsequent debates on state theory, authoritarianism, and democratic socialism.</p>\n"
+  },
+  {
+    "slug": "mattick",
+    "name": "Paul Mattick",
+    "born": 1904,
+    "died": 1981,
+    "nationality": "German-American",
+    "tradition": "Council Communism",
+    "key_works": [
+      "Marx and Keynes",
+      "Economic Crisis and Crisis Theory",
+      "Anti-Bolshevik Communism"
+    ],
+    "tags": [
+      "crisis theory",
+      "council communism",
+      "anti-Keynesianism",
+      "accumulation"
+    ],
+    "body": "<p>Paul Mattick was a German-born, American-based Marxist theorist who combined council communist politics with a rigorous defense of Marx&#39;s crisis theory grounded in the tendency of the rate of profit to fall. Active in the German workers&#39; movement as a teenager during the revolutionary upheavals of 1918-21, Mattick emigrated to the United States in 1926, where he became involved in the IWW and the council communist movement, editing the journal <em>Living Marxism</em> (later <em>New Essays</em>) through the 1930s and 1940s.</p>\n<p>His major work, <em>Marx and Keynes</em> (1969), argues that Keynesian demand management and state intervention cannot overcome the fundamental contradictions of capital accumulation but merely postpone and intensify crisis. Mattick contends that the postwar boom, far from refuting Marx&#39;s crisis theory, was sustained by war spending, imperial expansion, and credit creation that temporarily offset the underlying decline in profitability — measures that would eventually exhaust themselves and produce a return of systemic crisis. <em>Economic Crisis and Crisis Theory</em> (1974) provides a comprehensive survey and critique of competing Marxist explanations of crisis, defending the falling-rate-of-profit thesis against underconsumptionist and disproportionality theories.</p>\n<p>Mattick&#39;s work gained renewed attention after the 2008 financial crisis, as his analysis of the limits of Keynesian intervention appeared vindicated by events. His son, Paul Mattick Jr., has continued the theoretical project with <em>Business as Usual</em> (2011), applying his father&#39;s framework to contemporary capitalism.</p>\n"
+  },
+  {
+    "slug": "sweezy",
+    "name": "Paul Sweezy",
+    "born": 1910,
+    "died": 2004,
+    "nationality": "American",
+    "tradition": "Monthly Review School",
+    "key_works": [
+      "The Theory of Capitalist Development",
+      "Monopoly Capital",
+      "Monthly Review"
+    ],
+    "tags": [
+      "monopoly capital",
+      "stagnation",
+      "underconsumption"
+    ],
+    "body": "<p>Paul Sweezy was an American Marxist economist and co-founder of Monthly Review, one of the most enduring independent socialist publications in the United States. His early Theory of Capitalist Development provided the first systematic English-language treatment of Marxist economics, while Monopoly Capital, co-authored with Paul Baran, argued that the concentration of corporate power had produced a tendency toward economic stagnation counteracted only by military spending, advertising, and financial speculation. His work established a distinctive school of Marxist political economy focused on monopoly, imperialism, and the structural tendencies of mature capitalism.</p>\n"
   },
   {
     "slug": "luxemburg",
@@ -178,6 +722,126 @@
     "body": "<p>Rosa Luxemburg advanced an influential theory of capitalist accumulation that argued capitalism structurally depends on the incorporation of non-capitalist markets and territories for the realization of surplus value. Her political writings mounted a sustained critique of reformism within the social-democratic movement and theorized the mass strike as a form of revolutionary working-class self-activity. She was murdered by Freikorps paramilitaries in Berlin in January 1919.</p>\n"
   },
   {
+    "slug": "hilferding",
+    "name": "Rudolf Hilferding",
+    "born": 1877,
+    "died": 1941,
+    "nationality": "Austrian",
+    "tradition": "Second International",
+    "key_works": [
+      "Finance Capital",
+      "Bohm-Bawerk's Criticism of Marx"
+    ],
+    "tags": [
+      "finance capital",
+      "imperialism",
+      "monopoly",
+      "Austrian Marxism"
+    ],
+    "body": "<p>Rudolf Hilferding was an Austrian Marxist economist and politician whose <em>Finance Capital</em> (1910) provided one of the most influential analyses of the transformation of competitive capitalism into monopoly capitalism. Hilferding argued that the concentration of industrial production and the centralization of banking had produced a new form of capital — finance capital — in which banks assumed a dominant role in directing industrial investment, organizing cartels and trusts, and driving the imperialist expansion of capital into colonial territories. His analysis of the joint-stock company, the credit system, and the stock exchange as mechanisms through which finance capital coordinates and controls the productive economy anticipated many features of twentieth-century capitalism.</p>\n<p>Hilferding&#39;s earlier work, <em>Bohm-Bawerk&#39;s Criticism of Marx</em> (1904), mounted a systematic defense of Marx&#39;s value theory against the marginalist critique, and remains one of the most rigorous engagements between Marxist and neoclassical economics. His concept of &quot;organized capitalism&quot; — the thesis that monopoly and state intervention had created the possibility of conscious economic planning within capitalism — influenced both social-democratic reformism and later debates about state capitalism.</p>\n<p>Hilferding served twice as finance minister of the Weimar Republic. He fled Germany after the Nazi seizure of power, was captured by the Vichy police in 1941, and died in Gestapo custody in Paris. His theoretical legacy endures through Lenin&#39;s <em>Imperialism</em>, which drew heavily on <em>Finance Capital</em>, and through contemporary analyses of financialization.</p>\n"
+  },
+  {
+    "slug": "amin",
+    "name": "Samir Amin",
+    "born": 1931,
+    "died": 2018,
+    "nationality": "Egyptian-French",
+    "tradition": "Dependency Theory",
+    "key_works": [
+      "Accumulation on a World Scale",
+      "Unequal Development",
+      "Eurocentrism",
+      "Delinking"
+    ],
+    "tags": [
+      "dependency",
+      "unequal exchange",
+      "Eurocentrism",
+      "delinking",
+      "Global South"
+    ],
+    "body": "<p>Samir Amin was an Egyptian-French economist and one of the most prominent theorists of dependency and unequal exchange in the Marxist tradition. Born in Cairo and educated in Paris, Amin spent most of his career in Dakar, Senegal, where he directed the Third World Forum and the African Institute for Economic Development and Planning, combining theoretical work with practical engagement in African economic policy and South-South cooperation.</p>\n<p>Amin&#39;s <em>Accumulation on a World Scale</em> (1970) argues that the capitalist world system is structured by a fundamental asymmetry between center and periphery, in which the peripheral economies are not merely &quot;behind&quot; the advanced countries on a common developmental path but are structurally dependent — their underdevelopment is the necessary counterpart of metropolitan accumulation. Drawing on Marx&#39;s theory of value and extending it to the international division of labor, Amin developed a theory of unequal exchange in which the transfer of value from periphery to center is built into the structure of world trade, perpetuating global inequality regardless of the development strategies adopted by individual nations.</p>\n<p>His concept of &quot;delinking&quot; — the strategic disengagement of peripheral economies from the world market to pursue autonomous, nationally determined development — challenged both free-trade orthodoxy and the Soviet model of integration into a socialist world market. <em>Eurocentrism</em> (1988) extended his critique to the ideological domain, arguing that Western social science universalizes the particular historical experience of Europe and naturalizes capitalist modernity as the telos of all human development. Amin&#39;s work remains a central reference for debates about globalization, imperialism, and the prospects for development in the Global South.</p>\n"
+  },
+  {
+    "slug": "federici",
+    "name": "Silvia Federici",
+    "born": 1942,
+    "died": null,
+    "nationality": "Italian-American",
+    "tradition": "Feminist Marxism",
+    "key_works": [
+      "Caliban and the Witch",
+      "Revolution at Point Zero",
+      "Wages Against Housework"
+    ],
+    "tags": [
+      "social reproduction",
+      "primitive accumulation",
+      "feminist Marxism"
+    ],
+    "body": "<p>Silvia Federici is an Italian-American scholar and activist whose work has fundamentally reshaped Marxist understandings of gender, reproduction, and primitive accumulation. In Caliban and the Witch, she argued that the transition to capitalism required the violent subjugation of women and the enclosure of reproductive labor, reinterpreting the European witch hunts as a constitutive moment of capitalist accumulation. Her earlier agitation in the Wages for Housework campaign brought international attention to the unwaged domestic labor that sustains capitalist production yet remains invisible within orthodox political economy.</p>\n"
+  },
+  {
+    "slug": "zizek",
+    "name": "Slavoj Zizek",
+    "born": 1949,
+    "died": null,
+    "nationality": "Slovenian",
+    "tradition": "Lacanian Marxism",
+    "key_works": [
+      "The Sublime Object of Ideology",
+      "The Ticklish Subject",
+      "Less Than Nothing",
+      "The Parallax View"
+    ],
+    "tags": [
+      "ideology",
+      "psychoanalysis",
+      "Hegel",
+      "Lacan",
+      "cultural criticism"
+    ],
+    "body": "<p>Slavoj Zizek is a Slovenian philosopher and cultural critic who has become one of the most prominent and controversial public intellectuals on the contemporary left. His theoretical project synthesizes Lacanian psychoanalysis, Hegelian dialectics, and Marxist ideology critique into a distinctive philosophical framework that has been applied to politics, cinema, theology, and popular culture with restless, encyclopedic energy.</p>\n<p>Zizek&#39;s breakthrough work, <em>The Sublime Object of Ideology</em> (1989), argues that ideology functions not through false consciousness — people mistakenly believing what is not true — but through a cynical distance that is itself ideological. Drawing on Lacan&#39;s concept of <em>jouissance</em> (enjoyment) and Marx&#39;s analysis of commodity fetishism, Zizek contends that subjects can know perfectly well that their social reality is structured by illusion and yet continue to act as if they did not know, because ideology is embedded in practice rather than belief. The formula is not &quot;they do not know what they do&quot; but &quot;they know very well what they are doing, and they do it anyway.&quot; This insight has been enormously productive for analyzing how power operates in liberal democracies and consumer societies where explicit ideological commitment has been replaced by performative compliance and ironic detachment.</p>\n<p>His later works, particularly <em>Less Than Nothing</em> (2012), undertake a comprehensive rereading of Hegel through Lacan, arguing that dialectical materialism must be reconstructed on the basis of psychoanalytic theory. Critics accuse Zizek of intellectual inconsistency, political ambiguity, and a tendency to substitute theoretical provocation for sustained political engagement, while admirers regard him as the most inventive dialectician of his generation.</p>\n"
+  },
+  {
+    "slug": "eagleton",
+    "name": "Terry Eagleton",
+    "born": 1943,
+    "died": null,
+    "nationality": "British",
+    "tradition": "Western Marxism",
+    "key_works": [
+      "Ideology: An Introduction",
+      "Literary Theory: An Introduction",
+      "Why Marx Was Right"
+    ],
+    "tags": [
+      "literary theory",
+      "ideology",
+      "cultural criticism"
+    ],
+    "body": "<p>Terry Eagleton is a British literary theorist and cultural critic who has done more than perhaps any other figure to make Marxist ideas accessible to a broad English-speaking readership. His Literary Theory: An Introduction became one of the most widely read introductions to the field, situating various theoretical schools within their political and ideological contexts. Throughout his prolific career, he has defended the continuing relevance of Marxist critique against postmodernist and liberal challenges, combining theoretical rigor with polemical wit.</p>\n"
+  },
+  {
+    "slug": "adorno",
+    "name": "Theodor W. Adorno",
+    "born": 1903,
+    "died": 1969,
+    "nationality": "German",
+    "tradition": "Frankfurt School",
+    "key_works": [
+      "Dialectic of Enlightenment",
+      "Negative Dialectics",
+      "Minima Moralia"
+    ],
+    "tags": [
+      "critical theory",
+      "culture industry",
+      "negative dialectics"
+    ],
+    "body": "<p>Theodor W. Adorno was a German philosopher, sociologist, and musicologist who became one of the most prominent members of the Frankfurt School. With Max Horkheimer, he authored Dialectic of Enlightenment, which traced how the Enlightenment&#39;s drive to dominate nature had paradoxically produced new forms of domination and barbarism. His later Negative Dialectics sought to sustain critical thought without resolving contradictions into a totalizing synthesis, insisting that philosophy must attend to the non-identical and the particular.</p>\n"
+  },
+  {
     "slug": "lenin",
     "name": "Vladimir Lenin",
     "born": 1870,
@@ -196,5 +860,24 @@
       "party organization"
     ],
     "body": "<p>Vladimir Lenin theorized imperialism as a structural stage of capitalist development characterized by the dominance of finance capital, monopoly, and the territorial division of the world among great powers. His <em>The State and Revolution</em> reinterpreted Marx and Engels on the class character of the state and the necessity of its destruction in the revolutionary process. As the principal leader of the October Revolution of 1917, his political and theoretical legacy shaped the trajectory of twentieth-century Marxism worldwide.</p>\n"
+  },
+  {
+    "slug": "benjamin",
+    "name": "Walter Benjamin",
+    "born": 1892,
+    "died": 1940,
+    "nationality": "German",
+    "tradition": "Frankfurt School",
+    "key_works": [
+      "The Work of Art in the Age of Mechanical Reproduction",
+      "Theses on the Philosophy of History",
+      "The Arcades Project"
+    ],
+    "tags": [
+      "cultural criticism",
+      "messianism",
+      "aura"
+    ],
+    "body": "<p>Walter Benjamin was a German literary critic and philosopher whose eclectic body of work combined Marxist materialism with Jewish messianic theology. His essay on mechanical reproduction analyzed how technologies like photography and film transformed the nature of art by destroying its traditional aura of uniqueness and authenticity. His final work, the Theses on the Philosophy of History, offered a radical critique of progressive historicism, insisting that revolution emerges not from historical inevitability but from a redemptive interruption of catastrophic continuity.</p>\n"
   }
 ]

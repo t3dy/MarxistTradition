@@ -5,13 +5,17 @@
     "author": "David Harvey",
     "year": 2010,
     "tradition": "Contemporary",
+    "translations": [
+      "Harvey (Verso 2010)",
+      "Volume 2 Companion (Verso 2013)"
+    ],
     "tags": [
       "political economy",
       "value theory",
       "close reading",
       "pedagogy"
     ],
-    "body": "<p>A Companion to Marx&#39;s Capital provides a chapter-by-chapter guide to Volume 1, drawing on Harvey&#39;s decades of teaching Capital in university seminars and public lectures. Harvey emphasizes the internal logic of Marx&#39;s argument while connecting it to contemporary patterns of urbanization, financialization, and crisis. The book has become one of the most widely used introductory guides to Marx&#39;s critique of political economy.</p>\n"
+    "body": "<p><em>A Companion to Marx&#39;s Capital</em> provides a chapter-by-chapter guide to Volume I, drawing on Harvey&#39;s decades of teaching <em>Capital</em> in university seminars and free public lectures — a course he began at Johns Hopkins in the 1970s and later made available online, where it has been viewed by millions. Harvey reads Marx closely while drawing persistent connections to contemporary phenomena: urbanization, financialization, environmental degradation, and the lived experience of work under neoliberalism.</p>\n<p>Harvey&#39;s reading emphasizes the internal logic and sequential architecture of Marx&#39;s argument, showing how the analysis moves from the abstract categories of commodity and value through money, surplus value, and the working day to the concrete dynamics of accumulation and crisis. He is particularly attentive to Marx&#39;s use of metaphor, irony, and literary allusion, making the case that <em>Capital</em> is not merely a work of economic theory but a deeply humanistic critique of a social system that reduces human life to an appendage of the valorization process.</p>\n<p>The <em>Companion</em> has become one of the most widely used introductory guides to Marx&#39;s critique of political economy, valued for its accessibility without sacrificing theoretical seriousness. Harvey followed it with a companion to Volume II in 2013, extending his pedagogical project across Marx&#39;s analysis of circulation and reproduction. Together they represent the most sustained effort to make Marx&#39;s economic writings available to a broad public in the twenty-first century.</p>\n"
   },
   {
     "slug": "introduction-three-volumes",
@@ -20,7 +24,7 @@
     "year": 2004,
     "tradition": "Value-form Theory",
     "translations": [
-      "Locascio (Monthly Review 2012)"
+      "Locascio (Monthly Review Press 2012)"
     ],
     "tags": [
       "value-form",
@@ -28,11 +32,48 @@
       "critique of political economy",
       "new Marx reading"
     ],
-    "body": "<p>Heinrich&#39;s introduction presents Capital from the perspective of the neue Marx-Lekture (new Marx reading), emphasizing the monetary dimension of value theory and rejecting substantialist interpretations of abstract labor. The book covers all three volumes of Capital in a compact format, distinguishing Marx&#39;s critique of political economy from both classical and worldview Marxism. It has become a key reference point for value-form theoretical approaches to Marx across the Anglophone world.</p>\n"
+    "body": "<p>Heinrich&#39;s <em>Introduction</em> presents <em>Capital</em> from the perspective of the <em>neue Marx-Lekture</em> (new reading of Marx), a German-language tradition of Marx scholarship that emphasizes the monetary dimension of value theory and rejects substantialist interpretations of abstract labor as a physiological or energetic magnitude. Heinrich distinguishes Marx&#39;s critique of political economy from both classical political economy and what he calls &quot;worldview Marxism&quot; — the codified doctrine of orthodox Marxist parties — arguing that Marx&#39;s project was not to construct an alternative economics but to demonstrate the historically specific and socially constituted character of economic categories under capitalism.</p>\n<p>The book covers all three volumes of <em>Capital</em> in a compact format, making it one of the few introductory texts to treat the work as a unified theoretical project rather than isolating Volume I. Heinrich is particularly incisive on the monetary theory of value, arguing that value can only exist in and through money as its necessary form of appearance, and on the distinction between Marx&#39;s critique and Ricardo&#39;s labor theory of value. He also offers a careful reconstruction of the tendency of the rate of profit to fall, arguing that Marx&#39;s own formulation contains logical difficulties that have not been adequately resolved.</p>\n<p>Since its translation into English in 2012, the <em>Introduction</em> has become a key reference point for value-form theoretical approaches to Marx across the Anglophone world, particularly among scholars seeking alternatives to both traditional Marxist economics and post-Marxist cultural theory.</p>\n"
+  },
+  {
+    "slug": "black-skin-white-masks",
+    "title": "Black Skin, White Masks",
+    "author": "Frantz Fanon",
+    "year": 1952,
+    "tradition": "Anti-Colonial Marxism",
+    "translations": [
+      "Markmann (Grove Press 1967)",
+      "Philcox (Grove Press 2008)"
+    ],
+    "tags": [
+      "race",
+      "colonialism",
+      "psychology",
+      "recognition",
+      "alienation"
+    ],
+    "body": "<p><em>Black Skin, White Masks</em>, Fanon&#39;s first book, written while he was a psychiatric resident in Lyon, develops a phenomenological and psychoanalytic account of the lived experience of racial alienation under colonialism. Drawing on Hegel&#39;s dialectic of recognition, Sartre&#39;s existentialism, Lacan&#39;s mirror stage, and his own clinical practice, Fanon analyzes how colonial racism structures the psyche of the Black subject, producing a form of alienation in which the colonized person is compelled to adopt the cultural values, language, and aspirations of the white colonizer while being systematically denied recognition as a full human being.</p>\n<p>Fanon demonstrates how the &quot;fact of blackness&quot; — the experience of being reduced to one&#39;s skin color by the white gaze — constitutes a unique form of objectification that cannot be fully captured by the Marxist category of class exploitation or the existentialist category of bad faith. The colonized subject is caught in a double bind: to succeed in the colonial world requires assimilation to white cultural norms (wearing &quot;white masks&quot;), but this assimilation can never be complete because racial difference is inscribed on the body itself. Fanon&#39;s analysis of the psychopathology of colonialism — the neuroses, inferiority complexes, and self-hatred produced by systematic racial domination — broke new ground in connecting political domination to subjective experience.</p>\n<p>The book has been foundational for postcolonial theory, critical race studies, and the intersection of psychoanalysis and political thought, though some readers note a tension between its existential-humanist framework and the more structuralist, revolutionary politics of Fanon&#39;s later <em>The Wretched of the Earth</em>.</p>\n"
+  },
+  {
+    "slug": "caliban-and-witch",
+    "title": "Caliban and the Witch",
+    "author": "Silvia Federici",
+    "year": 2004,
+    "tradition": "Feminist Marxism",
+    "translations": [
+      "Federici (Autonomedia 2004)"
+    ],
+    "tags": [
+      "primitive accumulation",
+      "witch hunts",
+      "social reproduction",
+      "enclosure",
+      "gender and capitalism"
+    ],
+    "body": "<p><em>Caliban and the Witch</em> reinterprets Marx&#39;s account of primitive accumulation by centering the systematic expropriation and disciplining of women&#39;s bodies and reproductive labor as foundational to the emergence of capitalism. Federici argues that the European witch hunts of the sixteenth and seventeenth centuries were not medieval remnants or expressions of superstition but a coordinated campaign by emerging state and capitalist forces to destroy women&#39;s autonomy, communal practices of social reproduction, and popular resistance to enclosure. The persecution of witches, she contends, was functionally analogous to the colonial enslavement of African and Indigenous peoples — both were processes of primitive accumulation directed at creating a docile, dispossessed labor force.</p>\n<p>Drawing on decades of research into the transition from feudalism to capitalism, Federici demonstrates how the enclosure of the commons, the rise of the wage relation, the criminalization of reproductive knowledge, and the devaluation of women&#39;s domestic labor were interconnected moments in the constitution of the capitalist mode of production. She draws a parallel between the figure of the witch in early modern Europe and Caliban in Shakespeare&#39;s <em>The Tempest</em>, both representing forms of resistance to capitalist discipline that had to be violently subdued.</p>\n<p>The book has been enormously influential in feminist Marxism and social reproduction theory, providing historical depth to contemporary debates about care work, bodily autonomy, and the ongoing enclosure of commons across the Global South.</p>\n"
   },
   {
     "slug": "capital-vol1",
-    "title": "Capital, Volume 1",
+    "title": "Capital, Volume I",
     "author": "Karl Marx",
     "year": 1867,
     "tradition": "Classical Marxism",
@@ -45,9 +86,82 @@
       "value theory",
       "commodity",
       "surplus-value",
-      "accumulation"
+      "accumulation",
+      "primitive accumulation"
     ],
-    "body": "<p>Capital, Volume 1 presents Marx&#39;s systematic critique of political economy, beginning with the analysis of the commodity form and developing through the theories of value, money, surplus-value, and the general law of capitalist accumulation. The work demonstrates how capital as a social relation reproduces itself through the exploitation of labor-power, tracing the historical process of primitive accumulation that separated producers from the means of production. It remains the foundational text for all subsequent Marxist economic analysis and critique.</p>\n"
+    "body": "<p><em>Capital, Volume I</em> — the only volume Marx saw through to publication — presents his systematic critique of capitalist political economy, beginning with the analysis of the commodity form as the &quot;cell form&quot; of bourgeois society and developing through the theories of value, money, surplus-value, the working day, and the general law of capitalist accumulation. Marx demonstrates how capital as a social relation reproduces itself through the exploitation of labor-power: the worker sells the capacity to labor for a wage that covers the cost of reproduction, while the labor actually performed creates value exceeding that wage — surplus-value — which the capitalist appropriates.</p>\n<p>The work is structured as a dialectical progression from the abstract to the concrete. The opening chapters on the commodity and money establish the categories of use-value, exchange-value, and abstract labor; the middle sections develop the theory of absolute and relative surplus-value and the struggle over the working day; and the final part traces the historical process of primitive accumulation — the violent separation of producers from the means of production — that created the conditions for capitalist production. Marx&#39;s account of the factory system, drawing on parliamentary reports and inspectors&#39; testimony, provides one of the most vivid and empirically grounded analyses of industrial capitalism ever written.</p>\n<p>First published in German in 1867 and translated into Russian (1872) and French (1875) during Marx&#39;s lifetime, <em>Capital, Volume I</em> remains the foundational reference point for all subsequent Marxist economic analysis, value theory, and critique of political economy. The recent Reitter translation (2025) has sparked renewed discussion of Marx&#39;s terminology and argumentative structure.</p>\n"
+  },
+  {
+    "slug": "capital-vol2",
+    "title": "Capital, Volume II",
+    "author": "Karl Marx",
+    "year": 1885,
+    "tradition": "Classical Marxism",
+    "translations": [
+      "Fernbach (Penguin 1978)"
+    ],
+    "tags": [
+      "circulation",
+      "reproduction",
+      "turnover of capital",
+      "metamorphoses of capital"
+    ],
+    "body": "<p><em>Capital, Volume II</em>, edited by Engels from Marx&#39;s manuscripts and published posthumously, shifts the analysis from the production of surplus value to the circulation of capital as a whole. Marx traces the metamorphoses of capital through its three circuits — money capital, productive capital, and commodity capital — showing how each form presupposes and gives rise to the others in a continuous process of self-valorization. The analysis of turnover time reveals how the speed and continuity of capital&#39;s circuit directly affects the mass and rate of surplus value realized, introducing temporal considerations largely absent from Volume I.</p>\n<p>The most theoretically consequential section develops the schemas of simple and expanded reproduction, which model the conditions under which the total social capital can reproduce itself by maintaining proportional exchange between Department I (means of production) and Department II (means of consumption). These schemas became the object of intense debate, most notably Luxemburg&#39;s argument that expanded reproduction is impossible within a closed capitalist system, and later Marxist discussions of crisis, disproportionality, and planning.</p>\n<p>Though often regarded as the most difficult and least read of the three volumes, Volume II provides indispensable tools for understanding logistics, supply chains, inventory management, and the temporal dynamics of capitalist accumulation. Its analysis of the circulation process has gained renewed relevance in an era defined by just-in-time production, global supply networks, and the financialization of commodity flows.</p>\n"
+  },
+  {
+    "slug": "capital-vol3",
+    "title": "Capital, Volume III",
+    "author": "Karl Marx",
+    "year": 1894,
+    "tradition": "Classical Marxism",
+    "translations": [
+      "Fernbach (Penguin 1981)"
+    ],
+    "tags": [
+      "tendency of rate of profit to fall",
+      "rent",
+      "credit",
+      "fictitious capital",
+      "profit"
+    ],
+    "body": "<p><em>Capital, Volume III</em>, assembled by Engels from Marx&#39;s draft manuscripts and published nine years after his death, examines the capitalist process of production as a whole — that is, the unity of production and circulation. The volume&#39;s central problem is the transformation of surplus value into its concrete forms: industrial profit, commercial profit, interest, and ground rent. Marx shows how competition among capitals produces a general rate of profit through the equalization of profit rates, a process that systematically obscures the origin of profit in the exploitation of labor.</p>\n<p>The most debated section develops the law of the tendential fall in the rate of profit, which argues that rising organic composition of capital — the increasing ratio of constant to variable capital driven by technological competition — creates a structural downward pressure on profitability. Marx identifies counteracting tendencies including the cheapening of constant capital, increasing exploitation, foreign trade, and the expansion of joint-stock companies, generating a dialectic of crisis and restructuring that has defined capitalist development.</p>\n<p>The volume&#39;s later parts contain analyses of commercial and money-dealing capital, the credit system, and fictitious capital that have become central to contemporary Marxist political economy, particularly in discussions of financialization. Marx&#39;s theory of ground rent, distinguishing differential and absolute rent, provides tools for understanding real estate speculation and resource extraction. The transformation problem raised by Volume III — the relationship between values and prices of production — remains one of the most technically contested questions in Marxist economics.</p>\n"
+  },
+  {
+    "slug": "dialectic-of-enlightenment",
+    "title": "Dialectic of Enlightenment",
+    "author": "Max Horkheimer and Theodor Adorno",
+    "year": 1944,
+    "tradition": "Frankfurt School",
+    "translations": [
+      "Cumming (Herder and Herder 1972)",
+      "Jephcott (Stanford 2002)"
+    ],
+    "tags": [
+      "instrumental reason",
+      "culture industry",
+      "domination of nature",
+      "mythology",
+      "mass culture"
+    ],
+    "body": "<p><em>Dialectic of Enlightenment</em>, written in exile in Los Angeles during World War II, argues that the Enlightenment project of liberating humanity through reason has dialectically reversed into new forms of domination. Horkheimer and Adorno contend that instrumental rationality — the drive to master nature through classificatory thought and technical control — contains within itself the seeds of barbarism, as the same logic that disenchants nature ultimately reduces human beings to objects of administration and manipulation. The book opens with a philosophical excursus on Homer&#39;s Odyssey, reading Odysseus&#39;s cunning self-preservation as the prototype of bourgeois subjectivity formed through the repression of inner nature.</p>\n<p>The famous chapter on the culture industry analyzes how mass-produced entertainment under monopoly capitalism enforces conformity and forecloses critical thought under the guise of consumer choice and individual freedom. Horkheimer and Adorno argue that cultural production has been industrialized in a way that preempts genuine aesthetic experience, substituting standardized pleasures that reconcile audiences to the existing order. This analysis profoundly influenced subsequent media theory, from Guy Debord&#39;s concept of the spectacle to contemporary critiques of algorithmic content delivery.</p>\n<p>The book&#39;s uncompromising pessimism about the prospects for emancipation within existing social arrangements reshaped critical theory and remains a provocation: if reason itself is complicit in domination, what resources remain for critique? This question continues to animate debates in philosophy, social theory, and cultural criticism.</p>\n"
+  },
+  {
+    "slug": "empire",
+    "title": "Empire",
+    "author": "Michael Hardt and Antonio Negri",
+    "year": 2000,
+    "tradition": "Autonomism",
+    "translations": [
+      "Hardt and Negri (Harvard 2000)"
+    ],
+    "tags": [
+      "empire",
+      "multitude",
+      "immaterial labor",
+      "biopolitics",
+      "globalization"
+    ],
+    "body": "<p><em>Empire</em> argues that the age of imperialism organized around competing nation-states has given way to a new, decentered and deterritorialized form of global sovereignty that Hardt and Negri call Empire. Drawing on Deleuze and Guattari&#39;s theory of smooth and striated space, Foucault&#39;s concept of biopolitics, and the Italian autonomist tradition&#39;s analysis of the social factory, the authors contend that power now operates through flexible networks — supranational institutions, NGOs, transnational corporations, and media systems — rather than through the territorial logic of classical imperialism. Empire has no outside; it is a total environment of control that encompasses all social life.</p>\n<p>Against this new form of sovereignty, Hardt and Negri identify the multitude — a heterogeneous, networked subject of labor whose cooperative productive capacities in the era of immaterial and affective work exceed and potentially undermine imperial command. They argue that the shift from industrial to cognitive and communicative labor creates forms of social cooperation that are increasingly autonomous from capital&#39;s direct supervision, generating possibilities for self-organization and democratic constitution-making from below.</p>\n<p>The book provoked enormous debate upon its publication, with critics on the left arguing that it underestimated the persistence of nation-state imperialism, military power, and the structural divisions within the global working class. Nonetheless, <em>Empire</em> remains a touchstone for discussions of globalization, post-Fordist capitalism, and the political composition of contemporary resistance movements.</p>\n"
   },
   {
     "slug": "essays-value",
@@ -56,15 +170,34 @@
     "year": 1928,
     "tradition": "Value-form Theory",
     "translations": [
-      "Samardzija and Perlman (1972)"
+      "Samardzija and Perlman (Black and Red 1972)"
     ],
     "tags": [
       "abstract labor",
       "value-form",
       "commodity fetishism",
-      "social relations"
+      "social relations",
+      "political economy"
     ],
-    "body": "<p>Rubin&#39;s Essays interprets Marx&#39;s value theory as fundamentally a theory of social relations between people mediated by things, foregrounding the qualitative analysis of the value-form over quantitative determination. Written in the Soviet Union during the 1920s, the work challenged productivist readings of Marx by insisting that abstract labor is a historically specific social category, not a physiological substance. Rubin&#39;s approach was suppressed under Stalinism but became a major influence on the value-form tradition after its rediscovery in the 1970s.</p>\n"
+    "body": "<p>Rubin&#39;s <em>Essays on Marx&#39;s Theory of Value</em>, written in the Soviet Union during the relatively open theoretical debates of the 1920s, interprets Marx&#39;s value theory as fundamentally a theory of social relations between people mediated by things, foregrounding the qualitative analysis of the value-form over the quantitative determination of labor magnitudes. Rubin insists that abstract labor is not a physiological expenditure of human energy but a historically specific social category that exists only in a society where private labors are socially validated through market exchange. Value, on this reading, is not an intrinsic property of commodities but a social form assumed by labor under determinate historical conditions.</p>\n<p>The book systematically distinguishes Marx&#39;s approach from both classical political economy, which naturalized economic categories, and the marginal utility school, which abandoned the labor theory of value altogether. Rubin argues that commodity fetishism is not a psychological illusion but an objective feature of a mode of production in which the social character of labor can appear only in the form of a property of things.</p>\n<p>Rubin was arrested in 1930 and died in a Soviet labor camp, and his work was suppressed for decades. Its rediscovery in the 1970s profoundly influenced the value-form tradition, the <em>neue Marx-Lekture</em> in Germany, and the broader revival of interest in Marx&#39;s critique of political economy as a social theory rather than a positive economics.</p>\n"
+  },
+  {
+    "slug": "finance-capital",
+    "title": "Finance Capital",
+    "author": "Rudolf Hilferding",
+    "year": 1910,
+    "tradition": "Second International",
+    "translations": [
+      "Bottomore (Routledge 1981)"
+    ],
+    "tags": [
+      "finance capital",
+      "monopoly",
+      "imperialism",
+      "banking",
+      "cartels"
+    ],
+    "body": "<p><em>Finance Capital</em> is Hilferding&#39;s analysis of the transformation of competitive capitalism into monopoly capitalism through the increasing dominance of banking over industry. Hilferding argues that the concentration of production into cartels and trusts, combined with the centralization of the banking system, produces a new form of capital — finance capital — in which the bank assumes a commanding role in directing industrial investment, organizing monopolistic combinations, and driving the territorial expansion of capital into colonial markets and spheres of influence.</p>\n<p>The book provides a systematic Marxist analysis of the stock exchange, the joint-stock company, and the credit system as mechanisms through which finance capital coordinates economic activity on a scale that transcends the capacity of individual industrial capitalists. Hilferding shows how the export of capital, rather than the export of commodities, becomes the driving force of the world economy under conditions of monopoly, generating inter-imperialist rivalry over colonial territories and markets. He also develops the concept of the &quot;general cartel&quot; — the theoretical limit of monopolization in which a single trust controls all production — and argues that this tendency toward organized capitalism creates the objective preconditions for socialist planning.</p>\n<p>Lenin drew extensively on <em>Finance Capital</em> for his own <em>Imperialism</em> (1917), adopting Hilferding&#39;s analysis of monopoly and finance capital while criticizing his reformist political conclusions. The work remains foundational for Marxist analyses of financialization, corporate concentration, and the relationship between banking, industrial capital, and state power.</p>\n"
   },
   {
     "slug": "grundrisse",
@@ -80,9 +213,83 @@
       "method",
       "money",
       "capital",
-      "labor"
+      "labor",
+      "automation"
     ],
-    "body": "<p>The Grundrisse consists of Marx&#39;s preparatory notebooks for Capital, first published in 1939, containing his most extensive reflections on dialectical method and the architecture of his critique of political economy. The manuscripts range across the theory of money, the general concept of capital, and speculative passages on automation and post-capitalist society that have no parallel in the published volumes. Its rediscovery reshaped debates about Marx&#39;s intellectual development and the relationship between Hegelian categories and economic analysis.</p>\n"
+    "body": "<p>The <em>Grundrisse</em> — Marx&#39;s preparatory notebooks for <em>Capital</em>, written in a burst of intensive work during the winter of 1857-58 and first published in Moscow in 1939 — contains his most extensive reflections on dialectical method, the architecture of his critique of political economy, and speculative passages on automation and post-capitalist society that have no parallel in the published volumes. The famous &quot;Fragment on Machines&quot; envisions a stage of production in which scientific knowledge rather than direct labor becomes the main productive force, a passage that has been central to debates about cognitive capitalism, immaterial labor, and the contemporary relevance of the labor theory of value.</p>\n<p>The notebooks range across the theory of money, the general concept of capital, pre-capitalist economic formations, and the relationship between production, distribution, exchange, and consumption. The &quot;Introduction&quot; of 1857, often read as a stand-alone methodological text, develops Marx&#39;s account of the movement from abstract to concrete as the scientifically correct method of political economy, distinguishing his approach from both empiricism and speculative philosophy. Marx argues that categories like labor, value, and money are not transhistorical abstractions but determinate forms of social relations specific to capitalism.</p>\n<p>The <em>Grundrisse</em>&#39;s rediscovery reshaped debates about Marx&#39;s intellectual development, the relationship between Hegelian categories and economic analysis, and the scope of the unfinished project of critique. It revealed a Marx more philosophically ambitious and methodologically self-conscious than the author of <em>Capital</em> alone would suggest, and provided ammunition for both humanist and structuralist readings of his work.</p>\n"
+  },
+  {
+    "slug": "history-class-consciousness",
+    "title": "History and Class Consciousness",
+    "author": "Georg Lukacs",
+    "year": 1923,
+    "tradition": "Western Marxism",
+    "translations": [
+      "Livingstone (Merlin 1971)",
+      "Livingstone (MIT Press 1971)"
+    ],
+    "tags": [
+      "reification",
+      "totality",
+      "class consciousness",
+      "dialectics",
+      "Western Marxism"
+    ],
+    "body": "<p><em>History and Class Consciousness</em>, a collection of essays written between 1919 and 1922, is widely regarded as a founding text of Western Marxism. Lukacs reintroduced Hegelian dialectics into Marxist theory at a moment when the dominant orthodoxy of the Second International had reduced Marx&#39;s method to a positivist science of economic laws. The book&#39;s central essay, &quot;Reification and the Consciousness of the Proletariat,&quot; extends Marx&#39;s analysis of commodity fetishism to show how the commodity form penetrates all aspects of social life under capitalism, fragmenting consciousness, rationalizing administration, and rendering social relations opaque to those who inhabit them.</p>\n<p>Lukacs draws on Weber&#39;s theory of rationalization and Simmel&#39;s philosophy of culture to argue that bourgeois thought is structurally incapable of grasping society as a totality because it is itself a product of reified social relations. Only the proletariat, as both subject and object of the historical process, possesses the potential standpoint from which the social totality can be comprehended and transformed. This argument yokes together epistemology and revolutionary politics in a way that profoundly influenced the Frankfurt School, Sartre, and the New Left.</p>\n<p>Lukacs later repudiated the book under political pressure, criticizing its idealist tendencies and its failure to ground dialectics in the labor process. Nevertheless, <em>History and Class Consciousness</em> remains a pivotal text for understanding the philosophical ambitions of Marxist theory and the relationship between reification, ideology, and the possibility of revolutionary consciousness.</p>\n"
+  },
+  {
+    "slug": "history-russian-revolution",
+    "title": "History of the Russian Revolution",
+    "author": "Leon Trotsky",
+    "year": 1930,
+    "tradition": "Trotskyism",
+    "translations": [
+      "Eastman (Monad Press 1980)",
+      "Haymarket edition (2008)"
+    ],
+    "tags": [
+      "Russian Revolution",
+      "combined and uneven development",
+      "revolution",
+      "class struggle",
+      "Bolshevism"
+    ],
+    "body": "<p>Trotsky&#39;s <em>History of the Russian Revolution</em>, written in exile on Prinkipo island between 1930 and 1932, is at once a detailed historical narrative of the February and October revolutions of 1917 and a sustained theoretical argument about the dynamics of revolutionary transformation. The work opens with an exposition of the law of combined and uneven development as the key to understanding Russian history: the peculiar amalgam of modern industry, semi-feudal agriculture, autocratic state forms, and a small but highly concentrated proletariat that made Russia the weakest link in the imperialist chain.</p>\n<p>Trotsky traces the development of the revolution through the spontaneous uprising of February, the period of dual power between the Provisional Government and the soviets, the progressive radicalization of the masses, and the October insurrection, analyzing at each stage the relationship between the objective situation and the subjective factor — the consciousness, organization, and leadership of the revolutionary forces. His account of the July Days, the Kornilov affair, and the debates within the Bolshevik Party on the eve of October provides an unmatched insider&#39;s perspective on the mechanics of revolutionary decision-making.</p>\n<p>The <em>History</em> is also a work of remarkable literary power, combining panoramic social analysis with vivid characterization of individual actors — from the vacillating Kerensky to the methodical Lenin. Trotsky&#39;s insistence on the indispensable role of revolutionary leadership within an objectively revolutionary situation remains one of the most debated propositions in Marxist political theory. The work is widely regarded as one of the great works of twentieth-century historical writing.</p>\n"
+  },
+  {
+    "slug": "imperialism",
+    "title": "Imperialism, the Highest Stage of Capitalism",
+    "author": "V.I. Lenin",
+    "year": 1917,
+    "tradition": "Classical Marxism",
+    "translations": [
+      "Various (Progress Publishers)",
+      "Collected Works, Vol. 22"
+    ],
+    "tags": [
+      "imperialism",
+      "monopoly capital",
+      "finance capital",
+      "colonialism"
+    ],
+    "body": "<p><em>Imperialism, the Highest Stage of Capitalism</em>, written in Zurich during the spring of 1916 and published the following year, argues that imperialism is not a policy choice of particular governments but a necessary stage of capitalist development. Lenin identifies five defining features of this stage: the concentration of production into monopolies, the merger of bank and industrial capital into finance capital, the export of capital as distinct from the export of commodities, the formation of international monopolist combines that divide the world among themselves, and the territorial partition of the globe among the great powers.</p>\n<p>Drawing extensively on Hobson&#39;s study of imperialism and Hilferding&#39;s analysis of finance capital, Lenin contends that the monopoly stage transforms free competition into its opposite while simultaneously intensifying inter-imperialist rivalry. He argues that the superprofits extracted from colonial exploitation enable the metropolitan bourgeoisie to bribe a thin layer of the working class — the labor aristocracy — thereby splitting the proletariat and undermining revolutionary consciousness in the advanced countries.</p>\n<p>Written as a popular pamphlet under wartime censorship, the work&#39;s theoretical framework became foundational for twentieth-century anti-colonial movements, from the Communist International&#39;s thesis on the national and colonial questions to dependency theory and world-systems analysis. Its analysis of the relationship between monopoly, finance, and geopolitical conflict remains a reference point for contemporary debates about neocolonialism, unequal exchange, and the structural dynamics of the capitalist world system.</p>\n"
+  },
+  {
+    "slug": "late-capitalism",
+    "title": "Late Capitalism",
+    "author": "Ernest Mandel",
+    "year": 1972,
+    "tradition": "Trotskyism",
+    "translations": [
+      "De Bres (NLB/Verso 1975)"
+    ],
+    "tags": [
+      "long waves",
+      "late capitalism",
+      "permanent arms economy",
+      "uneven development"
+    ],
+    "body": "<p><em>Late Capitalism</em>, Mandel&#39;s major theoretical work, analyzes the post-1945 capitalist boom and its emerging contradictions through the lens of long waves of capitalist development — a framework drawn from Kondratiev but given a distinctively Marxist theoretical grounding. Mandel argues that the postwar expansion represented a third major phase of capitalist development, following competitive capitalism and classical imperialism, characterized by the dominance of multinational corporations, accelerating technological innovation, the growing economic role of the state, and the increasing commodification of all spheres of social life.</p>\n<p>Mandel contends that this &quot;late capitalist&quot; phase does not overcome the fundamental contradictions of the system but displaces and intensifies them, setting the stage for renewed crisis. He rejects both the social-democratic thesis of managed capitalism that has transcended cyclical crisis and the orthodox Marxist expectation of imminent collapse, instead theorizing a contradictory dynamic in which each expansionary wave creates the conditions for the next downturn through the overaccumulation of capital and the tendential decline in profitability.</p>\n<p>The book gave wide currency to the term &quot;late capitalism,&quot; which Fredric Jameson later adopted to describe the cultural logic of postmodernity. Mandel&#39;s analysis of the arms economy, the internationalization of capital, and the relationship between technological revolution and profit rate recovery remains an important reference point for periodizing capitalist development. Written with a combination of theoretical ambition and empirical detail rare in Marxist economics, <em>Late Capitalism</em> stands as one of the most comprehensive attempts to update Marx&#39;s categories for the analysis of postwar capitalism.</p>\n"
   },
   {
     "slug": "mute-compulsion",
@@ -94,9 +301,99 @@
       "economic power",
       "domination",
       "capital as social relation",
-      "structural coercion"
+      "structural coercion",
+      "social reproduction"
     ],
-    "body": "<p>Mute Compulsion develops a theory of the specifically economic power of capital, arguing that capitalism subordinates human life not primarily through ideology or direct violence but through impersonal structural mechanisms rooted in market dependence. Mau draws on Marx&#39;s mature critique of political economy to show how capital reshapes the conditions of social reproduction, producing a form of domination that operates silently through the compulsion of economic relations. The book has been widely discussed as a significant contribution to contemporary Marxist theory.</p>\n"
+    "body": "<p><em>Mute Compulsion</em> develops a systematic theory of the specifically economic power of capital — the impersonal, structural form of domination that operates not through direct violence or ideological persuasion but through the silent compulsion of market dependence. Mau argues that most critical theory has focused on either the ideological or repressive dimensions of capitalist power while neglecting the distinctively economic mechanisms through which capital subordinates human life: the separation of producers from the means of production, the commodification of labor-power, and the disciplinary force of competition.</p>\n<p>Drawing on Marx&#39;s mature critique of political economy, particularly the analysis of real subsumption and the concept of capital as an automatic subject, Mau traces how capital reshapes the material conditions of social reproduction — transforming bodies, desires, temporalities, and the relationship between humans and nature — in ways that produce compliance without requiring either consent or coercion in the traditional sense. The book distinguishes this economic power from sovereignty, disciplinary power, and biopower, arguing that it constitutes a form of domination specific to capitalism and irreducible to other modalities.</p>\n<p>Published to wide acclaim and rapidly translated into multiple languages, <em>Mute Compulsion</em> has been recognized as one of the most significant contributions to Marxist social theory in recent years. Its integration of value-form analysis, social reproduction theory, and the critique of political economy provides a framework for understanding why capitalist domination persists even in the absence of overt repression or effective ideology.</p>\n"
+  },
+  {
+    "slug": "on-contradiction",
+    "title": "On Contradiction",
+    "author": "Mao Zedong",
+    "year": 1937,
+    "tradition": "Maoism",
+    "translations": [
+      "Selected Works, Vol. 1 (Foreign Languages Press 1965)"
+    ],
+    "tags": [
+      "dialectics",
+      "contradiction",
+      "principal contradiction",
+      "universality and particularity"
+    ],
+    "body": "<p><em>On Contradiction</em>, written at Yan&#39;an during the anti-Japanese war, is Mao&#39;s most important philosophical text and his most sustained engagement with dialectical materialism. Mao develops a theory of contradiction that distinguishes between the universality and particularity of contradiction, principal and secondary contradictions, and the principal and secondary aspects of a contradiction, arguing that the correct identification of the principal contradiction at each stage of revolutionary development is the fundamental task of Marxist analysis and political strategy.</p>\n<p>Mao&#39;s central innovation is the concept of the principal contradiction — the dominant contradiction whose resolution determines the character of a given historical period — which shifts as conditions change. During the anti-Japanese war, the principal contradiction was between the Chinese nation and Japanese imperialism, requiring a united front that temporarily subordinated class struggle; after liberation, the principal contradiction would shift to that between the proletariat and the bourgeoisie. This framework provided a theoretical basis for the flexible alliance politics that characterized the Chinese revolution and distinguished Mao&#39;s strategy from both the Comintern&#39;s mechanical class analysis and Trotsky&#39;s theory of permanent revolution.</p>\n<p>The text also develops the thesis that contradiction is universal and absolute — present in all processes at all times — while the particular forms it takes are relative and historically specific. Mao&#39;s dialectics, with their emphasis on the transformation of opposites, the interpenetration of universality and particularity, and the role of practice in resolving theoretical questions, have influenced revolutionary movements across the Third World and continue to be debated within Marxist philosophy.</p>\n"
+  },
+  {
+    "slug": "on-practice",
+    "title": "On Practice",
+    "author": "Mao Zedong",
+    "year": 1937,
+    "tradition": "Maoism",
+    "translations": [
+      "Selected Works, Vol. 1 (Foreign Languages Press 1965)"
+    ],
+    "tags": [
+      "epistemology",
+      "practice",
+      "theory and practice",
+      "knowledge"
+    ],
+    "body": "<p><em>On Practice</em>, written alongside <em>On Contradiction</em> at Yan&#39;an in 1937, develops a Marxist theory of knowledge that insists on the primacy of practice — productive labor, class struggle, and scientific experiment — as the foundation, criterion, and purpose of all genuine cognition. Mao argues against both rationalist dogmatism, which derives knowledge from abstract principles without testing them in practice, and empiricist tailism, which remains at the level of perceptual experience without rising to rational, theoretical understanding.</p>\n<p>Mao outlines a dialectical epistemology in which knowledge begins with perceptual experience of the objective world, rises through conceptual thought to rational knowledge (theory), and must then return to practice to be verified and refined. The movement from practice to theory and back to practice constitutes a spiral of deepening understanding, in which each cycle of practice-theory-practice yields more adequate comprehension of objective reality. Mao explicitly polemicizes against the tendency within the Chinese Communist Party to treat Marxist texts as dogma to be memorized rather than as guides to action to be tested and developed through revolutionary practice.</p>\n<p>The text&#39;s significance lies less in its philosophical originality — its debt to Lenin&#39;s <em>Materialism and Empirio-Criticism</em> and to dialectical materialism as a whole is clear — than in its political function: providing a theoretical justification for adapting Marxist strategy to Chinese conditions and for the &quot;mass line&quot; method of leadership, in which the party systematizes the scattered ideas of the masses and returns them as policy to be tested in practice.</p>\n"
+  },
+  {
+    "slug": "one-dimensional-man",
+    "title": "One-Dimensional Man",
+    "author": "Herbert Marcuse",
+    "year": 1964,
+    "tradition": "Frankfurt School",
+    "translations": [
+      "Marcuse (Beacon Press 1964)"
+    ],
+    "tags": [
+      "repressive tolerance",
+      "false needs",
+      "technological domination",
+      "New Left",
+      "consumer society"
+    ],
+    "body": "<p><em>One-Dimensional Man</em> argues that advanced industrial society has developed mechanisms of social control so effective that they absorb and neutralize all opposition, producing a universe of one-dimensional thought and behavior from which critical transcendence has been virtually eliminated. Marcuse contends that technological rationality and consumer abundance generate false needs — needs that bind individuals to the existing system by providing satisfactions that preempt the desire for fundamental change. The result is a society of &quot;comfortable unfreedom&quot; in which the working class, integrated into the consumer economy, has lost its revolutionary potential.</p>\n<p>The book extends the Frankfurt School&#39;s critique of instrumental reason into an analysis of how advanced capitalism achieves domination not through deprivation but through affluence, not through censorship but through the administered satisfaction of desire. Marcuse argues that the categories of classical Marxism — the contradiction between productive forces and relations of production, the immiseration of the proletariat — have been partially superseded by a system capable of containing its own contradictions through technological management and ideological absorption.</p>\n<p>Published at the height of postwar prosperity, <em>One-Dimensional Man</em> became an unexpected bestseller and a theoretical reference point for the New Left, the student movements of 1968, and the counterculture. Its analysis of how consumer capitalism neutralizes dissent — turning rebellion itself into a marketable commodity — anticipates contemporary debates about corporate co-optation, performative resistance, and the capacity of capitalism to absorb and profit from its own critique.</p>\n"
+  },
+  {
+    "slug": "phenomenology-of-spirit",
+    "title": "Phenomenology of Spirit",
+    "author": "G.W.F. Hegel",
+    "year": 1807,
+    "tradition": "German Idealism",
+    "translations": [
+      "Miller (Oxford 1977)",
+      "Pinkard (Cambridge 2018)"
+    ],
+    "tags": [
+      "dialectics",
+      "consciousness",
+      "master-slave",
+      "spirit",
+      "recognition"
+    ],
+    "body": "<p>The <em>Phenomenology of Spirit</em> traces the development of consciousness from its most immediate form — naive sense-certainty — through self-consciousness, reason, spirit, religion, and finally absolute knowledge, demonstrating how each stage of consciousness generates contradictions that compel the transition to a higher, more comprehensive standpoint. Hegel presents this as both a philosophical education (<em>Bildung</em>) and a recapitulation of the historical development of human thought, making the <em>Phenomenology</em> simultaneously an epistemology, a philosophy of history, and a narrative of spiritual self-discovery.</p>\n<p>The section on the dialectic of master and slave (<em>Herrschaft und Knechtschaft</em>) has had an incalculable influence on Marxist thought. Hegel shows how the master, who risks death in the struggle for recognition and reduces the slave to a mere instrument, paradoxically becomes dependent on the slave&#39;s labor, while the slave, through the disciplined transformation of nature in work, achieves a form of self-consciousness and practical mastery that the idle master lacks. Marx transposed this dialectic into the relationship between capital and labor, arguing that the working class, through its productive activity, creates the material and intellectual conditions for its own emancipation.</p>\n<p>The <em>Phenomenology</em> also profoundly shaped the Frankfurt School&#39;s critique of Enlightenment rationality, Lukacs&#39;s concept of totality, and Kojeve&#39;s influential lectures (1933-39) that introduced Hegel to a generation of French intellectuals including Sartre, Merleau-Ponty, and Lacan. It remains indispensable for understanding the philosophical foundations of the Marxist dialectic.</p>\n"
+  },
+  {
+    "slug": "philosophical-notebooks",
+    "title": "Philosophical Notebooks",
+    "author": "V.I. Lenin",
+    "year": 1916,
+    "tradition": "Classical Marxism",
+    "translations": [
+      "Collected Works, Vol. 38 (Progress Publishers 1961)"
+    ],
+    "tags": [
+      "dialectics",
+      "Hegel",
+      "materialism",
+      "logic",
+      "philosophy"
+    ],
+    "body": "<p>The <em>Philosophical Notebooks</em> comprise Lenin&#39;s reading notes on Hegel&#39;s <em>Science of Logic</em>, <em>Lectures on the History of Philosophy</em>, and other philosophical works, written primarily during 1914-15 while Lenin was in exile in Bern. Never intended for publication and first printed in 1929-30, the notebooks reveal a Lenin grappling seriously with Hegelian dialectics at a level of sophistication absent from his earlier philosophical writing, <em>Materialism and Empirio-Criticism</em> (1908).</p>\n<p>The notebooks contain Lenin&#39;s celebrated aphorism that it is impossible to fully understand Marx&#39;s <em>Capital</em> without having studied the whole of Hegel&#39;s <em>Logic</em>, and his recognition that the intelligent idealism of Hegel is closer to intelligent materialism than the crude, mechanical materialism that had dominated Second International Marxism. Lenin&#39;s marginal comments on the categories of the <em>Logic</em> — being, essence, concept, contradiction, the unity of opposites — show him rethinking the philosophical foundations of dialectical materialism in response to the catastrophic failure of European social democracy to resist World War I.</p>\n<p>The significance of the <em>Notebooks</em> for Marxist philosophy has been debated along predictable lines: some readers see them as evidence of Lenin&#39;s return to Hegel and a rupture with the crude reflection theory of <em>Materialism and Empirio-Criticism</em>; others argue for continuity in Lenin&#39;s philosophical development. The notebooks have been particularly influential in the Italian Marxist tradition and among those who, following Lukacs, insist on the centrality of dialectical method to revolutionary theory.</p>\n"
   },
   {
     "slug": "prison-notebooks",
@@ -105,16 +402,18 @@
     "year": "1929-1935",
     "tradition": "Western Marxism",
     "translations": [
-      "Hoare and Nowell Smith (1971)"
+      "Hoare and Nowell Smith (Lawrence and Wishart 1971)",
+      "Buttigieg critical edition (Columbia 1992-2007)"
     ],
     "tags": [
       "hegemony",
       "civil society",
       "organic intellectuals",
       "philosophy of praxis",
-      "common sense"
+      "common sense",
+      "war of position"
     ],
-    "body": "<p>The Prison Notebooks comprise Gramsci&#39;s fragmentary reflections on politics, culture, and philosophy, written during his imprisonment under Italian fascism and published posthumously between 1948 and 1951. Gramsci&#39;s central contribution is the concept of hegemony, which analyzes how ruling classes maintain power not only through coercion but through the organization of consent in civil society, education, and common sense. The Notebooks have exerted enormous influence across political theory, cultural studies, and postcolonial thought.</p>\n"
+    "body": "<p>The <em>Prison Notebooks</em> comprise thirty-three notebooks of fragmentary reflections on politics, history, philosophy, and culture, written by Gramsci during his imprisonment under Italian fascism from 1929 until his health collapsed in 1935. Published posthumously in Italy between 1948 and 1951, and in English from the 1970s onward, they constitute one of the most original and influential bodies of Marxist thought produced in the twentieth century.</p>\n<p>Gramsci&#39;s central theoretical contribution is the concept of hegemony, which analyzes how ruling classes maintain power not solely through state coercion but through the organization of consent within civil society — the network of institutions including schools, churches, media, and cultural organizations through which particular class interests are universalized and naturalized as common sense. This analysis led Gramsci to distinguish between the war of maneuver (direct revolutionary assault on the state) and the war of position (the prolonged struggle for cultural and intellectual leadership within civil society), arguing that in advanced capitalist societies with developed civil societies, the latter strategy was essential.</p>\n<p>The <em>Notebooks</em> also develop influential concepts including the organic intellectual (intellectuals organically connected to a rising class who articulate its worldview), the historical bloc (the alliance of social forces united by a shared hegemonic project), and the analysis of Fordism as a mode of social regulation extending from the factory into everyday life. Gramsci&#39;s work has exerted enormous influence across political theory, cultural studies, postcolonial thought, and education, making him one of the most widely read Marxist thinkers outside of Marx himself.</p>\n"
   },
   {
     "slug": "reading-capital",
@@ -123,15 +422,54 @@
     "year": 1965,
     "tradition": "Structuralist Marxism",
     "translations": [
-      "Brewster and Hoare (Verso 2015)"
+      "Brewster (NLB 1970, abridged)",
+      "Brewster and Hoare (Verso 2015, complete)"
     ],
     "tags": [
       "structural causality",
       "epistemological break",
       "symptomatic reading",
-      "mode of production"
+      "mode of production",
+      "overdetermination"
     ],
-    "body": "<p>Reading Capital introduced the method of symptomatic reading to Marxist theory, arguing that Marx&#39;s mature work operates with a concept of structural causality irreducible to Hegelian expressivism or empiricist models of knowledge. Althusser and his collaborators contend that Capital enacts an epistemological break from ideology to science, producing new concepts of the mode of production, overdetermination, and the social whole as a structure in dominance. The complete edition restores the contributions of Ranciere, Macherey, and Establet that were omitted from earlier translations.</p>\n"
+    "body": "<p><em>Reading Capital</em> originated in a seminar at the Ecole Normale Superieure in Paris during the 1964-65 academic year and introduced the method of symptomatic reading to Marxist theory. Althusser argues that Marx&#39;s mature work operates with a concept of structural causality irreducible to either Hegelian expressivism — in which every part of the social whole expresses a single essence — or empiricist models of knowledge that treat theory as a passive reflection of given facts. Instead, Marx&#39;s <em>Capital</em> produces its object theoretically, constructing the concept of the mode of production as a complex, structured whole in which causality operates through the articulation of relatively autonomous instances (economic, political, ideological) rather than through simple determination.</p>\n<p>Althusser and his collaborators contend that <em>Capital</em> enacts an epistemological break from the ideological problematic of the early Marx to the scientific problematic of the mature critique of political economy. This thesis generated intense debate about continuity and discontinuity in Marx&#39;s thought, the status of humanism and historicism in Marxist theory, and the relationship between science and ideology.</p>\n<p>The complete Verso edition of 2015 restores the contributions of Ranciere, Macherey, and Establet that were omitted from earlier English translations, revealing the collective and internally contested character of the project. Ranciere&#39;s contribution, which he later disavowed, offers a critique of the concept of critique itself, while Macherey&#39;s analysis of Marx&#39;s relationship to Hegel remains underappreciated. <em>Reading Capital</em> is essential for understanding structuralist Marxism, the Althusserian legacy, and the philosophical stakes of reading Marx&#39;s economic writings.</p>\n"
+  },
+  {
+    "slug": "reform-or-revolution",
+    "title": "Reform or Revolution",
+    "author": "Rosa Luxemburg",
+    "year": 1900,
+    "tradition": "Classical Marxism",
+    "translations": [
+      "Integer (1908)",
+      "Various modern editions"
+    ],
+    "tags": [
+      "revisionism",
+      "revolution",
+      "reform",
+      "social democracy",
+      "strategy"
+    ],
+    "body": "<p><em>Reform or Revolution</em> is Luxemburg&#39;s polemic against Eduard Bernstein&#39;s revisionism, written in 1899-1900 as a defense of revolutionary Marxism against the attempt to transform social democracy into a purely reformist movement. Bernstein had argued that Marx&#39;s predictions of capitalist crisis and proletarian revolution had been falsified by capitalism&#39;s demonstrated capacity for self-correction through credit, cartels, and state intervention, and that socialism could be achieved gradually through parliamentary reform and trade union activity. Luxemburg&#39;s response constitutes one of the sharpest theoretical engagements in the history of the socialist movement.</p>\n<p>Luxemburg argues that Bernstein confuses the forms through which capitalism temporarily displaces its contradictions — credit, monopoly, state regulation — with their resolution. Credit does not eliminate crisis but amplifies it; cartels do not overcome anarchy of production but intensify it at a higher level; the state does not stand above class interests but serves them. More fundamentally, she argues that reform and revolution are not alternative paths to the same goal but qualitatively different political logics: reforms that do not challenge the foundations of capitalist property relations are perpetually reversible, while revolution constitutes a rupture with the existing order that alone can establish new social foundations.</p>\n<p>The text&#39;s insistence that the question is not reform <em>or</em> revolution but reform <em>and</em> revolution — that revolutionaries fight for every immediate improvement while refusing to accept the capitalist framework as permanent — continues to define the strategic horizon of revolutionary socialism against both reformist gradualism and ultraleft abstentionism.</p>\n"
+  },
+  {
+    "slug": "seven-interpretive-essays",
+    "title": "Seven Interpretive Essays on Peruvian Reality",
+    "author": "Jose Carlos Mariategui",
+    "year": 1928,
+    "tradition": "Latin American Marxism",
+    "translations": [
+      "Urquidi (University of Texas Press 1971)"
+    ],
+    "tags": [
+      "Peru",
+      "agrarian question",
+      "indigenism",
+      "Latin America",
+      "imperialism"
+    ],
+    "body": "<p><em>Seven Interpretive Essays on Peruvian Reality</em> is Mariategui&#39;s masterwork, applying historical materialism to the analysis of Peruvian economy, politics, education, religion, literature, and the agrarian question with an originality that has made it the founding text of Latin American Marxism. The essays argue that the fundamental problem of Peru is the land question and the exploitation of the indigenous majority, rooted in a semi-feudal system of latifundia that survived independence from Spain and was reinforced rather than dissolved by the country&#39;s dependent integration into the world market.</p>\n<p>Mariategui rejects the orthodox Marxist assumption that Peru must pass through a stage of bourgeois-democratic development before socialist revolution becomes possible, arguing that the Peruvian bourgeoisie is too dependent on imperialism and too intertwined with the landed oligarchy to carry through its own historical program. Instead, he proposes a creative synthesis of Marxism and indigenism, arguing that the communal traditions of the Andean <em>ayllu</em> — the indigenous system of collective land tenure and reciprocal labor — represent a living foundation for socialist construction that need not recapitulate the trajectory of European capitalist development.</p>\n<p>The essays on education and literature demonstrate Mariategui&#39;s commitment to cultural analysis as an integral dimension of social transformation, anticipating Gramsci&#39;s analysis of hegemony and the role of intellectuals. Written in a lucid, combative prose that combines theoretical rigor with journalistic accessibility, the <em>Seven Essays</em> remain essential for understanding the relationship between Marxism, indigenous movements, and anti-imperialism in Latin America.</p>\n"
   },
   {
     "slug": "accumulation-of-capital",
@@ -140,15 +478,35 @@
     "year": 1913,
     "tradition": "Classical Marxism",
     "translations": [
-      "Schwarzschild (1951)"
+      "Schwarzschild (Routledge 1951)"
     ],
     "tags": [
       "imperialism",
       "expanded reproduction",
       "non-capitalist markets",
-      "accumulation"
+      "accumulation",
+      "crisis theory"
     ],
-    "body": "<p>The Accumulation of Capital argues that capitalist expanded reproduction is impossible within a closed system and that capital necessarily requires non-capitalist social formations as markets for surplus production, driving the process of imperialism. Luxemburg&#39;s critique of Marx&#39;s reproduction schemas in Volume 2 of Capital generated lasting debate about the dynamics of accumulation and crisis theory. The work remains a foundational text in Marxist theories of imperialism and global capitalism.</p>\n"
+    "body": "<p><em>The Accumulation of Capital</em> is Luxemburg&#39;s major theoretical intervention into Marxist political economy, written during her years teaching at the SPD party school in Berlin. The work argues that capitalist expanded reproduction is logically impossible within a closed system of purely capitalist social relations, because the surplus value produced cannot be fully realized without access to non-capitalist markets. Capital therefore necessarily drives outward, absorbing pre-capitalist economies through colonialism, militarism, and the forcible commodification of subsistence production. This process, Luxemburg contends, is not an aberration but the essential mechanism of capitalist accumulation on a world scale.</p>\n<p>The book&#39;s central polemic targets Marx&#39;s reproduction schemas in Volume II of <em>Capital</em>, which Luxemburg regarded as incomplete and internally contradictory. Her critique generated one of the most sustained debates in Marxist economics, drawing responses from Bukharin, Henryk Grossman, and Paul Sweezy, among others. Critics argued she confused the conditions of realization with those of production, while sympathetic readers saw her as anticipating dependency theory and world-systems analysis.</p>\n<p>Luxemburg&#39;s insistence that capitalism contains an inherent geographical and social limit to accumulation has gained renewed attention in an era of global ecological crisis and the ongoing enclosure of commons across the Global South. The work remains foundational for Marxist theories of imperialism, uneven development, and the relationship between capitalist and non-capitalist modes of production.</p>\n"
+  },
+  {
+    "slug": "black-jacobins",
+    "title": "The Black Jacobins",
+    "author": "C.L.R. James",
+    "year": 1938,
+    "tradition": "Black Marxism",
+    "translations": [
+      "James (Secker & Warburg 1938)",
+      "Revised edition (Vintage 1963)"
+    ],
+    "tags": [
+      "Haitian Revolution",
+      "anti-colonialism",
+      "slave revolt",
+      "self-emancipation",
+      "race and class"
+    ],
+    "body": "<p><em>The Black Jacobins</em> is C.L.R. James&#39;s history of the Haitian Revolution of 1791-1804, the only successful slave revolution in modern history. Written in London and Paris during the 1930s as anti-colonial movements gathered force across Africa and the Caribbean, the book places the uprising led by Toussaint L&#39;Ouverture at the center of the Age of Revolution, arguing that the enslaved population of Saint-Domingue was not a passive mass but a conscious revolutionary class that drew on and radicalized the universalist ideals of the French Revolution.</p>\n<p>James employs a Marxist framework while insisting on the autonomous agency of Black revolutionary subjects, demonstrating how the plantation system created the conditions for its own overthrow by concentrating a disciplined, exploited labor force with nothing to lose. His narrative traces the interplay between events in the Caribbean and metropolitan politics in Paris, showing how colonial revolution and European revolution were dialectically intertwined. The book also provides a devastating portrait of how revolutionary leaders can be consumed by the very structures they seek to transform, as Toussaint&#39;s diplomatic maneuvering increasingly estranged him from the masses whose struggle he led.</p>\n<p>Revised in 1963 with a new appendix reflecting on African independence movements, <em>The Black Jacobins</em> remains essential reading for understanding the entanglement of race, class, and colonialism in the making of the modern world, and for any serious consideration of revolutionary self-emancipation.</p>\n"
   },
   {
     "slug": "communist-manifesto",
@@ -156,6 +514,10 @@
     "author": "Karl Marx and Friedrich Engels",
     "year": 1848,
     "tradition": "Classical Marxism",
+    "translations": [
+      "Moore (1888, authorized English edition)",
+      "Various modern editions"
+    ],
     "tags": [
       "class struggle",
       "bourgeoisie",
@@ -163,6 +525,214 @@
       "revolution",
       "historical materialism"
     ],
-    "body": "<p>The Communist Manifesto outlines the materialist conception of history as a succession of class struggles and analyzes the revolutionary role of the bourgeoisie in dissolving feudal social relations while producing its own gravedigger in the proletariat. Written as a programmatic document for the Communist League, it combines historical analysis with a call for the abolition of private property and the self-emancipation of the working class. It is the most widely read and translated text in the Marxist tradition.</p>\n"
+    "body": "<p><em>The Communist Manifesto</em>, commissioned by the Communist League and published on the eve of the 1848 revolutions, outlines the materialist conception of history as a succession of class struggles and analyzes the historically revolutionary role of the bourgeoisie in dissolving feudal social relations while producing its own gravedigger in the modern proletariat. In prose of extraordinary rhetorical power, Marx and Engels argue that capitalism has created a world market, revolutionized production, and subordinated all social relations to the cash nexus, but in doing so has concentrated and organized a class whose exploitation compels it toward collective resistance.</p>\n<p>The text combines historical analysis with a programmatic call for the abolition of bourgeois private property — not personal possessions but the ownership of the means of production that enables the appropriation of others&#39; labor. Marx and Engels distinguish their position from utopian socialism by insisting that communism is not an ideal to be implemented but the real movement arising from existing class contradictions. The Manifesto&#39;s ten-point program, including progressive taxation, centralization of credit, and free public education, was intended as transitional demands for the immediate aftermath of revolution.</p>\n<p>Written in six weeks by Marx at the age of twenty-nine, the <em>Manifesto</em> is the most widely translated and circulated text in the Marxist tradition. Its analysis of globalization, the revolutionary dynamism of capital, and the political centrality of class struggle has proved remarkably durable across nearly two centuries of capitalist development.</p>\n"
+  },
+  {
+    "slug": "eighteenth-brumaire",
+    "title": "The Eighteenth Brumaire of Louis Bonaparte",
+    "author": "Karl Marx",
+    "year": 1852,
+    "tradition": "Classical Marxism",
+    "translations": [
+      "Fernbach (Penguin/Verso)",
+      "Paret (Princeton 2023)"
+    ],
+    "tags": [
+      "class struggle",
+      "Bonapartism",
+      "political analysis",
+      "ideology",
+      "French politics"
+    ],
+    "body": "<p><em>The Eighteenth Brumaire of Louis Bonaparte</em> is Marx&#39;s analysis of Louis-Napoleon Bonaparte&#39;s coup d&#39;etat of December 2, 1851, written in the immediate aftermath of events for Joseph Weydemeyer&#39;s German-language journal in New York. The text is Marx&#39;s most sustained exercise in concrete political analysis, demonstrating how class struggles produce political outcomes that no single class directly intended. Marx traces the trajectory of the French revolution of 1848 through its successive phases — the overthrow of the July Monarchy, the June Days insurrection, the conservative republic, and the final Bonapartist resolution — showing how each class fraction advanced and retreated according to its material interests and organizational capacity.</p>\n<p>The text introduces the concept of Bonapartism: a political form in which the executive state power appears to rise above contending classes and achieve autonomy, while in practice serving the long-term interests of capital accumulation by guaranteeing bourgeois property relations. Marx&#39;s analysis of the French peasantry as a class that cannot represent itself politically, and of the lumpenproletariat as the social base of Bonapartist adventurism, remain foundational for political sociology.</p>\n<p>The <em>Eighteenth Brumaire</em> opens with one of Marx&#39;s most quoted formulations — that historical events occur twice, first as tragedy, then as farce — and contains his sharpest reflections on how the weight of tradition constrains revolutionary action. The work is essential reading for understanding the relative autonomy of the political, the mechanics of counter-revolution, and Marxist method applied to conjunctural analysis.</p>\n"
+  },
+  {
+    "slug": "general-theory-law-marxism",
+    "title": "The General Theory of Law and Marxism",
+    "author": "Evgeny Pashukanis",
+    "year": 1924,
+    "tradition": "Classical Marxism",
+    "translations": [
+      "Einhorn (Ink Links 1978)",
+      "Babb (Transaction 2002)"
+    ],
+    "tags": [
+      "law",
+      "commodity form",
+      "state theory",
+      "legal form",
+      "ideology"
+    ],
+    "body": "<p>Pashukanis&#39;s <em>General Theory of Law and Marxism</em> is the most original Marxist contribution to legal theory, arguing that the juridical form — the legal subject endowed with rights and obligations — is not a neutral instrument of social regulation but a historically specific social form that corresponds to the commodity form in the same way that the political state corresponds to the capitalist mode of production. Just as commodities confront each other as equivalents in the market, legal subjects confront each other as formally equal bearers of rights in the juridical sphere: the legal relation is the complement and mirror image of the commodity relation.</p>\n<p>Pashukanis argues that bourgeois law cannot be understood by examining its content (the particular rules it enforces) but only through analysis of its form — the very category of the legal subject, with its abstractions of will, personality, and contract, is the juridical expression of the abstractions of commodity exchange. This &quot;commodity-form theory of law&quot; implies that law as such is a bourgeois category that will wither away under communism, along with the state, private property, and commodity production. Pashukanis explicitly rejected the attempt to construct a &quot;proletarian law,&quot; arguing that this was as incoherent as the idea of a &quot;proletarian political economy.&quot;</p>\n<p>Written during the relatively open theoretical debates of the early Soviet period, the work was officially condemned in the 1930s, and Pashukanis was arrested and executed during the Great Purges in 1937. His legal theory has been revived since the 1970s and continues to influence critical legal studies and Marxist state theory.</p>\n"
+  },
+  {
+    "slug": "german-ideology",
+    "title": "The German Ideology",
+    "author": "Karl Marx and Friedrich Engels",
+    "year": 1846,
+    "tradition": "Classical Marxism",
+    "translations": [
+      "Various (Lawrence and Wishart)",
+      "Arthur edition (Lawrence and Wishart 1970)"
+    ],
+    "tags": [
+      "historical materialism",
+      "ideology",
+      "division of labor",
+      "consciousness"
+    ],
+    "body": "<p><em>The German Ideology</em>, written in 1845-46 but unpublished in Marx and Engels&#39;s lifetimes, represents their first systematic elaboration of the materialist conception of history. Composed as an extended polemic against the Young Hegelians — Feuerbach, Bruno Bauer, and Max Stirner — the manuscript argues that consciousness is determined by material life rather than the reverse, and that the ruling ideas of any epoch are the ideas of the ruling class, expressing in idealized form the material relations of domination. Marx and Engels famously abandoned the manuscript to the gnawing criticism of the mice, and it was not published in full until 1932.</p>\n<p>The text traces the development of the division of labor and forms of property — tribal, ancient, feudal, and bourgeois — as the material basis for understanding historical change, class formation, and the production of ideology. Marx and Engels argue that the state arises from the contradiction between particular and general interests within civil society, and that genuine human emancipation requires not merely a change in consciousness but the revolutionary transformation of material conditions. The section on Feuerbach contains their most concentrated statement of historical materialism as a method.</p>\n<p>Though unfinished and repetitive in places, <em>The German Ideology</em> remains indispensable for understanding the intellectual break through which Marx moved from philosophical critique to the materialist analysis of social formations, laying the groundwork for the critique of political economy that would occupy the rest of his life.</p>\n"
+  },
+  {
+    "slug": "limits-to-capital",
+    "title": "The Limits to Capital",
+    "author": "David Harvey",
+    "year": 1982,
+    "tradition": "Contemporary",
+    "translations": [
+      "Harvey (Blackwell 1982)",
+      "Updated edition (Verso 2006)"
+    ],
+    "tags": [
+      "spatial fix",
+      "crisis theory",
+      "credit",
+      "rent",
+      "urbanization"
+    ],
+    "body": "<p><em>The Limits to Capital</em> is Harvey&#39;s theoretical magnum opus, reconstructing Marx&#39;s critique of political economy with sustained attention to the roles of finance, credit, and geography in capitalist accumulation and crisis. Harvey works systematically through the three volumes of <em>Capital</em>, arguing that Marx&#39;s crisis theory must be understood as operating on three interconnected levels or &quot;cuts&quot;: the crisis tendencies arising from the basic production process (overaccumulation and the falling rate of profit), the displacement of crisis through the credit system and fictitious capital, and the further displacement through geographical expansion and spatial restructuring.</p>\n<p>The book&#39;s most original contribution is the concept of the spatial fix, which argues that capitalism resolves its internal contradictions of overaccumulation by investing surplus capital in the production of new spatial configurations — infrastructure, urbanization, and the opening of new territories for accumulation. This process, however, does not eliminate crisis but reproduces it at a larger geographical scale, creating patterns of uneven development, regional devaluation, and inter-territorial competition that define the landscape of global capitalism.</p>\n<p>Harvey&#39;s integration of rent theory, credit analysis, and spatial dynamics within a unified Marxist framework has made the book foundational for economic geography, urban studies, and contemporary debates about financialization and real estate speculation. The updated 2006 edition includes a new introduction reflecting on how the intervening decades of neoliberal globalization confirmed and extended the book&#39;s analytical framework.</p>\n"
+  },
+  {
+    "slug": "making-english-working-class",
+    "title": "The Making of the English Working Class",
+    "author": "E.P. Thompson",
+    "year": 1963,
+    "tradition": "British Marxism",
+    "translations": [
+      "Thompson (Gollancz 1963)",
+      "Penguin edition (1968)"
+    ],
+    "tags": [
+      "class formation",
+      "social history",
+      "agency",
+      "industrial revolution",
+      "labor"
+    ],
+    "body": "<p><em>The Making of the English Working Class</em> is Thompson&#39;s monumental history of the formation of working-class consciousness and organization in England between the 1790s and the 1830s, from the impact of the French Revolution through the Luddite risings, the radical reform movement, and the emergence of Chartism. The book&#39;s central argument is that the working class was not simply produced as an automatic effect of industrialization but actively made itself through the process of political struggle, cultural creation, and the shared experience of exploitation.</p>\n<p>Thompson insists that class is a historical relationship, not a structural category: it happens when people, as a result of common experiences inherited and shared, articulate the identity of their interests as between themselves and against other groups whose interests are different from and usually opposed to theirs. This formulation places human agency, cultural tradition, and lived experience at the center of class analysis, challenging both the economic determinism of orthodox Marxism and the static, ahistorical treatment of class in conventional sociology.</p>\n<p>The book recovers the histories of artisans, handloom weavers, radical Dissenters, Jacobin societies, and early trade unionists — people whom, in Thompson&#39;s famous phrase, had been &quot;condescended to by posterity.&quot; His method of social history from below, combining economic analysis with the study of popular culture, religious dissent, political rhetoric, and everyday life, transformed the discipline of social history worldwide. The <em>Making</em> remains one of the most widely read and cited works of Marxist historiography, and its insistence on the irreducibility of class experience to economic structure continues to provoke debate.</p>\n"
+  },
+  {
+    "slug": "revolution-betrayed",
+    "title": "The Revolution Betrayed",
+    "author": "Leon Trotsky",
+    "year": 1936,
+    "tradition": "Trotskyism",
+    "translations": [
+      "Eastman (Doubleday 1937)",
+      "Pathfinder edition (1972)"
+    ],
+    "tags": [
+      "Soviet Union",
+      "bureaucracy",
+      "degenerated workers state",
+      "Stalinism",
+      "transition"
+    ],
+    "body": "<p><em>The Revolution Betrayed</em> is Trotsky&#39;s most systematic analysis of the Soviet Union under Stalin, written in Norwegian exile and published in 1936 on the eve of the Great Purges. Trotsky argues that the Soviet Union represents neither socialism nor a restored capitalism but a contradictory transitional formation — a degenerated workers&#39; state — in which the social foundations of the October Revolution (nationalized property, planned economy, monopoly of foreign trade) persist under the political domination of a parasitic bureaucratic caste that has usurped power from the working class.</p>\n<p>Trotsky traces the material roots of bureaucratic degeneration to the isolation of the revolution in a backward country, the destruction of the most politically conscious workers in the civil war, and the exhaustion and demoralization of the Soviet proletariat. The bureaucracy, he argues, arose not from some inherent flaw in Bolshevism but from the objective conditions of scarcity, which required a social layer to police the distribution of limited resources. However, this caste has no independent historical mission and must ultimately either be overthrown by a political revolution that restores workers&#39; democracy while preserving nationalized property, or preside over capitalist restoration.</p>\n<p>The book&#39;s analysis of Soviet economic planning, its comparison of Soviet and capitalist growth rates, and its examination of the bureaucracy&#39;s privileges, cultural conservatism, and foreign policy remain essential for understanding the trajectory of twentieth-century socialism. Trotsky&#39;s prediction that the bureaucracy would eventually move toward capitalist restoration has been widely cited since the collapse of the Soviet Union in 1991.</p>\n"
+  },
+  {
+    "slug": "society-of-spectacle",
+    "title": "The Society of the Spectacle",
+    "author": "Guy Debord",
+    "year": 1967,
+    "tradition": "Situationism",
+    "translations": [
+      "Knabb (Bureau of Public Secrets 2014)",
+      "Nicholson-Smith (Zone Books 1994)"
+    ],
+    "tags": [
+      "spectacle",
+      "commodity",
+      "alienation",
+      "consumer capitalism",
+      "media"
+    ],
+    "body": "<p><em>The Society of the Spectacle</em>, composed of 221 numbered theses, argues that in advanced capitalism all of life presents itself as an immense accumulation of spectacles — everything that was directly lived has receded into representation. Debord&#39;s concept of the spectacle is not reducible to mass media or entertainment but describes a social relationship between people mediated by images: the commodity form at the stage of its total colonization of social life, where the image has become the final form of commodity reification.</p>\n<p>Debord draws on Marx&#39;s analysis of commodity fetishism and Lukacs&#39;s theory of reification to argue that the spectacle represents the historical moment when the commodity has attained the total occupation of social life. The spectacle is capital accumulated to the point where it becomes image; it is the autonomous movement of the non-living, a permanent opium war waged to prevent people from recognizing the poverty of their actual existence. Debord distinguishes between the concentrated spectacle of totalitarian societies (a single image imposed by the state) and the diffuse spectacle of advanced capitalist democracies (the proliferation of consumer choice as a substitute for genuine freedom), later adding the concept of the integrated spectacle that combines features of both.</p>\n<p>Written on the eve of May 1968, the book&#39;s influence on the uprising — and the subsequent recuperation of Situationist ideas by the advertising industry and counterculture — demonstrated both the power of Debord&#39;s analysis and the difficulty of escaping the spectacle&#39;s capacity to absorb its own critique. The work has gained renewed relevance in the era of social media, where the production and consumption of images has become the dominant form of social participation.</p>\n"
+  },
+  {
+    "slug": "state-and-revolution",
+    "title": "The State and Revolution",
+    "author": "V.I. Lenin",
+    "year": 1917,
+    "tradition": "Classical Marxism",
+    "translations": [
+      "Various (Progress Publishers)",
+      "Collected Works, Vol. 25"
+    ],
+    "tags": [
+      "state theory",
+      "dictatorship of proletariat",
+      "withering away of state",
+      "revolution",
+      "Paris Commune"
+    ],
+    "body": "<p><em>The State and Revolution</em>, written in hiding in Finland during the summer of 1917 between the February and October revolutions, recovers Marx and Engels&#39;s theory of the state as an instrument of class domination, systematically polemicizing against the social-democratic orthodoxy that sought to use the existing state apparatus for socialist purposes. Lenin argues that the bourgeois state — its army, police, bureaucracy, and judiciary — cannot simply be taken over by the working class but must be smashed and replaced by a new form of political power: the dictatorship of the proletariat, modeled on the Paris Commune of 1871.</p>\n<p>Drawing extensively on Marx&#39;s <em>The Civil War in France</em> and Engels&#39;s <em>Anti-Duhring</em> and <em>The Origin of the Family</em>, Lenin develops a vision of the workers&#39; state as a transitional political form characterized by the direct armed power of the organized working class, the election and recall of all officials, and the gradual elimination of the standing army and professional bureaucracy. This state, unlike all previous states, would begin to wither away as class distinctions dissolve and the administration of things replaces the government of persons.</p>\n<p>The text was left unfinished — Lenin was interrupted by the October Revolution itself — and its relationship to the actual practice of Bolshevik state-building has been debated ever since. Critics from both the left and the right have argued that the vanguard party form Lenin advocated elsewhere contradicts the radically democratic vision outlined in this text. Nevertheless, <em>The State and Revolution</em> remains a central reference point for debates over revolutionary strategy, state power, workers&#39; democracy, and the transition to communism.</p>\n"
+  },
+  {
+    "slug": "sublime-object-ideology",
+    "title": "The Sublime Object of Ideology",
+    "author": "Slavoj Zizek",
+    "year": 1989,
+    "tradition": "Lacanian Marxism",
+    "translations": [
+      "Zizek (Verso 1989)",
+      "Second edition (Verso 2008)"
+    ],
+    "tags": [
+      "ideology",
+      "psychoanalysis",
+      "Lacan",
+      "commodity fetishism",
+      "cynicism"
+    ],
+    "body": "<p><em>The Sublime Object of Ideology</em> is Zizek&#39;s first major work in English and the text that established his distinctive theoretical project: the synthesis of Lacanian psychoanalysis, Hegelian dialectics, and Marxist ideology critique. Published in the year of the Berlin Wall&#39;s fall, the book provides a theory of ideology suited to an era in which cynical distance — the sense that nobody really believes in the official values of the system — has become the dominant mode of ideological subjectivity.</p>\n<p>Zizek&#39;s central argument is that ideology does not function primarily through false consciousness — the classical Marxist model in which people are deceived about the true nature of social relations — but through a structure of fetishistic disavowal. Drawing on Lacan&#39;s concept of <em>jouissance</em> (enjoyment) and Marx&#39;s analysis of commodity fetishism, Zizek argues that the formula of ideology is not &quot;they do not know what they are doing&quot; but rather &quot;they know very well what they are doing, but they are doing it anyway.&quot; Ideology is located not in what people believe but in what they do: in the objective practices, rituals, and institutional structures that reproduce social relations regardless of the subjective beliefs of the individuals who participate in them.</p>\n<p>The book also develops Zizek&#39;s theory of the &quot;sublime object&quot; — the impossible, traumatic kernel around which ideological fantasies are organized — and his reading of Hegel&#39;s dialectic as a process driven by the inherent incompleteness of every symbolic order. <em>The Sublime Object</em> has been widely influential in political theory, cultural studies, and film criticism, and remains the most accessible entry point into Zizek&#39;s expansive philosophical system.</p>\n"
+  },
+  {
+    "slug": "wretched-of-earth",
+    "title": "The Wretched of the Earth",
+    "author": "Frantz Fanon",
+    "year": 1961,
+    "tradition": "Anti-Colonial Marxism",
+    "translations": [
+      "Farrington (Grove Press 1963)",
+      "Philcox (Grove Press 2004)"
+    ],
+    "tags": [
+      "decolonization",
+      "violence",
+      "national consciousness",
+      "lumpenproletariat",
+      "colonial psychology"
+    ],
+    "body": "<p><em>The Wretched of the Earth</em>, written in the final year of Fanon&#39;s life as he was dying of leukemia and dictated in part from his hospital bed, is one of the most influential theoretical works of the twentieth century. Published in 1961 with a preface by Jean-Paul Sartre, the book provides a systematic analysis of colonialism and decolonization that combines Marxist political economy, existential phenomenology, and clinical psychiatry.</p>\n<p>Fanon argues that colonial rule is sustained by comprehensive violence — economic, political, psychological, and spatial — and that it can only be overthrown through the organized counter-violence of the colonized, a process that is simultaneously political liberation and psychological regeneration. The book challenges orthodox Marxist categories by centering the peasantry and lumpenproletariat rather than the industrial working class as the revolutionary agents in the colonial context, arguing that the colonized proletariat and national bourgeoisie are both compromised by their structural positions within the colonial economy.</p>\n<p>The chapters on national consciousness and the pitfalls of the national bourgeoisie provide a prescient analysis of how independence movements can be captured by a parasitic comprador class that reproduces colonial economic relations under a new flag. The final section, drawing on Fanon&#39;s psychiatric practice in Algeria during the war of independence, documents the psychopathology of colonial domination — the mental disorders produced in both colonizer and colonized by the systematic dehumanization of colonial society. <em>The Wretched of the Earth</em> remains essential reading for anti-colonial thought, revolutionary theory, and the analysis of racial capitalism.</p>\n"
+  },
+  {
+    "slug": "what-is-to-be-done",
+    "title": "What Is To Be Done?",
+    "author": "V.I. Lenin",
+    "year": 1902,
+    "tradition": "Classical Marxism",
+    "translations": [
+      "Various (Progress Publishers)",
+      "Collected Works, Vol. 5"
+    ],
+    "tags": [
+      "party organization",
+      "vanguard",
+      "consciousness",
+      "Leninism",
+      "revolution"
+    ],
+    "body": "<p><em>What Is To Be Done?</em> is Lenin&#39;s foundational text on revolutionary party organization, written during the debates that would split Russian social democracy into Bolshevik and Menshevik factions. Lenin argues that the working class, left to its own spontaneous development, can achieve only trade union consciousness — an awareness of the need to struggle against individual employers for better wages and conditions — but not socialist political consciousness, which must be brought to the working class from outside, by a party of professional revolutionaries trained in Marxist theory and organized for disciplined, clandestine political action.</p>\n<p>The text polemicizes against &quot;economism&quot; — the tendency within Russian social democracy to restrict political activity to supporting workers&#39; immediate economic demands — and against all forms of organizational amateurism, tailism, and spontaneism. Lenin argues that without a centralized, disciplined party of the vanguard, the scattered struggles of the working class cannot be unified into a revolutionary political movement capable of overthrowing the autocracy and establishing proletarian power.</p>\n<p><em>What Is To Be Done?</em> has been one of the most consequential and contested texts in the history of socialism. Defenders regard it as the indispensable theoretical foundation for revolutionary organization; critics, from Luxemburg&#39;s <em>Organizational Questions of Russian Social Democracy</em> (1904) to the council communists and libertarian socialists, have argued that Lenin&#39;s model substitutes the party for the class and produces bureaucratic authoritarianism rather than working-class self-emancipation. The debate it inaugurated about the relationship between spontaneity and organization, class and party, consciousness and structure, remains unresolved.</p>\n"
   }
 ]

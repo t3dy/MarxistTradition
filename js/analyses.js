@@ -117,12 +117,15 @@
 
       const isExpanded = expandedSlug === a.slug;
 
+      const plainText = (a.body || '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+
       card.innerHTML = `
         <h3>${a.title || a.slug}</h3>
         <div class="meta">
           ${a.date || ''}
           ${a.region ? `<span class="region-badge">${a.region}</span>` : ''}
         </div>
+        <div class="body-preview">${plainText}</div>
         <div class="tags">${tagsHtml}</div>
         <div class="body-full" ${isExpanded ? 'style="display:block;"' : ''}>
           ${a.body || ''}
