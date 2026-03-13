@@ -83,6 +83,194 @@
     "body": "<p>Abstract labor is labor considered apart from its specific useful character, reduced to the common quality of being an expenditure of human labor-power in general. It is the substance of value and the basis on which qualitatively different commodities become quantitatively commensurable. Marx identifies abstract labor as one of his key critical discoveries, distinguishing it from the concrete, useful labor that produces use-values.</p>\n"
   },
   {
+    "slug": "ai-and-crisis-theory",
+    "term": "AI and Crisis Theory",
+    "related": [
+      "crisis-theory",
+      "overproduction",
+      "tendency-rate-profit-fall",
+      "ai-and-value-theory"
+    ],
+    "tags": [
+      "AI",
+      "crisis",
+      "overproduction",
+      "contradictions"
+    ],
+    "traditions": {
+      "classical": "AI intensifies the contradictions that produce capitalist crisis: by raising productivity while eliminating the living labor that is the source of surplus value, AI drives the tendency of the rate of profit to fall while simultaneously expanding the productive capacity that generates overproduction crises. The contradiction between AI's capacity to produce abundance and capital's need for scarcity may represent the defining crisis tendency of twenty-first-century capitalism.",
+      "value-form": "AI confronts the value form with its most acute contradiction: a technology that can produce unlimited informational goods at near-zero marginal cost within a system that requires scarcity for valorisation. The result is not a smooth transition to post-scarcity but an intensification of the mechanisms through which artificial scarcity is imposed — intellectual property, platform monopoly, subscription models — revealing the value form's increasingly violent enforcement of its own logic against material possibility."
+    },
+    "body": "<p>AI and crisis theory examines how artificial intelligence interacts with the structural tendencies toward crisis that Marx identified as inherent to capitalist accumulation. The most fundamental connection operates through the organic composition of capital: as AI replaces living labor with fixed capital, it raises the organic composition and reinforces the tendency of the rate of profit to fall. Simultaneously, AI-driven automation expands productive capacity while reducing the purchasing power of displaced workers, intensifying the tendency toward overproduction — the contradiction between capitalism&#39;s unlimited drive to expand production and its systematic limitation of effective demand through the suppression of wages.</p>\n<p>The specific form of crisis that AI-driven capitalism tends toward is what might be called the information abundance paradox: AI can produce text, images, music, code, and analysis at near-zero marginal cost, but the capitalist mode of production cannot accommodate abundance without scarcity. The response — intellectual property enforcement, subscription paywalls, platform monopolies, artificial limitation of AI capabilities — represents capital&#39;s attempt to impose the commodity form on goods that no longer possess the natural scarcity that commodity exchange presupposes. The contradiction between the forces of production that AI represents and the relations of production through which capital attempts to contain them expresses, in its most developed form, what Marx identified as the fundamental contradiction of capitalism: the tension between the social character of production and the private form of appropriation.</p>\n"
+  },
+  {
+    "slug": "ai-and-historical-materialism",
+    "term": "AI and Historical Materialism",
+    "related": [
+      "historical-materialism",
+      "forces-of-production",
+      "relations-of-production",
+      "mode-of-production"
+    ],
+    "tags": [
+      "AI",
+      "historical materialism",
+      "technology",
+      "dialectics"
+    ],
+    "traditions": {
+      "classical": "AI poses fundamental questions for historical materialism: does the development of AI-driven productive forces necessarily produce corresponding transformations in the relations of production, or can capital successfully contain AI within existing social relations? The debate between technological determinism and the primacy of class struggle in shaping technological development is sharpened by AI, which appears simultaneously as an unprecedented productive force and as an instrument of unprecedented social control.",
+      "value-form": "AI compels a re-examination of the relationship between forces and relations of production within value-form theory: if the value form constitutes a specific mode of social domination through abstract labor, then AI — which potentially eliminates the need for abstract labor — either points toward the dissolution of the value form or toward its most violent and irrational enforcement against the material possibilities that AI opens up."
+    },
+    "body": "<p>AI and historical materialism addresses the question of how artificial intelligence relates to the fundamental categories of Marxist social theory — forces and relations of production, base and superstructure, determination and contradiction. The most basic question is whether AI represents a development of the productive forces that has outgrown the capitalist relations of production, creating a revolutionary situation in which new social relations must emerge to accommodate the new technology, or whether capital has demonstrated sufficient adaptability to incorporate AI within existing relations of exploitation. The debate over technological determinism — whether technology drives social change or social relations shape technology — takes on renewed urgency when the technology in question can potentially transform every dimension of human productive activity.</p>\n<p>The dialectical analysis of technology that Marx employed — recognising that machinery is simultaneously a productive force and a weapon of class domination — is essential for understanding AI. AI is not neutral; it embodies the social relations under which it was produced, encoding the priorities, biases, and power structures of the society that created it. Yet it also develops capacities that exceed the uses to which capital puts them, generating possibilities for collective coordination, knowledge sharing, and the reduction of necessary labor time that point beyond capitalist social relations. The question of the future of class structure under AI-driven capitalism — whether AI produces a new class division between those who own and control AI systems and those subject to them, or whether it creates the material conditions for the abolition of class distinctions altogether — remains the defining political question of the technological transformation now underway.</p>\n"
+  },
+  {
+    "slug": "ai-and-ideology",
+    "term": "AI and Ideology",
+    "related": [
+      "ideology",
+      "hegemony",
+      "alienation",
+      "ai-and-value-theory"
+    ],
+    "tags": [
+      "AI",
+      "ideology",
+      "hegemony",
+      "superstructure"
+    ],
+    "traditions": {
+      "classical": "AI functions as a new form of ideological state apparatus, automating the reproduction of dominant ideology through algorithmic curation of information, targeted advertising, and content recommendation systems that shape consciousness at a scale and speed no previous ideological apparatus could achieve. AI does not merely reflect existing ideology but actively produces it through the systematic shaping of what populations see, read, and believe.",
+      "value-form": "AI-generated ideology represents a new level of real abstraction: the production of meaning itself is subsumed under the logic of valorisation, with algorithmic systems optimising content not for truth or coherence but for engagement metrics that translate into advertising revenue. The commodity form now mediates not only material production but the production of consciousness."
+    },
+    "body": "<p>The relationship between artificial intelligence and ideology operates on multiple levels. At the most immediate, AI systems — recommendation algorithms, search engines, content moderation tools, targeted advertising — function as what Althusser called ideological state apparatuses, shaping the information environment through which subjects form their understanding of the world. The algorithmic curation of news, social media, and search results produces what could be called automated ideology: the systematic shaping of consciousness not through explicit propaganda but through the structural organisation of attention according to engagement metrics that favour emotional intensity over analytical depth. AI does not need to promote a specific political position to perform an ideological function; it need only optimise for engagement to reproduce the conditions under which critical analysis becomes structurally impossible.</p>\n<p>At a deeper level, AI transforms the relationship between the economic base and the ideological superstructure. When AI systems generate text, images, and analysis, the production of culture and ideas is directly subsumed under the logic of capital accumulation. The commodification of language through large language models — trained on the collective linguistic production of humanity but owned and controlled by a handful of corporations — represents a new form of enclosure in which the commons of human expression is appropriated as proprietary capital. Algorithmic bias, far from being a technical problem amenable to engineering solutions, constitutes the structural reproduction of existing class, racial, and gender hierarchies through automated systems that encode and operationalise the patterns of domination present in their training data.</p>\n"
+  },
+  {
+    "slug": "ai-and-imperialism",
+    "term": "AI and Imperialism",
+    "related": [
+      "imperialism",
+      "imperialism-theory",
+      "uneven-development",
+      "combined-uneven-development"
+    ],
+    "tags": [
+      "AI",
+      "imperialism",
+      "digital colonialism",
+      "geopolitics"
+    ],
+    "traditions": {
+      "classical": "AI reproduces and intensifies the structure of imperialism: core nations that control AI development extract data and cognitive labor from peripheral nations while exporting AI systems that restructure peripheral economies according to metropolitan capital's requirements. 'Digital colonialism' describes how platform monopolies and AI infrastructure reproduce colonial relations of dependency through technological means, while 'AI and global labor arbitrage' describes how automation enables capital to play workers in different regions against each other.",
+      "value-form": "The geopolitics of AI reveals the spatial dimensions of value's abstract domination: the global infrastructure of data extraction, processing, and application imposes a single logic of valorisation across diverse social formations, while the uneven distribution of AI capabilities reproduces the hierarchies of the world market in computational form."
+    },
+    "body": "<p>AI and imperialism describes how artificial intelligence reproduces and intensifies existing structures of global domination. The development and deployment of AI systems is concentrated overwhelmingly in the United States and China, with peripheral nations occupying subordinate positions as sources of training data, cheap computational labor, and markets for AI products developed elsewhere. Nick Couldry and Ulises Mejias&#39;s concept of &#39;digital colonialism&#39; captures how this relationship reproduces the structure of historical colonialism: peripheral regions provide raw materials (data, labor) and receive finished products (AI systems, platforms) under terms set by metropolitan capital. The concept of &#39;AI and global labor arbitrage&#39; describes how AI enables capital to decompose production processes and distribute tasks across global value chains, playing workers in different regions against each other to minimise costs.</p>\n<p>The geopolitical competition between the United States and China over AI supremacy — expressed through semiconductor export controls, data localisation policies, and state investment in AI research — reveals the intersection of inter-imperialist rivalry with technological development that Lenin analysed in a previous era. The related concepts of &#39;techno-nationalism,&#39; &#39;AI and state capitalism,&#39; and &#39;AI and the military-industrial complex&#39; describe how states deploy AI as an instrument of geopolitical power, blurring the line between commercial technology development and military capacity. The uneven development of AI capabilities across the world system does not merely reflect existing inequalities but actively reproduces them, as regions without the infrastructure, investment, and educational systems necessary for AI development become increasingly dependent on technology produced and controlled elsewhere.</p>\n"
+  },
+  {
+    "slug": "ai-and-knowledge-enclosure",
+    "term": "AI and Knowledge Enclosure",
+    "related": [
+      "cognitive-capitalism",
+      "primitive-accumulation",
+      "intellectual-property-regimes"
+    ],
+    "tags": [
+      "AI",
+      "knowledge",
+      "enclosure",
+      "intellectual property"
+    ],
+    "traditions": {
+      "classical": "The enclosure of knowledge through AI reproduces the logic of primitive accumulation in the cognitive domain: collectively produced knowledge — scientific research, cultural works, open-source code, human language itself — is appropriated by capital, transformed into proprietary AI systems, and returned to its producers as a commodity they must pay to access. This 'knowledge enclosure' constitutes a new wave of expropriation comparable to the enclosure of common lands.",
+      "value-form": "AI-driven knowledge enclosure reveals a contradiction specific to the commodity form of information: knowledge is inherently non-rivalrous and reproducible at near-zero marginal cost, yet its valorisation as capital requires the imposition of artificial scarcity through intellectual property, proprietary systems, and technical barriers. The tension between open and proprietary AI models expresses this contradiction in organisational form."
+    },
+    "body": "<p>AI and knowledge enclosure describes the process by which collectively produced human knowledge — scientific publications, cultural works, internet content, natural language itself — is appropriated as training data for proprietary AI systems, effectively privatising the cognitive commons. Large language models trained on the entirety of the publicly accessible internet represent perhaps the largest single act of enclosure in history, transforming the accumulated linguistic production of humanity into corporate assets owned by a handful of technology firms. The parallel with the historical enclosure of common lands is precise: in both cases, collectively produced resources are appropriated as private capital, and those who produced them must subsequently purchase access to what they formerly held in common.</p>\n<p>The struggle between open-source and proprietary AI models expresses this contradiction in practical terms. Open models — released with permissive licenses and accessible weights — represent an attempt to maintain AI as a knowledge commons, while proprietary models enclose the same capabilities behind subscription fees and API access. The related concepts of &#39;AI and intellectual property regimes,&#39; &#39;the privatisation of cognition,&#39; and &#39;knowledge monopolies&#39; describe different aspects of the same process: the systematic transformation of collective human cognitive capacity into privately owned capital. The politics of technological design — who builds AI systems, for what purposes, and under what governance — determines whether AI extends the commons of human knowledge or completes its enclosure as corporate property.</p>\n"
+  },
+  {
+    "slug": "ai-and-social-reproduction",
+    "term": "AI and Social Reproduction",
+    "related": [
+      "social-reproduction",
+      "labor-power",
+      "ai-and-ideology",
+      "ai-and-value-theory"
+    ],
+    "tags": [
+      "AI",
+      "social reproduction",
+      "labor power",
+      "care work"
+    ],
+    "traditions": {
+      "classical": "AI transforms the reproduction of labor power — the daily and generational processes through which workers are maintained and new workers are produced — by automating elements of education, healthcare, and domestic labor while simultaneously intensifying the demands on care workers through algorithmic management. The question of whether AI reduces the value of labor power (by cheapening its reproduction) or degrades it (by substituting algorithmic approximations for genuine care) is central to understanding AI's impact on the working class.",
+      "value-form": "AI's penetration of social reproduction represents the extension of value's abstract domination into the last domains of human activity that retained elements of concrete, qualitative, use-value-oriented practice. When care, education, and emotional support are mediated by algorithmic systems optimised for efficiency metrics, the logic of abstract labor colonises the reproduction of life itself."
+    },
+    "body": "<p>AI and social reproduction examines how artificial intelligence transforms the processes through which labor power is produced, maintained, and reproduced — education, healthcare, domestic labor, childcare, and the broader infrastructure of care that sustains the working population. Feminist Marxists have long argued that capitalism depends on a vast domain of unwaged reproductive labor — predominantly performed by women — that produces the labor power capital exploits. AI intervenes in this domain through automated education platforms, diagnostic algorithms, elder-care robots, and domestic AI assistants, raising the question of whether these technologies liberate reproductive labor or further devalue it.</p>\n<p>The deployment of AI in education automates the reproduction of ideologically compliant labor power, while AI in healthcare optimises the maintenance of workers according to productivity metrics rather than human need. More fundamentally, AI transforms the reproduction of ideology — the process through which subjects are formed who accept existing social relations as natural and inevitable. When algorithmic systems mediate the information environment through which people understand the world, the reproduction of ideological consent is automated and intensified beyond anything the traditional ideological apparatuses of school, church, and media could achieve. The struggle over AI in social reproduction is ultimately a struggle over the conditions under which human beings are produced — whether they are formed as autonomous subjects capable of critical thought and collective action, or as optimised inputs for a production process that extends from the factory to the totality of social life.</p>\n"
+  },
+  {
+    "slug": "ai-and-value-theory",
+    "term": "AI and Value Theory",
+    "related": [
+      "surplus-value",
+      "tendency-rate-profit-fall",
+      "organic-composition-capital",
+      "constant-variable-capital"
+    ],
+    "tags": [
+      "AI",
+      "value theory",
+      "political economy",
+      "automation"
+    ],
+    "traditions": {
+      "classical": "AI intensifies the fundamental contradiction Marx identified between the development of productive forces and the value form: as AI replaces living labor in production, it undermines the source of surplus value while simultaneously raising the organic composition of capital, reinforcing the tendency of the rate of profit to fall. AI is capital's most ambitious attempt to produce without labor — and therefore its most acute contradiction.",
+      "value-form": "AI reveals the historical limits of the value form with unprecedented clarity: a system that measures wealth by labor time confronts a technology whose purpose is the elimination of labor. The result is not the liberation that rising productivity should produce but an intensification of crisis, as capital must simultaneously eliminate labor and depend on it as the sole source of value."
+    },
+    "body": "<p>The relationship between artificial intelligence and Marx&#39;s value theory constitutes one of the most contested questions in contemporary Marxist political economy. The central problem is straightforward: if surplus value derives from the exploitation of living labor, and if AI progressively replaces living labor in production, then AI threatens the very foundation of capitalist value production. AI functions as what Marx called fixed capital or constant capital — dead labor that transfers its value to commodities but cannot create new value. As AI raises the organic composition of capital (the ratio of constant to variable capital), it reinforces the tendency of the rate of profit to fall, a tendency that Marx identified as the most fundamental law of capitalist accumulation.</p>\n<p>The question of whether AI-driven automation produces relative surplus value — by cheapening the commodities that workers consume, thereby reducing necessary labor time and increasing the surplus — or whether it ultimately undermines surplus value production altogether by eliminating the living labor from which surplus value derives, is not merely theoretical. It bears directly on whether capitalism can sustain itself through a new phase of AI-driven accumulation or whether AI represents a productive force that has outgrown the capitalist relations of production. The tension between AI&#39;s capacity to generate material abundance and capital&#39;s need to maintain artificial scarcity through market mechanisms, intellectual property, and the wage relation expresses what may be the defining contradiction of twenty-first-century capitalism.</p>\n"
+  },
+  {
+    "slug": "ai-and-worker-resistance",
+    "term": "AI and Worker Resistance",
+    "related": [
+      "working-class-movement",
+      "class-struggle",
+      "digital-labor",
+      "platform-capitalism"
+    ],
+    "tags": [
+      "AI",
+      "resistance",
+      "unions",
+      "cooperativism"
+    ],
+    "traditions": {
+      "classical": "Worker resistance to AI-driven automation represents the contemporary form of the class struggle that Marx placed at the centre of historical development. From the Luddites' destruction of machinery to the 2023 Hollywood writers' strike, workers have recognised that the question of technology is always a question of power: not whether machines are used, but who controls them and in whose interest. Digital unionism and platform cooperativism represent attempts to develop organisational forms adequate to the new conditions of digital exploitation.",
+      "value-form": "The struggle over AI is ultimately a struggle over the value form itself: whether the reduction of necessary labor time through automation will be captured as increased surplus value for capital or as increased free time for workers. This is not a technical question but a political one, and its resolution depends on the organisational capacity of workers to impose their interests against those of capital."
+    },
+    "body": "<p>AI and worker resistance describes the diverse forms of collective action through which workers contest the deployment of AI systems in the labor process and beyond. The 2023 Hollywood writers&#39; and actors&#39; strikes, which centrally addressed the use of AI to replace creative labor, demonstrated that automation remains what it has been since the Luddites: a terrain of class struggle in which the question is not whether technology should be used but who controls it, who benefits from it, and who bears its costs. &#39;Digital unionism&#39; describes the emerging organisational forms through which gig workers, content moderators, and other digital laborers attempt to build collective power against platform employers, from the Deliveroo riders&#39; wildcat strikes to Amazon warehouse unionisation campaigns.</p>\n<p>&#39;Platform cooperativism,&#39; as theorised by Trebor Scholz, proposes an alternative to both capitalist platforms and traditional unionism: worker- and user-owned platforms that apply the cooperative model to digital infrastructure. The concept of &#39;post-work theory,&#39; developed by Nick Srnicek, Alex Williams, and others, pushes further by arguing that the left should demand not better conditions within existing employment structures but the reduction of work itself, through full automation, universal basic income, and the radical shortening of the working week. This demand — that the reduction of necessary labor time through AI should translate into free time for workers rather than unemployment and intensified exploitation — represents the political horizon of the struggle over automation, connecting the immediate resistance of platform workers to the broader question of whether technological development can be directed toward human liberation rather than the reproduction of capital.</p>\n"
+  },
+  {
+    "slug": "algorithmic-management",
+    "term": "Algorithmic Management",
+    "related": [
+      "labour-process-control",
+      "machinery",
+      "subsumption",
+      "surveillance-capitalism"
+    ],
+    "tags": [
+      "labor process",
+      "technology",
+      "management",
+      "control"
+    ],
+    "traditions": {
+      "classical": "Algorithmic management represents the latest stage in the real subsumption of labor under capital, extending the logic of Taylorist scientific management through digital means. Where Taylor decomposed craft knowledge into managerial instructions, the algorithm decomposes decision-making itself into computational processes, completing the transfer of control from worker to capital that Marx identified as the essence of the capitalist labor process.",
+      "value-form": "Algorithmic governance embodies the real abstraction of value in organizational form: decisions that once required the qualitative judgment of human managers are reduced to quantitative optimization functions, imposing the logic of abstract labor — measurable, comparable, interchangeable — on domains of activity that previously retained elements of concrete particularity."
+    },
+    "body": "<p>Algorithmic management describes the use of automated systems to direct, evaluate, and discipline labor, extending the trajectory from Taylorist scientific management through Fordist assembly lines to digital control systems that operate in real time through software. In warehouses, gig platforms, and call centres, algorithms assign tasks, set pace, monitor performance, and terminate workers without human managerial intervention. This represents what Harry Braverman analysed as the progressive separation of conception from execution in the labor process — the transfer of knowledge and decision-making from workers to management — now mediated by computational systems that can process information and impose discipline at speeds and scales no human manager could achieve.</p>\n<p>The related concepts of &#39;digital Taylorism&#39; and &#39;cybernetic management&#39; capture different dimensions of this transformation. Digital Taylorism describes the decomposition of cognitive and service work into standardised, measurable micro-tasks that can be monitored and optimised through software — extending to white-collar work the same logic of deskilling that Taylorism applied to manual labor. Cybernetic management describes the feedback loops through which algorithmic systems continuously adjust labour processes in response to real-time data, producing a form of control that is simultaneously more pervasive and less visible than the direct supervision of the human manager. Algorithmic governance extends this logic beyond the workplace to encompass social administration, criminal justice, welfare distribution, and urban planning, raising the question of whether automated decision-making represents a qualitative transformation in how capitalist societies are governed.</p>\n"
+  },
+  {
     "slug": "alienation",
     "term": "Alienation",
     "german": "Entfremdung",
@@ -438,6 +626,27 @@
       "exploitation"
     ],
     "body": "<p>Class struggle is the antagonistic conflict between social classes arising from their opposed positions within the relations of production. Marx and Engels famously declared that the history of all hitherto existing society is the history of class struggles, positioning it as the primary motor of historical change and the mechanism through which one mode of production gives way to another. In capitalist society, the fundamental class struggle takes place between the bourgeoisie, who own the means of production, and the proletariat, who must sell their labor-power to survive. This struggle manifests in direct economic conflict over wages, working conditions, and the length of the working day, but also in political struggles over state power and in ideological struggles over the legitimacy of existing social arrangements. Marx argued that the intensification of class contradictions under capitalism would ultimately produce the conditions for proletarian revolution, though the forms, timing, and outcomes of class struggle are shaped by historically specific conjunctures that no general theory can predict in advance.</p>\n"
+  },
+  {
+    "slug": "cognitive-capitalism",
+    "term": "Cognitive Capitalism",
+    "related": [
+      "general-intellect",
+      "labor-power",
+      "forces-of-production",
+      "technology-capitalism"
+    ],
+    "tags": [
+      "digital capitalism",
+      "knowledge",
+      "general intellect",
+      "autonomism"
+    ],
+    "traditions": {
+      "classical": "Cognitive capitalism describes a phase in which knowledge, information, and cognitive capacities become the primary productive forces, potentially realising Marx's anticipation in the Grundrisse that the development of the general intellect would render direct labor time an inadequate measure of wealth — a contradiction that points toward the historical limits of capitalist value production.",
+      "value-form": "Cognitive capitalism intensifies the contradiction at the heart of the value form: as knowledge becomes the primary productive force, the labour time that constitutes value becomes an increasingly irrational basis for social wealth, yet capital cannot abandon it without abolishing itself. The result is an ever more violent enforcement of value's abstract domination against the material possibilities that cognitive production opens up."
+    },
+    "body": "<p>Cognitive capitalism is a concept developed primarily by Italian and French autonomist theorists — including Carlo Vercellone, Yann Moulier Boutang, and Andrea Fumagalli — to describe a historical phase of capitalism in which the primary source of value creation shifts from physical labor to cognitive, creative, and communicative activity. The concept draws on Marx&#39;s fragment on machines in the Grundrisse, where he anticipated that the development of the &#39;general intellect&#39; — the accumulated knowledge of society embedded in technology and social organisation — would make direct labor time an increasingly inadequate measure and source of wealth. Cognitive capitalism theorists argue that this transition is now underway, but that capital responds to it not by liberating cognitive activity but by enclosing it through intellectual property regimes, platform monopolies, and the privatisation of knowledge.</p>\n<p>The related concept of &#39;informational capitalism&#39; describes the broader transformation in which information becomes both a key productive input and a primary commodity. The &#39;knowledge commons&#39; — the collectively produced stock of scientific knowledge, cultural works, open-source software, and shared information — represents what autonomists identify as the material basis for a post-capitalist mode of production, already existing within and against capitalist enclosure. The tension between the inherently social and shareable character of knowledge and capital&#39;s need to impose artificial scarcity through intellectual property constitutes, in this analysis, one of the fundamental contradictions of contemporary capitalism.</p>\n"
   },
   {
     "slug": "colonial-capitalism",
@@ -950,6 +1159,27 @@
       "communism"
     ],
     "body": "<p>The dictatorship of the proletariat designates the transitional political form between capitalist and communist society, in which the working class holds state power and uses it to suppress the resistance of the dispossessed bourgeoisie, reorganize production on a socialist basis, and begin the dissolution of class distinctions. Marx drew the concept from the experience of the Paris Commune of 1871, which he interpreted as a working model of proletarian political power characterized by the election and recall of all officials, the abolition of the standing army in favor of the armed people, and the fusion of legislative and executive functions. Lenin developed the concept extensively in <em>The State and Revolution</em>, arguing that the bourgeois state must be smashed rather than reformed and replaced by a commune-type state that would progressively wither away as class antagonisms dissolved. The term has been the subject of intense debate, with critics arguing that &quot;dictatorship&quot; inevitably produces authoritarian rule, while defenders maintain that Marx used the term in its Roman sense to denote emergency class rule, not personal tyranny.</p>\n"
+  },
+  {
+    "slug": "digital-labor",
+    "term": "Digital Labor",
+    "related": [
+      "labor-power",
+      "surplus-value",
+      "alienation",
+      "subsumption"
+    ],
+    "tags": [
+      "digital capitalism",
+      "labor",
+      "technology",
+      "platforms"
+    ],
+    "traditions": {
+      "classical": "Digital labor extends Marx's analysis of exploitation to the production of data and content, revealing that what appears as free participation — posting, clicking, browsing — constitutes unwaged labor that produces surplus value for platform capital. The digital proletariat includes both waged click-workers and unwaged users whose activity is the raw material of data extraction.",
+      "value-form": "Digital labor poses a challenge to value-form analysis: if value is constituted by abstract labor measured in socially necessary labor time, then the diffuse, informal, and often unwaged character of digital activity disrupts the categories through which value is traditionally theorised, suggesting either a crisis of the value form or its extension into new domains of abstraction."
+    },
+    "body": "<p>Digital labor encompasses the diverse forms of productive activity that generate value within the digital economy, from the waged work of content moderators, data labellers, and gig workers to the unwaged activity of social media users whose clicks, posts, and browsing patterns produce the data commodities that platform corporations sell to advertisers. Tiziana Terranova&#39;s concept of &#39;free labor&#39; — simultaneously freely given and unpaid — captured the foundational insight that the internet economy depends structurally on extracting value from activity that falls outside the wage relation. The category also includes what autonomist theorists call &#39;immaterial labor&#39; (the production of information, communication, and affect) and &#39;affective labor&#39; (the production of emotional states and social bonds), both of which have become increasingly central to capitalist valorisation.</p>\n<p>The concept of the &#39;digital proletariat&#39; extends class analysis to encompass the full chain of exploitation that sustains the digital economy — from coltan miners and hardware assemblers in the Global South to the click-workers, content moderators, and gig workers who perform the labour that AI systems and platforms require. Christian Fuchs and others have argued that social media users perform productive labor analogous to the audience labor that Dallas Smythe identified in broadcast media, generating the attention-commodity that platforms sell. The debate over whether unwaged digital activity constitutes labor in the Marxist sense — producing surplus value through exploitation — or represents a new form of rent extraction remains one of the central theoretical questions in the Marxist analysis of digital capitalism.</p>\n"
   },
   {
     "slug": "division-of-labour",
@@ -2335,6 +2565,27 @@
     "body": "<p>Philosophical critique in the Marxist tradition refers to Marx&#39;s transformation of philosophy from speculative system-building into a critical method for analysing and transforming social reality. Marx&#39;s early critiques of Hegel and the Young Hegelians established that philosophy must be realised through practical transformation rather than remaining in the realm of ideas.</p>\n<p>The critique of the metaphysics of political economy — exposing how bourgeois economists treat historically specific capitalist categories as natural and eternal — became central to <em>Capital</em>. Marx showed that categories like value, money, and capital are not transhistorical facts but historically specific social forms. The historical school of law similarly naturalised bourgeois legal categories. This philosophical critique extends through the Frankfurt School&#39;s critique of instrumental reason, Lukács&#39;s analysis of reification, and contemporary debates about whether Marx&#39;s critique is primarily epistemological, ontological, or practical.</p>\n"
   },
   {
+    "slug": "platform-capitalism",
+    "term": "Platform Capitalism",
+    "related": [
+      "monopoly",
+      "digital-labor",
+      "surplus-value",
+      "technology-capitalism"
+    ],
+    "tags": [
+      "digital capitalism",
+      "platforms",
+      "monopoly",
+      "rent"
+    ],
+    "traditions": {
+      "classical": "Platform capitalism represents a new stage of monopoly capital in which digital platforms extract rent from their control of the infrastructure through which economic activity is coordinated. Platform monopolies reproduce the tendency toward concentration and centralisation of capital that Marx identified, now operating through network effects and data accumulation rather than industrial scale.",
+      "value-form": "The platform raises fundamental questions for value theory: does platform revenue represent surplus value extracted through exploitation of labor, or rent extracted through monopoly control of infrastructure? The answer determines whether platforms represent a new form of capitalist production or a parasitic layer that appropriates value produced elsewhere."
+    },
+    "body": "<p>Platform capitalism, as theorised by Nick Srnicek, describes the business model in which digital platforms position themselves as indispensable intermediaries — between workers and employers (Uber), consumers and producers (Amazon), users and advertisers (Google, Meta) — extracting fees, data, and rent from every transaction they mediate. The platform model represents a response to the profitability crisis of the post-2008 period: when traditional investment opportunities offer declining returns, capital flows toward platforms that can establish monopoly positions over digital infrastructure and extract rent from their control of the channels through which economic activity flows. The tendency toward monopoly is structural rather than incidental, as network effects, data advantages, and the costs of switching produce winner-take-all dynamics.</p>\n<p>The concept of &#39;techno-feudalism,&#39; advanced by Yanis Varoufakis and others, pushes this analysis further by arguing that platform monopolies have transcended capitalism itself, replacing profit with &#39;cloud rent&#39; as the dominant mode of surplus extraction. Whether or not one accepts this provocative framing, it identifies a genuine transformation: the major platforms increasingly function not as firms competing in markets but as infrastructure owners extracting tolls from economic activity that must pass through their systems. The related concepts of &#39;digital rent,&#39; &#39;cloud capital,&#39; and &#39;infrastructure capitalism&#39; all attempt to theorise how the ownership of computational infrastructure — data centres, cloud services, fibre-optic networks — constitutes a new form of monopoly power that differs in important ways from the industrial monopolies Marx and Lenin analysed.</p>\n"
+  },
+  {
     "slug": "polish-uprising-of-1830",
     "term": "Polish Uprising of 1830",
     "related": [
@@ -3153,6 +3404,27 @@
     "body": "<p>Surplus-value is the value produced by the worker in excess of the value of their labor-power, appropriated without equivalent by the capitalist. It arises because the use-value of labor-power — its capacity to create value through living labor — exceeds its own exchange-value as determined by the socially necessary labor time required for the worker&#39;s reproduction. If the worker reproduces the value of their wages in six hours but labors for ten, the additional four hours constitute surplus labor, whose product — surplus-value — is the source of the capitalist&#39;s profit. Surplus-value is the specific form that exploitation takes under capitalism, distinguishing it from the forms of surplus extraction characteristic of slave and feudal societies. Marx identifies two methods of increasing surplus-value: absolute surplus-value, produced by extending the working day, and relative surplus-value, produced by reducing necessary labor time through increases in productivity. The theory of surplus-value is the cornerstone of Marx&#39;s critique of political economy, demonstrating that profit does not arise from exchange, entrepreneurial ingenuity, or the productivity of capital, but from the systematic appropriation of unpaid labor.</p>\n"
   },
   {
+    "slug": "surveillance-capitalism",
+    "term": "Surveillance Capitalism",
+    "related": [
+      "alienation",
+      "ideology",
+      "platform-capitalism",
+      "technology-capitalism"
+    ],
+    "tags": [
+      "surveillance",
+      "data",
+      "extraction",
+      "digital capitalism"
+    ],
+    "traditions": {
+      "classical": "Surveillance capitalism extends the logic of primitive accumulation to the digital domain: just as early capitalism enclosed common lands, data capitalism encloses the commons of human experience, extracting behavioral data as raw material for prediction products. This 'data colonialism' reproduces the structure of colonial expropriation through digital means, appropriating human life as a free resource for capital accumulation.",
+      "value-form": "Surveillance capitalism reveals a new dimension of real abstraction: human behavior is abstracted into data, which is further abstracted into prediction products and traded on behavioral futures markets. The data commodity is a peculiar form in which the gap between the concrete experience from which it is extracted and the abstract form in which it circulates is wider than in any previous commodity."
+    },
+    "body": "<p>Surveillance capitalism, a concept developed by Shoshana Zuboff, describes a new logic of accumulation in which human experience is claimed as free raw material for the extraction of behavioral data, which is then processed into prediction products and sold on behavioral futures markets. While Zuboff&#39;s analysis focuses on the novelty of this extractive logic, Marxist theorists have situated it within longer histories of capitalist expropriation. Nick Couldry and Ulises Mejias&#39;s concept of &#39;data colonialism&#39; argues that the appropriation of human life through data extraction reproduces the structure of historical colonialism, turning human relations into raw material for a new phase of capital accumulation. The related concept of &#39;data enclosure&#39; draws an explicit parallel with the enclosure of common lands, framing the privatisation of behavioral data as a digital equivalent of primitive accumulation.</p>\n<p>The infrastructure of surveillance capitalism — algorithmic management systems, smart city technologies, biometric tracking, predictive analytics — extends the monitoring and control of labour that Marx described in the factory system to encompass the entirety of social life. Data extraction operates not only in the workplace but through every digital interaction, turning consumption, communication, movement, and even emotion into inputs for the valorisation process. The result is a form of capital accumulation that does not merely exploit labor in the point of production but colonises the full range of human experience as a resource for extraction, blurring the boundary between production and reproduction that earlier phases of capitalism maintained.</p>\n"
+  },
+  {
     "slug": "taylorism-critique",
     "term": "Taylorism Critique",
     "related": [
@@ -3169,6 +3441,48 @@
       "value-form": "Value-form theorists analyze Taylorism as a concrete mechanism through which abstract labor is imposed on the production process, demonstrating how the measurement and standardization of labor time serves the real abstraction that constitutes value."
     },
     "body": "<p>The Marxist critique of Taylorism, or scientific management, analyzes Frederick Taylor&#39;s methods of labor discipline as a systematic strategy for extracting maximum surplus value by separating the conception and execution of work. Harry Braverman&#39;s <em>Labor and Monopoly Capital</em> provided the most influential Marxist account, arguing that Taylorism degrades labor by monopolizing knowledge in management, reducing workers to executors of pre-planned tasks, and destroying craft autonomy. This deskilling thesis connects to Marx&#39;s analysis of the real subsumption of labor under capital, in which the labor process is progressively reorganized to serve the imperatives of valorization. Debates concern whether Taylorism was actually implemented as comprehensively as Braverman suggested, whether workers exercised more resistance and retained more skill than the deskilling thesis allows, and how post-Fordist and lean production methods continue or modify Taylorist principles.</p>\n"
+  },
+  {
+    "slug": "technological-alienation",
+    "term": "Technological Alienation",
+    "related": [
+      "alienation",
+      "reification",
+      "ai-and-value-theory",
+      "technology-capitalism"
+    ],
+    "tags": [
+      "alienation",
+      "technology",
+      "AI",
+      "cognition"
+    ],
+    "traditions": {
+      "classical": "Technological alienation extends Marx's four dimensions of alienation to the digital domain: workers are alienated from the data they produce, from the AI systems that direct their activity, from the cognitive capacities that automation appropriates, and from each other through the platform-mediated atomisation of labor. AI represents capital's most complete appropriation of human cognitive powers as an alien force that confronts and dominates those who produced it.",
+      "value-form": "The commodification of knowledge through AI systems represents a new form of real abstraction: cognitive capacities developed through collective human practice are abstracted, encoded as proprietary algorithms, and transformed into capital that confronts its producers as an independent power. The alienation is not merely subjective but is inscribed in the commodity form of knowledge itself."
+    },
+    "body": "<p>Technological alienation describes the specific forms of estrangement that emerge when digital technologies and AI systems mediate the relationship between workers and their activity, products, and fellow workers. Marx&#39;s original analysis of alienation identified how capitalist production transforms workers&#39; own activity and products into alien powers that dominate them; AI intensifies this dynamic by appropriating not merely physical labor but cognitive capacities — language, pattern recognition, decision-making, creativity — and returning them to workers as automated systems that direct, evaluate, and replace them. The knowledge that AI systems encode was produced collectively by human labor, but once captured as proprietary algorithms, it confronts its producers as capital&#39;s property.</p>\n<p>The related concepts of &#39;cognitive alienation&#39; and &#39;alienation from knowledge production&#39; describe how AI transforms the relationship between workers and their own cognitive capacities. When AI systems can write, analyse, design, and create, workers experience their own intellectual capabilities as redundant — not because these capacities have diminished but because capital has developed the means to appropriate them in automated form. The commodification of knowledge through AI represents what Marx might have recognised as the real subsumption of intellectual labor: where formal subsumption merely brings existing cognitive work under capitalist control, real subsumption transforms the nature of cognitive work itself, restructuring it according to the requirements of algorithmic processing and data extraction.</p>\n"
+  },
+  {
+    "slug": "technological-unemployment",
+    "term": "Technological Unemployment",
+    "related": [
+      "reserve-army-labor",
+      "machinery",
+      "ai-and-value-theory",
+      "automation"
+    ],
+    "tags": [
+      "unemployment",
+      "automation",
+      "labor",
+      "AI"
+    ],
+    "traditions": {
+      "classical": "Marx's concept of the industrial reserve army — workers made redundant by machinery who serve to discipline the employed through the threat of replacement — finds its most dramatic contemporary expression in AI-driven automation. Technological unemployment is not a malfunction of capitalism but a structural feature: the same competitive pressure that drives innovation also produces the surplus population whose immiseration enables continued exploitation.",
+      "value-form": "Technological unemployment reveals the irrationality of the value form: a mode of production that measures social participation through wage labor confronts a technology that progressively eliminates the need for that labor. The crisis is not technical but social — the inability of a system based on labor exploitation to distribute the wealth that automated production makes possible."
+    },
+    "body": "<p>Technological unemployment describes the displacement of workers by automated systems, a process Marx analysed extensively in Capital&#39;s chapters on machinery and modern industry. Marx demonstrated that the introduction of machinery under capitalism serves not to lighten labor but to cheapen it, replacing skilled workers with machines and creating what he called the &#39;industrial reserve army&#39; — a surplus population of unemployed workers whose existence disciplines the employed through the constant threat of replacement. AI-driven automation extends this logic to cognitive, creative, and communicative tasks previously considered immune to mechanisation, raising the prospect of displacement across professional and service sectors as well as manufacturing.</p>\n<p>The related concepts of &#39;deskilling&#39; and &#39;reskilling&#39; describe the transformation of the labor process that accompanies automation. Harry Braverman&#39;s analysis of deskilling — the systematic degradation of craft knowledge as tasks are broken down and transferred to machines — applies directly to AI systems that decompose cognitive work into trainable subtasks. The counter-narrative of &#39;reskilling&#39; claims that automation creates new, higher-skilled jobs to replace those it destroys, but the historical evidence suggests that new employment is typically more precarious, lower-paid, and less autonomous than the work it replaces. The concept of &#39;class recomposition&#39; describes how automation restructures the working class itself, creating new divisions between those who build and control AI systems and those displaced or degraded by them.</p>\n"
   },
   {
     "slug": "technology-capitalism",

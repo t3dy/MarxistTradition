@@ -53,6 +53,25 @@
     "body": "<p>Alain Badiou is a French philosopher whose work represents one of the most ambitious attempts to reconstruct the philosophical foundations of communist politics after the collapse of the Marxist-Leninist party-state model. His philosophical system, developed across <em>Being and Event</em> (1988) and <em>Logics of Worlds</em> (2006), grounds ontology in mathematical set theory and argues that genuine change — what Badiou calls an &quot;event&quot; — is a rupture in the established order of being that cannot be predicted, deduced, or explained by the situation in which it occurs. Truth is the process of remaining faithful to such an event, working out its consequences against the resistance of the existing order.</p>\n<p>Badiou identifies four domains of truth — science, art, love, and politics — and insists that emancipatory politics operates through a logic irreducible to the other three. His political thought, shaped by French Maoism and the experience of May 1968, rejects the parliamentary road, the party-state model, and the identification of politics with the management of existing social arrangements. <em>The Communist Hypothesis</em> (2009) argues that communism should be understood not as a historical program tied to a specific organizational form but as an eternal idea — the hypothesis that collective egalitarian organization is possible — whose historical forms (the revolutionary movement, the party, the state) are experiments to be evaluated and renewed rather than abandoned.</p>\n<p>Badiou&#39;s work has been influential in continental philosophy and political theory, though critics argue that his mathematical ontology is disconnected from the material analysis of capitalism and class struggle that defines the Marxist tradition.</p>\n"
   },
   {
+    "slug": "alex-williams",
+    "name": "Alex Williams",
+    "born": 1985,
+    "died": null,
+    "nationality": "British",
+    "tradition": "Post-capitalism",
+    "key_works": [
+      "Inventing the Future",
+      "#Accelerate: Manifesto for an Accelerationist Politics"
+    ],
+    "tags": [
+      "accelerationism",
+      "post-work",
+      "technology",
+      "left strategy"
+    ],
+    "body": "<p>Alex Williams is a British political theorist who, alongside Nick Srnicek, developed the intellectual framework of left accelerationism. Their #Accelerate Manifesto argued against the folk-political tendency of the contemporary left to privilege local, small-scale, and defensive actions, calling instead for a politics capable of operating at the scale of planetary capitalism. Inventing the Future extended this argument into a programmatic vision centred on automation, universal basic income, and the abolition of work as the basis for a post-capitalist society. Williams&#39;s work represents an attempt to reclaim the question of technological progress for the left against both neoliberal techno-utopianism and leftist technophobia.</p>\n"
+  },
+  {
     "slug": "alphonse-de-lamartine",
     "name": "Alphonse de Lamartine",
     "born": 1790,
@@ -238,6 +257,25 @@
     "body": "<p>Arnold Ruge was a German political writer and philosopher who was a leading figure of the Young Hegelian movement and an early collaborator of Karl Marx. He edited the influential <em>Hallische Jahrbucher</em> (later <em>Deutsche Jahrbucher</em>), which served as the principal organ of Left Hegelian criticism of Prussian absolutism and religious orthodoxy. In 1844, he and Marx co-edited the <em>Deutsch-Franzosische Jahrbucher</em> in Paris, though they soon parted ways politically.</p>\n<p>Ruge represented the democratic-republican wing of the Young Hegelians who sought to realize Hegel&#39;s philosophy through political reform and the extension of civil liberties. Marx&#39;s break with Ruge marked a decisive turning point in his intellectual development: while Ruge remained committed to political emancipation within a liberal framework, Marx argued that genuine human emancipation required the overthrow of the social relations that underlie political oppression. Ruge&#39;s significance in the Marxist tradition lies primarily in his role as an interlocutor whose limitations helped Marx clarify the distinction between bourgeois democracy and proletarian revolution.</p>\n"
   },
   {
+    "slug": "benjamin-bratton",
+    "name": "Benjamin Bratton",
+    "born": 1968,
+    "died": null,
+    "nationality": "American",
+    "tradition": "Design theory",
+    "key_works": [
+      "The Stack",
+      "The Revenge of the Real"
+    ],
+    "tags": [
+      "planetary computation",
+      "infrastructure",
+      "sovereignty",
+      "technology"
+    ],
+    "body": "<p>Benjamin Bratton is an American theorist whose The Stack proposed a comprehensive model of planetary-scale computation as a new form of political geography. The work argues that overlapping layers of digital infrastructure — from undersea cables to cloud platforms to user interfaces — constitute an accidental megastructure that is reshaping sovereignty, territory, and political subjectivity in ways that exceed the frameworks of both liberal political theory and classical Marxism. While not a Marxist in any orthodox sense, Bratton&#39;s analysis of how computational infrastructure reorganises the material conditions of production, governance, and social life provides essential raw material for any Marxist theory of digital capitalism.</p>\n"
+  },
+  {
     "slug": "bertell-ollman",
     "name": "Bertell Ollman",
     "born": 1935,
@@ -308,6 +346,26 @@
       "new man"
     ],
     "body": "<p>Ernesto &quot;Che&quot; Guevara was an Argentine-born revolutionary who played a central role in the Cuban Revolution and became one of the most iconic figures of twentieth-century Marxism. Trained as a physician, his travels across Latin America exposed him to the continent&#39;s deep inequalities and radicalized his politics. He served as a key military commander during the guerrilla campaign that overthrew the Batista regime in 1959 and subsequently held important positions in the Cuban government.</p>\n<p>Guevara&#39;s theoretical contributions include his doctrine of guerrilla warfare as a strategy for revolution in the Third World, arguing that a small revolutionary foco could catalyze popular insurrection without waiting for objective conditions to ripen. In <em>Man and Socialism in Cuba</em>, he articulated a vision of the &quot;new man&quot; formed through revolutionary struggle, emphasizing moral incentives over material ones in the transition to socialism. His insistence on internationalism and his death fighting in Bolivia in 1967 cemented his status as a symbol of revolutionary commitment, though his foco theory has been widely debated within the Marxist tradition.</p>\n"
+  },
+  {
+    "slug": "christian-fuchs",
+    "name": "Christian Fuchs",
+    "born": 1976,
+    "died": null,
+    "nationality": "Austrian",
+    "tradition": "Critical Theory",
+    "key_works": [
+      "Digital Labour and Karl Marx",
+      "Social Media: A Critical Introduction",
+      "Communication and Capitalism"
+    ],
+    "tags": [
+      "digital labor",
+      "social media",
+      "communication",
+      "political economy"
+    ],
+    "body": "<p>Christian Fuchs is an Austrian critical theorist whose work applies Marxian political economy to the analysis of digital media and communication. His Digital Labour and Karl Marx systematically extended Marx&#39;s labour theory of value to the digital economy, arguing that social media users perform unpaid labour that generates surplus value for platform corporations. Fuchs draws on the Frankfurt School tradition alongside Marx to analyse how digital capitalism transforms the production, circulation, and consumption of information into sites of exploitation, demonstrating that the apparently free and participatory character of social media conceals the extraction of value from user activity.</p>\n"
   },
   {
     "slug": "christopher-hill",
@@ -586,6 +644,25 @@
     "body": "<p>Etienne Cabet was a French political theorist and utopian socialist who advocated for a peaceful transition to communism through the establishment of model communities. Originally a liberal republican, he radicalized during exile in England where he encountered Owen&#39;s ideas. His novel <em>Voyage to Icaria</em> (1840) described an ideal communist society governed by democratic principles, with common ownership of property and production organized for collective benefit.</p>\n<p>Cabet attracted a significant following among French workers and artisans, and in 1848 led several hundred followers to establish an Icarian colony in Texas, later relocated to Illinois. The colonies struggled with internal conflicts and material hardships. Marx and Engels regarded Cabet as representative of a naive, pre-scientific socialism that sought to realize communism through moral example rather than through understanding the contradictions of capitalism. Nevertheless, Cabet&#39;s popular communism helped spread egalitarian ideas among the French working class during a formative period.</p>\n"
   },
   {
+    "slug": "evgeny-morozov",
+    "name": "Evgeny Morozov",
+    "born": 1984,
+    "died": null,
+    "nationality": "Belarusian",
+    "tradition": "Technology criticism",
+    "key_works": [
+      "The Net Delusion",
+      "To Save Everything Click Here"
+    ],
+    "tags": [
+      "solutionism",
+      "technology criticism",
+      "digital capitalism",
+      "internet politics"
+    ],
+    "body": "<p>Evgeny Morozov is a Belarusian-born technology critic whose work dismantles the ideological frameworks through which Silicon Valley presents its products as solutions to social and political problems. The Net Delusion challenged the &#39;cyber-utopianism&#39; that assumed the internet would automatically promote democracy, demonstrating how authoritarian regimes effectively use digital technologies for surveillance and control. To Save Everything Click Here coined the term &#39;solutionism&#39; to describe the ideology that recasts complex political and social questions as technical problems amenable to algorithmic fixes. Morozov&#39;s more recent work has moved toward a structural analysis of how digital infrastructure functions as a new site of capital accumulation and geopolitical competition.</p>\n"
+  },
+  {
     "slug": "feargus-oconnor",
     "name": "Feargus O’Connor",
     "born": 1796,
@@ -629,6 +706,26 @@
       "democratic movement"
     ],
     "body": "<p>Ferdinand Flocon was a French republican journalist and politician who edited the radical newspaper <em>La Réforme</em> and served in the Provisional Government following the February Revolution of 1848. He represented the democratic republican left, positioned between the moderate republicanism of Lamartine and the socialism of Louis Blanc.</p>\n<p>Flocon maintained connections with Marx and the Communist League, and it was Flocon who, as a member of the Provisional Government, formally invited Marx to return to France after the revolution. His newspaper <em>La Réforme</em> had provided a platform for democratic and socialist ideas in the years leading up to 1848. Marx&#39;s analysis of the 1848 revolution situated figures like Flocon within the democratic petty bourgeoisie — a class fraction capable of radical rhetoric but ultimately unable to break with bourgeois property relations or support independent working-class politics.</p>\n"
+  },
+  {
+    "slug": "franco-berardi",
+    "name": "Franco 'Bifo' Berardi",
+    "born": 1949,
+    "died": null,
+    "nationality": "Italian",
+    "tradition": "Autonomism",
+    "key_works": [
+      "The Soul at Work",
+      "After the Future",
+      "Futurability"
+    ],
+    "tags": [
+      "autonomism",
+      "semio-capitalism",
+      "mental labor",
+      "depression"
+    ],
+    "body": "<p>Franco &#39;Bifo&#39; Berardi is an Italian autonomist theorist whose work analyses the psychopathology of contemporary capitalism. His concept of &#39;semio-capitalism&#39; — capitalism in which the primary source of accumulation is the production and exchange of signs and information — connects the autonomist analysis of cognitive labour to an account of widespread depression, anxiety, and burnout as structural effects of capital&#39;s colonisation of mental life. The Soul at Work argues that when capital puts the soul to work — requiring creativity, affect, and communication as productive inputs — the result is not liberation but a new and more intimate form of exploitation that leaves no dimension of human experience outside the valorisation process.</p>\n"
   },
   {
     "slug": "franois-guizot",
@@ -1011,6 +1108,26 @@
     "body": "<p>Jean-Baptiste Say was a French economist best known for formulating Say&#39;s Law, the proposition that supply creates its own demand, meaning that general overproduction is impossible in a market economy. His <em>Treatise on Political Economy</em> (1803) popularized Adam Smith&#39;s ideas in France while departing from Smith and Ricardo on key theoretical questions, particularly by advancing a theory of value based on utility rather than labor.</p>\n<p>Marx identified Say as a pivotal figure in the degeneration of political economy from a genuine science into bourgeois apologetics. By denying the possibility of general crises of overproduction, Say&#39;s Law provided ideological justification for the claim that capitalism is a self-regulating, harmonious system. Marx devoted considerable effort to refuting this proposition, arguing that the separation of purchase from sale in commodity exchange creates the ever-present possibility of crisis. Say&#39;s substitution of utility for labor as the basis of value also represented, for Marx, a retreat from the insights of classical political economy.</p>\n"
   },
   {
+    "slug": "jodi-dean",
+    "name": "Jodi Dean",
+    "born": 1962,
+    "died": null,
+    "nationality": "American",
+    "tradition": "Communism",
+    "key_works": [
+      "Blog Theory",
+      "The Communist Horizon",
+      "Comrade"
+    ],
+    "tags": [
+      "communicative capitalism",
+      "party form",
+      "digital media",
+      "communism"
+    ],
+    "body": "<p>Jodi Dean is an American political theorist whose concept of &#39;communicative capitalism&#39; describes how the proliferation of digital communication paradoxically undermines the conditions for effective political action. Blog Theory and related works argue that the internet&#39;s promise of democratic participation is ideological: the endless circulation of opinions, takes, and content substitutes for political organisation, producing the feeling of political engagement without its substance. The Communist Horizon and Comrade represent Dean&#39;s argument that the left must recover the concepts of party and comrade as organisational forms capable of producing collective political agency against the atomising tendencies of communicative capitalism.</p>\n"
+  },
+  {
     "slug": "roemer",
     "name": "John Roemer",
     "born": 1945,
@@ -1197,6 +1314,24 @@
     "body": "<p>Karl Marx developed a systematic critique of capitalist political economy centered on the labor theory of value, the analysis of surplus value extraction, and the commodity form. His method of historical materialism provided a framework for understanding social formations as structured by their mode of production and the class relations arising from it. His later work, particularly the three volumes of <em>Capital</em> and the preparatory <em>Grundrisse</em>, remains the foundational reference point for all subsequent Marxist theory.</p>\n"
   },
   {
+    "slug": "kate-crawford",
+    "name": "Kate Crawford",
+    "born": 1976,
+    "died": null,
+    "nationality": "Australian",
+    "tradition": "Technology criticism",
+    "key_works": [
+      "Atlas of AI"
+    ],
+    "tags": [
+      "AI",
+      "political economy",
+      "extraction",
+      "infrastructure"
+    ],
+    "body": "<p>Kate Crawford is an Australian researcher whose Atlas of AI provided a materialist analysis of artificial intelligence that counters the dominant understanding of AI as disembodied computation. The work traces AI&#39;s material infrastructure — from lithium mines and underpaid data labourers to the energy consumption of data centres and the environmental costs of hardware production — demonstrating that what is presented as a purely technical system depends on vast chains of extraction, exploitation, and ecological destruction. Crawford&#39;s contribution lies in reconnecting the apparently immaterial world of algorithms to the material conditions of its production, showing that AI systems encode and reproduce existing structures of class, racial, and colonial domination.</p>\n"
+  },
+  {
     "slug": "ledru-rollin",
     "name": "Ledru-Rollin",
     "born": 1807,
@@ -1325,6 +1460,26 @@
     "body": "<p>Mao Zedong was the principal leader of the Chinese Communist Revolution and the founding chairman of the People&#39;s Republic of China. His theoretical contributions adapted Marxism-Leninism to the conditions of a predominantly agrarian society, placing the peasantry rather than the urban proletariat at the center of revolutionary strategy. His philosophical essays On Contradiction and On Practice developed a distinctive approach to materialist dialectics that emphasized the specificity of contradictions in any given situation and the primacy of practice as the criterion of truth.</p>\n"
   },
   {
+    "slug": "mark-fisher",
+    "name": "Mark Fisher",
+    "born": 1968,
+    "died": 2017,
+    "nationality": "British",
+    "tradition": "Cultural criticism",
+    "key_works": [
+      "Capitalist Realism",
+      "Ghosts of My Life",
+      "The Weird and the Eerie"
+    ],
+    "tags": [
+      "capitalist realism",
+      "hauntology",
+      "cultural criticism",
+      "mental health"
+    ],
+    "body": "<p>Mark Fisher was a British cultural theorist and blogger whose Capitalist Realism became one of the most widely read works of Marxist cultural criticism of the twenty-first century. The work&#39;s central thesis — that it is easier to imagine the end of the world than the end of capitalism — captured the ideological closure of the post-2008 moment, in which the system&#39;s manifest failure produced not alternatives but a deepened sense of inevitability. Fisher&#39;s concept of &#39;capitalist realism&#39; describes not a belief that capitalism is good but the pervasive sense that no alternative is possible. His blogging at k-punk pioneered a form of cultural criticism that moved fluidly between music, film, politics, and theory, and his writing on depression as a political rather than personal condition connected mental health to the structural violence of neoliberalism.</p>\n"
+  },
+  {
     "slug": "maurice-dobb",
     "name": "Maurice Dobb",
     "born": 1900,
@@ -1341,6 +1496,26 @@
       "value theory"
     ],
     "body": "<p>Maurice Dobb was a British Marxist economist at Cambridge University whose work on economic history and value theory established him as one of the most important Marxist economists in the English-speaking world. A member of the Communist Party, he combined scholarly rigor with political commitment and helped train a generation of economists and historians.</p>\n<p>His <em>Studies in the Development of Capitalism</em> (1946) sparked the famous &quot;transition debate&quot; by arguing that feudalism declined primarily due to internal class conflicts rather than the external stimulus of expanding trade, as had been argued by Paul Sweezy and others. In <em>Theories of Value and Distribution since Adam Smith</em> (1973), Dobb provided a comprehensive survey of the history of economic thought that highlighted the class content embedded in competing theories of value. His defense of the labor theory of value and his historical analysis of the transition from feudalism to capitalism remain key reference points in Marxist economic thought.</p>\n"
+  },
+  {
+    "slug": "maurizio-lazzarato",
+    "name": "Maurizio Lazzarato",
+    "born": 1955,
+    "died": null,
+    "nationality": "Italian",
+    "tradition": "Autonomism",
+    "key_works": [
+      "The Making of the Indebted Man",
+      "Signs and Machines",
+      "Governing by Debt"
+    ],
+    "tags": [
+      "debt",
+      "immaterial labor",
+      "semiotics",
+      "neoliberalism"
+    ],
+    "body": "<p>Maurizio Lazzarato is an Italian sociologist and philosopher whose early work on &#39;immaterial labour&#39; — labour that produces informational, cultural, or affective content — was foundational for autonomist analyses of post-Fordist capitalism. His later work shifted focus to debt as the fundamental social relation of neoliberal capitalism. The Making of the Indebted Man argues that debt is not merely an economic mechanism but a technology of governance that produces a specific subjectivity: the indebted subject who internalises obligation, guilt, and responsibility, thereby ensuring compliance with the demands of capital without the need for direct coercion.</p>\n"
   },
   {
     "slug": "horkheimer",
@@ -1416,6 +1591,65 @@
       "ecology"
     ],
     "body": "<p>Michael Lowy is a Brazilian-French sociologist and philosopher who has made wide-ranging contributions to Marxist theory, from studies of the young Marx&#39;s revolutionary thought to analyses of romanticism, religion, and ecosocialism. A research director at the French National Centre for Scientific Research, he has worked to recover neglected dimensions of the Marxist tradition, particularly the romantic critique of capitalism and the intersection of Marxism with liberation theology.</p>\n<p>In <em>The Theory of Revolution in the Young Marx</em>, Lowy traced the formation of Marx&#39;s revolutionary perspective, while <em>Fire Alarm</em> offered an influential reading of Walter Benjamin&#39;s theses on history as a critique of progressive, linear conceptions of historical development. Lowy has been a leading proponent of ecosocialism, arguing that ecological crisis demands a fundamental rethinking of Marxist categories of production and progress. His work bridges Latin American, European, and critical theory traditions, emphasizing the elective affinities between revolutionary romanticism and Marxist critique.</p>\n"
+  },
+  {
+    "slug": "nancy-fraser",
+    "name": "Nancy Fraser",
+    "born": 1947,
+    "died": null,
+    "nationality": "American",
+    "tradition": "Critical Theory",
+    "key_works": [
+      "Cannibal Capitalism",
+      "Fortunes of Feminism",
+      "The Old Is Dying and the New Cannot Be Born"
+    ],
+    "tags": [
+      "social reproduction",
+      "feminism",
+      "capitalism",
+      "crisis"
+    ],
+    "body": "<p>Nancy Fraser is an American critical theorist whose work has reshaped the relationship between Marxist political economy and feminist theory. Her concept of capitalism as a &#39;cannibalistic&#39; system that devours its own conditions of possibility — nature, social reproduction, public goods, political capacities — extends Marx&#39;s analysis beyond the point of production to encompass the full range of social relations that capital depends on but does not pay for. Cannibal Capitalism argues that the contemporary crisis is not merely economic but a general crisis in which capitalism&#39;s systematic devaluation of care work, ecological systems, and democratic governance undermines the very foundations on which accumulation depends.</p>\n"
+  },
+  {
+    "slug": "nick-dyer-witheford",
+    "name": "Nick Dyer-Witheford",
+    "born": 1963,
+    "died": null,
+    "nationality": "Canadian",
+    "tradition": "Autonomism",
+    "key_works": [
+      "Cyber-Marx",
+      "Cyber-Proletariat",
+      "Inhuman Power"
+    ],
+    "tags": [
+      "digital labor",
+      "autonomism",
+      "technology",
+      "AI"
+    ],
+    "body": "<p>Nick Dyer-Witheford is a Canadian political theorist whose work applies autonomist Marxist frameworks to the analysis of digital capitalism. His Cyber-Marx updated the autonomist tradition for the information age, arguing that struggles over communication technologies represent a new terrain of class conflict. Cyber-Proletariat examined how digital networks simultaneously enable new forms of labour exploitation — from coltan mining to click-work — and new possibilities for resistance, while Inhuman Power (with Atle Mikkola Kjøsen and James Steinhoff) analysed artificial intelligence through the lens of Marx&#39;s concept of the general intellect, arguing that AI represents capital&#39;s attempt to subsume cognitive labour as fixed capital.</p>\n"
+  },
+  {
+    "slug": "nick-srnicek",
+    "name": "Nick Srnicek",
+    "born": 1982,
+    "died": null,
+    "nationality": "Canadian",
+    "tradition": "Post-capitalism",
+    "key_works": [
+      "Platform Capitalism",
+      "Inventing the Future"
+    ],
+    "tags": [
+      "platform capitalism",
+      "post-work",
+      "accelerationism",
+      "digital economy"
+    ],
+    "body": "<p>Nick Srnicek is a Canadian political economist whose Platform Capitalism provided one of the most influential Marxist analyses of the digital economy. The work argues that platforms — from Google and Facebook to Uber and Amazon — represent a new business model in which the extraction of data has become a key source of competitive advantage and profit, constituting a distinct form of capitalist accumulation. His earlier Inventing the Future (with Alex Williams) called for a left politics that embraces technological development, arguing for full automation, universal basic income, and the reduction of the working week as demands that could move beyond capitalism rather than merely ameliorating it.</p>\n"
   },
   {
     "slug": "poulantzas",
@@ -1692,6 +1926,25 @@
     "body": "<p>Rudolf Hilferding was an Austrian Marxist economist and politician whose <em>Finance Capital</em> (1910) provided one of the most influential analyses of the transformation of competitive capitalism into monopoly capitalism. Hilferding argued that the concentration of industrial production and the centralization of banking had produced a new form of capital — finance capital — in which banks assumed a dominant role in directing industrial investment, organizing cartels and trusts, and driving the imperialist expansion of capital into colonial territories. His analysis of the joint-stock company, the credit system, and the stock exchange as mechanisms through which finance capital coordinates and controls the productive economy anticipated many features of twentieth-century capitalism.</p>\n<p>Hilferding&#39;s earlier work, <em>Bohm-Bawerk&#39;s Criticism of Marx</em> (1904), mounted a systematic defense of Marx&#39;s value theory against the marginalist critique, and remains one of the most rigorous engagements between Marxist and neoclassical economics. His concept of &quot;organized capitalism&quot; — the thesis that monopoly and state intervention had created the possibility of conscious economic planning within capitalism — influenced both social-democratic reformism and later debates about state capitalism.</p>\n<p>Hilferding served twice as finance minister of the Weimar Republic. He fled Germany after the Nazi seizure of power, was captured by the Vichy police in 1941, and died in Gestapo custody in Paris. His theoretical legacy endures through Lenin&#39;s <em>Imperialism</em>, which drew heavily on <em>Finance Capital</em>, and through contemporary analyses of financialization.</p>\n"
   },
   {
+    "slug": "ruha-benjamin",
+    "name": "Ruha Benjamin",
+    "born": 1978,
+    "died": null,
+    "nationality": "American",
+    "tradition": "Critical race studies",
+    "key_works": [
+      "Race After Technology",
+      "Viral Justice"
+    ],
+    "tags": [
+      "race",
+      "technology",
+      "algorithmic bias",
+      "structural racism"
+    ],
+    "body": "<p>Ruha Benjamin is an American sociologist whose Race After Technology introduced the concept of the &#39;New Jim Code&#39; to describe how automated systems — from predictive policing algorithms to healthcare risk assessments — encode and reproduce racial discrimination under the guise of technological neutrality. Her work demonstrates that algorithmic bias is not a technical glitch to be debugged but a structural feature of systems designed within and for a racially stratified society. Benjamin&#39;s contribution connects the Marxist analysis of technology as embodying specific social relations to critical race theory&#39;s insistence that those relations are fundamentally racialised, showing that the automation of decision-making automates existing patterns of domination.</p>\n"
+  },
+  {
     "slug": "amin",
     "name": "Samir Amin",
     "born": 1931,
@@ -1829,6 +2082,44 @@
     "body": "<p>Thomas Malthus was a British clergyman and political economist whose <em>Essay on the Principle of Population</em> (1798) argued that population growth inevitably outstrips the growth of food supply, leading to poverty, famine, and social misery. He used this thesis to oppose poor relief and radical reform, contending that the suffering of the lower classes was a natural law rather than a consequence of social organization.</p>\n<p>Marx regarded Malthus as one of the most ideologically motivated of the classical economists, a shameless apologist for the landed aristocracy who deployed pseudo-scientific arguments to justify inequality. Marx countered Malthus&#39;s population theory by arguing that what appears as overpopulation under capitalism is actually a relative surplus population produced by the dynamics of capital accumulation itself. The reserve army of labor is not a natural demographic phenomenon but a structural feature of the capitalist mode of production. Malthus&#39;s influence persists as a foil against which Marxist analysis of poverty and crisis continues to define itself.</p>\n"
   },
   {
+    "slug": "tiziana-terranova",
+    "name": "Tiziana Terranova",
+    "born": 1967,
+    "died": null,
+    "nationality": "Italian",
+    "tradition": "Autonomism",
+    "key_works": [
+      "Network Culture",
+      "After the Internet"
+    ],
+    "tags": [
+      "digital labor",
+      "free labor",
+      "network culture",
+      "autonomism"
+    ],
+    "body": "<p>Tiziana Terranova is an Italian media theorist whose concept of &#39;free labour&#39; — the simultaneous freedom and unpaid character of digital cultural production — became foundational for Marxist analyses of the internet economy. Her Network Culture argued that the digital economy depends structurally on the voluntary, unwaged productive activity of users who build websites, moderate forums, create content, and generate the data that constitutes the internet&#39;s real value. Terranova&#39;s work, drawing on autonomist Marxism and complexity theory, demonstrated that what appears as participatory culture is simultaneously a form of exploitation in which capital extracts value from activity that falls outside the wage relation.</p>\n"
+  },
+  {
+    "slug": "trebor-scholz",
+    "name": "Trebor Scholz",
+    "born": 1969,
+    "died": null,
+    "nationality": "German-American",
+    "tradition": "Cooperativism",
+    "key_works": [
+      "Uberworked and Underpaid",
+      "Platform Cooperativism"
+    ],
+    "tags": [
+      "platform cooperativism",
+      "digital labor",
+      "gig economy",
+      "cooperatives"
+    ],
+    "body": "<p>Trebor Scholz is a German-American scholar and activist who coined the term &#39;platform cooperativism&#39; to describe an alternative to the extractive model of platform capitalism. His work argues that the gig economy&#39;s apparent innovation — connecting workers with customers through digital platforms — conceals a regression to piece-work and the destruction of labour protections won over a century of struggle. Platform cooperativism proposes that workers and users should own and govern the platforms through which they labour, applying the cooperative tradition to digital infrastructure. Scholz&#39;s intervention represents an attempt to move beyond critique toward practical alternatives, though its reliance on market competition with venture-capital-funded platforms raises questions about viability within capitalist conditions.</p>\n"
+  },
+  {
     "slug": "lenin",
     "name": "Vladimir Lenin",
     "born": 1870,
@@ -1898,5 +2189,25 @@
       "labor theory of value"
     ],
     "body": "<p>William Petty was an English economist and polymath whom Marx called the founder of political economy in England. A physician, surveyor, and member of Parliament, Petty pioneered the use of quantitative methods in economic analysis, which he termed &quot;political arithmetic.&quot; His <em>Treatise of Taxes and Contributions</em> (1662) examined the sources of state revenue and the nature of economic value.</p>\n<p>Petty advanced one of the earliest formulations of the labor theory of value, arguing that labor and land together constitute the basis of wealth. He sought to express the value of all commodities in terms of these two fundamental factors. Marx regarded Petty&#39;s work as a crucial early step toward understanding value as rooted in labor, despite its unsystematic character. Petty&#39;s attempts to measure national wealth, analyze the division of labor, and understand the relationship between money and commodities anticipated problems that would be central to classical political economy and to Marx&#39;s own critique of it.</p>\n"
+  },
+  {
+    "slug": "yanis-varoufakis",
+    "name": "Yanis Varoufakis",
+    "born": 1961,
+    "died": null,
+    "nationality": "Greek",
+    "tradition": "Left economics",
+    "key_works": [
+      "The Global Minotaur",
+      "Adults in the Room",
+      "Technofeudalism"
+    ],
+    "tags": [
+      "eurozone crisis",
+      "techno-feudalism",
+      "political economy",
+      "digital capitalism"
+    ],
+    "body": "<p>Yanis Varoufakis is a Greek economist and politician who served as finance minister during the 2015 confrontation between the Syriza government and the European troika. His account of that experience, Adults in the Room, provided an insider&#39;s analysis of how European institutional power operates to enforce austerity regardless of democratic mandates. His theoretical work, particularly Technofeudalism, argues that the major digital platforms have transcended capitalism itself, replacing market-based profit extraction with a new form of rent extraction — &#39;cloud rent&#39; — that more closely resembles feudal relations than capitalist ones. This provocative thesis has generated significant debate within Marxist political economy about whether digital platform power represents a mutation within capitalism or a transition beyond it.</p>\n"
   }
 ]
