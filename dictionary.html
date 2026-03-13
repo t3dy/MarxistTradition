@@ -25,15 +25,16 @@
     <h1 class="section-title">Dictionary</h1>
     <p class="section-subtitle">Thinkers, texts, and terms of art across the Marxist tradition</p>
 
-    <div class="controls">
-      <input type="text" class="search-box" id="search" placeholder="Search thinkers, texts, terms...">
-      <div class="filter-chips" id="tradition-filters"></div>
-    </div>
-
     <div class="tabs" id="tabs">
       <div class="tab active" data-tab="thinkers">Thinkers</div>
       <div class="tab" data-tab="texts">Texts</div>
       <div class="tab" data-tab="terms">Terms</div>
+    </div>
+
+    <div class="controls">
+      <input type="text" class="search-box" id="search" placeholder="Search thinkers, texts, terms...">
+      <button class="filter-toggle" id="filter-toggle">Filter by tradition ▸</button>
+      <div class="filter-chips collapsed" id="tradition-filters"></div>
     </div>
 
     <div id="results" class="card-grid"></div>

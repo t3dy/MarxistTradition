@@ -269,6 +269,28 @@ h1, h2, h3, h4 {
   gap: 0.5rem;
 }
 
+.filter-chips.collapsed {
+  max-height: 2.4rem;
+  overflow: hidden;
+}
+
+.filter-toggle {
+  background: none;
+  border: 1px solid var(--color-border);
+  border-radius: 20px;
+  padding: 0.35rem 0.8rem;
+  font-size: 0.82rem;
+  cursor: pointer;
+  font-weight: 500;
+  color: var(--color-text-muted);
+  white-space: nowrap;
+}
+
+.filter-toggle:hover {
+  border-color: var(--color-accent);
+  color: var(--color-accent);
+}
+
 .chip {
   padding: 0.35rem 0.8rem;
   border: 1px solid var(--color-border);

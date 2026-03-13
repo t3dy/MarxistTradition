@@ -15,6 +15,14 @@
   const tabsEl = document.getElementById('tabs');
   const resultsEl = document.getElementById('results');
   const filtersEl = document.getElementById('tradition-filters');
+  const filterToggle = document.getElementById('filter-toggle');
+  let filtersExpanded = false;
+
+  filterToggle.addEventListener('click', () => {
+    filtersExpanded = !filtersExpanded;
+    filtersEl.classList.toggle('collapsed', !filtersExpanded);
+    filterToggle.textContent = filtersExpanded ? 'Filter by tradition ▾' : 'Filter by tradition ▸';
+  });
 
   // Collect all traditions
   const traditions = new Set();
@@ -97,7 +105,17 @@
   }
 
   function render() {
-    renderFilters();
+    // Only show tradition filters for thinkers/texts (terms don't have a tradition field)
+    if (activeTab === 'terms') {
+      filtersEl.innerHTML = '';
+      filtersEl.style.display = 'none';
+      filterToggle.style.display = 'none';
+      activeTradition = '';
+    } else {
+      filtersEl.style.display = 'flex';
+      filterToggle.style.display = '';
+      renderFilters();
+    }
 
     // Update tabs
     tabsEl.querySelectorAll('.tab').forEach(tab => {
