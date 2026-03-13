@@ -28,7 +28,9 @@ function buildCategory(category) {
   if (category === 'analyses') {
     entries.sort((a, b) => (b.date || 0) - (a.date || 0));
   } else {
-    const sortKey = category === 'terms' ? 'term' : category === 'texts' ? 'title' : 'name';
+    const sortKey = (category === 'terms') ? 'term'
+      : (category === 'texts' || category === 'wonks' || category === 'analyses' || category === 'comedians' || category === 'pundits') ? 'title'
+      : 'name';
     entries.sort((a, b) => (a[sortKey] || '').localeCompare(b[sortKey] || ''));
   }
 
@@ -38,7 +40,7 @@ function buildCategory(category) {
 function main() {
   if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
 
-  const categories = ['thinkers', 'texts', 'terms', 'analyses'];
+  const categories = ['thinkers', 'texts', 'terms', 'analyses', 'wonks', 'comedians', 'pundits'];
 
   for (const cat of categories) {
     const entries = buildCategory(cat);

@@ -1,0 +1,61 @@
+60 entries
+1. terms/proletarian-internationalism - term: Proletarian Internationalism; related: [international-proletarian-organisations, proletarian-r
+2. terms/proletarian-revolution - term: Proletarian Revolution; german: Proletarische Revolution; source: "The Communist Manifesto; St
+3. terms/proletariat - term: Proletariat; german: Proletariat; source: "The Communist Manifesto"; related: [dictatorship-of
+4. terms/property-relations - term: Property Relations; german: Eigentumsverhältnisse; related: [relations-of-production, exchange
+5. terms/racial-capitalism - term: Racial Capitalism; related: [colonial-capitalism, technology-capitalism, long-waves-capitalism
+6. terms/reactionary-socialism - term: Reactionary Socialism; related: [utopian-socialism, critical-utopian-socialism, petty-bourgeoi
+7. terms/reformism-critique - term: Reformism Critique; related: [taylorism-critique, philosophical-critique]; tags: [theory, poli
+8. terms/rent-theory - term: Rent Theory; german: Rententheorie; tags: [theory, political economy]
+9. terms/revolutionary-party - term: Revolutionary Party; related: [communist-party-usa, french-communist-party, bolshevik-party, b
+10. terms/revolutionary-theory - term: Revolutionary Theory; related: [revolutionary-party]; tags: [theory, political economy]
+11. terms/rheinische-zeitung - term: Rheinische Zeitung; tags: [movements, organizations]
+12. terms/rise-of-the-industrial-working-class - term: Rise of the Industrial Working Class; related: [class-analysis, industrial-revolution, industr
+13. terms/russian-revolution-of-1905 - term: Russian Revolution of 1905; related: [chinese-revolution-of-1949, nicaraguan-revolution, febru
+14. terms/scientific-socialism - term: Scientific Socialism; german: Wissenschaftlicher Sozialismus; source: "Socialism: Utopian and 
+15. terms/social-formation - term: Social Formation; german: Gesellschaftsformation; source: "Preface to A Contribution to the Cr
+16. terms/social-reproduction-theory - term: Social Reproduction Theory; related: [reproduction-schemas, german-social-democratic-party-his
+17. terms/socialism - term: Socialism; german: Sozialismus; source: "Critique of the Gotha Programme"; related: [utopian-s
+18. terms/socialist-planning - term: Socialist Planning; tags: [theory, political economy]
+19. terms/spanish-civil-war - term: Spanish Civil War; related: [spanish-communist-party]; tags: [history, revolution]
+20. terms/spanish-communist-party - term: Spanish Communist Party; related: [communist-league, revolutionary-party, communist-party-usa,
+21. terms/spartacist-uprising - term: Spartacist Uprising; related: [june-days-uprising, polish-uprising-of-1830]; tags: [history, r
+22. terms/state-theory - term: State Theory; german: Staatstheorie; related: [welfare-state, democracy-and-state]; tags: [the
+23. terms/structural-marxism - term: Structural Marxism; related: [western-marxism, orthodox-marxism, eco-marxism, humanist-marxism
+24. terms/taylorism-critique - term: Taylorism Critique; related: [reformism-critique, philosophical-critique]; tags: [labor proces
+25. terms/technology-capitalism - term: Technology Capitalism; related: [colonial-capitalism, racial-capitalism, long-waves-capitalism
+26. terms/trade-and-protection - term: Trade and Protection; related: [trade-unions]; tags: [theory, political economy]
+27. terms/trade-unions - term: Trade Unions; german: Gewerkschaften; source: "Capital Vol. 1; Wages, Price and Profit"; relat
+28. terms/trotskyism-debates - term: Trotskyism Debates; tags: [debates, theory]
+29. terms/true-socialism - term: True Socialism; related: [utopian-socialism, critical-utopian-socialism, petty-bourgeois-socia
+30. terms/urban-class-formation - term: Urban Class Formation; related: [class-analysis, historical-class-alliances, working-class-mov
+31. terms/urban-rural-proletariat - term: Urban Rural Proletariat; related: [proletariat, urban-class-formation, dictatorship-of-proleta
+32. terms/utopian-socialism - term: Utopian Socialism; german: Utopischer Sozialismus; source: "Socialism: Utopian and Scientific"
+33. terms/vietnamese-communist-party - term: Vietnamese Communist Party; related: [communist-league, revolutionary-party, communist-party-u
+34. terms/vietnamese-revolution - term: Vietnamese Revolution; related: [chinese-revolution-of-1949, nicaraguan-revolution, february-r
+35. terms/wage-labour - term: Wage Labour; german: Lohnarbeit; source: "Wage-Labour and Capital (1849)"; related: [division-
+36. terms/wage-system - term: Wage System; german: Lohnsystem; related: [imperial-system, monetary-system, wage-labour]; tag
+37. terms/welfare-state - term: Welfare State; related: [democracy-and-state, state-theory]; tags: [theory, political economy]
+38. terms/western-marxism - term: Western Marxism; related: [structural-marxism, orthodox-marxism, eco-marxism, humanist-marxism
+39. terms/workers-self-management - term: Workers’ Self-management; related: [german-workers-club]; tags: [socialist economy, planning]
+40. terms/working-class-associations - term: Working-class Associations; related: [class-analysis, urban-class-formation, historical-class-
+41. terms/working-class-movement - term: Working-class Movement; related: [class-analysis, urban-class-formation, chartist-movement, hi
+42. texts/anti-dhring - title: "Anti-Dühring"; author: Friedrich Engels; year: 1878; tradition: Classical Marxism
+43. texts/critique-of-the-gotha-programme - title: "Critique of the Gotha Programme"; author: Karl Marx; year: 1875; tradition: Classical Marxis
+44. texts/critique-of-the-hegelian-philosophy-of-right - title: "Critique of the Hegelian Philosophy of Right"; author: Karl Marx; year: 1843; tradition: Cla
+45. texts/dialectics-of-nature - title: "Dialectics of Nature"; author: Friedrich Engels; year: 1883; tradition: Classical Marxism
+46. texts/economic-and-philosophic-manuscripts - title: "Economic and Philosophic Manuscripts"; author: Karl Marx; year: 1844; tradition: Classical M
+47. texts/labor-and-monopoly-capital - title: "Labor and Monopoly Capital"; author: Harry Braverman; year: 1974; tradition: Monthly Review 
+48. texts/monopoly-capital - title: "Monopoly Capital"; author: Paul Baran and Paul Sweezy; year: 1966; tradition: Monthly Review
+49. texts/socialism-utopian-and-scientific - title: "Socialism: Utopian and Scientific"; author: Friedrich Engels; year: 1880; tradition: Classic
+50. texts/the-civil-war-in-france - title: "The Civil War in France"; author: Karl Marx; year: 1871; tradition: Classical Marxism
+51. texts/the-holy-family - title: "The Holy Family"; author: Karl Marx and Friedrich Engels; year: 1845; tradition: Classical M
+52. texts/theories-of-surplus-value - title: "Theories of Surplus Value"; author: Karl Marx; year: 1863; tradition: Classical Marxism
+53. thinkers/adam-smith - name: Adam Smith; born: 1723; died: 1790; nationality: Scottish
+54. thinkers/adolphe-bartels - name: Adolphe Bartels; born: 1802; died: 1862; nationality: Belgian
+55. thinkers/alphonse-de-lamartine - name: Alphonse de Lamartine; born: 1790; died: 1869; nationality: French
+56. thinkers/andr-gunder-frank - name: André Gunder Frank; born: 1929; died: 2005; nationality: German-American
+57. thinkers/anne-robert-jacques-turgot - name: Anne Robert Jacques Turgot; born: 1727; died: 1781; nationality: French
+58. thinkers/arnold-ruge - name: Arnold Ruge; born: 1802; died: 1880; nationality: German
+59. thinkers/bertell-ollman - name: Bertell Ollman; born: 1935; died: null; nationality: American
+60. thinkers/charles-fourier - name: Charles Fourier; born: 1772; died: 1837; nationality: French

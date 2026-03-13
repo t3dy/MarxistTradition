@@ -1,0 +1,2191 @@
+{
+  "existing_matched": [
+    "historical materialism",
+    "class struggle",
+    "mode of production",
+    "relations of production",
+    "forces of production",
+    "base and superstructure",
+    "alienation",
+    "surplus labour",
+    "surplus value",
+    "commodity",
+    "commodity fetishism",
+    "exchange value",
+    "use value",
+    "value",
+    "labour theory of value",
+    "lumpenproletariat",
+    "means of production",
+    "social relations of production",
+    "reification",
+    "materialist conception of history",
+    "labour power",
+    "productive forces",
+    "dictatorship of the proletariat",
+    "Karl Marx",
+    "Frederick Engels",
+    "V. I. Lenin",
+    "Antonio Gramsci",
+    "Rosa Luxemburg",
+    "Karl Kautsky",
+    "Eduard Bernstein",
+    "Georg Lukács",
+    "Leon Trotsky",
+    "Mao Zedong",
+    "Louis Althusser",
+    "Herbert Marcuse",
+    "Theodor Adorno",
+    "Max Horkheimer",
+    "Walter Benjamin",
+    "Nicos Poulantzas",
+    "Samir Amin",
+    "David Harvey",
+    "Michael Heinrich",
+    "Paul Sweezy",
+    "Fredric Jameson",
+    "Guy Debord",
+    "C. L. R. James",
+    "Frantz Fanon",
+    "Amílcar Cabral",
+    "Antonio Negri",
+    "Isaak Rubin",
+    "Paul Mattick",
+    "E. P. Thompson",
+    "David Ricardo",
+    "The German Ideology",
+    "The Eighteenth Brumaire of Louis Bonaparte",
+    "Grundrisse",
+    "Capital Volume I",
+    "Capital Volume II",
+    "Capital Volume III",
+    "Imperialism, the Highest Stage of Capitalism",
+    "State and Revolution",
+    "History and Class Consciousness",
+    "Prison Notebooks",
+    "One-Dimensional Man"
+  ],
+  "new_terms": [
+    {
+      "slug": "dialectical-materialism",
+      "name": "dialectical materialism",
+      "section": "Core Marxist Concepts",
+      "tags": [
+        "political economy",
+        "theory"
+      ]
+    },
+    {
+      "slug": "exploitation",
+      "name": "exploitation",
+      "section": "Core Marxist Concepts",
+      "tags": [
+        "political economy",
+        "theory"
+      ]
+    },
+    {
+      "slug": "wage-labour",
+      "name": "wage labour",
+      "section": "Core Marxist Concepts",
+      "tags": [
+        "political economy",
+        "theory"
+      ]
+    },
+    {
+      "slug": "proletariat",
+      "name": "proletariat",
+      "section": "Core Marxist Concepts",
+      "tags": [
+        "political economy",
+        "theory"
+      ]
+    },
+    {
+      "slug": "bourgeoisie",
+      "name": "bourgeoisie",
+      "section": "Core Marxist Concepts",
+      "tags": [
+        "political economy",
+        "theory"
+      ]
+    },
+    {
+      "slug": "petty-bourgeoisie",
+      "name": "petty bourgeoisie",
+      "section": "Core Marxist Concepts",
+      "tags": [
+        "political economy",
+        "theory"
+      ]
+    },
+    {
+      "slug": "social-formation",
+      "name": "social formation",
+      "section": "Core Marxist Concepts",
+      "tags": [
+        "political economy",
+        "theory"
+      ]
+    },
+    {
+      "slug": "scientific-socialism",
+      "name": "scientific socialism",
+      "section": "Core Marxist Concepts",
+      "tags": [
+        "political economy",
+        "theory"
+      ]
+    },
+    {
+      "slug": "utopian-socialism",
+      "name": "utopian socialism",
+      "section": "Core Marxist Concepts",
+      "tags": [
+        "political economy",
+        "theory"
+      ]
+    },
+    {
+      "slug": "reactionary-socialism",
+      "name": "reactionary socialism",
+      "section": "Core Marxist Concepts",
+      "tags": [
+        "political economy",
+        "theory"
+      ]
+    },
+    {
+      "slug": "feudal-socialism",
+      "name": "feudal socialism",
+      "section": "Core Marxist Concepts",
+      "tags": [
+        "political economy",
+        "theory"
+      ]
+    },
+    {
+      "slug": "petty-bourgeois-socialism",
+      "name": "petty-bourgeois socialism",
+      "section": "Core Marxist Concepts",
+      "tags": [
+        "political economy",
+        "theory"
+      ]
+    },
+    {
+      "slug": "true-socialism",
+      "name": "true socialism",
+      "section": "Core Marxist Concepts",
+      "tags": [
+        "political economy",
+        "theory"
+      ]
+    },
+    {
+      "slug": "critical-utopian-socialism",
+      "name": "critical-utopian socialism",
+      "section": "Core Marxist Concepts",
+      "tags": [
+        "political economy",
+        "theory"
+      ]
+    },
+    {
+      "slug": "communism",
+      "name": "communism",
+      "section": "Core Marxist Concepts",
+      "tags": [
+        "political economy",
+        "theory"
+      ]
+    },
+    {
+      "slug": "socialism",
+      "name": "socialism",
+      "section": "Core Marxist Concepts",
+      "tags": [
+        "political economy",
+        "theory"
+      ]
+    },
+    {
+      "slug": "division-of-labour",
+      "name": "division of labour",
+      "section": "Political Economy Terms",
+      "tags": [
+        "political economy"
+      ]
+    },
+    {
+      "slug": "machinery",
+      "name": "machinery",
+      "section": "Political Economy Terms",
+      "tags": [
+        "political economy"
+      ]
+    },
+    {
+      "slug": "industrial-capital",
+      "name": "industrial capital",
+      "section": "Political Economy Terms",
+      "tags": [
+        "political economy"
+      ]
+    },
+    {
+      "slug": "merchant-capital",
+      "name": "merchant capital",
+      "section": "Political Economy Terms",
+      "tags": [
+        "political economy"
+      ]
+    },
+    {
+      "slug": "finance-capital",
+      "name": "finance capital",
+      "section": "Political Economy Terms",
+      "tags": [
+        "political economy"
+      ]
+    },
+    {
+      "slug": "competition",
+      "name": "competition",
+      "section": "Political Economy Terms",
+      "tags": [
+        "political economy"
+      ]
+    },
+    {
+      "slug": "monopoly",
+      "name": "monopoly",
+      "section": "Political Economy Terms",
+      "tags": [
+        "political economy"
+      ]
+    },
+    {
+      "slug": "overproduction",
+      "name": "overproduction",
+      "section": "Political Economy Terms",
+      "tags": [
+        "political economy"
+      ]
+    },
+    {
+      "slug": "commercial-congress",
+      "name": "commercial congress",
+      "section": "Political Economy Terms",
+      "tags": [
+        "political economy"
+      ]
+    },
+    {
+      "slug": "exchange-relations",
+      "name": "exchange relations",
+      "section": "Political Economy Terms",
+      "tags": [
+        "political economy"
+      ]
+    },
+    {
+      "slug": "economic-congress",
+      "name": "economic congress",
+      "section": "Political Economy Terms",
+      "tags": [
+        "political economy"
+      ]
+    },
+    {
+      "slug": "absolutism",
+      "name": "absolutism",
+      "section": "State and Political Theory",
+      "tags": [
+        "state theory",
+        "politics"
+      ]
+    },
+    {
+      "slug": "constitution",
+      "name": "constitution",
+      "section": "State and Political Theory",
+      "tags": [
+        "state theory",
+        "politics"
+      ]
+    },
+    {
+      "slug": "democratic-movement",
+      "name": "democratic movement",
+      "section": "State and Political Theory",
+      "tags": [
+        "state theory",
+        "politics"
+      ]
+    },
+    {
+      "slug": "proletarian-revolution",
+      "name": "proletarian revolution",
+      "section": "State and Political Theory",
+      "tags": [
+        "state theory",
+        "politics"
+      ]
+    },
+    {
+      "slug": "working-class-movement",
+      "name": "working-class movement",
+      "section": "State and Political Theory",
+      "tags": [
+        "state theory",
+        "politics"
+      ]
+    },
+    {
+      "slug": "revolutionary-party",
+      "name": "revolutionary party",
+      "section": "State and Political Theory",
+      "tags": [
+        "state theory",
+        "politics"
+      ]
+    },
+    {
+      "slug": "proletarian-internationalism",
+      "name": "proletarian internationalism",
+      "section": "State and Political Theory",
+      "tags": [
+        "state theory",
+        "politics"
+      ]
+    },
+    {
+      "slug": "working-class-associations",
+      "name": "working-class associations",
+      "section": "State and Political Theory",
+      "tags": [
+        "state theory",
+        "politics"
+      ]
+    },
+    {
+      "slug": "trade-unions",
+      "name": "trade unions",
+      "section": "State and Political Theory",
+      "tags": [
+        "state theory",
+        "politics"
+      ]
+    },
+    {
+      "slug": "communist-league",
+      "name": "communist league",
+      "section": "State and Political Theory",
+      "tags": [
+        "state theory",
+        "politics"
+      ]
+    },
+    {
+      "slug": "international-working-mens-association",
+      "name": "international working men’s association",
+      "section": "State and Political Theory",
+      "tags": [
+        "state theory",
+        "politics"
+      ]
+    },
+    {
+      "slug": "chartist-movement",
+      "name": "chartist movement",
+      "section": "Political Movements and Organizations",
+      "tags": [
+        "movements",
+        "organizations"
+      ]
+    },
+    {
+      "slug": "chartist-association",
+      "name": "chartist association",
+      "section": "Political Movements and Organizations",
+      "tags": [
+        "movements",
+        "organizations"
+      ]
+    },
+    {
+      "slug": "chartist-agitation",
+      "name": "chartist agitation",
+      "section": "Political Movements and Organizations",
+      "tags": [
+        "movements",
+        "organizations"
+      ]
+    },
+    {
+      "slug": "chartist-banquet",
+      "name": "chartist banquet",
+      "section": "Political Movements and Organizations",
+      "tags": [
+        "movements",
+        "organizations"
+      ]
+    },
+    {
+      "slug": "democratic-association-of-brussels",
+      "name": "democratic association of brussels",
+      "section": "Political Movements and Organizations",
+      "tags": [
+        "movements",
+        "organizations"
+      ]
+    },
+    {
+      "slug": "german-workers-club",
+      "name": "german workers’ club",
+      "section": "Political Movements and Organizations",
+      "tags": [
+        "movements",
+        "organizations"
+      ]
+    },
+    {
+      "slug": "brussels-communist-correspondence-committee",
+      "name": "brussels communist correspondence committee",
+      "section": "Political Movements and Organizations",
+      "tags": [
+        "movements",
+        "organizations"
+      ]
+    },
+    {
+      "slug": "rheinische-zeitung",
+      "name": "rheinische zeitung",
+      "section": "Political Movements and Organizations",
+      "tags": [
+        "movements",
+        "organizations"
+      ]
+    },
+    {
+      "slug": "fraternal-democrats",
+      "name": "fraternal democrats",
+      "section": "Political Movements and Organizations",
+      "tags": [
+        "movements",
+        "organizations"
+      ]
+    },
+    {
+      "slug": "international-proletarian-organisations",
+      "name": "international proletarian organisations",
+      "section": "Political Movements and Organizations",
+      "tags": [
+        "movements",
+        "organizations"
+      ]
+    },
+    {
+      "slug": "1848-revolutions",
+      "name": "1848 revolutions",
+      "section": "Events and Political Context",
+      "tags": [
+        "history",
+        "revolution"
+      ]
+    },
+    {
+      "slug": "polish-uprising-of-1830",
+      "name": "Polish uprising of 1830",
+      "section": "Events and Political Context",
+      "tags": [
+        "history",
+        "revolution"
+      ]
+    },
+    {
+      "slug": "industrial-revolution",
+      "name": "industrial revolution",
+      "section": "Events and Political Context",
+      "tags": [
+        "history",
+        "revolution"
+      ]
+    },
+    {
+      "slug": "rise-of-the-industrial-working-class",
+      "name": "rise of the industrial working class",
+      "section": "Events and Political Context",
+      "tags": [
+        "history",
+        "revolution"
+      ]
+    },
+    {
+      "slug": "paris-commune",
+      "name": "Paris Commune",
+      "section": "Key Revolutionary Events",
+      "tags": [
+        "history",
+        "revolution"
+      ]
+    },
+    {
+      "slug": "february-revolution-of-1848",
+      "name": "February Revolution of 1848",
+      "section": "Key Revolutionary Events",
+      "tags": [
+        "history",
+        "revolution"
+      ]
+    },
+    {
+      "slug": "june-days-uprising",
+      "name": "June Days Uprising",
+      "section": "Key Revolutionary Events",
+      "tags": [
+        "history",
+        "revolution"
+      ]
+    },
+    {
+      "slug": "russian-revolution-of-1905",
+      "name": "Russian Revolution of 1905",
+      "section": "Key Revolutionary Events",
+      "tags": [
+        "history",
+        "revolution"
+      ]
+    },
+    {
+      "slug": "february-revolution-of-1917",
+      "name": "February Revolution of 1917",
+      "section": "Key Revolutionary Events",
+      "tags": [
+        "history",
+        "revolution"
+      ]
+    },
+    {
+      "slug": "october-revolution",
+      "name": "October Revolution",
+      "section": "Key Revolutionary Events",
+      "tags": [
+        "history",
+        "revolution"
+      ]
+    },
+    {
+      "slug": "german-revolution-of-1918",
+      "name": "German Revolution of 1918",
+      "section": "Key Revolutionary Events",
+      "tags": [
+        "history",
+        "revolution"
+      ]
+    },
+    {
+      "slug": "spartacist-uprising",
+      "name": "Spartacist Uprising",
+      "section": "Key Revolutionary Events",
+      "tags": [
+        "history",
+        "revolution"
+      ]
+    },
+    {
+      "slug": "hungarian-soviet-republic",
+      "name": "Hungarian Soviet Republic",
+      "section": "Key Revolutionary Events",
+      "tags": [
+        "history",
+        "revolution"
+      ]
+    },
+    {
+      "slug": "chinese-revolution-of-1949",
+      "name": "Chinese Revolution of 1949",
+      "section": "Key Revolutionary Events",
+      "tags": [
+        "history",
+        "revolution"
+      ]
+    },
+    {
+      "slug": "cuban-revolution",
+      "name": "Cuban Revolution",
+      "section": "Key Revolutionary Events",
+      "tags": [
+        "history",
+        "revolution"
+      ]
+    },
+    {
+      "slug": "vietnamese-revolution",
+      "name": "Vietnamese Revolution",
+      "section": "Key Revolutionary Events",
+      "tags": [
+        "history",
+        "revolution"
+      ]
+    },
+    {
+      "slug": "nicaraguan-revolution",
+      "name": "Nicaraguan Revolution",
+      "section": "Key Revolutionary Events",
+      "tags": [
+        "history",
+        "revolution"
+      ]
+    },
+    {
+      "slug": "spanish-civil-war",
+      "name": "Spanish Civil War",
+      "section": "Key Revolutionary Events",
+      "tags": [
+        "history",
+        "revolution"
+      ]
+    },
+    {
+      "slug": "may-1968-uprisings",
+      "name": "May 1968 uprisings",
+      "section": "Key Revolutionary Events",
+      "tags": [
+        "history",
+        "revolution"
+      ]
+    },
+    {
+      "slug": "prague-spring",
+      "name": "Prague Spring",
+      "section": "Key Revolutionary Events",
+      "tags": [
+        "history",
+        "revolution"
+      ]
+    },
+    {
+      "slug": "portuguese-carnation-revolution",
+      "name": "Portuguese Carnation Revolution",
+      "section": "Key Revolutionary Events",
+      "tags": [
+        "history",
+        "revolution"
+      ]
+    },
+    {
+      "slug": "german-social-democratic-party-history",
+      "name": "German Social Democratic Party history",
+      "section": "Socialist and Communist Parties",
+      "tags": [
+        "parties",
+        "organization"
+      ]
+    },
+    {
+      "slug": "bolshevik-party",
+      "name": "Bolshevik Party",
+      "section": "Socialist and Communist Parties",
+      "tags": [
+        "parties",
+        "organization"
+      ]
+    },
+    {
+      "slug": "menshevik-faction",
+      "name": "Menshevik faction",
+      "section": "Socialist and Communist Parties",
+      "tags": [
+        "parties",
+        "organization"
+      ]
+    },
+    {
+      "slug": "communist-party-of-the-soviet-union",
+      "name": "Communist Party of the Soviet Union",
+      "section": "Socialist and Communist Parties",
+      "tags": [
+        "parties",
+        "organization"
+      ]
+    },
+    {
+      "slug": "chinese-communist-party",
+      "name": "Chinese Communist Party",
+      "section": "Socialist and Communist Parties",
+      "tags": [
+        "parties",
+        "organization"
+      ]
+    },
+    {
+      "slug": "italian-communist-party",
+      "name": "Italian Communist Party",
+      "section": "Socialist and Communist Parties",
+      "tags": [
+        "parties",
+        "organization"
+      ]
+    },
+    {
+      "slug": "french-communist-party",
+      "name": "French Communist Party",
+      "section": "Socialist and Communist Parties",
+      "tags": [
+        "parties",
+        "organization"
+      ]
+    },
+    {
+      "slug": "spanish-communist-party",
+      "name": "Spanish Communist Party",
+      "section": "Socialist and Communist Parties",
+      "tags": [
+        "parties",
+        "organization"
+      ]
+    },
+    {
+      "slug": "british-communist-party",
+      "name": "British Communist Party",
+      "section": "Socialist and Communist Parties",
+      "tags": [
+        "parties",
+        "organization"
+      ]
+    },
+    {
+      "slug": "communist-party-usa",
+      "name": "Communist Party USA",
+      "section": "Socialist and Communist Parties",
+      "tags": [
+        "parties",
+        "organization"
+      ]
+    },
+    {
+      "slug": "cuban-communist-party",
+      "name": "Cuban Communist Party",
+      "section": "Socialist and Communist Parties",
+      "tags": [
+        "parties",
+        "organization"
+      ]
+    },
+    {
+      "slug": "vietnamese-communist-party",
+      "name": "Vietnamese Communist Party",
+      "section": "Socialist and Communist Parties",
+      "tags": [
+        "parties",
+        "organization"
+      ]
+    },
+    {
+      "slug": "orthodox-marxism",
+      "name": "orthodox Marxism",
+      "section": "Internal Debates in Marxism",
+      "tags": [
+        "debates",
+        "theory"
+      ]
+    },
+    {
+      "slug": "western-marxism",
+      "name": "Western Marxism",
+      "section": "Internal Debates in Marxism",
+      "tags": [
+        "debates",
+        "theory"
+      ]
+    },
+    {
+      "slug": "analytical-marxism",
+      "name": "analytical Marxism",
+      "section": "Internal Debates in Marxism",
+      "tags": [
+        "debates",
+        "theory"
+      ]
+    },
+    {
+      "slug": "structural-marxism",
+      "name": "structural Marxism",
+      "section": "Internal Debates in Marxism",
+      "tags": [
+        "debates",
+        "theory"
+      ]
+    },
+    {
+      "slug": "humanist-marxism",
+      "name": "humanist Marxism",
+      "section": "Internal Debates in Marxism",
+      "tags": [
+        "debates",
+        "theory"
+      ]
+    },
+    {
+      "slug": "marxist-feminism",
+      "name": "Marxist feminism",
+      "section": "Internal Debates in Marxism",
+      "tags": [
+        "debates",
+        "theory"
+      ]
+    },
+    {
+      "slug": "eco-marxism",
+      "name": "eco-Marxism",
+      "section": "Internal Debates in Marxism",
+      "tags": [
+        "debates",
+        "theory"
+      ]
+    },
+    {
+      "slug": "autonomist-marxism",
+      "name": "autonomist Marxism",
+      "section": "Internal Debates in Marxism",
+      "tags": [
+        "debates",
+        "theory"
+      ]
+    },
+    {
+      "slug": "open-marxism",
+      "name": "open Marxism",
+      "section": "Internal Debates in Marxism",
+      "tags": [
+        "debates",
+        "theory"
+      ]
+    },
+    {
+      "slug": "leninism-debates",
+      "name": "Leninism debates",
+      "section": "Internal Debates in Marxism",
+      "tags": [
+        "debates",
+        "theory"
+      ]
+    },
+    {
+      "slug": "trotskyism-debates",
+      "name": "Trotskyism debates",
+      "section": "Internal Debates in Marxism",
+      "tags": [
+        "debates",
+        "theory"
+      ]
+    },
+    {
+      "slug": "maoism-debates",
+      "name": "Maoism debates",
+      "section": "Internal Debates in Marxism",
+      "tags": [
+        "debates",
+        "theory"
+      ]
+    },
+    {
+      "slug": "eurocommunism-debates",
+      "name": "Eurocommunism debates",
+      "section": "Internal Debates in Marxism",
+      "tags": [
+        "debates",
+        "theory"
+      ]
+    },
+    {
+      "slug": "workers-self-management",
+      "name": "workers’ self-management",
+      "section": "Forms of Socialist Economy",
+      "tags": [
+        "socialist economy",
+        "planning"
+      ]
+    },
+    {
+      "slug": "taylorism-critique",
+      "name": "Taylorism critique",
+      "section": "Labour Process Analysis Topics",
+      "tags": [
+        "labor process",
+        "production"
+      ]
+    },
+    {
+      "slug": "fordism",
+      "name": "Fordism",
+      "section": "Labour Process Analysis Topics",
+      "tags": [
+        "labor process",
+        "production"
+      ]
+    },
+    {
+      "slug": "post-fordism-debates",
+      "name": "post-Fordism debates",
+      "section": "Labour Process Analysis Topics",
+      "tags": [
+        "labor process",
+        "production"
+      ]
+    },
+    {
+      "slug": "urban-class-formation",
+      "name": "urban class formation",
+      "section": "Marxist Sociology Topics",
+      "tags": [
+        "sociology",
+        "reproduction"
+      ]
+    },
+    {
+      "slug": "industrial-revolutions",
+      "name": "industrial revolutions",
+      "section": "Historical Materialist Studies",
+      "tags": [
+        "history",
+        "modes of production"
+      ]
+    },
+    {
+      "slug": "modern-capitalist-expansion",
+      "name": "modern capitalist expansion",
+      "section": "Historical Materialist Studies",
+      "tags": [
+        "history",
+        "modes of production"
+      ]
+    },
+    {
+      "slug": "historical-class-alliances",
+      "name": "historical class alliances",
+      "section": "Analytical Research Topics",
+      "tags": [
+        "analysis",
+        "contemporary"
+      ]
+    },
+    {
+      "slug": "economic-determinism-debate",
+      "name": "Economic Determinism Debate",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "economic laws of motion"
+      ]
+    },
+    {
+      "slug": "reformism-critique",
+      "name": "Reformism Critique",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "bourgeois socialism",
+        "sentimental socialism",
+        "religious socialism",
+        "sectarian socialism"
+      ]
+    },
+    {
+      "slug": "property-relations",
+      "name": "Property Relations",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "property"
+      ]
+    },
+    {
+      "slug": "rent-theory",
+      "name": "Rent Theory",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "rent",
+        "ground rent"
+      ]
+    },
+    {
+      "slug": "wage-system",
+      "name": "Wage System",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "wages",
+        "minimum wage"
+      ]
+    },
+    {
+      "slug": "crisis-theory-general",
+      "name": "Crisis Theory General",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "commercial crisis",
+        "economic crisis"
+      ]
+    },
+    {
+      "slug": "trade-and-protection",
+      "name": "Trade And Protection",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "tariffs",
+        "protective tariffs",
+        "free trade",
+        "trade policy",
+        "trade liberalisation regimes"
+      ]
+    },
+    {
+      "slug": "monetary-system",
+      "name": "Monetary System",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "bank question",
+        "money",
+        "savings banks"
+      ]
+    },
+    {
+      "slug": "state-theory",
+      "name": "State Theory",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "state power",
+        "bourgeois state",
+        "state apparatus"
+      ]
+    },
+    {
+      "slug": "democracy-and-state",
+      "name": "Democracy And State",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "constitutionalism",
+        "constitutional question"
+      ]
+    },
+    {
+      "slug": "bourgeois-revolution",
+      "name": "Bourgeois Revolution",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "bourgeois revolution",
+        "bourgeois-democratic revolutions"
+      ]
+    },
+    {
+      "slug": "political-power",
+      "name": "Political Power",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "political power",
+        "political organisation"
+      ]
+    },
+    {
+      "slug": "class-analysis",
+      "name": "Class Analysis",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "class domination"
+      ]
+    },
+    {
+      "slug": "ideology-and-consciousness",
+      "name": "Ideology And Consciousness",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "bourgeois ideology",
+        "petty-bourgeois ideology",
+        "philistine morality",
+        "moralising criticism",
+        "critical morality",
+        "ideological reproduction"
+      ]
+    },
+    {
+      "slug": "opportunism",
+      "name": "Opportunism",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "opportunism",
+        "right opportunism",
+        "left opportunism"
+      ]
+    },
+    {
+      "slug": "philosophical-critique",
+      "name": "Philosophical Critique",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "metaphysics of political economy",
+        "historical school of law"
+      ]
+    },
+    {
+      "slug": "marxist-currents",
+      "name": "Marxist Currents",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "revisionism debate",
+        "council communism",
+        "left communism",
+        "market socialism debates",
+        "socialism in one country debate",
+        "permanent revolution theory debates",
+        "uneven development theory",
+        "combined development theory"
+      ]
+    },
+    {
+      "slug": "revolutionary-theory",
+      "name": "Revolutionary Theory",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "revolutionary vanguard"
+      ]
+    },
+    {
+      "slug": "political-strategy",
+      "name": "Political Strategy",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "mass party strategy",
+        "united front strategy",
+        "popular front strategy",
+        "dual power strategy",
+        "insurrectionary strategy",
+        "armed struggle theory",
+        "party discipline",
+        "democratic centralism theory",
+        "mass line strategy",
+        "guerrilla warfare strategy",
+        "protracted people’s war",
+        "national liberation strategy",
+        "front organisations",
+        "cadre formation",
+        "revolutionary propaganda",
+        "political agitation",
+        "political education"
+      ]
+    },
+    {
+      "slug": "socialist-planning",
+      "name": "Socialist Planning",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "planned economy models",
+        "central planning systems",
+        "cooperative economies",
+        "participatory planning",
+        "cybernetic planning proposals",
+        "decentralised planning",
+        "state planning commissions",
+        "collectivised agriculture",
+        "communal agriculture",
+        "socialised industry",
+        "public banking systems"
+      ]
+    },
+    {
+      "slug": "labour-process-control",
+      "name": "Labour Process Control",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "scientific management critique",
+        "automation and labour",
+        "deskilling of labour",
+        "labour control techniques",
+        "managerial hierarchy",
+        "industrial discipline systems",
+        "labour surveillance",
+        "production quotas",
+        "factory regimes",
+        "workplace resistance"
+      ]
+    },
+    {
+      "slug": "neoliberal-globalization",
+      "name": "Neoliberal Globalization",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "transnational corporations",
+        "offshore production",
+        "outsourcing of labour",
+        "export processing zones",
+        "international monetary institutions",
+        "structural adjustment policies",
+        "neoliberal globalisation"
+      ]
+    },
+    {
+      "slug": "global-production-networks",
+      "name": "Global Production Networks",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "global supply chains",
+        "global labour arbitrage",
+        "global debt crises"
+      ]
+    },
+    {
+      "slug": "financialisation",
+      "name": "Financialisation",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "financial globalisation"
+      ]
+    },
+    {
+      "slug": "imperial-system",
+      "name": "Imperial System",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "imperial rivalry theory"
+      ]
+    },
+    {
+      "slug": "imperialism-theory",
+      "name": "Imperialism Theory",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "informal empire",
+        "settler colonialism",
+        "resource imperialism",
+        "economic imperialism",
+        "financial imperialism",
+        "military imperialism",
+        "neo-colonialism",
+        "core-periphery relations",
+        "semi-periphery theory",
+        "unequal exchange theory"
+      ]
+    },
+    {
+      "slug": "colonial-capitalism",
+      "name": "Colonial Capitalism",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "colonial administration systems",
+        "colonial social hierarchies"
+      ]
+    },
+    {
+      "slug": "dependency-theory",
+      "name": "Dependency Theory",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "dependency theory"
+      ]
+    },
+    {
+      "slug": "culture-and-ideology",
+      "name": "Culture And Ideology",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "cultural industries",
+        "mass culture critique",
+        "culture and ideology",
+        "literature and class",
+        "art and class relations",
+        "popular culture analysis",
+        "media ideology",
+        "education and ideology",
+        "national culture debates",
+        "working-class culture",
+        "counter-culture movements"
+      ]
+    },
+    {
+      "slug": "social-reproduction-theory",
+      "name": "Social Reproduction Theory",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "social reproduction theory",
+        "family and capitalism",
+        "household labour debates"
+      ]
+    },
+    {
+      "slug": "gender-and-labour",
+      "name": "Gender And Labour",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "gender and labour"
+      ]
+    },
+    {
+      "slug": "racial-capitalism",
+      "name": "Racial Capitalism",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "racial capitalism",
+        "migration and labour markets",
+        "informal economies",
+        "precariat debates"
+      ]
+    },
+    {
+      "slug": "urban-rural-proletariat",
+      "name": "Urban Rural Proletariat",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "slum economies"
+      ]
+    },
+    {
+      "slug": "ecological-crisis",
+      "name": "Ecological Crisis",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "capitalist environmental degradation",
+        "industrial pollution",
+        "resource exhaustion",
+        "ecological crises of capitalism",
+        "environmental justice movements",
+        "green socialism",
+        "social metabolism debates",
+        "energy transitions",
+        "climate crisis capitalism",
+        "fossil capitalism"
+      ]
+    },
+    {
+      "slug": "pre-capitalist-modes",
+      "name": "Pre Capitalist Modes",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "ancient class societies",
+        "slave societies",
+        "tributary systems",
+        "feudal agrarian relations",
+        "feudal rent systems",
+        "medieval guild economies",
+        "merchant republics",
+        "early modern trade empires"
+      ]
+    },
+    {
+      "slug": "long-waves-capitalism",
+      "name": "Long Waves Capitalism",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "long-term capitalist development",
+        "cycles of accumulation",
+        "structural transformation of economies",
+        "revolutionary conjunctures",
+        "crisis and restructuring"
+      ]
+    },
+    {
+      "slug": "welfare-state",
+      "name": "Welfare State",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "political economy of welfare states"
+      ]
+    },
+    {
+      "slug": "contemporary-political-economy",
+      "name": "Contemporary Political Economy",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "financial crisis analysis",
+        "labour market segmentation"
+      ]
+    },
+    {
+      "slug": "technology-capitalism",
+      "name": "Technology Capitalism",
+      "section": "Consolidated",
+      "tags": [
+        "theory",
+        "political economy"
+      ],
+      "consolidates": [
+        "technological change and class structure",
+        "digital capitalism",
+        "platform economies"
+      ]
+    }
+  ],
+  "new_texts": [
+    {
+      "slug": "the-holy-family",
+      "name": "The Holy Family",
+      "section": "Classic Marxist Texts (as dictionary entries)"
+    },
+    {
+      "slug": "theories-of-surplus-value",
+      "name": "Theories of Surplus Value",
+      "section": "Classic Marxist Texts (as dictionary entries)"
+    },
+    {
+      "slug": "critique-of-the-gotha-programme",
+      "name": "Critique of the Gotha Programme",
+      "section": "Classic Marxist Texts (as dictionary entries)"
+    },
+    {
+      "slug": "critique-of-the-hegelian-philosophy-of-right",
+      "name": "Critique of the Hegelian Philosophy of Right",
+      "section": "Classic Marxist Texts (as dictionary entries)"
+    },
+    {
+      "slug": "economic-and-philosophic-manuscripts",
+      "name": "Economic and Philosophic Manuscripts",
+      "section": "Classic Marxist Texts (as dictionary entries)"
+    },
+    {
+      "slug": "the-civil-war-in-france",
+      "name": "The Civil War in France",
+      "section": "Classic Marxist Texts (as dictionary entries)"
+    },
+    {
+      "slug": "anti-dhring",
+      "name": "Anti-Dühring",
+      "section": "Classic Marxist Texts (as dictionary entries)"
+    },
+    {
+      "slug": "dialectics-of-nature",
+      "name": "Dialectics of Nature",
+      "section": "Classic Marxist Texts (as dictionary entries)"
+    },
+    {
+      "slug": "socialism-utopian-and-scientific",
+      "name": "Socialism: Utopian and Scientific",
+      "section": "Classic Marxist Texts (as dictionary entries)"
+    },
+    {
+      "slug": "monopoly-capital",
+      "name": "Monopoly Capital",
+      "section": "Classic Marxist Texts (as dictionary entries)"
+    },
+    {
+      "slug": "labor-and-monopoly-capital",
+      "name": "Labor and Monopoly Capital",
+      "section": "Classic Marxist Texts (as dictionary entries)"
+    }
+  ],
+  "new_thinkers": [
+    {
+      "slug": "pierre-joseph-proudhon",
+      "name": "Pierre-Joseph Proudhon",
+      "section": "Historical Figures (Referenced / Engaged)"
+    },
+    {
+      "slug": "karl-grn",
+      "name": "Karl Grün",
+      "section": "Historical Figures (Referenced / Engaged)"
+    },
+    {
+      "slug": "wilhelm-weitling",
+      "name": "Wilhelm Weitling",
+      "section": "Historical Figures (Referenced / Engaged)"
+    },
+    {
+      "slug": "feargus-oconnor",
+      "name": "Feargus O’Connor",
+      "section": "Historical Figures (Referenced / Engaged)"
+    },
+    {
+      "slug": "franois-guizot",
+      "name": "François Guizot",
+      "section": "Historical Figures (Referenced / Engaged)"
+    },
+    {
+      "slug": "louis-blanc",
+      "name": "Louis Blanc",
+      "section": "Historical Figures (Referenced / Engaged)"
+    },
+    {
+      "slug": "alphonse-de-lamartine",
+      "name": "Alphonse de Lamartine",
+      "section": "Historical Figures (Referenced / Engaged)"
+    },
+    {
+      "slug": "adolphe-bartels",
+      "name": "Adolphe Bartels",
+      "section": "Historical Figures (Referenced / Engaged)"
+    },
+    {
+      "slug": "ledru-rollin",
+      "name": "Ledru-Rollin",
+      "section": "Historical Figures (Referenced / Engaged)"
+    },
+    {
+      "slug": "flocon",
+      "name": "Flocon",
+      "section": "Historical Figures (Referenced / Engaged)"
+    },
+    {
+      "slug": "karl-beck",
+      "name": "Karl Beck",
+      "section": "Historical Figures (Referenced / Engaged)"
+    },
+    {
+      "slug": "arnold-ruge",
+      "name": "Arnold Ruge",
+      "section": "Historical Figures (Referenced / Engaged)"
+    },
+    {
+      "slug": "joseph-stalin",
+      "name": "Joseph Stalin",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "ernst-bloch",
+      "name": "Ernst Bloch",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "lucien-goldmann",
+      "name": "Lucien Goldmann",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "henri-lefebvre",
+      "name": "Henri Lefebvre",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "ralph-miliband",
+      "name": "Ralph Miliband",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "immanuel-wallerstein",
+      "name": "Immanuel Wallerstein",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "giovanni-arrighi",
+      "name": "Giovanni Arrighi",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "erik-olin-wright",
+      "name": "Erik Olin Wright",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "g-a-cohen",
+      "name": "G. A. Cohen",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "ellen-meiksins-wood",
+      "name": "Ellen Meiksins Wood",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "robert-brenner",
+      "name": "Robert Brenner",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "harry-braverman",
+      "name": "Harry Braverman",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "paul-baran",
+      "name": "Paul Baran",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "andr-gunder-frank",
+      "name": "André Gunder Frank",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "maurice-dobb",
+      "name": "Maurice Dobb",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "christopher-hill",
+      "name": "Christopher Hill",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "eric-hobsbawm",
+      "name": "Eric Hobsbawm",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "perry-anderson",
+      "name": "Perry Anderson",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "raymond-williams",
+      "name": "Raymond Williams",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "stuart-hall",
+      "name": "Stuart Hall",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "istvn-mszros",
+      "name": "István Mészáros",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "michael-lwy",
+      "name": "Michael Löwy",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "che-guevara",
+      "name": "Che Guevara",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "ho-chi-minh",
+      "name": "Ho Chi Minh",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "deng-xiaoping",
+      "name": "Deng Xiaoping",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "michael-hardt",
+      "name": "Michael Hardt",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "bertell-ollman",
+      "name": "Bertell Ollman",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "roman-rosdolsky",
+      "name": "Roman Rosdolsky",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "henryk-grossman",
+      "name": "Henryk Grossman",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "raya-dunayevskaya",
+      "name": "Raya Dunayevskaya",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "cornelius-castoriadis",
+      "name": "Cornelius Castoriadis",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "daniel-bensad",
+      "name": "Daniel Bensaïd",
+      "section": "Marxist Thinkers and Interpreters"
+    },
+    {
+      "slug": "adam-smith",
+      "name": "Adam Smith",
+      "section": "Pre-Marx Influences"
+    },
+    {
+      "slug": "thomas-malthus",
+      "name": "Thomas Malthus",
+      "section": "Pre-Marx Influences"
+    },
+    {
+      "slug": "jean-baptiste-say",
+      "name": "Jean-Baptiste Say",
+      "section": "Pre-Marx Influences"
+    },
+    {
+      "slug": "james-mill",
+      "name": "James Mill",
+      "section": "Pre-Marx Influences"
+    },
+    {
+      "slug": "john-stuart-mill",
+      "name": "John Stuart Mill",
+      "section": "Pre-Marx Influences"
+    },
+    {
+      "slug": "william-petty",
+      "name": "William Petty",
+      "section": "Pre-Marx Influences"
+    },
+    {
+      "slug": "franois-quesnay",
+      "name": "François Quesnay",
+      "section": "Pre-Marx Influences"
+    },
+    {
+      "slug": "anne-robert-jacques-turgot",
+      "name": "Anne Robert Jacques Turgot",
+      "section": "Pre-Marx Influences"
+    },
+    {
+      "slug": "claude-henri-de-saint-simon",
+      "name": "Claude Henri de Saint-Simon",
+      "section": "Pre-Marx Influences"
+    },
+    {
+      "slug": "charles-fourier",
+      "name": "Charles Fourier",
+      "section": "Pre-Marx Influences"
+    },
+    {
+      "slug": "robert-owen",
+      "name": "Robert Owen",
+      "section": "Pre-Marx Influences"
+    },
+    {
+      "slug": "tienne-cabet",
+      "name": "Étienne Cabet",
+      "section": "Pre-Marx Influences"
+    },
+    {
+      "slug": "pierre-leroux",
+      "name": "Pierre Leroux",
+      "section": "Pre-Marx Influences"
+    },
+    {
+      "slug": "gracchus-babeuf",
+      "name": "Gracchus Babeuf",
+      "section": "Pre-Marx Influences"
+    },
+    {
+      "slug": "filippo-buonarroti",
+      "name": "Filippo Buonarroti",
+      "section": "Pre-Marx Influences"
+    }
+  ],
+  "consolidated": {
+    "economic-determinism-debate": [
+      "economic laws of motion"
+    ],
+    "reformism-critique": [
+      "bourgeois socialism",
+      "sentimental socialism",
+      "religious socialism",
+      "sectarian socialism"
+    ],
+    "property-relations": [
+      "property"
+    ],
+    "rent-theory": [
+      "rent",
+      "ground rent"
+    ],
+    "wage-system": [
+      "wages",
+      "minimum wage"
+    ],
+    "crisis-theory-general": [
+      "commercial crisis",
+      "economic crisis"
+    ],
+    "trade-and-protection": [
+      "tariffs",
+      "protective tariffs",
+      "free trade",
+      "trade policy",
+      "trade liberalisation regimes"
+    ],
+    "monetary-system": [
+      "bank question",
+      "money",
+      "savings banks"
+    ],
+    "state-theory": [
+      "state power",
+      "bourgeois state",
+      "state apparatus"
+    ],
+    "democracy-and-state": [
+      "constitutionalism",
+      "constitutional question"
+    ],
+    "bourgeois-revolution": [
+      "bourgeois revolution",
+      "bourgeois-democratic revolutions"
+    ],
+    "political-power": [
+      "political power",
+      "political organisation"
+    ],
+    "class-analysis": [
+      "class domination"
+    ],
+    "ideology-and-consciousness": [
+      "bourgeois ideology",
+      "petty-bourgeois ideology",
+      "philistine morality",
+      "moralising criticism",
+      "critical morality",
+      "ideological reproduction"
+    ],
+    "opportunism": [
+      "opportunism",
+      "right opportunism",
+      "left opportunism"
+    ],
+    "philosophical-critique": [
+      "metaphysics of political economy",
+      "historical school of law"
+    ],
+    "marxist-currents": [
+      "revisionism debate",
+      "council communism",
+      "left communism",
+      "market socialism debates",
+      "socialism in one country debate",
+      "permanent revolution theory debates",
+      "uneven development theory",
+      "combined development theory"
+    ],
+    "revolutionary-theory": [
+      "revolutionary vanguard"
+    ],
+    "political-strategy": [
+      "mass party strategy",
+      "united front strategy",
+      "popular front strategy",
+      "dual power strategy",
+      "insurrectionary strategy",
+      "armed struggle theory",
+      "party discipline",
+      "democratic centralism theory",
+      "mass line strategy",
+      "guerrilla warfare strategy",
+      "protracted people’s war",
+      "national liberation strategy",
+      "front organisations",
+      "cadre formation",
+      "revolutionary propaganda",
+      "political agitation",
+      "political education"
+    ],
+    "socialist-planning": [
+      "planned economy models",
+      "central planning systems",
+      "cooperative economies",
+      "participatory planning",
+      "cybernetic planning proposals",
+      "decentralised planning",
+      "state planning commissions",
+      "collectivised agriculture",
+      "communal agriculture",
+      "socialised industry",
+      "public banking systems"
+    ],
+    "labour-process-control": [
+      "scientific management critique",
+      "automation and labour",
+      "deskilling of labour",
+      "labour control techniques",
+      "managerial hierarchy",
+      "industrial discipline systems",
+      "labour surveillance",
+      "production quotas",
+      "factory regimes",
+      "workplace resistance"
+    ],
+    "neoliberal-globalization": [
+      "transnational corporations",
+      "offshore production",
+      "outsourcing of labour",
+      "export processing zones",
+      "international monetary institutions",
+      "structural adjustment policies",
+      "neoliberal globalisation"
+    ],
+    "global-production-networks": [
+      "global supply chains",
+      "global labour arbitrage",
+      "global debt crises"
+    ],
+    "financialisation": [
+      "financial globalisation"
+    ],
+    "imperial-system": [
+      "imperial rivalry theory"
+    ],
+    "imperialism-theory": [
+      "informal empire",
+      "settler colonialism",
+      "resource imperialism",
+      "economic imperialism",
+      "financial imperialism",
+      "military imperialism",
+      "neo-colonialism",
+      "core-periphery relations",
+      "semi-periphery theory",
+      "unequal exchange theory"
+    ],
+    "colonial-capitalism": [
+      "colonial administration systems",
+      "colonial social hierarchies"
+    ],
+    "dependency-theory": [
+      "dependency theory"
+    ],
+    "culture-and-ideology": [
+      "cultural industries",
+      "mass culture critique",
+      "culture and ideology",
+      "literature and class",
+      "art and class relations",
+      "popular culture analysis",
+      "media ideology",
+      "education and ideology",
+      "national culture debates",
+      "working-class culture",
+      "counter-culture movements"
+    ],
+    "social-reproduction-theory": [
+      "social reproduction theory",
+      "family and capitalism",
+      "household labour debates"
+    ],
+    "gender-and-labour": [
+      "gender and labour"
+    ],
+    "racial-capitalism": [
+      "racial capitalism",
+      "migration and labour markets",
+      "informal economies",
+      "precariat debates"
+    ],
+    "urban-rural-proletariat": [
+      "slum economies"
+    ],
+    "ecological-crisis": [
+      "capitalist environmental degradation",
+      "industrial pollution",
+      "resource exhaustion",
+      "ecological crises of capitalism",
+      "environmental justice movements",
+      "green socialism",
+      "social metabolism debates",
+      "energy transitions",
+      "climate crisis capitalism",
+      "fossil capitalism"
+    ],
+    "pre-capitalist-modes": [
+      "ancient class societies",
+      "slave societies",
+      "tributary systems",
+      "feudal agrarian relations",
+      "feudal rent systems",
+      "medieval guild economies",
+      "merchant republics",
+      "early modern trade empires"
+    ],
+    "long-waves-capitalism": [
+      "long-term capitalist development",
+      "cycles of accumulation",
+      "structural transformation of economies",
+      "revolutionary conjunctures",
+      "crisis and restructuring"
+    ],
+    "welfare-state": [
+      "political economy of welfare states"
+    ],
+    "contemporary-political-economy": [
+      "financial crisis analysis",
+      "labour market segmentation"
+    ],
+    "technology-capitalism": [
+      "technological change and class structure",
+      "digital capitalism",
+      "platform economies"
+    ]
+  },
+  "skipped_sections": [
+    "Economic and Social Actors",
+    "Philosophical Figures Referenced",
+    "Political Leaders and Rulers",
+    "Nations / Political Contexts",
+    "Marx’s Early Philosophical Themes",
+    "Workers’ Movements",
+    "Workers’ Party traditions"
+  ],
+  "stats": {
+    "existing_matched": 64,
+    "new_terms": 141,
+    "new_texts": 11,
+    "new_thinkers": 59,
+    "consolidated_groups": 39,
+    "entries_consolidated": 162,
+    "skipped_sections": [
+      "Economic and Social Actors",
+      "Philosophical Figures Referenced",
+      "Political Leaders and Rulers",
+      "Nations / Political Contexts",
+      "Marx’s Early Philosophical Themes",
+      "Workers’ Movements",
+      "Workers’ Party traditions"
+    ],
+    "total_new": 211
+  }
+}

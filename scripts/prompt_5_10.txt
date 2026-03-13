@@ -1,0 +1,61 @@
+60 entries
+1. terms/eurocommunism-debates - term: Eurocommunism Debates; tags: [debates, theory]
+2. terms/exchange-relations - term: Exchange Relations; related: [property-relations, exchange-value, relations-of-production]; ta
+3. terms/exploitation - term: Exploitation; german: Ausbeutung; source: "Capital Vol. 1, Chs. 7-9"; tags: [political economy
+4. terms/february-revolution-of-1848 - term: February Revolution of 1848; related: [chinese-revolution-of-1949, nicaraguan-revolution, indu
+5. terms/february-revolution-of-1917 - term: February Revolution of 1917; related: [chinese-revolution-of-1949, nicaraguan-revolution, febr
+6. terms/feudal-socialism - term: Feudal Socialism; related: [utopian-socialism, critical-utopian-socialism, petty-bourgeois-soc
+7. terms/finance-capital - term: Finance Capital; german: Finanzkapital; source: "Finance Capital (Hilferding, 1910)"; related:
+8. terms/financialisation - term: Financialisation; tags: [theory, political economy]
+9. terms/fordism - term: Fordism; related: [post-fordism-debates]; tags: [labor process, production]
+10. terms/fraternal-democrats - term: Fraternal Democrats; tags: [movements, organizations]
+11. terms/french-communist-party - term: French Communist Party; related: [communist-league, revolutionary-party, communist-party-usa, 
+12. terms/gender-and-labour - term: Gender and Labour; related: [division-of-labour, labour-process-control, wage-labour]; tags: [
+13. terms/german-revolution-of-1918 - term: German Revolution of 1918; related: [chinese-revolution-of-1949, nicaraguan-revolution, februa
+14. terms/german-social-democratic-party-history - term: German Social Democratic Party History; related: [revolutionary-party, communist-party-usa, fr
+15. terms/german-workers-club - term: German Workers’ Club; related: [german-social-democratic-party-history, german-revolution-of-1
+16. terms/global-production-networks - term: Global Production Networks; related: [relations-of-production, forces-of-production, mode-of-p
+17. terms/historical-class-alliances - term: Historical Class Alliances; related: [class-analysis, historical-materialism, urban-class-form
+18. terms/humanist-marxism - term: Humanist Marxism; related: [structural-marxism, western-marxism, orthodox-marxism, eco-marxism
+19. terms/hungarian-soviet-republic - term: Hungarian Soviet Republic; related: [communist-party-of-the-soviet-union]; tags: [history, rev
+20. terms/ideology-and-consciousness - term: Ideology and Consciousness; related: [ideology, culture-and-ideology]; tags: [theory, politica
+21. terms/imperial-system - term: Imperial System; related: [monetary-system, wage-system]; tags: [theory, political economy]
+22. terms/imperialism-theory - term: Imperialism Theory; related: [imperialism]; tags: [theory, political economy]
+23. terms/industrial-capital - term: Industrial Capital; german: Industrielles Kapital; source: "Capital Vol. 2"; related: [industr
+24. terms/industrial-revolution - term: Industrial Revolution; related: [chinese-revolution-of-1949, nicaraguan-revolution, february-r
+25. terms/industrial-revolutions - term: Industrial Revolutions; related: [industrial-revolution, rise-of-the-industrial-working-class,
+26. terms/international-proletarian-organisations - term: International Proletarian Organisations; related: [proletarian-revolution, proletarian-interna
+27. terms/international-working-mens-association - term: International Working Men’s Association; related: [international-proletarian-organisations, de
+28. terms/italian-communist-party - term: Italian Communist Party; related: [communist-league, revolutionary-party, communist-party-usa,
+29. terms/june-days-uprising - term: June Days Uprising; related: [polish-uprising-of-1830, spartacist-uprising]; tags: [history, r
+30. terms/labour-process-control - term: Labour Process Control; related: [division-of-labour, gender-and-labour, wage-labour]; tags: [
+31. terms/leninism-debates - term: Leninism Debates; tags: [debates, theory]
+32. terms/long-waves-capitalism - term: Long Waves Capitalism; related: [colonial-capitalism, racial-capitalism, technology-capitalism
+33. terms/machinery - term: Machinery; german: Maschinerie; source: "Capital Vol. 1, Ch. 15"; tags: [political economy]
+34. terms/maoism-debates - term: Maoism Debates; tags: [debates, theory]
+35. terms/marxist-currents - term: Marxist Currents; related: [marxist-feminism]; tags: [theory, political economy]
+36. terms/marxist-feminism - term: Marxist Feminism; related: [marxist-currents]; tags: [debates, theory]
+37. terms/may-1968-uprisings - term: May 1968 Uprisings; tags: [history, revolution]
+38. terms/menshevik-faction - term: Menshevik Faction; tags: [parties, organization]
+39. terms/merchant-capital - term: Merchant Capital; german: Kaufmannskapital; source: "Capital Vol. 3, Part IV"; related: [organ
+40. terms/modern-capitalist-expansion - term: Modern Capitalist Expansion; related: [pre-capitalist-modes]; tags: [history, modes of product
+41. terms/monetary-system - term: Monetary System; german: Geldsystem; related: [imperial-system, wage-system]; tags: [theory, p
+42. terms/monopoly - term: Monopoly; german: Monopol; source: "Capital Vol. 1, Ch. 25; Imperialism (Lenin)"; tags: [polit
+43. terms/neoliberal-globalization - term: Neoliberal Globalization; tags: [theory, political economy]
+44. terms/nicaraguan-revolution - term: Nicaraguan Revolution; related: [chinese-revolution-of-1949, february-revolution-of-1848, indu
+45. terms/october-revolution - term: October Revolution; related: [chinese-revolution-of-1949, nicaraguan-revolution, february-revo
+46. terms/open-marxism - term: Open Marxism; related: [structural-marxism, western-marxism, orthodox-marxism, eco-marxism, hu
+47. terms/opportunism - term: Opportunism; tags: [theory, political economy]
+48. terms/orthodox-marxism - term: Orthodox Marxism; related: [structural-marxism, western-marxism, eco-marxism, humanist-marxism
+49. terms/overproduction - term: Overproduction; german: Überproduktion; source: "Capital Vol. 2-3; Theories of Surplus Value";
+50. terms/paris-commune - term: Paris Commune; tags: [history, revolution]
+51. terms/petty-bourgeois-socialism - term: Petty-bourgeois Socialism; related: [utopian-socialism, critical-utopian-socialism, feudal-soc
+52. terms/petty-bourgeoisie - term: Petty Bourgeoisie; german: Kleinbürgertum; source: "The Eighteenth Brumaire"; related: [petty-
+53. terms/philosophical-critique - term: Philosophical Critique; related: [reformism-critique, taylorism-critique]; tags: [theory, poli
+54. terms/polish-uprising-of-1830 - term: Polish Uprising of 1830; related: [june-days-uprising, spartacist-uprising]; tags: [history, r
+55. terms/political-power - term: Political Power; related: [political-strategy, labor-power, contemporary-political-economy]; t
+56. terms/political-strategy - term: Political Strategy; related: [political-power, contemporary-political-economy]; tags: [theory,
+57. terms/portuguese-carnation-revolution - term: Portuguese Carnation Revolution; related: [chinese-revolution-of-1949, nicaraguan-revolution, 
+58. terms/post-fordism-debates - term: Post-fordism Debates; related: [fordism]; tags: [labor process, production]
+59. terms/prague-spring - term: Prague Spring; tags: [history, revolution]
+60. terms/pre-capitalist-modes - term: Pre Capitalist Modes; related: [modern-capitalist-expansion]; tags: [theory, political economy

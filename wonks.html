@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Policy Wonks | The Marxist Tradition</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <nav class="nav-bar">
+    <a href="index.html" class="nav-brand">The Marxist Tradition</a>
+    <ul class="nav-links">
+      <li><a href="tour.html">Tour</a></li>
+      <li><a href="dictionary.html">Dictionary</a></li>
+      <li><a href="whos-who.html">Who's Who</a></li>
+      <li><a href="analyses.html">21st Century</a></li>
+      <li><a href="wonks.html" class="active">Policy Wonks</a></li>
+      <li><a href="comedians.html">Comedy</a></li>
+      <li><a href="pundits.html">Pundits</a></li>
+    </ul>
+  </nav>
+
+  <div class="container">
+    <h1 class="section-title">Marxist Responses to Policy Wonks</h1>
+    <p class="section-subtitle">Critiquing neoliberal policy through the lens of political economy</p>
+
+    <div class="controls">
+      <input type="text" class="search-box" id="search" placeholder="Search by topic, tag, or policy area...">
+      <div class="filter-chips" id="tag-filters"></div>
+    </div>
+
+    <div id="results" class="card-grid"></div>
+  </div>
+
+  <footer class="footer">
+    A companion to <a href="https://github.com/EricRuud/capital_interpreter" style="color: var(--color-accent);">Capital RAG</a>
+  </footer>
+
+  <script src="js/wonks.js"></script>
+</body>
+</html>

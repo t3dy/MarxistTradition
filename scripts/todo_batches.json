@@ -1,0 +1,1317 @@
+{
+  "total_todos": 211,
+  "batch_count": 22,
+  "batch_size": 10,
+  "batches": [
+    [
+      {
+        "category": "terms",
+        "slug": "1848-revolutions",
+        "path": "content\\terms\\1848-revolutions.md",
+        "frontmatter": "term: 1848 Revolutions\nrelated: [february-revolution-of-1848, industrial-revolutions]\ntags: [history, revolution]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "absolutism",
+        "path": "content\\terms\\absolutism.md",
+        "frontmatter": "term: Absolutism\ngerman: Absolutismus\nsource: \"The Communist Manifesto; The Eighteenth Brumaire\"\ntags: [state theory, politics]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "analytical-marxism",
+        "path": "content\\terms\\analytical-marxism.md",
+        "frontmatter": "term: Analytical Marxism\nrelated: [structural-marxism, western-marxism, orthodox-marxism, eco-marxism, humanist-marxism]\ntags: [debates, theory]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "autonomist-marxism",
+        "path": "content\\terms\\autonomist-marxism.md",
+        "frontmatter": "term: Autonomist Marxism\nrelated: [structural-marxism, western-marxism, orthodox-marxism, eco-marxism, humanist-marxism]\ntags: [debates, theory]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "bolshevik-party",
+        "path": "content\\terms\\bolshevik-party.md",
+        "frontmatter": "term: Bolshevik Party\nrelated: [revolutionary-party, communist-party-usa, french-communist-party, british-communist-party, german-social-democratic-party-history]\ntags: [parties, organization]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "bourgeois-revolution",
+        "path": "content\\terms\\bourgeois-revolution.md",
+        "frontmatter": "term: Bourgeois Revolution\nrelated: [chinese-revolution-of-1949, nicaraguan-revolution, february-revolution-of-1848, industrial-revolution, proletarian-revolution]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "bourgeoisie",
+        "path": "content\\terms\\bourgeoisie.md",
+        "frontmatter": "term: Bourgeoisie\ngerman: Bourgeoisie\nsource: \"The Communist Manifesto\"\nrelated: [petty-bourgeoisie]\ntags: [political economy, theory]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "british-communist-party",
+        "path": "content\\terms\\british-communist-party.md",
+        "frontmatter": "term: British Communist Party\nrelated: [communist-league, revolutionary-party, communist-party-usa, french-communist-party, bolshevik-party]\ntags: [parties, organization]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "brussels-communist-correspondence-committee",
+        "path": "content\\terms\\brussels-communist-correspondence-committee.md",
+        "frontmatter": "term: Brussels Communist Correspondence Committee\nrelated: [communist-league, communist-party-usa, french-communist-party, british-communist-party, democratic-association-of-brussels]\ntags: [movements, organizations]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "chartist-agitation",
+        "path": "content\\terms\\chartist-agitation.md",
+        "frontmatter": "term: Chartist Agitation\nrelated: [chartist-banquet, chartist-movement, chartist-association]\ntags: [movements, organizations]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      }
+    ],
+    [
+      {
+        "category": "terms",
+        "slug": "chartist-association",
+        "path": "content\\terms\\chartist-association.md",
+        "frontmatter": "term: Chartist Association\nrelated: [chartist-agitation, chartist-banquet, chartist-movement, democratic-association-of-brussels, international-working-mens-association]\ntags: [movements, organizations]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "chartist-banquet",
+        "path": "content\\terms\\chartist-banquet.md",
+        "frontmatter": "term: Chartist Banquet\nrelated: [chartist-agitation, chartist-movement, chartist-association]\ntags: [movements, organizations]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "chartist-movement",
+        "path": "content\\terms\\chartist-movement.md",
+        "frontmatter": "term: Chartist Movement\nrelated: [chartist-agitation, chartist-banquet, working-class-movement, chartist-association, democratic-movement]\ntags: [movements, organizations]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "chinese-communist-party",
+        "path": "content\\terms\\chinese-communist-party.md",
+        "frontmatter": "term: Chinese Communist Party\nrelated: [chinese-revolution-of-1949, communist-league, revolutionary-party, communist-party-usa, french-communist-party]\ntags: [parties, organization]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "chinese-revolution-of-1949",
+        "path": "content\\terms\\chinese-revolution-of-1949.md",
+        "frontmatter": "term: Chinese Revolution of 1949\nrelated: [nicaraguan-revolution, february-revolution-of-1848, industrial-revolution, proletarian-revolution, february-revolution-of-1917]\ntags: [history, revolution]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "class-analysis",
+        "path": "content\\terms\\class-analysis.md",
+        "frontmatter": "term: Class Analysis\ngerman: Klassenanalyse\nrelated: [urban-class-formation, historical-class-alliances, working-class-movement, rise-of-the-industrial-working-class, working-class-associations]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "colonial-capitalism",
+        "path": "content\\terms\\colonial-capitalism.md",
+        "frontmatter": "term: Colonial Capitalism\nrelated: [racial-capitalism, technology-capitalism, long-waves-capitalism]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "commercial-congress",
+        "path": "content\\terms\\commercial-congress.md",
+        "frontmatter": "term: Commercial Congress\nrelated: [economic-congress]\ntags: [political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "communism",
+        "path": "content\\terms\\communism.md",
+        "frontmatter": "term: Communism\ngerman: Kommunismus\nsource: \"The Communist Manifesto; The German Ideology\"\ntags: [political economy, theory]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "communist-league",
+        "path": "content\\terms\\communist-league.md",
+        "frontmatter": "term: Communist League\nrelated: [communist-party-usa, french-communist-party, british-communist-party, spanish-communist-party, vietnamese-communist-party]\ntags: [state theory, politics]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      }
+    ],
+    [
+      {
+        "category": "terms",
+        "slug": "communist-party-of-the-soviet-union",
+        "path": "content\\terms\\communist-party-of-the-soviet-union.md",
+        "frontmatter": "term: Communist Party of the Soviet Union\nrelated: [communist-league, revolutionary-party, communist-party-usa, french-communist-party, bolshevik-party]\ntags: [parties, organization]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "communist-party-usa",
+        "path": "content\\terms\\communist-party-usa.md",
+        "frontmatter": "term: Communist Party Usa\nrelated: [communist-league, revolutionary-party, french-communist-party, bolshevik-party, british-communist-party]\ntags: [parties, organization]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "competition",
+        "path": "content\\terms\\competition.md",
+        "frontmatter": "term: Competition\ngerman: Konkurrenz\nsource: \"Capital Vol. 3; Grundrisse\"\ntags: [political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "constitution",
+        "path": "content\\terms\\constitution.md",
+        "frontmatter": "term: Constitution\ntags: [state theory, politics]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "contemporary-political-economy",
+        "path": "content\\terms\\contemporary-political-economy.md",
+        "frontmatter": "term: Contemporary Political Economy\nrelated: [political-strategy, political-power]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "crisis-theory-general",
+        "path": "content\\terms\\crisis-theory-general.md",
+        "frontmatter": "term: Crisis Theory General\nrelated: [crisis-theory, ecological-crisis]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "critical-utopian-socialism",
+        "path": "content\\terms\\critical-utopian-socialism.md",
+        "frontmatter": "term: Critical-utopian Socialism\nrelated: [utopian-socialism, petty-bourgeois-socialism, feudal-socialism, socialism, scientific-socialism]\ntags: [political economy, theory]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "cuban-communist-party",
+        "path": "content\\terms\\cuban-communist-party.md",
+        "frontmatter": "term: Cuban Communist Party\nrelated: [communist-league, revolutionary-party, communist-party-usa, french-communist-party, bolshevik-party]\ntags: [parties, organization]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "cuban-revolution",
+        "path": "content\\terms\\cuban-revolution.md",
+        "frontmatter": "term: Cuban Revolution\nrelated: [chinese-revolution-of-1949, nicaraguan-revolution, february-revolution-of-1848, industrial-revolution, proletarian-revolution]\ntags: [history, revolution]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "culture-and-ideology",
+        "path": "content\\terms\\culture-and-ideology.md",
+        "frontmatter": "term: Culture and Ideology\nrelated: [ideology-and-consciousness, ideology]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      }
+    ],
+    [
+      {
+        "category": "terms",
+        "slug": "democracy-and-state",
+        "path": "content\\terms\\democracy-and-state.md",
+        "frontmatter": "term: Democracy and State\nrelated: [welfare-state, state-theory]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "democratic-association-of-brussels",
+        "path": "content\\terms\\democratic-association-of-brussels.md",
+        "frontmatter": "term: Democratic Association of Brussels\nrelated: [german-social-democratic-party-history, chartist-association, international-working-mens-association, democratic-movement, democratic-centralism]\ntags: [movements, organizations]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "democratic-movement",
+        "path": "content\\terms\\democratic-movement.md",
+        "frontmatter": "term: Democratic Movement\nrelated: [chartist-movement, democratic-association-of-brussels, german-social-democratic-party-history, working-class-movement, democratic-centralism]\ntags: [state theory, politics]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "dependency-theory",
+        "path": "content\\terms\\dependency-theory.md",
+        "frontmatter": "term: Dependency Theory\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "dialectical-materialism",
+        "path": "content\\terms\\dialectical-materialism.md",
+        "frontmatter": "term: Dialectical Materialism\ngerman: Dialektischer Materialismus\nsource: \"Anti-Dühring; Dialectics of Nature\"\nrelated: [historical-materialism]\ntags: [political economy, theory]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "division-of-labour",
+        "path": "content\\terms\\division-of-labour.md",
+        "frontmatter": "term: Division of Labour\ngerman: Teilung der Arbeit\nsource: \"Capital Vol. 1, Chs. 14-15; The German Ideology\"\nrelated: [gender-and-labour, labour-process-control, wage-labour]\ntags: [political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "eco-marxism",
+        "path": "content\\terms\\eco-marxism.md",
+        "frontmatter": "term: Eco-marxism\nrelated: [structural-marxism, western-marxism, orthodox-marxism, humanist-marxism, autonomist-marxism]\ntags: [debates, theory]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "ecological-crisis",
+        "path": "content\\terms\\ecological-crisis.md",
+        "frontmatter": "term: Ecological Crisis\nrelated: [crisis-theory-general, crisis-theory]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "economic-congress",
+        "path": "content\\terms\\economic-congress.md",
+        "frontmatter": "term: Economic Congress\nrelated: [economic-determinism-debate, commercial-congress]\ntags: [political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "economic-determinism-debate",
+        "path": "content\\terms\\economic-determinism-debate.md",
+        "frontmatter": "term: Economic Determinism Debate\nrelated: [economic-congress]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      }
+    ],
+    [
+      {
+        "category": "terms",
+        "slug": "eurocommunism-debates",
+        "path": "content\\terms\\eurocommunism-debates.md",
+        "frontmatter": "term: Eurocommunism Debates\ntags: [debates, theory]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "exchange-relations",
+        "path": "content\\terms\\exchange-relations.md",
+        "frontmatter": "term: Exchange Relations\nrelated: [property-relations, exchange-value, relations-of-production]\ntags: [political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "exploitation",
+        "path": "content\\terms\\exploitation.md",
+        "frontmatter": "term: Exploitation\ngerman: Ausbeutung\nsource: \"Capital Vol. 1, Chs. 7-9\"\ntags: [political economy, theory]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "february-revolution-of-1848",
+        "path": "content\\terms\\february-revolution-of-1848.md",
+        "frontmatter": "term: February Revolution of 1848\nrelated: [chinese-revolution-of-1949, nicaraguan-revolution, industrial-revolution, proletarian-revolution, february-revolution-of-1917]\ntags: [history, revolution]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "february-revolution-of-1917",
+        "path": "content\\terms\\february-revolution-of-1917.md",
+        "frontmatter": "term: February Revolution of 1917\nrelated: [chinese-revolution-of-1949, nicaraguan-revolution, february-revolution-of-1848, industrial-revolution, proletarian-revolution]\ntags: [history, revolution]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "feudal-socialism",
+        "path": "content\\terms\\feudal-socialism.md",
+        "frontmatter": "term: Feudal Socialism\nrelated: [utopian-socialism, critical-utopian-socialism, petty-bourgeois-socialism, socialism, scientific-socialism]\ntags: [political economy, theory]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "finance-capital",
+        "path": "content\\terms\\finance-capital.md",
+        "frontmatter": "term: Finance Capital\ngerman: Finanzkapital\nsource: \"Finance Capital (Hilferding, 1910)\"\nrelated: [organic-composition-capital, constant-variable-capital, fictitious-capital, merchant-capital, industrial-capital]\ntags: [political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "financialisation",
+        "path": "content\\terms\\financialisation.md",
+        "frontmatter": "term: Financialisation\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "fordism",
+        "path": "content\\terms\\fordism.md",
+        "frontmatter": "term: Fordism\nrelated: [post-fordism-debates]\ntags: [labor process, production]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "fraternal-democrats",
+        "path": "content\\terms\\fraternal-democrats.md",
+        "frontmatter": "term: Fraternal Democrats\ntags: [movements, organizations]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      }
+    ],
+    [
+      {
+        "category": "terms",
+        "slug": "french-communist-party",
+        "path": "content\\terms\\french-communist-party.md",
+        "frontmatter": "term: French Communist Party\nrelated: [communist-league, revolutionary-party, communist-party-usa, bolshevik-party, british-communist-party]\ntags: [parties, organization]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "gender-and-labour",
+        "path": "content\\terms\\gender-and-labour.md",
+        "frontmatter": "term: Gender and Labour\nrelated: [division-of-labour, labour-process-control, wage-labour]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "german-revolution-of-1918",
+        "path": "content\\terms\\german-revolution-of-1918.md",
+        "frontmatter": "term: German Revolution of 1918\nrelated: [chinese-revolution-of-1949, nicaraguan-revolution, february-revolution-of-1848, industrial-revolution, proletarian-revolution]\ntags: [history, revolution]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "german-social-democratic-party-history",
+        "path": "content\\terms\\german-social-democratic-party-history.md",
+        "frontmatter": "term: German Social Democratic Party History\nrelated: [revolutionary-party, communist-party-usa, french-communist-party, bolshevik-party, german-workers-club]\ntags: [parties, organization]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "german-workers-club",
+        "path": "content\\terms\\german-workers-club.md",
+        "frontmatter": "term: German Workers’ Club\nrelated: [german-social-democratic-party-history, german-revolution-of-1918, workers-self-management]\ntags: [movements, organizations]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "global-production-networks",
+        "path": "content\\terms\\global-production-networks.md",
+        "frontmatter": "term: Global Production Networks\nrelated: [relations-of-production, forces-of-production, mode-of-production]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "historical-class-alliances",
+        "path": "content\\terms\\historical-class-alliances.md",
+        "frontmatter": "term: Historical Class Alliances\nrelated: [class-analysis, historical-materialism, urban-class-formation, working-class-movement, rise-of-the-industrial-working-class]\ntags: [analysis, contemporary]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "humanist-marxism",
+        "path": "content\\terms\\humanist-marxism.md",
+        "frontmatter": "term: Humanist Marxism\nrelated: [structural-marxism, western-marxism, orthodox-marxism, eco-marxism, autonomist-marxism]\ntags: [debates, theory]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "hungarian-soviet-republic",
+        "path": "content\\terms\\hungarian-soviet-republic.md",
+        "frontmatter": "term: Hungarian Soviet Republic\nrelated: [communist-party-of-the-soviet-union]\ntags: [history, revolution]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "ideology-and-consciousness",
+        "path": "content\\terms\\ideology-and-consciousness.md",
+        "frontmatter": "term: Ideology and Consciousness\nrelated: [ideology, culture-and-ideology]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      }
+    ],
+    [
+      {
+        "category": "terms",
+        "slug": "imperial-system",
+        "path": "content\\terms\\imperial-system.md",
+        "frontmatter": "term: Imperial System\nrelated: [monetary-system, wage-system]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "imperialism-theory",
+        "path": "content\\terms\\imperialism-theory.md",
+        "frontmatter": "term: Imperialism Theory\nrelated: [imperialism]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "industrial-capital",
+        "path": "content\\terms\\industrial-capital.md",
+        "frontmatter": "term: Industrial Capital\ngerman: Industrielles Kapital\nsource: \"Capital Vol. 2\"\nrelated: [industrial-revolution, industrial-revolutions, organic-composition-capital, finance-capital, constant-variable-capital]\ntags: [political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "industrial-revolution",
+        "path": "content\\terms\\industrial-revolution.md",
+        "frontmatter": "term: Industrial Revolution\nrelated: [chinese-revolution-of-1949, nicaraguan-revolution, february-revolution-of-1848, industrial-revolutions, proletarian-revolution]\ntags: [history, revolution]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "industrial-revolutions",
+        "path": "content\\terms\\industrial-revolutions.md",
+        "frontmatter": "term: Industrial Revolutions\nrelated: [industrial-revolution, rise-of-the-industrial-working-class, 1848-revolutions, industrial-capital]\ntags: [history, modes of production]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "international-proletarian-organisations",
+        "path": "content\\terms\\international-proletarian-organisations.md",
+        "frontmatter": "term: International Proletarian Organisations\nrelated: [proletarian-revolution, proletarian-internationalism, international-working-mens-association]\ntags: [movements, organizations]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "international-working-mens-association",
+        "path": "content\\terms\\international-working-mens-association.md",
+        "frontmatter": "term: International Working Men’s Association\nrelated: [international-proletarian-organisations, democratic-association-of-brussels, working-class-movement, chartist-association, rise-of-the-industrial-working-class]\ntags: [state theory, politics]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "italian-communist-party",
+        "path": "content\\terms\\italian-communist-party.md",
+        "frontmatter": "term: Italian Communist Party\nrelated: [communist-league, revolutionary-party, communist-party-usa, french-communist-party, bolshevik-party]\ntags: [parties, organization]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "june-days-uprising",
+        "path": "content\\terms\\june-days-uprising.md",
+        "frontmatter": "term: June Days Uprising\nrelated: [polish-uprising-of-1830, spartacist-uprising]\ntags: [history, revolution]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "labour-process-control",
+        "path": "content\\terms\\labour-process-control.md",
+        "frontmatter": "term: Labour Process Control\nrelated: [division-of-labour, gender-and-labour, wage-labour]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      }
+    ],
+    [
+      {
+        "category": "terms",
+        "slug": "leninism-debates",
+        "path": "content\\terms\\leninism-debates.md",
+        "frontmatter": "term: Leninism Debates\ntags: [debates, theory]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "long-waves-capitalism",
+        "path": "content\\terms\\long-waves-capitalism.md",
+        "frontmatter": "term: Long Waves Capitalism\nrelated: [colonial-capitalism, racial-capitalism, technology-capitalism]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "machinery",
+        "path": "content\\terms\\machinery.md",
+        "frontmatter": "term: Machinery\ngerman: Maschinerie\nsource: \"Capital Vol. 1, Ch. 15\"\ntags: [political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "maoism-debates",
+        "path": "content\\terms\\maoism-debates.md",
+        "frontmatter": "term: Maoism Debates\ntags: [debates, theory]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "marxist-currents",
+        "path": "content\\terms\\marxist-currents.md",
+        "frontmatter": "term: Marxist Currents\nrelated: [marxist-feminism]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "marxist-feminism",
+        "path": "content\\terms\\marxist-feminism.md",
+        "frontmatter": "term: Marxist Feminism\nrelated: [marxist-currents]\ntags: [debates, theory]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "may-1968-uprisings",
+        "path": "content\\terms\\may-1968-uprisings.md",
+        "frontmatter": "term: May 1968 Uprisings\ntags: [history, revolution]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "menshevik-faction",
+        "path": "content\\terms\\menshevik-faction.md",
+        "frontmatter": "term: Menshevik Faction\ntags: [parties, organization]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "merchant-capital",
+        "path": "content\\terms\\merchant-capital.md",
+        "frontmatter": "term: Merchant Capital\ngerman: Kaufmannskapital\nsource: \"Capital Vol. 3, Part IV\"\nrelated: [organic-composition-capital, finance-capital, constant-variable-capital, fictitious-capital, industrial-capital]\ntags: [political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "modern-capitalist-expansion",
+        "path": "content\\terms\\modern-capitalist-expansion.md",
+        "frontmatter": "term: Modern Capitalist Expansion\nrelated: [pre-capitalist-modes]\ntags: [history, modes of production]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      }
+    ],
+    [
+      {
+        "category": "terms",
+        "slug": "monetary-system",
+        "path": "content\\terms\\monetary-system.md",
+        "frontmatter": "term: Monetary System\ngerman: Geldsystem\nrelated: [imperial-system, wage-system]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "monopoly",
+        "path": "content\\terms\\monopoly.md",
+        "frontmatter": "term: Monopoly\ngerman: Monopol\nsource: \"Capital Vol. 1, Ch. 25; Imperialism (Lenin)\"\ntags: [political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "neoliberal-globalization",
+        "path": "content\\terms\\neoliberal-globalization.md",
+        "frontmatter": "term: Neoliberal Globalization\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "nicaraguan-revolution",
+        "path": "content\\terms\\nicaraguan-revolution.md",
+        "frontmatter": "term: Nicaraguan Revolution\nrelated: [chinese-revolution-of-1949, february-revolution-of-1848, industrial-revolution, proletarian-revolution, february-revolution-of-1917]\ntags: [history, revolution]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "october-revolution",
+        "path": "content\\terms\\october-revolution.md",
+        "frontmatter": "term: October Revolution\nrelated: [chinese-revolution-of-1949, nicaraguan-revolution, february-revolution-of-1848, industrial-revolution, proletarian-revolution]\ntags: [history, revolution]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "open-marxism",
+        "path": "content\\terms\\open-marxism.md",
+        "frontmatter": "term: Open Marxism\nrelated: [structural-marxism, western-marxism, orthodox-marxism, eco-marxism, humanist-marxism]\ntags: [debates, theory]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "opportunism",
+        "path": "content\\terms\\opportunism.md",
+        "frontmatter": "term: Opportunism\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "orthodox-marxism",
+        "path": "content\\terms\\orthodox-marxism.md",
+        "frontmatter": "term: Orthodox Marxism\nrelated: [structural-marxism, western-marxism, eco-marxism, humanist-marxism, autonomist-marxism]\ntags: [debates, theory]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "overproduction",
+        "path": "content\\terms\\overproduction.md",
+        "frontmatter": "term: Overproduction\ngerman: Überproduktion\nsource: \"Capital Vol. 2-3; Theories of Surplus Value\"\ntags: [political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "paris-commune",
+        "path": "content\\terms\\paris-commune.md",
+        "frontmatter": "term: Paris Commune\ntags: [history, revolution]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      }
+    ],
+    [
+      {
+        "category": "terms",
+        "slug": "petty-bourgeois-socialism",
+        "path": "content\\terms\\petty-bourgeois-socialism.md",
+        "frontmatter": "term: Petty-bourgeois Socialism\nrelated: [utopian-socialism, critical-utopian-socialism, feudal-socialism, petty-bourgeoisie, socialism]\ntags: [political economy, theory]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "petty-bourgeoisie",
+        "path": "content\\terms\\petty-bourgeoisie.md",
+        "frontmatter": "term: Petty Bourgeoisie\ngerman: Kleinbürgertum\nsource: \"The Eighteenth Brumaire\"\nrelated: [petty-bourgeois-socialism, bourgeoisie]\ntags: [political economy, theory]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "philosophical-critique",
+        "path": "content\\terms\\philosophical-critique.md",
+        "frontmatter": "term: Philosophical Critique\nrelated: [reformism-critique, taylorism-critique]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "polish-uprising-of-1830",
+        "path": "content\\terms\\polish-uprising-of-1830.md",
+        "frontmatter": "term: Polish Uprising of 1830\nrelated: [june-days-uprising, spartacist-uprising]\ntags: [history, revolution]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "political-power",
+        "path": "content\\terms\\political-power.md",
+        "frontmatter": "term: Political Power\nrelated: [political-strategy, labor-power, contemporary-political-economy]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "political-strategy",
+        "path": "content\\terms\\political-strategy.md",
+        "frontmatter": "term: Political Strategy\nrelated: [political-power, contemporary-political-economy]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "portuguese-carnation-revolution",
+        "path": "content\\terms\\portuguese-carnation-revolution.md",
+        "frontmatter": "term: Portuguese Carnation Revolution\nrelated: [chinese-revolution-of-1949, nicaraguan-revolution, february-revolution-of-1848, industrial-revolution, proletarian-revolution]\ntags: [history, revolution]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "post-fordism-debates",
+        "path": "content\\terms\\post-fordism-debates.md",
+        "frontmatter": "term: Post-fordism Debates\nrelated: [fordism]\ntags: [labor process, production]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "prague-spring",
+        "path": "content\\terms\\prague-spring.md",
+        "frontmatter": "term: Prague Spring\ntags: [history, revolution]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "pre-capitalist-modes",
+        "path": "content\\terms\\pre-capitalist-modes.md",
+        "frontmatter": "term: Pre Capitalist Modes\nrelated: [modern-capitalist-expansion]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      }
+    ],
+    [
+      {
+        "category": "terms",
+        "slug": "proletarian-internationalism",
+        "path": "content\\terms\\proletarian-internationalism.md",
+        "frontmatter": "term: Proletarian Internationalism\nrelated: [international-proletarian-organisations, proletarian-revolution]\ntags: [state theory, politics]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "proletarian-revolution",
+        "path": "content\\terms\\proletarian-revolution.md",
+        "frontmatter": "term: Proletarian Revolution\ngerman: Proletarische Revolution\nsource: \"The Communist Manifesto; State and Revolution\"\nrelated: [chinese-revolution-of-1949, nicaraguan-revolution, february-revolution-of-1848, industrial-revolution, international-proletarian-organisations]\ntags: [state theory, politics]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "proletariat",
+        "path": "content\\terms\\proletariat.md",
+        "frontmatter": "term: Proletariat\ngerman: Proletariat\nsource: \"The Communist Manifesto\"\nrelated: [dictatorship-of-proletariat, urban-rural-proletariat]\ntags: [political economy, theory]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "property-relations",
+        "path": "content\\terms\\property-relations.md",
+        "frontmatter": "term: Property Relations\ngerman: Eigentumsverhältnisse\nrelated: [relations-of-production, exchange-relations]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "racial-capitalism",
+        "path": "content\\terms\\racial-capitalism.md",
+        "frontmatter": "term: Racial Capitalism\nrelated: [colonial-capitalism, technology-capitalism, long-waves-capitalism]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "reactionary-socialism",
+        "path": "content\\terms\\reactionary-socialism.md",
+        "frontmatter": "term: Reactionary Socialism\nrelated: [utopian-socialism, critical-utopian-socialism, petty-bourgeois-socialism, feudal-socialism, socialism]\ntags: [political economy, theory]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "reformism-critique",
+        "path": "content\\terms\\reformism-critique.md",
+        "frontmatter": "term: Reformism Critique\nrelated: [taylorism-critique, philosophical-critique]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "rent-theory",
+        "path": "content\\terms\\rent-theory.md",
+        "frontmatter": "term: Rent Theory\ngerman: Rententheorie\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "revolutionary-party",
+        "path": "content\\terms\\revolutionary-party.md",
+        "frontmatter": "term: Revolutionary Party\nrelated: [communist-party-usa, french-communist-party, bolshevik-party, british-communist-party, german-social-democratic-party-history]\ntags: [state theory, politics]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "revolutionary-theory",
+        "path": "content\\terms\\revolutionary-theory.md",
+        "frontmatter": "term: Revolutionary Theory\nrelated: [revolutionary-party]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      }
+    ],
+    [
+      {
+        "category": "terms",
+        "slug": "rheinische-zeitung",
+        "path": "content\\terms\\rheinische-zeitung.md",
+        "frontmatter": "term: Rheinische Zeitung\ntags: [movements, organizations]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "rise-of-the-industrial-working-class",
+        "path": "content\\terms\\rise-of-the-industrial-working-class.md",
+        "frontmatter": "term: Rise of the Industrial Working Class\nrelated: [class-analysis, industrial-revolution, industrial-revolutions, urban-class-formation, historical-class-alliances]\ntags: [history, revolution]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "russian-revolution-of-1905",
+        "path": "content\\terms\\russian-revolution-of-1905.md",
+        "frontmatter": "term: Russian Revolution of 1905\nrelated: [chinese-revolution-of-1949, nicaraguan-revolution, february-revolution-of-1848, industrial-revolution, proletarian-revolution]\ntags: [history, revolution]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "scientific-socialism",
+        "path": "content\\terms\\scientific-socialism.md",
+        "frontmatter": "term: Scientific Socialism\ngerman: Wissenschaftlicher Sozialismus\nsource: \"Socialism: Utopian and Scientific\"\nrelated: [utopian-socialism, critical-utopian-socialism, petty-bourgeois-socialism, feudal-socialism, socialism]\ntags: [political economy, theory]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "social-formation",
+        "path": "content\\terms\\social-formation.md",
+        "frontmatter": "term: Social Formation\ngerman: Gesellschaftsformation\nsource: \"Preface to A Contribution to the Critique of Political Economy\"\nrelated: [urban-class-formation, german-social-democratic-party-history, social-reproduction, social-reproduction-theory]\ntags: [political economy, theory]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "social-reproduction-theory",
+        "path": "content\\terms\\social-reproduction-theory.md",
+        "frontmatter": "term: Social Reproduction Theory\nrelated: [reproduction-schemas, german-social-democratic-party-history, social-reproduction, social-formation]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "socialism",
+        "path": "content\\terms\\socialism.md",
+        "frontmatter": "term: Socialism\ngerman: Sozialismus\nsource: \"Critique of the Gotha Programme\"\nrelated: [utopian-socialism, critical-utopian-socialism, petty-bourgeois-socialism, feudal-socialism, scientific-socialism]\ntags: [political economy, theory]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "socialist-planning",
+        "path": "content\\terms\\socialist-planning.md",
+        "frontmatter": "term: Socialist Planning\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "spanish-civil-war",
+        "path": "content\\terms\\spanish-civil-war.md",
+        "frontmatter": "term: Spanish Civil War\nrelated: [spanish-communist-party]\ntags: [history, revolution]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "spanish-communist-party",
+        "path": "content\\terms\\spanish-communist-party.md",
+        "frontmatter": "term: Spanish Communist Party\nrelated: [communist-league, revolutionary-party, communist-party-usa, french-communist-party, bolshevik-party]\ntags: [parties, organization]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      }
+    ],
+    [
+      {
+        "category": "terms",
+        "slug": "spartacist-uprising",
+        "path": "content\\terms\\spartacist-uprising.md",
+        "frontmatter": "term: Spartacist Uprising\nrelated: [june-days-uprising, polish-uprising-of-1830]\ntags: [history, revolution]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "state-theory",
+        "path": "content\\terms\\state-theory.md",
+        "frontmatter": "term: State Theory\ngerman: Staatstheorie\nrelated: [welfare-state, democracy-and-state]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "structural-marxism",
+        "path": "content\\terms\\structural-marxism.md",
+        "frontmatter": "term: Structural Marxism\nrelated: [western-marxism, orthodox-marxism, eco-marxism, humanist-marxism, autonomist-marxism]\ntags: [debates, theory]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "taylorism-critique",
+        "path": "content\\terms\\taylorism-critique.md",
+        "frontmatter": "term: Taylorism Critique\nrelated: [reformism-critique, philosophical-critique]\ntags: [labor process, production]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "technology-capitalism",
+        "path": "content\\terms\\technology-capitalism.md",
+        "frontmatter": "term: Technology Capitalism\nrelated: [colonial-capitalism, racial-capitalism, long-waves-capitalism]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "trade-and-protection",
+        "path": "content\\terms\\trade-and-protection.md",
+        "frontmatter": "term: Trade and Protection\nrelated: [trade-unions]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "trade-unions",
+        "path": "content\\terms\\trade-unions.md",
+        "frontmatter": "term: Trade Unions\ngerman: Gewerkschaften\nsource: \"Capital Vol. 1; Wages, Price and Profit\"\nrelated: [trade-and-protection]\ntags: [state theory, politics]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "trotskyism-debates",
+        "path": "content\\terms\\trotskyism-debates.md",
+        "frontmatter": "term: Trotskyism Debates\ntags: [debates, theory]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "true-socialism",
+        "path": "content\\terms\\true-socialism.md",
+        "frontmatter": "term: True Socialism\nrelated: [utopian-socialism, critical-utopian-socialism, petty-bourgeois-socialism, feudal-socialism, socialism]\ntags: [political economy, theory]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "urban-class-formation",
+        "path": "content\\terms\\urban-class-formation.md",
+        "frontmatter": "term: Urban Class Formation\nrelated: [class-analysis, historical-class-alliances, working-class-movement, rise-of-the-industrial-working-class, working-class-associations]\ntags: [sociology, reproduction]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      }
+    ],
+    [
+      {
+        "category": "terms",
+        "slug": "urban-rural-proletariat",
+        "path": "content\\terms\\urban-rural-proletariat.md",
+        "frontmatter": "term: Urban Rural Proletariat\nrelated: [proletariat, urban-class-formation, dictatorship-of-proletariat]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "utopian-socialism",
+        "path": "content\\terms\\utopian-socialism.md",
+        "frontmatter": "term: Utopian Socialism\ngerman: Utopischer Sozialismus\nsource: \"Socialism: Utopian and Scientific\"\nrelated: [critical-utopian-socialism, petty-bourgeois-socialism, feudal-socialism, socialism, scientific-socialism]\ntags: [political economy, theory]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "vietnamese-communist-party",
+        "path": "content\\terms\\vietnamese-communist-party.md",
+        "frontmatter": "term: Vietnamese Communist Party\nrelated: [communist-league, revolutionary-party, communist-party-usa, french-communist-party, bolshevik-party]\ntags: [parties, organization]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "vietnamese-revolution",
+        "path": "content\\terms\\vietnamese-revolution.md",
+        "frontmatter": "term: Vietnamese Revolution\nrelated: [chinese-revolution-of-1949, nicaraguan-revolution, february-revolution-of-1848, industrial-revolution, proletarian-revolution]\ntags: [history, revolution]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "wage-labour",
+        "path": "content\\terms\\wage-labour.md",
+        "frontmatter": "term: Wage Labour\ngerman: Lohnarbeit\nsource: \"Wage-Labour and Capital (1849)\"\nrelated: [division-of-labour, gender-and-labour, labour-process-control, wage-system]\ntags: [political economy, theory]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "wage-system",
+        "path": "content\\terms\\wage-system.md",
+        "frontmatter": "term: Wage System\ngerman: Lohnsystem\nrelated: [imperial-system, monetary-system, wage-labour]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "welfare-state",
+        "path": "content\\terms\\welfare-state.md",
+        "frontmatter": "term: Welfare State\nrelated: [democracy-and-state, state-theory]\ntags: [theory, political economy]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "western-marxism",
+        "path": "content\\terms\\western-marxism.md",
+        "frontmatter": "term: Western Marxism\nrelated: [structural-marxism, orthodox-marxism, eco-marxism, humanist-marxism, autonomist-marxism]\ntags: [debates, theory]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "workers-self-management",
+        "path": "content\\terms\\workers-self-management.md",
+        "frontmatter": "term: Workers’ Self-management\nrelated: [german-workers-club]\ntags: [socialist economy, planning]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "terms",
+        "slug": "working-class-associations",
+        "path": "content\\terms\\working-class-associations.md",
+        "frontmatter": "term: Working-class Associations\nrelated: [class-analysis, urban-class-formation, historical-class-alliances, working-class-movement, international-working-mens-association]\ntags: [state theory, politics]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      }
+    ],
+    [
+      {
+        "category": "terms",
+        "slug": "working-class-movement",
+        "path": "content\\terms\\working-class-movement.md",
+        "frontmatter": "term: Working-class Movement\nrelated: [class-analysis, urban-class-formation, chartist-movement, historical-class-alliances, international-working-mens-association]\ntags: [state theory, politics]\ntraditions:\n  classical: \"TODO\"\n  value-form: \"TODO\""
+      },
+      {
+        "category": "texts",
+        "slug": "anti-dhring",
+        "path": "content\\texts\\anti-dhring.md",
+        "frontmatter": "title: \"Anti-Dühring\"\nauthor: Friedrich Engels\nyear: 1878\ntradition: Classical Marxism\ntranslations:\n  - \"Burns (International Publishers 1939)\"\ntags:\n  - dialectics\n  - political economy\n  - scientific socialism"
+      },
+      {
+        "category": "texts",
+        "slug": "critique-of-the-gotha-programme",
+        "path": "content\\texts\\critique-of-the-gotha-programme.md",
+        "frontmatter": "title: \"Critique of the Gotha Programme\"\nauthor: Karl Marx\nyear: 1875\ntradition: Classical Marxism\ntranslations:\n  - \"Various editions\"\ntags:\n  - transition\n  - state\n  - distribution\n  - labor"
+      },
+      {
+        "category": "texts",
+        "slug": "critique-of-the-hegelian-philosophy-of-right",
+        "path": "content\\texts\\critique-of-the-hegelian-philosophy-of-right.md",
+        "frontmatter": "title: \"Critique of the Hegelian Philosophy of Right\"\nauthor: Karl Marx\nyear: 1843\ntradition: Classical Marxism\ntranslations:\n  - \"O'Malley (Cambridge 1970)\"\ntags:\n  - state theory\n  - civil society\n  - Hegel critique"
+      },
+      {
+        "category": "texts",
+        "slug": "dialectics-of-nature",
+        "path": "content\\texts\\dialectics-of-nature.md",
+        "frontmatter": "title: \"Dialectics of Nature\"\nauthor: Friedrich Engels\nyear: 1883\ntradition: Classical Marxism\ntranslations:\n  - \"Dutt (International Publishers 1940)\"\ntags:\n  - dialectics\n  - natural science\n  - materialism"
+      },
+      {
+        "category": "texts",
+        "slug": "economic-and-philosophic-manuscripts",
+        "path": "content\\texts\\economic-and-philosophic-manuscripts.md",
+        "frontmatter": "title: \"Economic and Philosophic Manuscripts\"\nauthor: Karl Marx\nyear: 1844\ntradition: Classical Marxism\ntranslations:\n  - \"Milligan (1959)\"\n  - \"Livingstone and Benton (Penguin 1975)\"\ntags:\n  - alienation\n  - labor\n  - humanism\n  - early Marx"
+      },
+      {
+        "category": "texts",
+        "slug": "labor-and-monopoly-capital",
+        "path": "content\\texts\\labor-and-monopoly-capital.md",
+        "frontmatter": "title: \"Labor and Monopoly Capital\"\nauthor: Harry Braverman\nyear: 1974\ntradition: Monthly Review School\ntranslations:\n  - \"Monthly Review Press (1974, 1998 25th anniversary)\"\ntags:\n  - labor process\n  - deskilling\n  - monopoly capitalism"
+      },
+      {
+        "category": "texts",
+        "slug": "monopoly-capital",
+        "path": "content\\texts\\monopoly-capital.md",
+        "frontmatter": "title: \"Monopoly Capital\"\nauthor: Paul Baran and Paul Sweezy\nyear: 1966\ntradition: Monthly Review School\ntranslations:\n  - \"Monthly Review Press (1966)\"\ntags:\n  - monopoly capitalism\n  - surplus\n  - stagnation"
+      },
+      {
+        "category": "texts",
+        "slug": "socialism-utopian-and-scientific",
+        "path": "content\\texts\\socialism-utopian-and-scientific.md",
+        "frontmatter": "title: \"Socialism: Utopian and Scientific\"\nauthor: Friedrich Engels\nyear: 1880\ntradition: Classical Marxism\ntranslations:\n  - \"Aveling (1892)\"\ntags:\n  - utopian socialism\n  - scientific socialism\n  - historical materialism"
+      },
+      {
+        "category": "texts",
+        "slug": "the-civil-war-in-france",
+        "path": "content\\texts\\the-civil-war-in-france.md",
+        "frontmatter": "title: \"The Civil War in France\"\nauthor: Karl Marx\nyear: 1871\ntradition: Classical Marxism\ntranslations:\n  - \"Various editions\"\ntags:\n  - Paris Commune\n  - state\n  - workers power"
+      }
+    ],
+    [
+      {
+        "category": "texts",
+        "slug": "the-holy-family",
+        "path": "content\\texts\\the-holy-family.md",
+        "frontmatter": "title: \"The Holy Family\"\nauthor: Karl Marx and Friedrich Engels\nyear: 1845\ntradition: Classical Marxism\ntranslations:\n  - \"Dixon (1956)\"\ntags:\n  - critique\n  - Young Hegelians\n  - materialism"
+      },
+      {
+        "category": "texts",
+        "slug": "theories-of-surplus-value",
+        "path": "content\\texts\\theories-of-surplus-value.md",
+        "frontmatter": "title: \"Theories of Surplus Value\"\nauthor: Karl Marx\nyear: 1863\ntradition: Classical Marxism\ntranslations:\n  - \"Bonner and Burns (Lawrence & Wishart, 3 vols)\"\ntags:\n  - surplus value\n  - political economy\n  - history of economic thought"
+      },
+      {
+        "category": "thinkers",
+        "slug": "adam-smith",
+        "path": "content\\thinkers\\adam-smith.md",
+        "frontmatter": "name: Adam Smith\nborn: 1723\ndied: 1790\nnationality: Scottish\ntradition: Classical Political Economy\nkey_works:\n  - \"The Wealth of Nations\"\n  - \"The Theory of Moral Sentiments\"\ntags:\n  - political economy\n  - division of labor\n  - free trade"
+      },
+      {
+        "category": "thinkers",
+        "slug": "adolphe-bartels",
+        "path": "content\\thinkers\\adolphe-bartels.md",
+        "frontmatter": "name: Adolphe Bartels\nborn: 1802\ndied: 1862\nnationality: Belgian\ntradition: Democratic Radicalism\ntags:\n  - Belgian politics\n  - democratic movement"
+      },
+      {
+        "category": "thinkers",
+        "slug": "alphonse-de-lamartine",
+        "path": "content\\thinkers\\alphonse-de-lamartine.md",
+        "frontmatter": "name: Alphonse de Lamartine\nborn: 1790\ndied: 1869\nnationality: French\ntradition: Romantic Republicanism\nkey_works:\n  - \"History of the Girondins\"\ntags:\n  - republicanism\n  - 1848 revolution"
+      },
+      {
+        "category": "thinkers",
+        "slug": "andr-gunder-frank",
+        "path": "content\\thinkers\\andr-gunder-frank.md",
+        "frontmatter": "name: André Gunder Frank\nborn: 1929\ndied: 2005\nnationality: German-American\ntradition: Dependency Theory\nkey_works:\n  - \"Capitalism and Underdevelopment in Latin America\"\n  - \"ReOrient\"\ntags:\n  - dependency theory\n  - underdevelopment\n  - world-systems"
+      },
+      {
+        "category": "thinkers",
+        "slug": "anne-robert-jacques-turgot",
+        "path": "content\\thinkers\\anne-robert-jacques-turgot.md",
+        "frontmatter": "name: Anne Robert Jacques Turgot\nborn: 1727\ndied: 1781\nnationality: French\ntradition: Physiocracy\nkey_works:\n  - \"Reflections on the Formation and Distribution of Wealth\"\ntags:\n  - physiocracy\n  - political economy\n  - reform"
+      },
+      {
+        "category": "thinkers",
+        "slug": "arnold-ruge",
+        "path": "content\\thinkers\\arnold-ruge.md",
+        "frontmatter": "name: Arnold Ruge\nborn: 1802\ndied: 1880\nnationality: German\ntradition: Left Hegelianism\nkey_works:\n  - \"German-French Yearbooks\"\ntags:\n  - Young Hegelians\n  - democratic movement"
+      },
+      {
+        "category": "thinkers",
+        "slug": "bertell-ollman",
+        "path": "content\\thinkers\\bertell-ollman.md",
+        "frontmatter": "name: Bertell Ollman\nborn: 1935\ndied: null\nnationality: American\ntradition: Western Marxism\nkey_works:\n  - \"Alienation\"\n  - \"Dance of the Dialectic\"\ntags:\n  - dialectics\n  - alienation\n  - internal relations"
+      },
+      {
+        "category": "thinkers",
+        "slug": "charles-fourier",
+        "path": "content\\thinkers\\charles-fourier.md",
+        "frontmatter": "name: Charles Fourier\nborn: 1772\ndied: 1837\nnationality: French\ntradition: Utopian Socialism\nkey_works:\n  - \"The Theory of the Four Movements\"\ntags:\n  - utopian socialism\n  - phalansteries\n  - passions"
+      }
+    ],
+    [
+      {
+        "category": "thinkers",
+        "slug": "che-guevara",
+        "path": "content\\thinkers\\che-guevara.md",
+        "frontmatter": "name: Che Guevara\nborn: 1928\ndied: 1967\nnationality: Argentine-Cuban\ntradition: Revolutionary Marxism\nkey_works:\n  - \"Guerrilla Warfare\"\n  - \"Man and Socialism in Cuba\"\ntags:\n  - guerrilla warfare\n  - revolution\n  - new man"
+      },
+      {
+        "category": "thinkers",
+        "slug": "christopher-hill",
+        "path": "content\\thinkers\\christopher-hill.md",
+        "frontmatter": "name: Christopher Hill\nborn: 1912\ndied: 2003\nnationality: British\ntradition: British Marxism\nkey_works:\n  - \"The World Turned Upside Down\"\n  - \"The English Revolution 1640\"\ntags:\n  - English revolution\n  - history from below\n  - radicalism"
+      },
+      {
+        "category": "thinkers",
+        "slug": "claude-henri-de-saint-simon",
+        "path": "content\\thinkers\\claude-henri-de-saint-simon.md",
+        "frontmatter": "name: Claude Henri de Saint-Simon\nborn: 1760\ndied: 1825\nnationality: French\ntradition: Utopian Socialism\nkey_works:\n  - \"The Industrial System\"\n  - \"New Christianity\"\ntags:\n  - utopian socialism\n  - industrialism\n  - technocracy"
+      },
+      {
+        "category": "thinkers",
+        "slug": "cornelius-castoriadis",
+        "path": "content\\thinkers\\cornelius-castoriadis.md",
+        "frontmatter": "name: Cornelius Castoriadis\nborn: 1922\ndied: 1997\nnationality: Greek-French\ntradition: Autonomism\nkey_works:\n  - \"The Imaginary Institution of Society\"\ntags:\n  - autonomy\n  - imagination\n  - bureaucracy critique"
+      },
+      {
+        "category": "thinkers",
+        "slug": "daniel-bensad",
+        "path": "content\\thinkers\\daniel-bensad.md",
+        "frontmatter": "name: Daniel Bensaïd\nborn: 1946\ndied: 2010\nnationality: French\ntradition: Trotskyism\nkey_works:\n  - \"Marx for Our Times\"\n  - \"An Impatient Life\"\ntags:\n  - strategy\n  - temporality\n  - revolution"
+      },
+      {
+        "category": "thinkers",
+        "slug": "deng-xiaoping",
+        "path": "content\\thinkers\\deng-xiaoping.md",
+        "frontmatter": "name: Deng Xiaoping\nborn: 1904\ndied: 1997\nnationality: Chinese\ntradition: Marxism-Leninism\nkey_works:\n  - \"Selected Works of Deng Xiaoping\"\ntags:\n  - market socialism\n  - reform\n  - modernization"
+      },
+      {
+        "category": "thinkers",
+        "slug": "ellen-meiksins-wood",
+        "path": "content\\thinkers\\ellen-meiksins-wood.md",
+        "frontmatter": "name: Ellen Meiksins Wood\nborn: 1942\ndied: 2016\nnationality: American-Canadian\ntradition: Political Marxism\nkey_works:\n  - \"The Origin of Capitalism\"\n  - \"Democracy Against Capitalism\"\ntags:\n  - political Marxism\n  - capitalism origins\n  - democracy"
+      },
+      {
+        "category": "thinkers",
+        "slug": "eric-hobsbawm",
+        "path": "content\\thinkers\\eric-hobsbawm.md",
+        "frontmatter": "name: Eric Hobsbawm\nborn: 1917\ndied: 2012\nnationality: British\ntradition: British Marxism\nkey_works:\n  - \"The Age of Revolution\"\n  - \"The Age of Capital\"\n  - \"The Age of Empire\"\n  - \"The Age of Extremes\"\ntags:\n  - historiography\n  - nationalism\n  - social history"
+      },
+      {
+        "category": "thinkers",
+        "slug": "erik-olin-wright",
+        "path": "content\\thinkers\\erik-olin-wright.md",
+        "frontmatter": "name: Erik Olin Wright\nborn: 1947\ndied: 2019\nnationality: American\ntradition: Analytical Marxism\nkey_works:\n  - \"Classes\"\n  - \"Envisioning Real Utopias\"\ntags:\n  - class analysis\n  - analytical Marxism\n  - utopias"
+      },
+      {
+        "category": "thinkers",
+        "slug": "ernst-bloch",
+        "path": "content\\thinkers\\ernst-bloch.md",
+        "frontmatter": "name: Ernst Bloch\nborn: 1885\ndied: 1977\nnationality: German\ntradition: Western Marxism\nkey_works:\n  - \"The Principle of Hope\"\n  - \"The Spirit of Utopia\"\ntags:\n  - utopia\n  - hope\n  - ontology"
+      }
+    ],
+    [
+      {
+        "category": "thinkers",
+        "slug": "feargus-oconnor",
+        "path": "content\\thinkers\\feargus-oconnor.md",
+        "frontmatter": "name: Feargus O’Connor\nborn: 0\ndied: null\nnationality: Unknown\ntradition: Marxism\ntags:\n  - theory"
+      },
+      {
+        "category": "thinkers",
+        "slug": "filippo-buonarroti",
+        "path": "content\\thinkers\\filippo-buonarroti.md",
+        "frontmatter": "name: Filippo Buonarroti\nborn: 1761\ndied: 1837\nnationality: Italian-French\ntradition: Proto-Communism\nkey_works:\n  - \"Babeuf's Conspiracy for Equality\"\ntags:\n  - communism\n  - conspiracy\n  - revolution"
+      },
+      {
+        "category": "thinkers",
+        "slug": "flocon",
+        "path": "content\\thinkers\\flocon.md",
+        "frontmatter": "name: Flocon\nborn: 1800\ndied: 1866\nnationality: French\ntradition: Democratic Republicanism\ntags:\n  - 1848 revolution\n  - journalism\n  - democratic movement"
+      },
+      {
+        "category": "thinkers",
+        "slug": "franois-guizot",
+        "path": "content\\thinkers\\franois-guizot.md",
+        "frontmatter": "name: François Guizot\nborn: 1787\ndied: 1874\nnationality: French\ntradition: Liberal Conservatism\nkey_works:\n  - \"History of Civilization in Europe\"\ntags:\n  - liberalism\n  - class struggle\n  - historiography"
+      },
+      {
+        "category": "thinkers",
+        "slug": "franois-quesnay",
+        "path": "content\\thinkers\\franois-quesnay.md",
+        "frontmatter": "name: François Quesnay\nborn: 1694\ndied: 1774\nnationality: French\ntradition: Physiocracy\nkey_works:\n  - \"Tableau Économique\"\ntags:\n  - physiocracy\n  - economic table\n  - surplus"
+      },
+      {
+        "category": "thinkers",
+        "slug": "g-a-cohen",
+        "path": "content\\thinkers\\g-a-cohen.md",
+        "frontmatter": "name: G. A. Cohen\nborn: 1941\ndied: 2009\nnationality: Canadian-British\ntradition: Analytical Marxism\nkey_works:\n  - \"Karl Marx's Theory of History: A Defence\"\ntags:\n  - analytical Marxism\n  - historical materialism\n  - philosophy"
+      },
+      {
+        "category": "thinkers",
+        "slug": "giovanni-arrighi",
+        "path": "content\\thinkers\\giovanni-arrighi.md",
+        "frontmatter": "name: Giovanni Arrighi\nborn: 1937\ndied: 2009\nnationality: Italian\ntradition: World-Systems Theory\nkey_works:\n  - \"The Long Twentieth Century\"\n  - \"Adam Smith in Beijing\"\ntags:\n  - world-systems\n  - accumulation cycles\n  - hegemony"
+      },
+      {
+        "category": "thinkers",
+        "slug": "gracchus-babeuf",
+        "path": "content\\thinkers\\gracchus-babeuf.md",
+        "frontmatter": "name: Gracchus Babeuf\nborn: 1760\ndied: 1797\nnationality: French\ntradition: Proto-Communism\nkey_works:\n  - \"Manifesto of the Equals\"\ntags:\n  - communism\n  - equality\n  - conspiracy"
+      },
+      {
+        "category": "thinkers",
+        "slug": "harry-braverman",
+        "path": "content\\thinkers\\harry-braverman.md",
+        "frontmatter": "name: Harry Braverman\nborn: 1920\ndied: 1976\nnationality: American\ntradition: Monthly Review School\nkey_works:\n  - \"Labor and Monopoly Capital\"\ntags:\n  - labor process\n  - deskilling\n  - monopoly capitalism"
+      },
+      {
+        "category": "thinkers",
+        "slug": "henri-lefebvre",
+        "path": "content\\thinkers\\henri-lefebvre.md",
+        "frontmatter": "name: Henri Lefebvre\nborn: 1901\ndied: 1991\nnationality: French\ntradition: Western Marxism\nkey_works:\n  - \"The Production of Space\"\n  - \"Critique of Everyday Life\"\ntags:\n  - space\n  - everyday life\n  - urbanization"
+      }
+    ],
+    [
+      {
+        "category": "thinkers",
+        "slug": "henryk-grossman",
+        "path": "content\\thinkers\\henryk-grossman.md",
+        "frontmatter": "name: Henryk Grossman\nborn: 1881\ndied: 1950\nnationality: Polish\ntradition: Classical Marxism\nkey_works:\n  - \"The Law of Accumulation and Breakdown of the Capitalist System\"\ntags:\n  - crisis theory\n  - breakdown\n  - accumulation"
+      },
+      {
+        "category": "thinkers",
+        "slug": "ho-chi-minh",
+        "path": "content\\thinkers\\ho-chi-minh.md",
+        "frontmatter": "name: Ho Chi Minh\nborn: 1890\ndied: 1969\nnationality: Vietnamese\ntradition: Marxism-Leninism\nkey_works:\n  - \"The Path Which Led Me to Leninism\"\ntags:\n  - national liberation\n  - anti-colonialism\n  - revolution"
+      },
+      {
+        "category": "thinkers",
+        "slug": "immanuel-wallerstein",
+        "path": "content\\thinkers\\immanuel-wallerstein.md",
+        "frontmatter": "name: Immanuel Wallerstein\nborn: 1930\ndied: 2019\nnationality: American\ntradition: World-Systems Theory\nkey_works:\n  - \"The Modern World-System\"\n  - \"Historical Capitalism\"\ntags:\n  - world-systems\n  - capitalism\n  - longue durée"
+      },
+      {
+        "category": "thinkers",
+        "slug": "istvn-mszros",
+        "path": "content\\thinkers\\istvn-mszros.md",
+        "frontmatter": "name: István Mészáros\nborn: 1930\ndied: 2017\nnationality: Hungarian-British\ntradition: Western Marxism\nkey_works:\n  - \"Beyond Capital\"\n  - \"Marx's Theory of Alienation\"\ntags:\n  - alienation\n  - capital system\n  - transition"
+      },
+      {
+        "category": "thinkers",
+        "slug": "james-mill",
+        "path": "content\\thinkers\\james-mill.md",
+        "frontmatter": "name: James Mill\nborn: 1773\ndied: 1836\nnationality: Scottish\ntradition: Classical Political Economy\nkey_works:\n  - \"Elements of Political Economy\"\ntags:\n  - political economy\n  - utilitarianism"
+      },
+      {
+        "category": "thinkers",
+        "slug": "jean-baptiste-say",
+        "path": "content\\thinkers\\jean-baptiste-say.md",
+        "frontmatter": "name: Jean-Baptiste Say\nborn: 1767\ndied: 1832\nnationality: French\ntradition: Classical Political Economy\nkey_works:\n  - \"A Treatise on Political Economy\"\ntags:\n  - Say's Law\n  - political economy"
+      },
+      {
+        "category": "thinkers",
+        "slug": "john-stuart-mill",
+        "path": "content\\thinkers\\john-stuart-mill.md",
+        "frontmatter": "name: John Stuart Mill\nborn: 1806\ndied: 1873\nnationality: British\ntradition: Classical Political Economy\nkey_works:\n  - \"Principles of Political Economy\"\n  - \"On Liberty\"\ntags:\n  - political economy\n  - liberalism\n  - utilitarianism"
+      },
+      {
+        "category": "thinkers",
+        "slug": "joseph-stalin",
+        "path": "content\\thinkers\\joseph-stalin.md",
+        "frontmatter": "name: Joseph Stalin\nborn: 1878\ndied: 1953\nnationality: Georgian-Soviet\ntradition: Marxism-Leninism\nkey_works:\n  - \"Dialectical and Historical Materialism\"\n  - \"The Foundations of Leninism\"\n  - \"The National Question\"\ntags:\n  - Marxism-Leninism\n  - state socialism\n  - national question"
+      },
+      {
+        "category": "thinkers",
+        "slug": "karl-beck",
+        "path": "content\\thinkers\\karl-beck.md",
+        "frontmatter": "name: Karl Beck\nborn: 1817\ndied: 1879\nnationality: Hungarian-German\ntradition: Young Germany\nkey_works:\n  - \"Songs of the Poor Man\"\ntags:\n  - poetry\n  - social criticism"
+      },
+      {
+        "category": "thinkers",
+        "slug": "karl-grn",
+        "path": "content\\thinkers\\karl-grn.md",
+        "frontmatter": "name: Karl Grün\nborn: 1817\ndied: 1887\nnationality: German\ntradition: True Socialism\nkey_works:\n  - \"The Social Movement in France and Belgium\"\ntags:\n  - true socialism\n  - Young Hegelians"
+      }
+    ],
+    [
+      {
+        "category": "thinkers",
+        "slug": "ledru-rollin",
+        "path": "content\\thinkers\\ledru-rollin.md",
+        "frontmatter": "name: Ledru-Rollin\nborn: 1807\ndied: 1874\nnationality: French\ntradition: Democratic Republicanism\nkey_works:\n  - \"De la Décadence de l'Angleterre\"\ntags:\n  - republicanism\n  - 1848 revolution\n  - democratic movement"
+      },
+      {
+        "category": "thinkers",
+        "slug": "louis-blanc",
+        "path": "content\\thinkers\\louis-blanc.md",
+        "frontmatter": "name: Louis Blanc\nborn: 1811\ndied: 1882\nnationality: French\ntradition: State Socialism\nkey_works:\n  - \"The Organization of Work\"\ntags:\n  - state socialism\n  - cooperatives"
+      },
+      {
+        "category": "thinkers",
+        "slug": "lucien-goldmann",
+        "path": "content\\thinkers\\lucien-goldmann.md",
+        "frontmatter": "name: Lucien Goldmann\nborn: 1913\ndied: 1970\nnationality: Romanian-French\ntradition: Western Marxism\nkey_works:\n  - \"The Hidden God\"\n  - \"Towards a Sociology of the Novel\"\ntags:\n  - genetic structuralism\n  - literature\n  - consciousness"
+      },
+      {
+        "category": "thinkers",
+        "slug": "maurice-dobb",
+        "path": "content\\thinkers\\maurice-dobb.md",
+        "frontmatter": "name: Maurice Dobb\nborn: 1900\ndied: 1976\nnationality: British\ntradition: British Marxism\nkey_works:\n  - \"Studies in the Development of Capitalism\"\n  - \"Theories of Value and Distribution\"\ntags:\n  - economic history\n  - transition debate\n  - value theory"
+      },
+      {
+        "category": "thinkers",
+        "slug": "michael-hardt",
+        "path": "content\\thinkers\\michael-hardt.md",
+        "frontmatter": "name: Michael Hardt\nborn: 1960\ndied: null\nnationality: American\ntradition: Autonomism\nkey_works:\n  - \"Empire\"\n  - \"Multitude\"\n  - \"Commonwealth\"\ntags:\n  - empire\n  - multitude\n  - biopolitics"
+      },
+      {
+        "category": "thinkers",
+        "slug": "michael-lwy",
+        "path": "content\\thinkers\\michael-lwy.md",
+        "frontmatter": "name: Michael Löwy\nborn: 1938\ndied: null\nnationality: Brazilian-French\ntradition: Western Marxism\nkey_works:\n  - \"The Theory of Revolution in the Young Marx\"\n  - \"Fire Alarm\"\ntags:\n  - romanticism\n  - revolution\n  - ecology"
+      },
+      {
+        "category": "thinkers",
+        "slug": "paul-baran",
+        "path": "content\\thinkers\\paul-baran.md",
+        "frontmatter": "name: Paul Baran\nborn: 1909\ndied: 1964\nnationality: Russian-American\ntradition: Monthly Review School\nkey_works:\n  - \"The Political Economy of Growth\"\n  - \"Monopoly Capital\"\ntags:\n  - underdevelopment\n  - monopoly capitalism\n  - surplus"
+      },
+      {
+        "category": "thinkers",
+        "slug": "perry-anderson",
+        "path": "content\\thinkers\\perry-anderson.md",
+        "frontmatter": "name: Perry Anderson\nborn: 1938\ndied: null\nnationality: British\ntradition: Western Marxism\nkey_works:\n  - \"Lineages of the Absolutist State\"\n  - \"Considerations on Western Marxism\"\n  - \"The New Old World\"\ntags:\n  - state theory\n  - Western Marxism\n  - historiography"
+      },
+      {
+        "category": "thinkers",
+        "slug": "pierre-joseph-proudhon",
+        "path": "content\\thinkers\\pierre-joseph-proudhon.md",
+        "frontmatter": "name: Pierre-Joseph Proudhon\nborn: 1809\ndied: 1865\nnationality: French\ntradition: Utopian Socialism\nkey_works:\n  - \"What Is Property?\"\n  - \"The Philosophy of Poverty\"\ntags:\n  - anarchism\n  - mutualism\n  - property"
+      },
+      {
+        "category": "thinkers",
+        "slug": "pierre-leroux",
+        "path": "content\\thinkers\\pierre-leroux.md",
+        "frontmatter": "name: Pierre Leroux\nborn: 1797\ndied: 1871\nnationality: French\ntradition: Romantic Socialism\nkey_works:\n  - \"On Humanity\"\ntags:\n  - socialism\n  - religion\n  - humanity"
+      }
+    ],
+    [
+      {
+        "category": "thinkers",
+        "slug": "ralph-miliband",
+        "path": "content\\thinkers\\ralph-miliband.md",
+        "frontmatter": "name: Ralph Miliband\nborn: 1924\ndied: 1994\nnationality: Belgian-British\ntradition: British Marxism\nkey_works:\n  - \"The State in Capitalist Society\"\n  - \"Marxism and Politics\"\ntags:\n  - state theory\n  - political sociology"
+      },
+      {
+        "category": "thinkers",
+        "slug": "raya-dunayevskaya",
+        "path": "content\\thinkers\\raya-dunayevskaya.md",
+        "frontmatter": "name: Raya Dunayevskaya\nborn: 1910\ndied: 1987\nnationality: Ukrainian-American\ntradition: Marxist-Humanism\nkey_works:\n  - \"Marxism and Freedom\"\n  - \"Philosophy and Revolution\"\ntags:\n  - humanism\n  - dialectics\n  - state capitalism"
+      },
+      {
+        "category": "thinkers",
+        "slug": "raymond-williams",
+        "path": "content\\thinkers\\raymond-williams.md",
+        "frontmatter": "name: Raymond Williams\nborn: 1921\ndied: 1988\nnationality: Welsh\ntradition: British Marxism\nkey_works:\n  - \"Culture and Society\"\n  - \"The Long Revolution\"\n  - \"Marxism and Literature\"\ntags:\n  - cultural materialism\n  - literature\n  - culture"
+      },
+      {
+        "category": "thinkers",
+        "slug": "robert-brenner",
+        "path": "content\\thinkers\\robert-brenner.md",
+        "frontmatter": "name: Robert Brenner\nborn: 1943\ndied: null\nnationality: American\ntradition: Political Marxism\nkey_works:\n  - \"The Economics of Global Turbulence\"\n  - \"Merchants and Revolution\"\ntags:\n  - political Marxism\n  - agrarian capitalism\n  - crisis theory"
+      },
+      {
+        "category": "thinkers",
+        "slug": "robert-owen",
+        "path": "content\\thinkers\\robert-owen.md",
+        "frontmatter": "name: Robert Owen\nborn: 1771\ndied: 1858\nnationality: Welsh\ntradition: Utopian Socialism\nkey_works:\n  - \"A New View of Society\"\ntags:\n  - utopian socialism\n  - cooperatives\n  - factory reform"
+      },
+      {
+        "category": "thinkers",
+        "slug": "roman-rosdolsky",
+        "path": "content\\thinkers\\roman-rosdolsky.md",
+        "frontmatter": "name: Roman Rosdolsky\nborn: 1898\ndied: 1967\nnationality: Ukrainian\ntradition: Classical Marxism\nkey_works:\n  - \"The Making of Marx's Capital\"\ntags:\n  - Grundrisse\n  - value theory\n  - methodology"
+      },
+      {
+        "category": "thinkers",
+        "slug": "stuart-hall",
+        "path": "content\\thinkers\\stuart-hall.md",
+        "frontmatter": "name: Stuart Hall\nborn: 1932\ndied: 2014\nnationality: Jamaican-British\ntradition: British Marxism\nkey_works:\n  - \"Policing the Crisis\"\n  - \"The Hard Road to Renewal\"\ntags:\n  - cultural studies\n  - race\n  - hegemony\n  - Thatcherism"
+      },
+      {
+        "category": "thinkers",
+        "slug": "thomas-malthus",
+        "path": "content\\thinkers\\thomas-malthus.md",
+        "frontmatter": "name: Thomas Malthus\nborn: 1766\ndied: 1834\nnationality: British\ntradition: Classical Political Economy\nkey_works:\n  - \"An Essay on the Principle of Population\"\ntags:\n  - population\n  - political economy\n  - scarcity"
+      },
+      {
+        "category": "thinkers",
+        "slug": "tienne-cabet",
+        "path": "content\\thinkers\\tienne-cabet.md",
+        "frontmatter": "name: Étienne Cabet\nborn: 1788\ndied: 1856\nnationality: French\ntradition: Utopian Socialism\nkey_works:\n  - \"Voyage to Icaria\"\ntags:\n  - utopian socialism\n  - communism\n  - utopian communities"
+      },
+      {
+        "category": "thinkers",
+        "slug": "wilhelm-weitling",
+        "path": "content\\thinkers\\wilhelm-weitling.md",
+        "frontmatter": "name: Wilhelm Weitling\nborn: 1808\ndied: 1871\nnationality: German\ntradition: Utopian Socialism\nkey_works:\n  - \"Guarantees of Harmony and Freedom\"\ntags:\n  - utopian socialism\n  - workers movement"
+      }
+    ],
+    [
+      {
+        "category": "thinkers",
+        "slug": "william-petty",
+        "path": "content\\thinkers\\william-petty.md",
+        "frontmatter": "name: William Petty\nborn: 1623\ndied: 1687\nnationality: English\ntradition: Pre-Classical Political Economy\nkey_works:\n  - \"Treatise of Taxes and Contributions\"\ntags:\n  - political arithmetic\n  - labor theory of value"
+      }
+    ]
+  ]
+}

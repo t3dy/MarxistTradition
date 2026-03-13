@@ -1,5 +1,24 @@
 [
   {
+    "slug": "1848-revolutions",
+    "term": "1848 Revolutions",
+    "related": [
+      "bourgeois-revolution",
+      "bonapartism",
+      "class-struggle",
+      "permanent-revolution"
+    ],
+    "traditions": {
+      "classical": "The 1848 Revolutions proved that the bourgeoisie could not be trusted to complete its own democratic revolution, necessitating proletarian leadership of democratic struggles and independent class organization.",
+      "value-form": "The revolutions of 1848 exposed how the abstract equality of bourgeois political forms masked the real subsumption of labor under capital, as parliamentary democracy served to universalize the commodity form's logic of equivalence across political life."
+    },
+    "tags": [
+      "history",
+      "revolution"
+    ],
+    "body": "<p>The 1848 Revolutions were a wave of upheavals across Europe that fundamentally shaped Marx and Engels's political theory. Beginning in France and spreading to the German states, Austria, Hungary, and Italy, these revolutions saw bourgeois liberals and nascent working-class movements briefly unite against absolutist regimes before fracturing along class lines. Marx's analysis of these events, particularly in <em>The Eighteenth Brumaire</em> and <em>The Class Struggles in France</em>, established key concepts including Bonapartism, the relative autonomy of the state, and the distinction between bourgeois and proletarian revolution. The failure of 1848 demonstrated to Marx that the bourgeoisie would ally with reactionary forces rather than permit genuine democratic transformation, confirming the necessity of independent working-class political organization. These revolutions remain a key reference point for debates on permanent revolution, class alliances, and revolutionary strategy.</p>\n"
+  },
+  {
     "slug": "absolute-surplus-value",
     "term": "Absolute Surplus-Value",
     "german": "Absoluter Mehrwert",
@@ -22,6 +41,26 @@
       "value theory"
     ],
     "body": "<p>Absolute surplus-value is the form of surplus-value produced by extending the length of the working day beyond the time necessary for the worker to reproduce the value of their labor-power. If the necessary labor time is six hours, the capitalist increases surplus-value by compelling the worker to labor for ten, twelve, or more hours, with the additional hours constituting unpaid surplus labor. Marx identifies this as the historically primary method of exploitation, characteristic of early capitalism and the period of manufacture, and traces the political struggles over the legal limitation of the working day as a central arena of class conflict. The production of absolute surplus-value corresponds to the formal subsumption of labor under capital, where the capitalist commands the labor process without yet revolutionizing its technical basis.</p>\n"
+  },
+  {
+    "slug": "absolutism",
+    "term": "Absolutism",
+    "german": "Absolutismus",
+    "source": "The Communist Manifesto; The Eighteenth Brumaire",
+    "related": [
+      "bourgeois-revolution",
+      "mode-of-production",
+      "bourgeoisie"
+    ],
+    "traditions": {
+      "classical": "Absolutism represented a transitional state form in which centralized monarchical power served the interests of the feudal aristocracy while inadvertently creating the administrative and legal preconditions for bourgeois class rule.",
+      "value-form": "Absolutism's project of territorial sovereignty and legal standardization established the formal conditions for generalized commodity exchange, prefiguring the abstract domination of value by imposing uniform measures, currency, and juridical equivalence across fragmented feudal economies."
+    },
+    "tags": [
+      "state theory",
+      "politics"
+    ],
+    "body": "<p>Absolutism denotes the centralized monarchical state form that prevailed in early modern Europe, characterized by the concentration of sovereign power, standing armies, bureaucratic administration, and mercantilist economic policy. In Marxist theory, absolutism occupies a contested transitional position between feudalism and capitalism. Marx and Engels treated it in <em>The Communist Manifesto</em> as an instrument that the rising bourgeoisie initially supported against feudal fragmentation, only to later overthrow. Perry Anderson's <em>Lineages of the Absolutist State</em> argued that absolutism was a reorganized apparatus of feudal domination designed to keep the peasantry in its traditional position, while Robert Brenner emphasized the divergent paths of Eastern and Western absolutism. The debate over whether absolutism served feudal or proto-capitalist interests remains central to Marxist state theory and the transition debate.</p>\n"
   },
   {
     "slug": "abstract-labor",
@@ -68,6 +107,42 @@
     "body": "<p>Alienation describes the estrangement of workers from the products of their labor, from the labor process itself, from their species-being (<em>Gattungswesen</em>), and from other human beings. Under capitalism, the worker&#39;s activity becomes an external, coerced force that belongs to another rather than an expression of free creative capacity. Marx developed this concept most fully in the <em>Economic and Philosophic Manuscripts of 1844</em>, identifying four dimensions of alienation that together constitute the lived experience of exploitation. The concept&#39;s status within the Marxist tradition is contested: humanist Marxists regard it as the ethical core of Marx&#39;s entire project, while Althusserians argue that the mature Marx abandoned the anthropological framework of alienation in favor of the scientific analysis of exploitation and structural determination. The concept persists in transformed form in <em>Capital</em> through categories such as commodity fetishism and the real subsumption of labor under capital, suggesting a continuity between the early and late Marx that many commentators have sought to trace.</p>\n"
   },
   {
+    "slug": "analytical-marxism",
+    "term": "Analytical Marxism",
+    "related": [
+      "historical-materialism",
+      "class-struggle",
+      "surplus-value"
+    ],
+    "traditions": {
+      "classical": "Analytical Marxism attempted to defend historical materialism's core claims about the primacy of productive forces and the reality of exploitation through rigorous formal argument, though its adoption of methodological individualism undermined the relational and historical character of class analysis.",
+      "value-form": "By translating exploitation into the language of rational choice and equilibrium theory, analytical Marxism naturalized the very commodity-form categories that Marx's critique sought to historicize, rendering value a transhistorical distributional metric rather than a specifically capitalist form of social domination."
+    },
+    "tags": [
+      "debates",
+      "theory"
+    ],
+    "body": "<p>Analytical Marxism emerged in the late 1970s and 1980s as an attempt to reconstruct Marxist theory using the methods of analytical philosophy, rational choice theory, and neoclassical economics. Associated with G.A. Cohen, Jon Elster, John Roemer, and Erik Olin Wright, the school rejected dialectical reasoning and functionalist explanation in favor of methodological individualism and rigorous logical argument. Cohen's <em>Karl Marx's Theory of History</em> defended historical materialism through analytical philosophy, while Roemer recast exploitation theory using general equilibrium models. Critics from across the Marxist spectrum charged that analytical Marxism stripped historical materialism of its dialectical core, reduced class struggle to individual rational calculation, and capitulated to bourgeois social science methodology. The movement nonetheless forced productive clarifications of Marxist concepts and sharpened debates about exploitation, class, and historical explanation.</p>\n"
+  },
+  {
+    "slug": "autonomist-marxism",
+    "term": "Autonomist Marxism",
+    "related": [
+      "class-struggle",
+      "subsumption",
+      "social-reproduction"
+    ],
+    "traditions": {
+      "classical": "Autonomism's inversion of the capital-labor relation usefully foregrounds working-class initiative but risks abandoning the objective analysis of capital's laws of motion and the disciplined party organization necessary for revolutionary transformation.",
+      "value-form": "Autonomism shares with value-form theory an emphasis on the antagonistic constitution of capitalist categories, but its focus on living labor's creative autonomy can obscure how abstract labor as a real abstraction subsumes and shapes the very subjectivity that claims to resist it."
+    },
+    "tags": [
+      "debates",
+      "theory"
+    ],
+    "body": "<p>Autonomist Marxism (operaismo and post-operaismo) originated in 1960s Italy through the work of Mario Tronti, Raniero Panzieri, and Antonio Negri, emphasizing working-class autonomy from both capital and institutional labor organizations. The tradition inverts the orthodox reading of <em>Capital</em>, placing workers' struggles rather than capital's logic as the motor of historical development. Key concepts include class composition, the social factory, immaterial labor, and the general intellect. Tronti's strategy of refusal and Negri's theorization of the multitude as a new revolutionary subject extended the analysis beyond the factory into social reproduction and cognitive capitalism. Critics argue that autonomism overstates the agency of the multitude, undertheorizes the state, and in its post-operaist phase dissolves class specificity into diffuse networked resistance. The tradition significantly influenced anti-globalization movements and contemporary platform capitalism critiques.</p>\n"
+  },
+  {
     "slug": "base-superstructure",
     "term": "Base and Superstructure",
     "german": "Basis und Uberbau",
@@ -86,6 +161,24 @@
       "social theory"
     ],
     "body": "<p>The base-superstructure model describes the relationship between the economic foundation of society (the base, comprising forces and relations of production) and the legal, political, and ideological forms that arise upon it (the superstructure). Marx argues that changes in the economic base tend to transform the superstructure, though the precise nature of this determination has been one of the most debated questions in Marxist theory. The model is best understood not as a rigid architectural metaphor but as an analytical framework for identifying the material conditions that shape and constrain social, political, and cultural life.</p>\n"
+  },
+  {
+    "slug": "bolshevik-party",
+    "term": "Bolshevik Party",
+    "related": [
+      "democratic-centralism",
+      "dictatorship-of-proletariat",
+      "class-struggle"
+    ],
+    "traditions": {
+      "classical": "The Bolshevik Party demonstrated that a disciplined vanguard organization guided by scientific socialism could lead the working class to power and begin the transition to socialism, vindicating Lenin's organizational theory against spontaneist and reformist alternatives.",
+      "value-form": "The Bolshevik seizure of state power, while abolishing private property, left intact the value-form and wage-labor relation, suggesting that political revolution without the abolition of abstract labor as a social form reproduces capitalist social relations under new management."
+    },
+    "tags": [
+      "parties",
+      "organization"
+    ],
+    "body": "<p>The Bolshevik Party, formed as a faction of the Russian Social Democratic Labour Party in 1903 and constituted as an independent party by 1912, was the organizational vehicle of the October Revolution of 1917. Under Lenin's leadership, the Bolsheviks developed the theory and practice of the vanguard party: a disciplined organization of professional revolutionaries operating under democratic centralism. The party's seizure of power and subsequent construction of a workers' state became the central reference point for twentieth-century revolutionary politics. Debates over the Bolshevik model divide Marxists sharply: Leninists defend the vanguard party as essential to overcoming trade-union consciousness, while council communists and libertarian Marxists argue that the Bolshevik form prefigured Stalinist bureaucratization. The relationship between party, class, and soviets in the revolutionary period remains one of the most contested questions in Marxist political theory.</p>\n"
   },
   {
     "slug": "bonapartism",
@@ -109,6 +202,109 @@
       "revolution"
     ],
     "body": "<p>Bonapartism designates a political form in which the executive power of the state appears to rise above contending classes and achieve independence from civil society, while in practice securing the conditions for continued capitalist accumulation. Marx developed the concept in <em>The Eighteenth Brumaire</em> to analyze Louis-Napoleon Bonaparte&#39;s 1851 coup, showing how a situation of class equilibrium — in which no class possesses the strength to impose its direct political rule — creates space for a strongman figure to seize state power with the support of declassed and politically disorganized elements. Trotsky later extended the concept to analyze fascism and military dictatorships in the twentieth century, distinguishing between Bonapartism of decay and Bonapartism in periods of capitalist ascent. The concept remains essential for analyzing authoritarian regimes that claim to stand above class conflict while enforcing the interests of capital.</p>\n"
+  },
+  {
+    "slug": "bourgeois-revolution",
+    "term": "Bourgeois Revolution",
+    "related": [
+      "bourgeoisie",
+      "mode-of-production",
+      "1848-revolutions",
+      "permanent-revolution"
+    ],
+    "traditions": {
+      "classical": "Bourgeois revolution marked the necessary political consolidation of capitalist relations of production, sweeping away feudal legal and political obstacles to the free development of commodity production, wage labor, and bourgeois property rights.",
+      "value-form": "The bourgeois revolution universalized the juridical forms of free contract and equal exchange that constitute the surface appearance of the value relation, establishing the political preconditions for abstract labor to function as the dominant form of social mediation."
+    },
+    "tags": [
+      "history",
+      "revolution"
+    ],
+    "body": "<p>Bourgeois revolution designates the political transformations through which capitalist social relations displaced feudal ones, with the English Civil War, the French Revolution, and the American Revolution serving as paradigmatic cases. Marx understood these revolutions as episodes in which the bourgeoisie overthrew the political superstructure of feudalism to bring the state into correspondence with already-developing capitalist relations of production. The concept has generated extensive debate. Political Marxists like Robert Brenner argue that capitalist social-property relations preceded and caused bourgeois political revolution, while Benno Teschke questions whether 1789 was a bourgeois revolution at all. Neil Davidson's comprehensive reassessment defends a modified version of the concept by distinguishing bourgeois revolutions from revolutions made by the bourgeoisie. Trotsky's theory of permanent revolution further complicated the concept by arguing that in late-developing countries, the bourgeoisie could not complete its own revolutionary tasks.</p>\n",
+    "consolidates": [
+      "bourgeois revolution",
+      "bourgeois-democratic revolutions",
+      "bourgeois nationalism",
+      "bourgeois parliamentarism",
+      "bourgeois public sphere",
+      "bourgeois revolution theory",
+      "bourgeois state formation",
+      "anti-feudal revolution"
+    ]
+  },
+  {
+    "slug": "bourgeoisie",
+    "term": "Bourgeoisie",
+    "german": "Bourgeoisie",
+    "source": "The Communist Manifesto",
+    "related": [
+      "surplus-value",
+      "class-struggle",
+      "relations-of-production",
+      "bourgeois-revolution"
+    ],
+    "traditions": {
+      "classical": "The bourgeoisie is the ruling class of capitalist society, whose ownership of the means of production enables the systematic extraction of surplus value from the proletariat and whose class interests are expressed through the capitalist state and its ideological apparatuses.",
+      "value-form": "The bourgeoisie is not simply a group of property owners but the personification of capital as self-valorizing value; their class power derives not from subjective will but from their structural function as agents of the impersonal domination of the value form over social life."
+    },
+    "tags": [
+      "political economy",
+      "theory"
+    ],
+    "body": "<p>The bourgeoisie is the class that owns the means of production and appropriates surplus value through the exploitation of wage labor. In <em>The Communist Manifesto</em>, Marx and Engels portrayed the bourgeoisie as a historically revolutionary class that dissolved feudal relations, created the world market, and revolutionized the forces of production, while simultaneously generating its own gravedigger in the proletariat. Marx distinguished between the industrial bourgeoisie, the commercial bourgeoisie, and the financial bourgeoisie, each with distinct interests that could produce intra-class conflict. The concept has been refined through debates on the petty bourgeoisie, the managerial stratum, and the relationship between bourgeois class power and state form. Poulantzas analyzed the bourgeoisie as a fractured class unified politically through the capitalist state, while world-systems theorists emphasize the transnational character of bourgeois class formation under imperialism.</p>\n"
+  },
+  {
+    "slug": "british-communist-party",
+    "term": "British Communist Party",
+    "related": [
+      "class-struggle",
+      "hegemony",
+      "democratic-centralism"
+    ],
+    "traditions": {
+      "classical": "The CPGB represented the organized vanguard of the British working class within the Communist International, and despite its limited size, its cadre played indispensable roles in trade union militancy, anti-fascism, and the development of Marxist historiography.",
+      "value-form": "The CPGB's trajectory from revolutionary politics to Eurocommunist accommodation illustrates the difficulty of sustaining a critique of the value form within organizational structures oriented toward the management of labor's position within, rather than against, capitalist social relations."
+    },
+    "tags": [
+      "parties",
+      "organization"
+    ],
+    "body": "<p>The Communist Party of Great Britain (CPGB), founded in 1920, was the principal organizational expression of revolutionary Marxism in Britain for most of the twentieth century. The party played significant roles in the labour movement, anti-fascist organizing, and the 1926 General Strike, while remaining a relatively small force compared to the Labour Party. Its intellectual contributions included the Historians' Group, which produced major figures such as E.P. Thompson, Eric Hobsbawm, Christopher Hill, and Rodney Hilton, who collectively transformed the practice of social history. Internal crises over the 1956 Soviet invasion of Hungary and the later Eurocommunist turn led to significant splits and defections. The party's journal <em>Marxism Today</em> became influential in theorizing Thatcherism but was criticized for abandoning class politics. The CPGB dissolved in 1991, but its intellectual legacy, particularly in historiography, remains substantial.</p>\n"
+  },
+  {
+    "slug": "brussels-communist-correspondence-committee",
+    "term": "Brussels Communist Correspondence Committee",
+    "related": [
+      "class-struggle",
+      "historical-materialism"
+    ],
+    "traditions": {
+      "classical": "The Brussels Committee was a necessary organizational precursor to the Communist League, through which Marx and Engels waged the theoretical struggle to ground the communist movement in scientific socialism rather than utopian moralism or philosophical abstraction.",
+      "value-form": "The Committee's emphasis on systematic theoretical correspondence as the basis for political organization reflects the early recognition that the critique of political economy, not merely political agitation, was the necessary foundation for understanding and opposing the social domination mediated by the value form."
+    },
+    "tags": [
+      "movements",
+      "organizations"
+    ],
+    "body": "<p>The Brussels Communist Correspondence Committee was established by Marx and Engels in 1846 to link communist groups and intellectuals across Europe through systematic political correspondence. Operating from Brussels where Marx had settled after expulsion from Paris, the committee represented a crucial organizational step between the scattered communist circles of the 1840s and the formal founding of the Communist League in 1847. The committee facilitated the ideological clarification that Marx and Engels considered essential to revolutionary practice, including the decisive break with the utopian socialism of Weitling and the philosophical communism of the True Socialists. Through its correspondence network spanning London, Paris, and various German cities, the committee functioned as a prototype of international communist organization and helped consolidate the materialist conception of history as the theoretical foundation for proletarian politics.</p>\n"
+  },
+  {
+    "slug": "chartist-agitation",
+    "term": "Chartist Agitation",
+    "related": [
+      "class-struggle",
+      "bourgeois-revolution",
+      "1848-revolutions"
+    ],
+    "traditions": {
+      "classical": "Chartism represented the first independent political movement of the proletariat, demonstrating that the working class could organize around its own demands and constituting an essential precursor to the socialist movement despite its ultimately reformist program.",
+      "value-form": "Chartism's demand for formal political equality expressed the real contradiction between the juridical freedom presupposed by the wage relation and the substantive unfreedom of proletarian life, revealing how the political forms adequate to generalized commodity exchange simultaneously generate the conditions for their contestation."
+    },
+    "tags": [
+      "movements",
+      "organizations"
+    ],
+    "body": "<p>Chartism was the first mass working-class political movement, active in Britain from roughly 1838 to 1857, organized around the People's Charter demanding universal male suffrage, secret ballot, annual parliaments, equal constituencies, payment for MPs, and abolition of property qualifications. Engels analyzed Chartism in <em>The Condition of the Working Class in England</em> as evidence that the proletariat was developing independent political consciousness, while Marx saw it as the first movement in which the working class acted as a class for itself. The movement combined political radicalism with economic grievances rooted in the factory system, and its internal tensions between moral force and physical force strategies prefigured later debates on reform and revolution. Chartism's decline after 1848 coincided with the mid-Victorian economic boom, which Marx and Engels connected to Britain's imperial position and the emergence of a labor aristocracy.</p>\n"
   },
   {
     "slug": "class-struggle",

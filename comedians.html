@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Marxist Readings of Comedy | The Marxist Tradition</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <nav class="nav-bar">
+    <a href="index.html" class="nav-brand">The Marxist Tradition</a>
+    <ul class="nav-links">
+      <li><a href="tour.html">Tour</a></li>
+      <li><a href="dictionary.html">Dictionary</a></li>
+      <li><a href="whos-who.html">Who's Who</a></li>
+      <li><a href="analyses.html">21st Century</a></li>
+      <li><a href="wonks.html">Policy Wonks</a></li>
+      <li><a href="comedians.html" class="active">Comedy</a></li>
+      <li><a href="pundits.html">Pundits</a></li>
+    </ul>
+  </nav>
+
+  <div class="container">
+    <h1 class="section-title">Marxist Readings of Comedy</h1>
+    <p class="section-subtitle">Class consciousness, ideology, and resistance in stand-up, sketch, and late night</p>
+
+    <div class="controls">
+      <input type="text" class="search-box" id="search" placeholder="Search by comedian, troupe, tag, or genre...">
+      <div class="filter-chips" id="tag-filters"></div>
+    </div>
+
+    <div id="results" class="card-grid"></div>
+  </div>
+
+  <footer class="footer">
+    A companion to <a href="https://github.com/EricRuud/capital_interpreter" style="color: var(--color-accent);">Capital RAG</a>
+  </footer>
+
+  <script src="js/comedians.js"></script>
+</body>
+</html>
