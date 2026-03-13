@@ -1,0 +1,10 @@
+---
+term: Democratic Movement
+related: [chartist-movement, democratic-association-of-brussels, german-social-democratic-party-history, working-class-movement, democratic-centralism]
+tags: [state theory, politics]
+traditions:
+  classical: "The democratic movement represents a necessary but insufficient phase of the class struggle, in which the proletariat fights alongside progressive bourgeois forces for political freedoms while preparing to transcend the limits of bourgeois democracy through the conquest of political power and the establishment of proletarian rule."
+  value-form: "Democratic demands for formal equality and freedom express real contradictions within capitalist social relations â€” the gap between the formal freedom of the wage laborer as commodity owner and the substantive unfreedom of exploitation â€” making democratic struggles simultaneously expressions of and potential challenges to the abstractions of the value-form."
+---
+
+The democratic movement in Marxist analysis refers to the broad struggles for political rights, suffrage, constitutional government, and civil liberties that characterized the revolutionary and reform movements of the eighteenth and nineteenth centuries, and which continue in various forms globally. Marx and Engels engaged strategically with democratic movements, arguing in the *Communist Manifesto* that communists support every revolutionary movement against existing social and political conditions while maintaining their independent class position. The critical Marxist question is the relationship between democratic demands and socialist revolution: whether democratic struggles are a stage to be completed before socialist transformation, a terrain of class struggle within which proletarian hegemony can be constructed, or a form of bourgeois politics that absorbs and neutralizes revolutionary energy. The democratic movement's significance shifts across historical contexts â€” from the bourgeois revolutions of 1848 to national liberation struggles, anti-authoritarian movements, and contemporary fights for democratic rights under neoliberal austerity.

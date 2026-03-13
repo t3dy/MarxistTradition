@@ -1,0 +1,10 @@
+---
+term: Cuban Revolution
+related: [chinese-revolution-of-1949, nicaraguan-revolution, february-revolution-of-1848, industrial-revolution, proletarian-revolution]
+tags: [history, revolution]
+traditions:
+  classical: "The Cuban Revolution confirmed that in semicolonial countries the tasks of national liberation and social transformation are inseparable, requiring the overthrow of both the domestic ruling class and imperialist domination, though the specific role of guerrilla warfare versus proletarian mass action remains debated."
+  value-form: "The Cuban Revolution's attempt to construct alternative social relations confronted the structural power of the value-form operating through the world market, demonstrating that the abolition of capitalist social forms requires not only national political transformation but a rupture with the global circuits of commodity production and exchange that no isolated revolution can fully achieve."
+---
+
+The Cuban Revolution of 1959, led by the 26th of July Movement under Fidel Castro, overthrew the Batista dictatorship and initiated a socialist transformation that profoundly shaped Cold War politics and Third World revolutionary movements. The revolution's trajectory â€” from a nationalist, anti-dictatorial uprising to the declaration of its socialist character in 1961 â€” provoked intense Marxist debate. Trotskyists cited Cuba as confirmation of permanent revolution, arguing that democratic tasks in semicolonial countries inevitably pass over into socialist ones. Others debated whether a guerrilla-based revolution without mass proletarian organization could genuinely constitute a workers' revolution. Cuba's radical agrarian reform, nationalization of industry, and literacy campaigns represented ambitious social transformation, while its strategic alliance with the Soviet Union and its internationalist commitments in Latin America and Africa expanded the geographic scope of anti-capitalist struggle. The revolution's endurance under decades of US embargo continues to provoke debate about the resilience and limits of peripheral socialism.

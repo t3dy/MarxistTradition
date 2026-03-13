@@ -1,0 +1,10 @@
+---
+term: Eco-marxism
+related: [structural-marxism, western-marxism, orthodox-marxism, humanist-marxism, autonomist-marxism]
+tags: [debates, theory]
+traditions:
+  classical: "Eco-Marxism demonstrates that capitalism's drive to expand surplus value extraction systematically undermines the natural conditions of production, creating an ecological crisis that, like the economic crisis, is rooted in the fundamental contradiction between the social character of production and the private appropriation of nature for profit."
+  value-form: "The ecological crisis reveals a constitutive blind spot of the value-form: because value measures only abstract labor time and is indifferent to the material qualities of use-values and natural conditions, the logic of valorization systematically externalizes and destroys the ecological basis of social reproduction, exposing the irrationality of a social form that cannot register nature except as a free gift or a cost to be minimized."
+---
+
+Eco-Marxism designates a body of theory that integrates ecological analysis with Marxist critique of capitalism, arguing that environmental destruction is not an accidental byproduct but a structural feature of capitalist accumulation. Key contributions include Marx's own concept of metabolic rift â€” the disruption of the material interchange between humanity and nature caused by capitalist agriculture â€” as recovered and developed by John Bellamy Foster. James O'Connor theorized the "second contradiction of capitalism" between the forces of production and the conditions of production, including natural conditions. Jason W. Moore's "world-ecology" framework rejects the dualism of nature and society, analyzing capitalism as a way of organizing nature. Andreas Malm has historicized fossil capitalism as a specific energy regime tied to the imperatives of capital accumulation. Debates within eco-Marxism concern whether Marx's own framework is adequate to ecological analysis, the relationship between value theory and ecological limits, and the political implications for ecosocialist strategy and degrowth.

@@ -1,0 +1,10 @@
+---
+term: Democratic Association of Brussels
+related: [german-social-democratic-party-history, chartist-association, international-working-mens-association, democratic-movement, democratic-centralism]
+tags: [movements, organizations]
+traditions:
+  classical: "The Democratic Association demonstrated Marx's strategic orientation of working within democratic alliances while maintaining the organizational and theoretical independence of the communist movement, prefiguring later debates about united front tactics and the relationship between democratic and socialist demands."
+  value-form: "The Association's coalition of democratic and communist forces reflected a period when the capitalist value-form had not yet fully subordinated social life, and the political struggle against feudal and absolutist remnants remained a necessary precondition for the full development of the capital-labor antagonism that would later become the central axis of revolutionary politics."
+---
+
+The Democratic Association of Brussels (Association DÃ©mocratique de Bruxelles), founded in 1847, was an internationalist political organization that brought together radical democrats, socialists, and communists, including Marx, who served as its vice-president. The Association exemplified the pre-1848 period of revolutionary ferment in which the boundaries between radical democratic and communist politics were actively contested and negotiated. Marx used the organization as a platform to build alliances between the nascent communist movement and broader democratic forces, while maintaining the independent political position of the working class. The Association held public meetings, organized banquets, and issued declarations of solidarity with democratic movements across Europe. Its significance for Marxist theory lies in the practical experience of united front politics and the strategic question of how communists relate to bourgeois democratic movements â€” a question that would recur throughout the history of the revolutionary left.
