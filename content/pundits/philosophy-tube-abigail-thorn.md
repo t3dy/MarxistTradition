@@ -3,10 +3,10 @@ title: "Philosophy Tube (Abigail Thorn)"
 platform: "YouTube"
 tags: [left, philosophy, performance]
 traditions:
-  classical: "TODO"
-  structuralist: "TODO"
+  classical: "Philosophy Tube represents the most ambitious attempt to translate Marxist and critical theory into the commodity form of YouTube content. Thorn's theatrical production values transform philosophical analysis into spectacle, raising the question of whether ideas can survive their commodification or whether the medium necessarily domesticates the critique."
+  structuralist: "Thorn's work occupies a contradictory position within the ideological field: deploying the apparatus of platform capitalism — production values, algorithmic optimisation, parasocial engagement — to disseminate ideas that critique those very structures. The theatricality functions as a Brechtian device within a medium that typically rewards identification over estrangement."
 ---
 
-<!-- Note: Marxist philosophy as YouTube content; the theatricality of ideas; transition as political and personal liberation -->
+Philosophy Tube, created by Abigail Thorn, represents perhaps the most theoretically sophisticated attempt to translate critical philosophy into YouTube content. The channel's evolution — from straightforward lecture format to elaborate theatrical productions featuring costumes, sets, and narrative structures — mirrors an increasing engagement with the question of how ideas relate to their mode of presentation. Episodes on housing, the National Health Service, and labour draw explicitly on Marx, Gramsci, and Althusser, deploying these frameworks to analyse contemporary British politics. The production values themselves become an argument about the relationship between form and content in political communication.
 
-<!-- TODO: Write body -->
+Thorn's public transition added a dimension that her philosophical work had already theorised: the relationship between personal liberation and structural transformation. The channel's treatment of identity operates within a framework that refuses to separate questions of gender from questions of political economy, insisting that bodily autonomy and economic justice are aspects of the same emancipatory project. The contradictions of this position — that it requires platform capitalism's infrastructure to reach its audience, that its production costs demand the very monetisation structures it critiques — are not concealed but incorporated into the work as productive tensions. Philosophy Tube thus functions as an ongoing experiment in whether critical theory can survive its translation into the commodity form of online content, or whether the medium inevitably neutralises the critique.
